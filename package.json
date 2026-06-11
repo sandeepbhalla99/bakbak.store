@@ -1,0 +1,17 @@
+{
+  "name": "bakbak.store",
+  "version": "1.0.0",
+  "description": "Bakbak.store Readers' Club web application.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y http-server -p 3000",
+    "dev": "npx -y http-server -p 3000"
+  },
+  "keywords": [
+    "readers-club",
+    "book-club",
+    "reader"
+  ],
+  "author": "",
+  "license": "ISC"
+}

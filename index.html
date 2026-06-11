@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bakbak.store | The Ultimate Readers' Club & Community</title>
+  <meta name="description" content="Join Bakbak.store - A premium readers' club to read open classics, manage your digital bookshelf, track reading stats, and debate books in active discussion rooms.">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📚</text></svg>">
+</head>
+<body>
+
+  <!-- Premium Sticky Header -->
+  <header>
+    <div class="logo" id="header-logo">
+      📚 Bakbak<span>.store</span>
+    </div>
+    
+    <nav id="main-nav">
+      <a data-view="home" class="active">Home</a>
+      <a data-view="catalog">Catalog</a>
+      <a data-view="community">Bakbak Room</a>
+      <a data-view="shelf" id="nav-shelf" style="display: none;">My Shelf</a>
+    </nav>
+
+    <div class="auth-btn-container" id="auth-header-container">
+      <button class="btn btn-secondary btn-sm" id="header-login-btn">Sign In</button>
+      <button class="btn btn-primary btn-sm" id="header-signup-btn">Join Club</button>
+    </div>
+  </header>
+
+  <!-- Main Views Container -->
+  <main>
+
+    <!-- 1. HOME VIEW -->
+    <section id="view-home" class="view-section active">
+      <div class="home-hero">
+        <div class="hero-text">
+          <h1>Chat, Read & Share in the <mark>Readers' Club</mark></h1>
+          <p>Welcome to Bakbak.store. Discover classics, track your reading milestone by milestone, and chat in real-time with bookworms around the globe.</p>
+          <div class="search-bar-hero">
+            <input type="text" placeholder="Search classics, fiction, sci-fi..." id="hero-search-input">
+            <button id="hero-search-btn">Search</button>
+          </div>
+        </div>
+        <div class="hero-showcase">
+          <div class="book-stack">
+            <div class="stack-card" style="background-image: linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%);"></div>
+            <div class="stack-card" style="background-image: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%);"></div>
+            <div class="stack-card" style="background-image: linear-gradient(135deg, #ec4899 0%, #be185d 100%);"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Stats Banner -->
+      <div class="stats-banner glass">
+        <div class="stat-item">
+          <h3 id="stat-books-read">4</h3>
+          <p>Curated Classics</p>
+        </div>
+        <div class="stat-item">
+          <h3 id="stat-active-readers">1,248</h3>
+          <p>Club Members</p>
+        </div>
+        <div class="stat-item">
+          <h3 id="stat-pages-read">9,831</h3>
+          <p>Pages Flipped</p>
+        </div>
+        <div class="stat-item">
+          <h3 id="stat-discussions">32</h3>
+          <p>Daily Bakbaks</p>
+        </div>
+      </div>
+
+      <!-- Featured Catalog Showcase -->
+      <div class="section-header">
+        <h2>Trending Books</h2>
+        <button class="btn btn-secondary btn-sm" id="view-all-trending-btn">View All</button>
+      </div>
+      <div class="featured-books" id="featured-books-list">
+        <!-- Rendered dynamically -->
+      </div>
+    </section>
+
+    <!-- 2. CATALOG VIEW -->
+    <section id="view-catalog" class="view-section">
+      <div class="catalog-container">
+        
+        <!-- Filter Sidebar -->
+        <aside class="filter-sidebar glass">
+          <div class="filter-group">
+            <h4>Categories</h4>
+            <button class="genre-filter-btn active" data-genre="all">All Genres</button>
+            <button class="genre-filter-btn" data-genre="Classics">Classics</button>
+            <button class="genre-filter-btn" data-genre="Sci-Fi">Sci-Fi</button>
+            <button class="genre-filter-btn" data-genre="Mystery">Mystery</button>
+          </div>
+        </aside>
+
+        <!-- Main Catalog Panel -->
+        <div class="catalog-main">
+          <div class="catalog-search-row">
+            <input type="text" placeholder="Search by title, author, or keyword..." id="catalog-search-input">
+          </div>
+          
+          <div class="books-grid" id="catalog-books-list">
+            <!-- Rendered dynamically -->
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- 3. E-READER VIEW -->
+    <section id="view-reader" class="view-section">
+      <div class="reader-container theme-sepia" id="reader-view-container">
+        
+        <!-- Reader Navigation Bar -->
+        <div class="reader-navbar">
+          <button class="btn btn-secondary btn-sm" id="reader-close-btn">← Close Book</button>
+          <div class="reader-title-info">
+            <h3>Book Title</h3>
+            <span>Author Name</span>
+          </div>
+          <div class="reader-controls">
+            <!-- Font sizing controls -->
+            <div class="control-btn-group">
+              <button class="reader-ctrl-btn" id="reader-font-minus" title="Decrease size">A-</button>
+              <button class="reader-ctrl-btn" id="reader-font-plus" title="Increase size">A+</button>
+            </div>
+            <!-- Theme selectors -->
+            <div class="control-btn-group">
+              <button class="reader-ctrl-btn" data-reader-theme="light" title="Light Theme">Light</button>
+              <button class="reader-ctrl-btn" data-reader-theme="sepia" title="Sepia Theme">Sepia</button>
+              <button class="reader-ctrl-btn" data-reader-theme="dark" title="Dark Theme">Dark</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- E-Reader Main Grid (Left Arrow, Text Body, Right Arrow + Notebook Sidebar) -->
+        <div class="reader-workspace" style="grid-template-columns: 80px 1fr 320px; align-items: start; height: 100%; overflow: hidden;">
+          
+          <!-- Prev Arrow -->
+          <button class="reader-nav-arrow" id="reader-prev-btn" title="Previous Chapter" style="height: 100%;">‹</button>
+          
+          <!-- E-Reader Text Screen -->
+          <div class="reader-body-wrapper">
+            <div class="reader-text-container reader-text-body">
+              <!-- Content rendered dynamically -->
+            </div>
+            <div class="reader-progress-footer">
+              <span id="reader-chapter-num">Chapter 1 of 5</span>
+              <div class="shelf-progress-bar" style="width: 200px; margin: 0 16px;">
+                <div class="shelf-progress-fill" id="reader-progress-fill"></div>
+              </div>
+              <span id="reader-progress-pct">0% Read</span>
+            </div>
+          </div>
+
+          <!-- Interactive Notebook Sidebar -->
+          <div class="reader-notebook-sidebar glass" style="margin: 20px; padding: 20px; display: flex; flex-direction: column; gap: 14px; height: calc(100% - 40px); overflow: hidden;">
+            <h4 style="color: var(--secondary); font-size: 1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">Reader Notes</h4>
+            <p style="font-size: 0.8rem; color: var(--text-muted); line-height: 1.3;">Take notes for this chapter. They will automatically save to your bookshelf.</p>
+            <textarea id="reader-notes-textarea" placeholder="Start typing your thoughts, quotes, or vocabulary notes here..." style="flex: 1; background: rgba(0,0,0,0.15); border: 1px solid var(--border-color); border-radius: var(--radius-sm); padding: 10px; font-family: var(--font-ui); color: inherit; font-size: 0.85rem; resize: none; outline: none; transition: border-color 0.2s;"></textarea>
+          </div>
+          
+          <!-- Next Arrow (placed overlay style or relative layout) -->
+          <button class="reader-nav-arrow" id="reader-next-btn" title="Next Chapter" style="position: absolute; right: 320px; top: 0; bottom: 0; width: 80px;">›</button>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- 4. COMMUNITY / BAKBAK ROOM VIEW -->
+    <section id="view-community" class="view-section">
+      <div class="community-container">
+        
+        <!-- Channels Sidebar -->
+        <aside class="comm-sidebar glass">
+          <div class="comm-title">Bakbak Room</div>
+          <div class="comm-channel-list" id="community-channels-list">
+            <!-- Channels render dynamically -->
+          </div>
+        </aside>
+
+        <!-- Dynamic Chat Window -->
+        <div class="chat-box-container glass">
+          <div class="chat-header">
+            <h3 id="chat-active-channel-name">#general-chat</h3>
+            <span id="chat-active-channel-desc">Chat about books and reading habits.</span>
+          </div>
+          
+          <!-- Chat Feed -->
+          <div class="chat-messages" id="chat-messages-container">
+            <!-- Messages render dynamically -->
+          </div>
+          
+          <!-- Chat Action Row -->
+          <div class="chat-input-row">
+            <input type="text" placeholder="Type a message... (Press Enter to send)" id="chat-message-input">
+            <button class="btn btn-primary btn-sm" id="chat-send-btn">Send</button>
+          </div>
+        </div>
+
+        <!-- Book Reviews Dashboard Panel -->
+        <aside class="comm-reviews-panel glass">
+          <div class="reviews-header">Recent Reviews</div>
+          
+          <!-- Reviews list container -->
+          <div style="flex: 1; overflow-y: auto; display: flex; flex-direction: column; gap: 14px;" id="community-reviews-list">
+            <!-- Reviews render dynamically -->
+          </div>
+
+          <button class="btn btn-accent btn-sm add-review-btn" id="comm-write-review-btn">Write a Review</button>
+        </aside>
+
+      </div>
+    </section>
+
+    <!-- 5. MY SHELF & PROFILE VIEW -->
+    <section id="view-shelf" class="view-section">
+      <div class="profile-container">
+        
+        <!-- User Profile Card -->
+        <div class="profile-card glass">
+          <div class="profile-avatar-large" id="profile-avatar">U</div>
+          <h3 class="profile-name" id="profile-display-name">Username</h3>
+          <p class="profile-email" id="profile-display-email">user@email.com</p>
+          
+          <!-- Stats Grid -->
+          <div class="profile-stats-grid">
+            <div class="profile-stat-box glass">
+              <h4 id="profile-stat-streak">5</h4>
+              <p>Day Streak</p>
+            </div>
+            <div class="profile-stat-box glass">
+              <h4 id="profile-stat-reading">2</h4>
+              <p>Reading</p>
+            </div>
+            <div class="profile-stat-box glass">
+              <h4 id="profile-stat-completed">1</h4>
+              <p>Completed</p>
+            </div>
+            <div class="profile-stat-box glass">
+              <h4 id="profile-stat-wish">1</h4>
+              <p>To Read</p>
+            </div>
+          </div>
+
+          <div class="profile-joined" id="profile-joined-date">Joined June 2026</div>
+          <button class="btn btn-secondary btn-sm" style="margin-top: 30px; width: 100%;" id="profile-logout-btn">Log Out</button>
+        </div>
+
+        <!-- Bookshelf list -->
+        <div style="display: flex; flex-direction: column; gap: 24px;">
+          <div class="shelf-header">
+            <h2>My Bookshelf</h2>
+            <div class="shelf-tabs">
+              <button class="shelf-tab active" data-shelf-tab="all">All Books</button>
+              <button class="shelf-tab" data-shelf-tab="reading">Currently Reading</button>
+              <button class="shelf-tab" data-shelf-tab="want-to-read">Plan to Read</button>
+              <button class="shelf-tab" data-shelf-tab="completed">Completed</button>
+            </div>
+          </div>
+
+          <div class="shelf-grid" id="shelf-books-list">
+            <!-- Bookshelf items render dynamically -->
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ==================== MODALS ==================== -->
+
+  <!-- 1. Authentication Modal -->
+  <div class="modal-overlay" id="auth-modal">
+    <div class="modal-content glass">
+      <button class="close-modal-btn" id="close-auth-modal-btn">×</button>
+      
+      <!-- Login View -->
+      <form class="modal-form" id="login-form">
+        <h2>Welcome Back</h2>
+        <p>Log in to access your bookshelf and notes.</p>
+        
+        <div class="form-group">
+          <label for="login-email">Email Address</label>
+          <input type="email" id="login-email" required placeholder="name@domain.com">
+        </div>
+        
+        <div class="form-group">
+          <label for="login-password">Password</label>
+          <input type="password" id="login-password" required placeholder="••••••••">
+        </div>
+
+        <div id="login-error-msg" style="color: var(--accent); font-size: 0.85rem; text-align: center; display: none;"></div>
+
+        <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Sign In</button>
+        
+        <div class="modal-form-switch">
+          Don't have an account? <span id="switch-to-register">Join the Club</span>
+        </div>
+      </form>
+
+      <!-- Register View (Hidden by default) -->
+      <form class="modal-form" id="register-form" style="display: none;">
+        <h2>Create Account</h2>
+        <p>Join the Bakbak Readers' Club today.</p>
+        
+        <div class="form-group">
+          <label for="register-name">Club Username</label>
+          <input type="text" id="register-name" required placeholder="e.g. BookLover">
+        </div>
+
+        <div class="form-group">
+          <label for="register-email">Email Address</label>
+          <input type="email" id="register-email" required placeholder="name@domain.com">
+        </div>
+        
+        <div class="form-group">
+          <label for="register-password">Password</label>
+          <input type="password" id="register-password" required placeholder="••••••••">
+        </div>
+
+        <div id="register-error-msg" style="color: var(--accent); font-size: 0.85rem; text-align: center; display: none;"></div>
+
+        <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Register Account</button>
+        
+        <div class="modal-form-switch">
+          Already a member? <span id="switch-to-login">Sign In</span>
+        </div>
+      </form>
+
+    </div>
+  </div>
+
+  <!-- 2. Book Detail Preview Modal -->
+  <div class="modal-overlay" id="book-preview-modal">
+    <div class="modal-content glass">
+      <button class="close-modal-btn" id="close-preview-modal-btn">×</button>
+      
+      <div class="book-details-layout" id="book-preview-layout">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. Write Review Modal -->
+  <div class="modal-overlay" id="review-modal">
+    <div class="modal-content glass">
+      <button class="close-modal-btn" id="close-review-modal-btn">×</button>
+      
+      <form class="modal-form" id="write-review-form">
+        <h2>Write a Book Review</h2>
+        <p>Share your honest thoughts with the community.</p>
+
+        <div class="form-group">
+          <label for="review-book-select">Select Book</label>
+          <select id="review-book-select" required>
+            <!-- Loaded dynamically -->
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label>Rating</label>
+          <div class="rating-input" id="star-rating-input">
+            <span data-star="1">★</span>
+            <span data-star="2">★</span>
+            <span data-star="3">★</span>
+            <span data-star="4">★</span>
+            <span data-star="5">★</span>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="review-comment-textarea">Your Review</label>
+          <textarea id="review-comment-textarea" rows="4" required placeholder="What did you like or dislike? How was the writing style..."></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-accent" style="margin-top: 10px;">Submit Review</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Javascript entry script as modules -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
