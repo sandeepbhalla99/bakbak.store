@@ -1,3 +1,0 @@
-# CHAPTER II. Strong Temptations—Strategic Movements—The Innocents
-
-Beguiled

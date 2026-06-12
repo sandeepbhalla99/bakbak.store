@@ -1,0 +1,246 @@
+{
+  "id": "thus-spake-zarathustra",
+  "title": "Thus Spake Zarathustra",
+  "author": "Friedrich Nietzsche",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+  "description": "A classic masterpiece by Friedrich Nietzsche. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Chapter LVII.). For the present let it suffice for us to know that he",
+      "file": "02_Chapter_LVII____For_the_presen.md"
+    },
+    {
+      "title": "Chapter I. The Three Metamorphoses.",
+      "file": "03_Chapter_I__The_Three_Metamorph.md"
+    },
+    {
+      "title": "Chapter II. The Academic Chairs of Virtue.",
+      "file": "04_Chapter_II__The_Academic_Chair.md"
+    },
+    {
+      "title": "Chapter IV. The Despisers of the Body.",
+      "file": "05_Chapter_IV__The_Despisers_of_t.md"
+    },
+    {
+      "title": "Chapter IX. The Preachers of Death.",
+      "file": "06_Chapter_IX__The_Preachers_of_D.md"
+    },
+    {
+      "title": "Chapter XV. The Thousand and One Goals.",
+      "file": "07_Chapter_XV__The_Thousand_and_O.md"
+    },
+    {
+      "title": "Chapter XVIII. Old and Young Women.",
+      "file": "08_Chapter_XVIII__Old_and_Young_W.md"
+    },
+    {
+      "title": "Chapter XXI. Voluntary Death.",
+      "file": "09_Chapter_XXI__Voluntary_Death.md"
+    },
+    {
+      "title": "Chapter XXII. The Bestowing Virtue.",
+      "file": "10_Chapter_XXII__The_Bestowing_Vi.md"
+    },
+    {
+      "title": "Chapter XXIII. The Child with the Mirror.",
+      "file": "11_Chapter_XXIII__The_Child_with.md"
+    },
+    {
+      "title": "Chapter XXIV. In the Happy Isles.",
+      "file": "12_Chapter_XXIV__In_the_Happy_Isl.md"
+    },
+    {
+      "title": "Chapter XXIX. The Tarantulas.",
+      "file": "13_Chapter_XXIX__The_Tarantulas.md"
+    },
+    {
+      "title": "Chapter XXX. The Famous Wise Ones.",
+      "file": "14_Chapter_XXX__The_Famous_Wise_O.md"
+    },
+    {
+      "title": "Chapter XXXIII. The Grave-Song.",
+      "file": "15_Chapter_XXXIII__The_Grave_Song.md"
+    },
+    {
+      "title": "Chapter XXXIV. Self-Surpassing.",
+      "file": "16_Chapter_XXXIV__Self_Surpassing.md"
+    },
+    {
+      "title": "Chapter XXXV. The Sublime Ones.",
+      "file": "17_Chapter_XXXV__The_Sublime_Ones.md"
+    },
+    {
+      "title": "Chapter XXXVI. The Land of Culture.",
+      "file": "18_Chapter_XXXVI__The_Land_of_Cul.md"
+    },
+    {
+      "title": "Chapter XXXVII. Immaculate Perception.",
+      "file": "19_Chapter_XXXVII__Immaculate_Per.md"
+    },
+    {
+      "title": "Chapter XXXVIII. Scholars.",
+      "file": "20_Chapter_XXXVIII__Scholars.md"
+    },
+    {
+      "title": "Chapter XXXIX. Poets.",
+      "file": "21_Chapter_XXXIX__Poets.md"
+    },
+    {
+      "title": "Chapter LXIII., pars. 16, 17, 18, 19, 20).",
+      "file": "22_Chapter_LXIII___pars__16__17.md"
+    },
+    {
+      "title": "Chapter XL. Great Events.",
+      "file": "23_Chapter_XL__Great_Events.md"
+    },
+    {
+      "title": "Chapter XLI. The Soothsayer.",
+      "file": "24_Chapter_XLI__The_Soothsayer.md"
+    },
+    {
+      "title": "Chapter XLII. Redemption.",
+      "file": "25_Chapter_XLII__Redemption.md"
+    },
+    {
+      "title": "Chapter XLIII. Manly Prudence.",
+      "file": "26_Chapter_XLIII__Manly_Prudence.md"
+    },
+    {
+      "title": "Chapter XLIV. The Stillest Hour.",
+      "file": "27_Chapter_XLIV__The_Stillest_Hou.md"
+    },
+    {
+      "title": "Chapter XLVI. The Vision and the Enigma.",
+      "file": "28_Chapter_XLVI__The_Vision_and_t.md"
+    },
+    {
+      "title": "Chapter XLVII. Involuntary Bliss.",
+      "file": "29_Chapter_XLVII__Involuntary_Bli.md"
+    },
+    {
+      "title": "Chapter XLVIII. Before Sunrise.",
+      "file": "30_Chapter_XLVIII__Before_Sunrise.md"
+    },
+    {
+      "title": "Chapter XLIX. The Bedwarfing Virtue.",
+      "file": "31_Chapter_XLIX__The_Bedwarfing_V.md"
+    },
+    {
+      "title": "Chapter LI. On Passing-by.",
+      "file": "32_Chapter_LI__On_Passing_by.md"
+    },
+    {
+      "title": "Chapter LII. The Apostates.",
+      "file": "33_Chapter_LII__The_Apostates.md"
+    },
+    {
+      "title": "Chapter LIII. The Return Home.",
+      "file": "34_Chapter_LIII__The_Return_Home.md"
+    },
+    {
+      "title": "Chapter LIV. The Three Evil Things.",
+      "file": "35_Chapter_LIV__The_Three_Evil_Th.md"
+    },
+    {
+      "title": "Chapter LV. The Spirit of Gravity.",
+      "file": "36_Chapter_LV__The_Spirit_of_Grav.md"
+    },
+    {
+      "title": "Chapter LVI. Old and New Tables. Par. 2.",
+      "file": "37_Chapter_LVI__Old_and_New_Table.md"
+    },
+    {
+      "title": "Chapter LVII. The Convalescent.",
+      "file": "38_Chapter_LVII__The_Convalescent.md"
+    },
+    {
+      "title": "Chapter LX. The Seven Seals.",
+      "file": "39_Chapter_LX__The_Seven_Seals.md"
+    },
+    {
+      "title": "Chapter LXI. The Honey Sacrifice.",
+      "file": "40_Chapter_LXI__The_Honey_Sacrifi.md"
+    },
+    {
+      "title": "Chapter LXII. The Cry of Distress.",
+      "file": "41_Chapter_LXII__The_Cry_of_Distr.md"
+    },
+    {
+      "title": "Chapter LXIII. Talk with the Kings.",
+      "file": "42_Chapter_LXIII__Talk_with_the_K.md"
+    },
+    {
+      "title": "Chapter LXIV. The Leech.",
+      "file": "43_Chapter_LXIV__The_Leech.md"
+    },
+    {
+      "title": "Chapter LXV. The Magician.",
+      "file": "44_Chapter_LXV__The_Magician.md"
+    },
+    {
+      "title": "Chapter LXVI. Out of Service.",
+      "file": "45_Chapter_LXVI__Out_of_Service.md"
+    },
+    {
+      "title": "Chapter LXVII. The Ugliest Man.",
+      "file": "46_Chapter_LXVII__The_Ugliest_Man.md"
+    },
+    {
+      "title": "Chapter LXVIII. The Voluntary Beggar.",
+      "file": "47_Chapter_LXVIII__The_Voluntary.md"
+    },
+    {
+      "title": "Chapter LXIX. The Shadow.",
+      "file": "48_Chapter_LXIX__The_Shadow.md"
+    },
+    {
+      "title": "Chapter LXX. Noontide.",
+      "file": "49_Chapter_LXX__Noontide.md"
+    },
+    {
+      "title": "Chapter LXXI. The Greeting.",
+      "file": "50_Chapter_LXXI__The_Greeting.md"
+    },
+    {
+      "title": "Chapter LXXII. The Supper.",
+      "file": "51_Chapter_LXXII__The_Supper.md"
+    },
+    {
+      "title": "Chapter LXXIII. The Higher Man. Par. 1.",
+      "file": "52_Chapter_LXXIII__The_Higher_Man.md"
+    },
+    {
+      "title": "Chapter LXXIV. The Song of Melancholy.",
+      "file": "53_Chapter_LXXIV__The_Song_of_Mel.md"
+    },
+    {
+      "title": "Chapter LXXV. Science.",
+      "file": "54_Chapter_LXXV__Science.md"
+    },
+    {
+      "title": "Chapter LXXVI. Among the Daughters of the Desert.",
+      "file": "55_Chapter_LXXVI__Among_the_Daugh.md"
+    },
+    {
+      "title": "Chapter LXXVII. The Awakening.",
+      "file": "56_Chapter_LXXVII__The_Awakening.md"
+    },
+    {
+      "title": "Chapter LXXVIII. The Ass-Festival.",
+      "file": "57_Chapter_LXXVIII__The_Ass_Festi.md"
+    },
+    {
+      "title": "Chapter LXXIX. The Drunken Song.",
+      "file": "58_Chapter_LXXIX__The_Drunken_Son.md"
+    },
+    {
+      "title": "Chapter LXXX. The Sign.",
+      "file": "59_Chapter_LXXX__The_Sign.md"
+    }
+  ]
+}

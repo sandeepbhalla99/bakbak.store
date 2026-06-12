@@ -74,7 +74,59 @@ def strip_gutenberg_wrappers(text):
     
     return text[start_idx:end_idx].strip()
 
+BOOK_METADATA = {
+    "11": {"title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll", "genre": "Classics"},
+    "43": {"title": "The Strange Case of Dr. Jekyll and Mr. Hyde", "author": "Robert Louis Stevenson", "genre": "Classics"},
+    "74": {"title": "The Adventures of Tom Sawyer", "author": "Mark Twain", "genre": "Classics"},
+    "76": {"title": "Adventures of Huckleberry Finn", "author": "Mark Twain", "genre": "Classics"},
+    "84": {"title": "Frankenstein", "author": "Mary Shelley", "genre": "Classics"},
+    "98": {"title": "A Tale of Two Cities", "author": "Charles Dickens", "genre": "Classics"},
+    "120": {"title": "Treasure Island", "author": "Robert Louis Stevenson", "genre": "Classics"},
+    "145": {"title": "Middlemarch", "author": "George Eliot", "genre": "Classics"},
+    "161": {"title": "Sense and Sensibility", "author": "Jane Austen", "genre": "Classics"},
+    "174": {"title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "genre": "Classics"},
+    "345": {"title": "Dracula", "author": "Bram Stoker", "genre": "Classics"},
+    "394": {"title": "Cranford", "author": "Elizabeth Gaskell", "genre": "Classics"},
+    "768": {"title": "Wuthering Heights", "author": "Emily Brontë", "genre": "Classics"},
+    "1184": {"title": "The Count of Monte Cristo", "author": "Alexandre Dumas", "genre": "Classics"},
+    "1259": {"title": "Twenty Years After", "author": "Alexandre Dumas", "genre": "Classics"},
+    "1260": {"title": "Jane Eyre", "author": "Charlotte Brontë", "genre": "Classics"},
+    "1342": {"title": "Pride and Prejudice", "author": "Jane Austen", "genre": "Classics"},
+    "1513": {"title": "Romeo and Juliet", "author": "William Shakespeare", "genre": "Classics"},
+    "1661": {"title": "The Adventures of Sherlock Holmes", "author": "Arthur Conan Doyle", "genre": "Mystery"},
+    "1727": {"title": "The Odyssey", "author": "Homer", "genre": "Classics"},
+    "1998": {"title": "Thus Spake Zarathustra", "author": "Friedrich Nietzsche", "genre": "Classics"},
+    "2160": {"title": "The Expedition of Humphry Clinker", "author": "Tobias Smollett", "genre": "Classics"},
+    "21839": {"title": "Sense and Sensibility", "author": "Jane Austen", "genre": "Classics"},
+    "23784": {"title": "The History of Sir Richard Calmady", "author": "Lucas Malet", "genre": "Classics"},
+    "2542": {"title": "A Doll's House", "author": "Henrik Ibsen", "genre": "Classics"},
+    "2554": {"title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "genre": "Classics"},
+    "2641": {"title": "A Room with a View", "author": "E. M. Forster", "genre": "Classics"},
+    "2680": {"title": "Meditations", "author": "Marcus Aurelius", "genre": "Classics"},
+    "2701": {"title": "Moby-Dick", "author": "Herman Melville", "genre": "Classics"},
+    "2852": {"title": "The Hound of the Baskervilles", "author": "Arthur Conan Doyle", "genre": "Mystery"},
+    "3296": {"title": "The Confessions of St. Augustine", "author": "Saint Augustine", "genre": "Classics"},
+    "4085": {"title": "The Adventures of Roderick Random", "author": "Tobias Smollett", "genre": "Classics"},
+    "6593": {"title": "The History of Tom Jones, a Foundling", "author": "Henry Fielding", "genre": "Classics"},
+    "6761": {"title": "The Adventures of Ferdinand Count Fathom", "author": "Tobias Smollett", "genre": "Classics"},
+    "8492": {"title": "The King in Yellow", "author": "Robert W. Chambers", "genre": "Classics"},
+    "16389": {"title": "The Enchanted April", "author": "Elizabeth von Arnim", "genre": "Classics"},
+    "28054": {"title": "The Brothers Karamazov", "author": "Fyodor Dostoevsky", "genre": "Classics"},
+    "37106": {"title": "Little Women", "author": "Louisa May Alcott", "genre": "Classics"},
+    "64317": {"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "genre": "Classics"},
+    "65661": {"title": "Der Zauberberg (The Magic Mountain)", "author": "Thomas Mann", "genre": "Classics"},
+    "67979": {"title": "The Blue Castle", "author": "L. M. Montgomery", "genre": "Classics"}
+}
+
 def parse_metadata(text, filename):
+    # Try finding the Gutenberg ID in our mapping
+    parts = filename.split('_', 1)
+    gutenberg_id = parts[0]
+    
+    if gutenberg_id in BOOK_METADATA:
+        meta = BOOK_METADATA[gutenberg_id]
+        return meta["title"], meta["author"]
+
     title = ""
     author = ""
     
@@ -379,7 +431,12 @@ def main():
             chapters = split_into_chapters(body)
             
             book_id = clean_id(title)
-            genre = get_genre_for_book(title)
+            parts = filename.split('_', 1)
+            gutenberg_id = parts[0]
+            if gutenberg_id in BOOK_METADATA:
+                genre = BOOK_METADATA[gutenberg_id]["genre"]
+            else:
+                genre = get_genre_for_book(title)
             
             save_book(book_id, title, author, genre, chapters)
             

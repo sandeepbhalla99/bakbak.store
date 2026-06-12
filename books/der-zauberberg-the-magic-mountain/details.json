@@ -1,10 +1,10 @@
 {
-  "id": "the-expedition-of-humphry-clinker",
-  "title": "The Expedition of Humphry Clinker",
-  "author": "Tobias Smollett",
+  "id": "der-zauberberg-the-magic-mountain",
+  "title": "Der Zauberberg (The Magic Mountain)",
+  "author": "Thomas Mann",
   "genre": "Classics",
-  "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
-  "description": "A classic masterpiece by Tobias Smollett. Read this Project Gutenberg edition on Bakbak.store.",
+  "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+  "description": "A classic masterpiece by Thomas Mann. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
       "title": "Section 1",

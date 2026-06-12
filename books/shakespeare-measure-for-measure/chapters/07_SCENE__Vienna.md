@@ -1,2 +1,0 @@
-# SCENE: Vienna
-

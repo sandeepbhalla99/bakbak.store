@@ -1,3 +1,0 @@
-# Introduction
-
-THE PASSIONATE PILGRIM

@@ -1,10 +1,10 @@
 {
   "id": "romeo-and-juliet",
   "title": "Romeo and Juliet",
-  "author": "Project Gutenberg",
+  "author": "William Shakespeare",
   "genre": "Classics",
   "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
-  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
       "title": "Introduction",

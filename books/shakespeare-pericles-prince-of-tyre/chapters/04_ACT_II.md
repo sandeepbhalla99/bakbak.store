@@ -1,3 +1,0 @@
-# ACT II
-
-Chorus. Chorus

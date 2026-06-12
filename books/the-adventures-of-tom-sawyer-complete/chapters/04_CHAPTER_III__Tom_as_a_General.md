@@ -1,3 +1,0 @@
-# CHAPTER III. Tom as a General—Triumph and Reward—Dismal
-
-Felicity—Commission and Omission

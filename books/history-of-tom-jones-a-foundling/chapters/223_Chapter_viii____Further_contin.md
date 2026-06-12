@@ -1,2 +1,0 @@
-# Chapter viii -- Further continuation.
-

@@ -1,2 +1,0 @@
-# Scene V. Another chamber.
-

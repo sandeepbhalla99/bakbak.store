@@ -1,3 +1,0 @@
-# Scene VI.
-
-Near Misenum.

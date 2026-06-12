@@ -1,3 +1,0 @@
-# CHAPTER I. Y-o-u-u Tom—Aunt Polly Decides Upon her Duty—Tom Practices
-
-Music—The Challenge—A Private Entrance

@@ -1,3 +1,0 @@
-# ACT IV
-
-Chorus. Chorus

@@ -1,3 +1,0 @@
-# CHAPTER THIRTY-EIGHT. The Biter is Bit
-
-PART II.
