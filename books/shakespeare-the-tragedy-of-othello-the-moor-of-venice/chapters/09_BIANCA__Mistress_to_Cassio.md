@@ -1,2 +1,0 @@
-# BIANCA, Mistress to Cassio
-

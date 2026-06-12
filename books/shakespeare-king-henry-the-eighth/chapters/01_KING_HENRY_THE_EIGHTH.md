@@ -1,3 +1,0 @@
-# KING HENRY THE EIGHTH
-
-Contents

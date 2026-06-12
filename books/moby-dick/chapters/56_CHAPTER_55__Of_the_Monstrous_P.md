@@ -1,2 +1,0 @@
-# CHAPTER 55. Of the Monstrous Pictures of Whales.
-

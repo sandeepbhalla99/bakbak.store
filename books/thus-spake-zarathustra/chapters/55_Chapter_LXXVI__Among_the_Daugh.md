@@ -1,3 +1,2 @@
-# Chapter LXXVI. Among the Daughters of the Desert.
+# Chapter LXXVI. Among the Daughters of the Desert: This tells its own tale.
 
-This tells its own tale.

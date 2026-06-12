@@ -1,6 +1,4 @@
-# SCENE IV. Langley. The Duke of York’s garden.
-
-Enter the Queen and two Ladies.
+# SCENE IV. Langley. The Duke of York’s garden: Enter the Queen and two Ladies.
 
 QUEEN.
 What sport shall we devise here in this garden
@@ -58,9 +56,9 @@ My wretchedness unto a row of pins,
 They will talk of state, for everyone doth so
 Against a change; woe is forerun with woe.
 
- [_Queen and Ladies retire._]
+[_Queen and Ladies retire._]
 
- Enter a Gardener and two Servants.
+Enter a Gardener and two Servants.
 
 GARDENER.
 Go, bind thou up young dangling apricocks,
@@ -124,16 +122,9 @@ That tell black tidings.
 QUEEN.
 O, I am pressed to death through want of speaking!
 
- [_Coming forward._]
+[_Coming forward._]
 
-Thou, old Adam’s likeness, set to dress this garden,
-How dares thy harsh rude tongue sound this unpleasing news?
-What Eve, what serpent, hath suggested thee
-To make a second fall of cursed man?
-Why dost thou say King Richard is deposed?
-Dar’st thou, thou little better thing than earth,
-Divine his downfall? Say, where, when, and how,
-Cam’st thou by this ill tidings? Speak, thou wretch!
+Thou, old Adam’s likeness, set to dress this garden, How dares thy harsh rude tongue sound this unpleasing news? What Eve, what serpent, hath suggested thee To make a second fall of cursed man? Why dost thou say King Richard is deposed? Dar’st thou, thou little better thing than earth, Divine his downfall? Say, where, when, and how, Cam’st thou by this ill tidings? Speak, thou wretch!
 
 GARDENER.
 Pardon me, madam. Little joy have I
@@ -160,7 +151,7 @@ Should grace the triumph of great Bolingbroke?
 Gard’ner, for telling me these news of woe,
 Pray God the plants thou graft’st may never grow!
 
- [_Exeunt Queen and Ladies._]
+[_Exeunt Queen and Ladies._]
 
 GARDENER.
 Poor Queen, so that thy state might be no worse,
@@ -170,4 +161,4 @@ I’ll set a bank of rue, sour herb of grace.
 Rue even for ruth here shortly shall be seen
 In the remembrance of a weeping queen.
 
- [_Exeunt._]
+[_Exeunt._]

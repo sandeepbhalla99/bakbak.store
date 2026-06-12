@@ -1,3 +1,0 @@
-# Boatswain!
-
-BOATSWAIN.

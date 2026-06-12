@@ -1,0 +1,3 @@
+# Scene V. Olivia’s garden
+
+FABIAN. [_Reads._] _By the Lord, madam, you wrong me, and the world shall know it. Though you have put me into darkness and given your drunken cousin rule over me, yet have I the benefit of my senses as well as your ladyship. I have your own letter that induced me to the semblance I put on; with the which I doubt not but to do myself much right or you much shame. Think of me as you please. I leave my duty a little unthought of, and speak out of my injury. The madly-used Malvolio._

@@ -1,0 +1,27 @@
+# SCENE IX. Another part of the plain.
+
+Sound retreat. Shout. Enter Agamemnon, Ajax, Menelaus, Nestor, Diomedes and the rest, marching.
+
+AGAMEMNON.
+Hark! hark! what shout is this?
+
+NESTOR.
+Peace, drums!
+
+SOLDIERS.
+[_Within_.] Achilles! Achilles! Hector’s slain. Achilles!
+
+DIOMEDES.
+The bruit is, Hector’s slain, and by Achilles.
+
+AJAX.
+If it be so, yet bragless let it be;
+Great Hector was as good a man as he.
+
+AGAMEMNON.
+March patiently along. Let one be sent
+To pray Achilles see us at our tent.
+If in his death the gods have us befriended;
+Great Troy is ours, and our sharp wars are ended.
+
+[_Exeunt_.]

@@ -1,2 +1,0 @@
-# CHAPTER 64. Stubb’s Supper.
-

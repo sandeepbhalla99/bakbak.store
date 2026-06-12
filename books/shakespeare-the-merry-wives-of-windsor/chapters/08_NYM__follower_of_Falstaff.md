@@ -1,2 +1,0 @@
-# NYM, follower of Falstaff
-

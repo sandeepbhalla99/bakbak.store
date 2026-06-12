@@ -8,7 +8,4 @@ HUCKLEBERRY FINN
 
 By Mark Twain
 
-
-
-
 CONTENTS.

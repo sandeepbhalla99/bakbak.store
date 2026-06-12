@@ -1,2 +1,0 @@
-# CHAPTER 12. Biographical.
-

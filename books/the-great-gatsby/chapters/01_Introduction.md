@@ -1,8 +1,7 @@
 # Introduction
 
 The Great Gatsby
-                                  by
-                          F. Scott Fitzgerald
+by
+F. Scott Fitzgerald
 
-
-                           Table of Contents
+Table of Contents

@@ -1,3 +1,0 @@
-# PROLOGUE
-
-Flourish. Enter Prologue.

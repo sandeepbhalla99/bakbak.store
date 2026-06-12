@@ -1,2 +1,0 @@
-# CHAPTER 42. The Whiteness of the Whale.
-

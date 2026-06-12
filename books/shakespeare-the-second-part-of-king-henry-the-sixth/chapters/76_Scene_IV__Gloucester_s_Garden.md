@@ -1,0 +1,9 @@
+# Scene IV. Gloucester’s Garden
+
+All happiness unto my lord the King!
+Pardon, my liege, that I have staid so long.
+
+SUFFOLK.
+Nay, Gloucester, know that thou art come too soon,
+Unless thou wert more loyal than thou art.
+I do arrest thee of high treason here.

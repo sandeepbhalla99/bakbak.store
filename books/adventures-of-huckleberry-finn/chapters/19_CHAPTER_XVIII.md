@@ -1,4 +1,3 @@
 # CHAPTER XVIII.
 
-Col. Grangerford.—Aristocracy.—Feuds.—The Testament.—Recovering the
-Raft.—The Wood—pile.—Pork and Cabbage.
+Col. Grangerford.—Aristocracy.—Feuds.—The Testament.—Recovering the Raft.—The Wood—pile.—Pork and Cabbage.

@@ -1,4 +1,3 @@
 # CHAPTER XXII.
 
-Sherburn.—Attending the Circus.—Intoxication in the Ring.—The Thrilling
-Tragedy.
+Sherburn.—Attending the Circus.—Intoxication in the Ring.—The Thrilling Tragedy.

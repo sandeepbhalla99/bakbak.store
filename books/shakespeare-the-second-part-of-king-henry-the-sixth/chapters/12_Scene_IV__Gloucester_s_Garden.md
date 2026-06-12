@@ -1,0 +1,12 @@
+# Scene IV. Gloucester’s Garden
+
+O Nell, sweet Nell, if thou dost love thy lord,
+Banish the canker of ambitious thoughts.
+And may that hour when I imagine ill
+Against my King and nephew, virtuous Henry,
+Be my last breathing in this mortal world!
+My troublous dreams this night doth make me sad.
+
+ELEANOR.
+What dreamed my lord? Tell me, and I’ll requite it
+With sweet rehearsal of my morning’s dream.

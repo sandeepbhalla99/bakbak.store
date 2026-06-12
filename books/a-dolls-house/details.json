@@ -7,116 +7,20 @@
   "description": "A classic masterpiece by Henrik Ibsen. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "A DOLL\u2019S HOUSE",
-      "file": "01_A_DOLL_S_HOUSE.md"
-    },
-    {
-      "title": "ACT III.",
-      "file": "02_ACT_III.md"
-    },
-    {
-      "title": "DRAMATIS PERSONAE",
-      "file": "03_DRAMATIS_PERSONAE.md"
-    },
-    {
-      "title": "_[The action takes place in Helmer\u2019s house.]_",
-      "file": "04_The_action_takes_place_in_He.md"
-    },
-    {
-      "title": "A DOLL\u2019S HOUSE",
-      "file": "05_A_DOLL_S_HOUSE.md"
+      "title": "Introduction",
+      "file": "01_Introduction.md"
     },
     {
       "title": "ACT I",
-      "file": "06_ACT_I.md"
-    },
-    {
-      "title": "carpeted, and a fire burns in the stove. It is winter._",
-      "file": "07_carpeted__and_a_fire_burns_in.md"
-    },
-    {
-      "title": "gives to the MAID who has opened the door.]_",
-      "file": "08_gives_to_the_MAID_who_has_open.md"
-    },
-    {
-      "title": "out her purse.]_ How much?",
-      "file": "09_out_her_purse____How_much.md"
-    },
-    {
-      "title": "right.]_",
-      "file": "10_right.md"
-    },
-    {
-      "title": "there?",
-      "file": "11_there.md"
-    },
-    {
-      "title": "_[busy opening some of the parcels]_. Yes, it is!",
-      "file": "12_busy_opening_some_of_the_par.md"
-    },
-    {
-      "title": "Is it my little squirrel bustling about?",
-      "file": "13_Is_it_my_little_squirrel_bustl.md"
-    },
-    {
-      "title": "Yes!",
-      "file": "14_Yes.md"
-    },
-    {
-      "title": "When did my squirrel come home?",
-      "file": "15_When_did_my_squirrel_come_home.md"
-    },
-    {
-      "title": "Just now. _[Puts the bag of macaroons into her pocket and wipes her",
-      "file": "16_Just_now____Puts_the_bag_of_ma.md"
-    },
-    {
-      "title": "little spendthrift been wasting money again?",
-      "file": "17_little_spendthrift_been_wastin.md"
-    },
-    {
-      "title": "NORA",
-      "file": "18_NORA.md"
+      "file": "02_ACT_I.md"
     },
     {
       "title": "ACT II",
-      "file": "19_ACT_II.md"
-    },
-    {
-      "title": "NORA",
-      "file": "20_NORA.md"
-    },
-    {
-      "title": "NORA",
-      "file": "21_NORA.md"
-    },
-    {
-      "title": "right.]_",
-      "file": "22_right.md"
+      "file": "03_ACT_II.md"
     },
     {
       "title": "ACT III",
-      "file": "23_ACT_III.md"
-    },
-    {
-      "title": "Doctor Rank",
-      "file": "24_Doctor_Rank.md"
-    },
-    {
-      "title": "right.]_",
-      "file": "25_right.md"
-    },
-    {
-      "title": "NORA",
-      "file": "26_NORA.md"
-    },
-    {
-      "title": "NORA",
-      "file": "27_NORA.md"
-    },
-    {
-      "title": "NORA",
-      "file": "28_NORA.md"
+      "file": "04_ACT_III.md"
     }
   ]
 }

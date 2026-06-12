@@ -1,2 +1,0 @@
-# CHAPTER 71. The Jeroboam’s Story.
-

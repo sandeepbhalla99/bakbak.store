@@ -1,2 +1,0 @@
-# SIR THOMAS VAUGHAN
-

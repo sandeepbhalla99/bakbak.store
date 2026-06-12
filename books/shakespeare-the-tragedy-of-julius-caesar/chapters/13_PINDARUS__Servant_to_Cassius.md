@@ -1,2 +1,0 @@
-# PINDARUS, Servant to Cassius
-

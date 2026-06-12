@@ -1,3 +1,0 @@
-# Speak, speak!
-
-FIRST CITIZEN.

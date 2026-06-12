@@ -1,2 +1,0 @@
-# Mrs. Gardiner greeted them
-

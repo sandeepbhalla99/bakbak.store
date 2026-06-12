@@ -1,0 +1,13 @@
+# Scene II. Capulet’s Garden
+
+Tush, I will stir about,
+And all things shall be well, I warrant thee, wife.
+Go thou to Juliet, help to deck up her.
+I’ll not to bed tonight, let me alone.
+I’ll play the housewife for this once.—What, ho!—
+They are all forth: well, I will walk myself
+To County Paris, to prepare him up
+Against tomorrow. My heart is wondrous light
+Since this same wayward girl is so reclaim’d.
+
+[_Exeunt._]

@@ -30,5 +30,4 @@ DUCHESS OF GLOUCESTER
 DUCHESS OF YORK
 Lady attending on the Queen
 
-Lords, Heralds, Officers, Soldiers, Gardeners, Keeper, Messenger,
-Groom, and other Attendants
+Lords, Heralds, Officers, Soldiers, Gardeners, Keeper, Messenger, Groom, and other Attendants

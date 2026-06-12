@@ -1,0 +1,12 @@
+# Scene III. Friar Lawrence’s Cell
+
+ROMEO.
+Thou canst not speak of that thou dost not feel.
+Wert thou as young as I, Juliet thy love,
+An hour but married, Tybalt murdered,
+Doting like me, and like me banished,
+Then mightst thou speak, then mightst thou tear thy hair,
+And fall upon the ground as I do now,
+Taking the measure of an unmade grave.
+
+[_Knocking within._]

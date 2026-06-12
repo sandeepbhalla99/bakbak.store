@@ -1,5 +1,0 @@
-# My Shore Adventure
-
-XIII.  HOW I BEGAN MY SHORE ADVENTURE  . . . . . . 82
-     XIV.  THE FIRST BLOW . . . . . . . . . . . . . . . 87
-     XV.  THE MAN OF THE ISLAND. . . . . . . . . . . .  93

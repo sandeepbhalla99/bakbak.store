@@ -2,60 +2,51 @@
 
 [Illustration:
 
-                             GEORGE ALLEN
-                               PUBLISHER
+GEORGE ALLEN
+PUBLISHER
 
-                        156 CHARING CROSS ROAD
-                                LONDON
+156 CHARING CROSS ROAD
+LONDON
 
-                             RUSKIN HOUSE
-                                   ]
+RUSKIN HOUSE
+]
 
-                            [Illustration:
+[Illustration:
 
-               _Reading Jane’s Letters._      _Chap 34._
-                                   ]
+_Reading Jane’s Letters._      _Chap 34._
+]
 
+PRIDE.
+and
+PREJUDICE
 
+by
+Jane Austen,
 
+with a Preface by
+George Saintsbury
+and
+Illustrations by
+Hugh Thomson
 
-                                PRIDE.
-                                  and
-                               PREJUDICE
+[Illustration: 1894]
 
-                                  by
-                             Jane Austen,
+Ruskin       156. Charing
+House.        Cross Road.
 
-                           with a Preface by
-                           George Saintsbury
-                                  and
-                           Illustrations by
-                             Hugh Thomson
+London
+George Allen.
 
-                         [Illustration: 1894]
+CHISWICK PRESS:--CHARLES WHITTINGHAM AND CO.
+TOOKS COURT, CHANCERY LANE, LONDON.
 
-                       Ruskin       156. Charing
-                       House.        Cross Road.
+[Illustration:
 
-                                London
-                             George Allen.
+_To J. Comyns Carr
+in acknowledgment of all I
+owe to his friendship and
+advice, these illustrations are
+gratefully inscribed_
 
-
-
-
-             CHISWICK PRESS:--CHARLES WHITTINGHAM AND CO.
-                  TOOKS COURT, CHANCERY LANE, LONDON.
-
-
-
-
-                            [Illustration:
-
-                          _To J. Comyns Carr
-                      in acknowledgment of all I
-                       owe to his friendship and
-                    advice, these illustrations are
-                         gratefully inscribed_
-
-                            _Hugh Thomson_
-                                   ]
+_Hugh Thomson_
+]

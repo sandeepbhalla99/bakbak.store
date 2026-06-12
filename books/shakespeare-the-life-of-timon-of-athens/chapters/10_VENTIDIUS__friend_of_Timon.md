@@ -1,2 +1,0 @@
-# VENTIDIUS, friend of Timon
-

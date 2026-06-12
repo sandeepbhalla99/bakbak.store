@@ -1,3 +1,3 @@
 # ACT I
 
-Prologue.
+Troy. Before Priam’s palace.

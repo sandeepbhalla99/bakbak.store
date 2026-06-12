@@ -1,2 +1,0 @@
-# The procession set out
-

@@ -1,2 +1,0 @@
-# CHAPTER 27. Knights and Squires.
-

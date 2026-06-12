@@ -1,3 +1,0 @@
-# Scene II.
-
-A Prison.

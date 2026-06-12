@@ -1,2 +1,0 @@
-# CHAPTER 5. Breakfast.
-

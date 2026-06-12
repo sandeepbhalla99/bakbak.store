@@ -1,2 +1,0 @@
-# A person representing HYMEN
-

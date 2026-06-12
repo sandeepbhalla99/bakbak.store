@@ -1,6 +1,4 @@
-# SCENE III. The Wolds in Gloucestershire.
-
-Enter Bolingbroke and Northumberland with Forces.
+# SCENE III. The Wolds in Gloucestershire: Enter Bolingbroke and Northumberland with Forces.
 
 BOLINGBROKE.
 How far is it, my lord, to Berkeley now?
@@ -28,7 +26,7 @@ BOLINGBROKE.
 Of much less value is my company
 Than your good words. But who comes here?
 
- Enter Harry Percy.
+Enter Harry Percy.
 
 NORTHUMBERLAND.
 It is my son, young Harry Percy,
@@ -93,7 +91,7 @@ Manned with three hundred men, as I have heard.
 And in it are the Lords of York, Berkeley, and Seymour,
 None else of name and noble estimate.
 
- Enter Ross and Willoughby.
+Enter Ross and Willoughby.
 
 NORTHUMBERLAND.
 Here come the Lords of Ross and Willoughby,
@@ -116,7 +114,7 @@ Evermore thanks, the exchequer of the poor;
 Which, till my infant fortune comes to years,
 Stands for my bounty. But who comes here?
 
- Enter Berkeley.
+Enter Berkeley.
 
 NORTHUMBERLAND.
 It is my Lord of Berkeley, as I guess.
@@ -139,13 +137,13 @@ The Duke of York, to know what pricks you on
 To take advantage of the absent time,
 And fright our native peace with self-borne arms.
 
- Enter York, attended.
+Enter York, attended.
 
 BOLINGBROKE.
 I shall not need transport my words by you.
 Here comes his Grace in person. My noble uncle!
 
- [_Kneels._]
+[_Kneels._]
 
 YORK.
 Show me thy humble heart, and not thy knee,
@@ -264,4 +262,4 @@ For I am loath to break our country’s laws.
 Nor friends nor foes, to me welcome you are.
 Things past redress are now with me past care.
 
- [_Exeunt._]
+[_Exeunt._]

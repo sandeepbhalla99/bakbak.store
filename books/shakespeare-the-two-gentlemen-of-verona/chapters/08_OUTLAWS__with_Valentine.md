@@ -1,2 +1,0 @@
-# OUTLAWS, with Valentine
-

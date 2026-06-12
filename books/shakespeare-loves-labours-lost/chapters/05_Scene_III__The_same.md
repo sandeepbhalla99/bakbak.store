@@ -1,2 +1,0 @@
-# Scene III. The same
-

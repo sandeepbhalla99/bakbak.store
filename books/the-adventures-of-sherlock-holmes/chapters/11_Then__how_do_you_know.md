@@ -1,2 +1,0 @@
-# “Then, how do you know?”
-

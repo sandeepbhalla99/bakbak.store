@@ -1,3 +1,0 @@
-# Beseech you—
-
-ARCHIDAMUS.

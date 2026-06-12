@@ -1,6 +1,4 @@
-# SCENE II. The Same. A Room in the Castle.
-
-Enter Queen, Bushy and Bagot.
+# SCENE II. The Same. A Room in the Castle: Enter Queen, Bushy and Bagot.
 
 BUSHY.
 Madam, your Majesty is too much sad.
@@ -54,7 +52,7 @@ Or something hath the nothing that I grieve.
 But what it is, that is not yet known what,
 I cannot name. ’Tis nameless woe, I wot.
 
- Enter Green.
+Enter Green.
 
 GREEN.
 God save your majesty! And well met, gentlemen.
@@ -110,7 +108,7 @@ A parasite, a keeper-back of death,
 Who gently would dissolve the bands of life,
 Which false hope lingers in extremity.
 
- Enter York.
+Enter York.
 
 GREEN.
 Here comes the Duke of York.
@@ -131,7 +129,7 @@ Who, weak with age, cannot support myself.
 Now comes the sick hour that his surfeit made;
 Now shall he try his friends that flattered him.
 
- Enter a Servingman.
+Enter a Servingman.
 
 SERVINGMAN.
 My lord, your son was gone before I came.
@@ -167,7 +165,7 @@ Come, sister—cousin, I would say, pray, pardon me.
 Go, fellow, get thee home; provide some carts
 And bring away the armour that is there.
 
- [_Exit Servingman._]
+[_Exit Servingman._]
 
 Gentlemen, will you go muster men?
 If I know how or which way to order these affairs
@@ -184,7 +182,7 @@ I should to Plashy too,
 But time will not permit. All is uneven,
 And everything is left at six and seven.
 
- [_Exeunt York and Queen._]
+[_Exeunt York and Queen._]
 
 BUSHY.
 The wind sits fair for news to go to Ireland,
@@ -238,4 +236,4 @@ Well, we may meet again.
 BAGOT.
 I fear me, never.
 
- [_Exeunt._]
+[_Exeunt._]

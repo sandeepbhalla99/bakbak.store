@@ -1,3 +1,0 @@
-# right.]_
-
-HELMER.

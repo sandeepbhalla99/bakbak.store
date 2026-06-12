@@ -1,8 +1,6 @@
-# SCENE III. Open Space, near Coventry. Lists set out, and a Throne.
+# SCENE III. Open Space, near Coventry. Lists set out, and a Throne: Heralds, &c., attending.
 
-Heralds, &c., attending.
-
- Enter the Lord Marshal and the Duke of Aumerle.
+Enter the Lord Marshal and the Duke of Aumerle.
 
 MARSHAL.
 My Lord Aumerle, is Harry Hereford armed?
@@ -18,10 +16,7 @@ AUMERLE.
 Why then, the champions are prepared and stay
 For nothing but his Majesty’s approach.
 
- Enter King Richard, who takes his seat on his Throne; Gaunt, Bushy,
- Bagot, Green and others, who take their places. A trumpet is sounded,
- and answered by another trumpet within. Then enter Mowbray in armour,
- defendant, preceded by a Herald.
+Enter King Richard, who takes his seat on his Throne; Gaunt, Bushy, Bagot, Green and others, who take their places. A trumpet is sounded, and answered by another trumpet within. Then enter Mowbray in armour, defendant, preceded by a Herald.
 
 KING RICHARD.
 Marshal, demand of yonder champion
@@ -48,10 +43,9 @@ To prove him, in defending of myself,
 A traitor to my God, my king, and me;
 And as I truly fight, defend me heaven.
 
- [_He takes his seat._]
+[_He takes his seat._]
 
- Trumpet sounds. Enter Bolingbroke, appellant, in armour, preceded by
- a Herald.
+Trumpet sounds. Enter Bolingbroke, appellant, in armour, preceded by a Herald.
 
 KING RICHARD.
 Marshal, ask yonder knight in arms
@@ -132,7 +126,7 @@ Rouse up thy youthful blood, be valiant, and live.
 BOLINGBROKE.
 Mine innocence and Saint George to thrive!
 
- [_He takes his seat._]
+[_He takes his seat._]
 
 MOWBRAY. [_Rising_.]
 However God or fortune cast my lot,
@@ -153,7 +147,7 @@ Farewell, my lord. Securely I espy
 Virtue with valour couched in thine eye.
 Order the trial, Marshal, and begin.
 
- [_The King and the Lords return to their seats._]
+[_The King and the Lords return to their seats._]
 
 MARSHAL.
 Harry of Hereford, Lancaster, and Derby,
@@ -185,7 +179,7 @@ Attending but the signal to begin.
 MARSHAL.
 Sound trumpets, and set forward, combatants.
 
- [_A charge sounded._]
+[_A charge sounded._]
 
 Stay! the King hath thrown his warder down.
 
@@ -195,7 +189,7 @@ And both return back to their chairs again.
 Withdraw with us, and let the trumpets sound
 While we return these dukes what we decree.
 
- [_A long flourish._]
+[_A long flourish._]
 
 [_To the Combatants_.] Draw near,
 And list what with our council we have done.
@@ -263,7 +257,7 @@ MOWBRAY.
 Then thus I turn me from my country’s light,
 To dwell in solemn shades of endless night.
 
- [_Retiring._]
+[_Retiring._]
 
 KING RICHARD.
 Return again, and take an oath with thee.
@@ -305,7 +299,7 @@ And all too soon, I fear, the King shall rue.
 Farewell, my liege. Now no way can I stray;
 Save back to England, all the world’s my way.
 
- [_Exit._]
+[_Exit._]
 
 KING RICHARD.
 Uncle, even in the glasses of thine eyes
@@ -364,7 +358,7 @@ KING RICHARD.
 Cousin, farewell, and, uncle, bid him so.
 Six years we banish him, and he shall go.
 
- [_Flourish. Exit King Richard and Train._]
+[_Flourish. Exit King Richard and Train._]
 
 AUMERLE.
 Cousin, farewell. What presence must not know,
@@ -459,4 +453,4 @@ My mother and my nurse that bears me yet!
 Where’er I wander, boast of this I can,
 Though banished, yet a true-born Englishman.
 
- [_Exeunt._]
+[_Exeunt._]

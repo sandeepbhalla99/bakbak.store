@@ -1,4 +1,3 @@
 # CHAPTER XXI.
 
-Sword Exercise.—Hamlet’s Soliloquy.—They Loafed Around Town.—A Lazy
-Town.—Old Boggs.—Dead.
+Sword Exercise.—Hamlet’s Soliloquy.—They Loafed Around Town.—A Lazy Town.—Old Boggs.—Dead.

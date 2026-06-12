@@ -1,0 +1,27 @@
+# Scene V. Fields without the town
+
+DUKE.
+These letters at fit time deliver me.
+The Provost knows our purpose and our plot.
+The matter being afoot, keep your instruction
+And hold you ever to our special drift,
+Though sometimes you do blench from this to that
+As cause doth minister. Go call at Flavius’ house,
+And tell him where I stay. Give the like notice
+To Valencius, Rowland, and to Crassus,
+And bid them bring the trumpets to the gate.
+But send me Flavius first.
+
+FRIAR PETER.
+It shall be speeded well.
+
+[_Exit Friar Peter._]
+
+Enter Varrius.
+
+DUKE.
+I thank thee, Varrius, thou hast made good haste.
+Come, we will walk. There’s other of our friends
+Will greet us here anon. My gentle Varrius.
+
+[_Exeunt._]

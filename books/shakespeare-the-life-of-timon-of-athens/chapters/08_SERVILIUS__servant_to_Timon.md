@@ -1,2 +1,0 @@
-# SERVILIUS, servant to Timon
-

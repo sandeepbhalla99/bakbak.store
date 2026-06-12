@@ -1,2 +1,0 @@
-# CHAPTER 30. The Pipe.
-

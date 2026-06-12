@@ -7,180 +7,140 @@
   "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "PERICLES, prince of Tyre",
-      "file": "01_PERICLES__prince_of_Tyre.md"
-    },
-    {
-      "title": "Scene IV. Tarsus. A room in the Governor\u2019s house",
-      "file": "02_Scene_IV__Tarsus__A_room_in_th.md"
-    },
-    {
-      "title": "Scene V. Pentapolis. A room in the palace",
-      "file": "03_Scene_V__Pentapolis__A_room_in.md"
-    },
-    {
-      "title": "Scene IV. Ephesus. A room in Cerimon\u2019s house",
-      "file": "04_Scene_IV__Ephesus__A_room_in_C.md"
-    },
-    {
-      "title": "Scene VI. The same. A room in the brothel",
-      "file": "05_Scene_VI__The_same__A_room_in.md"
-    },
-    {
-      "title": "Scene III. The temple of Diana at Ephesus",
-      "file": "06_Scene_III__The_temple_of_Diana.md"
-    },
-    {
-      "title": "Dramatis Person\u00e6",
-      "file": "07_Dramatis_Person.md"
+      "title": "Introduction",
+      "file": "01_Introduction.md"
     },
     {
       "title": "SCENE: Dispersedly in various countries.",
-      "file": "08_SCENE__Dispersedly_in_various.md"
+      "file": "02_SCENE__Dispersedly_in_various.md"
     },
     {
       "title": "ACT I",
-      "file": "09_ACT_I.md"
+      "file": "03_ACT_I.md"
     },
     {
-      "title": "Assuming man\u2019s infirmities,",
-      "file": "10_Assuming_man_s_infirmities.md"
+      "title": "Scene I. Antioch. A room in the palace",
+      "file": "04_Scene_I__Antioch__A_room_in_th.md"
     },
     {
-      "title": "I life would wish, and that I might",
-      "file": "11_I_life_would_wish__and_that_I.md"
+      "title": "Scene II. Tyre. A room in the palace",
+      "file": "05_Scene_II__Tyre__A_room_in_the.md"
     },
     {
-      "title": "Built up, this city, for his chiefest seat;",
-      "file": "12_Built_up__this_city__for_his_c.md"
+      "title": "Scene III. Tyre. An ante-chamber in the Palace",
+      "file": "06_Scene_III__Tyre__An_ante_chamb.md"
     },
     {
-      "title": "I tell you what mine authors say:",
-      "file": "13_I_tell_you_what_mine_authors_s.md"
-    },
-    {
-      "title": "SCENE I. Antioch. A room in the palace.",
-      "file": "14_SCENE_I__Antioch__A_room_in_th.md"
-    },
-    {
-      "title": "SCENE II. Tyre. A room in the palace.",
-      "file": "15_SCENE_II__Tyre__A_room_in_the.md"
-    },
-    {
-      "title": "SCENE III. Tyre. An ante-chamber in the Palace.",
-      "file": "16_SCENE_III__Tyre__An_ante_chamb.md"
-    },
-    {
-      "title": "SCENE IV. Tarsus. A room in the Governor\u2019s house.",
-      "file": "17_SCENE_IV__Tarsus__A_room_in_th.md"
+      "title": "Scene IV. Tarsus. A room in the Governor\u2019s house",
+      "file": "07_Scene_IV__Tarsus__A_room_in_th.md"
     },
     {
       "title": "ACT II",
-      "file": "18_ACT_II.md"
+      "file": "08_ACT_II.md"
     },
     {
-      "title": "SCENE I. Pentapolis. An open place by the seaside.",
-      "file": "19_SCENE_I__Pentapolis__An_open_p.md"
+      "title": "Scene I. Pentapolis. An open place by the seaside",
+      "file": "09_Scene_I__Pentapolis__An_open_p.md"
     },
     {
-      "title": "SCENE II. The same. A public way, or platform leading to the lists. A",
-      "file": "20_SCENE_II__The_same__A_public_w.md"
+      "title": "Scene II. The same. A public way, or platform leading to the lists",
+      "file": "10_Scene_II__The_same__A_public_w.md"
     },
     {
-      "title": "SCENE III. The same. A hall of state: a banquet prepared.",
-      "file": "21_SCENE_III__The_same__A_hall_of.md"
+      "title": "Scene III. The same. A hall of state: a banquet prepared",
+      "file": "11_Scene_III__The_same__A_hall_of.md"
     },
     {
-      "title": "SCENE IV. Tyre. A room in the Governor\u2019s house.",
-      "file": "22_SCENE_IV__Tyre__A_room_in_the.md"
+      "title": "Scene IV. Tyre. A room in the Governor\u2019s house",
+      "file": "12_Scene_IV__Tyre__A_room_in_the.md"
     },
     {
-      "title": "SCENE V. Pentapolis. A room in the palace.",
-      "file": "23_SCENE_V__Pentapolis__A_room_in.md"
+      "title": "Scene V. Pentapolis. A room in the palace",
+      "file": "13_Scene_V__Pentapolis__A_room_in.md"
     },
     {
       "title": "ACT III",
-      "file": "24_ACT_III.md"
+      "file": "14_ACT_III.md"
     },
     {
-      "title": "SCENE I.",
-      "file": "25_SCENE_I.md"
+      "title": "ACT I",
+      "file": "15_ACT_I.md"
     },
     {
-      "title": "SCENE II. Ephesus. A room in Cerimon\u2019s house.",
-      "file": "26_SCENE_II__Ephesus__A_room_in_C.md"
+      "title": "Scene II. Ephesus. A room in Cerimon\u2019s house",
+      "file": "16_Scene_II__Ephesus__A_room_in_C.md"
     },
     {
-      "title": "SCENE III. Tarsus. A room in Cleon\u2019s house.",
-      "file": "27_SCENE_III__Tarsus__A_room_in_C.md"
+      "title": "Scene III. Tarsus. A room in Cleon\u2019s house",
+      "file": "17_Scene_III__Tarsus__A_room_in_C.md"
     },
     {
-      "title": "SCENE IV. Ephesus. A room in Cerimon\u2019s house.",
-      "file": "28_SCENE_IV__Ephesus__A_room_in_C.md"
+      "title": "Scene II. Ephesus. A room in Cerimon\u2019s house",
+      "file": "18_Scene_II__Ephesus__A_room_in_C.md"
     },
     {
       "title": "ACT IV",
-      "file": "29_ACT_IV.md"
+      "file": "19_ACT_IV.md"
     },
     {
-      "title": "Scene I. Tarsus. An open place near the seashore.",
-      "file": "30_Scene_I__Tarsus__An_open_place.md"
+      "title": "Scene I. Tarsus. An open place near the seashore",
+      "file": "20_Scene_I__Tarsus__An_open_place.md"
     },
     {
-      "title": "Scene II. Mytilene. A room in a brothel.",
-      "file": "31_Scene_II__Mytilene__A_room_in.md"
+      "title": "Scene II. Mytilene. A room in a brothel",
+      "file": "21_Scene_II__Mytilene__A_room_in.md"
     },
     {
-      "title": "SCENE III. Tarsus. A room in Cleon\u2019s house.",
-      "file": "32_SCENE_III__Tarsus__A_room_in_C.md"
+      "title": "Scene III. Tarsus. A room in Cleon\u2019s house",
+      "file": "22_Scene_III__Tarsus__A_room_in_C.md"
     },
     {
-      "title": "SCENE IV.",
-      "file": "33_SCENE_IV.md"
+      "title": "ACT IV",
+      "file": "23_ACT_IV.md"
     },
     {
-      "title": "SCENE V. Mytilene. A street before the brothel.",
-      "file": "34_SCENE_V__Mytilene__A_street_be.md"
+      "title": "Scene V. Mytilene. A street before the brothel",
+      "file": "24_Scene_V__Mytilene__A_street_be.md"
     },
     {
-      "title": "SCENE VI. The same. A room in the brothel.",
-      "file": "35_SCENE_VI__The_same__A_room_in.md"
+      "title": "Scene VI. The same. A room in the brothel",
+      "file": "25_Scene_VI__The_same__A_room_in.md"
     },
     {
       "title": "ACT V",
-      "file": "36_ACT_V.md"
+      "file": "26_ACT_V.md"
     },
     {
       "title": "SCENE I. On board Pericles\u2019 ship, off Mytilene. A close pavilion on",
-      "file": "37_SCENE_I__On_board_Pericles__sh.md"
+      "file": "27_SCENE_I__On_board_Pericles__sh.md"
     },
     {
-      "title": "SCENE II.",
-      "file": "38_SCENE_II.md"
+      "title": "ACT II",
+      "file": "28_ACT_II.md"
     },
     {
       "title": "SCENE III. The temple of Diana at Ephesus; Thaisa standing near the",
-      "file": "39_SCENE_III__The_temple_of_Diana.md"
+      "file": "29_SCENE_III__The_temple_of_Diana.md"
     },
     {
       "title": "Scene IV.  London. A Room in the King\u2019s Castle.",
-      "file": "40_Scene_IV___London__A_Room_in_t.md"
+      "file": "30_Scene_IV___London__A_Room_in_t.md"
     },
     {
       "title": "Scene IV.  A camp in Wales.",
-      "file": "41_Scene_IV___A_camp_in_Wales.md"
+      "file": "31_Scene_IV___A_camp_in_Wales.md"
     },
     {
       "title": "Scene IV.  Langley. The Duke of York\u2019s garden.",
-      "file": "42_Scene_IV___Langley__The_Duke_o.md"
+      "file": "32_Scene_IV___Langley__The_Duke_o.md"
     },
     {
       "title": "Scene I.   Westminster Hall.",
-      "file": "43_Scene_I____Westminster_Hall.md"
+      "file": "33_Scene_I____Westminster_Hall.md"
     },
     {
       "title": "Scene VI.  Windsor. An Apartment in the Castle.",
-      "file": "44_Scene_VI___Windsor__An_Apartme.md"
+      "file": "34_Scene_VI___Windsor__An_Apartme.md"
     }
   ]
 }

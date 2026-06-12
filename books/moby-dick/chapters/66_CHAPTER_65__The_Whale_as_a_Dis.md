@@ -1,2 +1,0 @@
-# CHAPTER 65. The Whale as a Dish.
-

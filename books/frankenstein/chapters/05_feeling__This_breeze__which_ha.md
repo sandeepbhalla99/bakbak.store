@@ -1,3 +1,0 @@
-# feeling? This breeze, which has travelled from the regions towards
-
-which I am advancing, gives me a foretaste of those icy climes.

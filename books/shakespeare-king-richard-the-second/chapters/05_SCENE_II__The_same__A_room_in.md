@@ -1,6 +1,4 @@
-# SCENE II. The same. A room in the Duke of Lancaster’s palace.
-
-Enter John of Gaunt with the Duchess of Gloucester.
+# SCENE II. The same. A room in the Duke of Lancaster’s palace: Enter John of Gaunt with the Duchess of Gloucester.
 
 GAUNT.
 Alas, the part I had in Woodstock’s blood
@@ -92,4 +90,4 @@ To seek out sorrow that dwells everywhere.
 Desolate, desolate, will I hence and die!
 The last leave of thee takes my weeping eye.
 
- [_Exeunt._]
+[_Exeunt._]

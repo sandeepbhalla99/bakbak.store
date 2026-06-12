@@ -1,3 +1,0 @@
-# You are all resolved rather to die than to famish?
-
-ALL.

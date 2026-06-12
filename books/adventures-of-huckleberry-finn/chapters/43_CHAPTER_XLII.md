@@ -1,4 +1,3 @@
 # CHAPTER XLII.
 
-Tom Sawyer Wounded.—The Doctor’s Story.—Tom Confesses.—Aunt Polly
-Arrives.—Hand Out Them Letters.
+Tom Sawyer Wounded.—The Doctor’s Story.—Tom Confesses.—Aunt Polly Arrives.—Hand Out Them Letters.

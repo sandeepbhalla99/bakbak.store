@@ -1,2 +1,0 @@
-# “without pictures or conversations?”
-

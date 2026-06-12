@@ -1,0 +1,3 @@
+# Chapter IX: Powder and Arms
+
+The Hispaniola lay some way out, and we went under the figureheads and round the sterns of many other ships, and their cables sometimes grated underneath our keel, and sometimes swung above us. At last, however, we got alongside, and were met and saluted as we stepped aboard by the mate, Mr. Arrow, a brown old sailor with earrings in his ears and a squint. He and the squire were very thick and friendly, but I soon observed that things were not the same between Mr. Trelawney and the

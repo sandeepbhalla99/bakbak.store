@@ -1,2 +1,0 @@
-# CHAPTER 68. The Blanket.
-

@@ -1,3 +1,0 @@
-# world slide. Sessa!
-
-HOSTESS.

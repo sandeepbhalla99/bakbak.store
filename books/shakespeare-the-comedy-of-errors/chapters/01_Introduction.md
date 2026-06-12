@@ -2,7 +2,45 @@
 
 THE COMEDY OF ERRORS
 
-
-
-
 Contents
+
+ACT I
+Scene I. A hall in the Duke’s palace
+Scene II. A public place
+
+ACT II
+Scene I. A public place
+Scene II. The same
+
+ACT III
+Scene I. The same
+Scene II. The same
+
+ACT IV
+Scene I. The same
+Scene II. The same
+Scene III. The same
+Scene IV. The same
+
+ACT V
+Scene I. The same
+
+Dramatis Personæ
+
+SOLINUS, Duke of Ephesus.
+EGEON, a Merchant of Syracuse.
+
+ANTIPHOLUS OF EPHESUS, Twin brothers and sons to Egeon and ANTIPHOLUS OF SYRACUSE, Emilia, but unknown to each other.
+
+DROMIO OF EPHESUS, Twin brothers, and attendants on DROMIO OF SYRACUSE, the two Antipholuses.
+
+BALTHASAR, a Merchant.
+ANGELO, a Goldsmith.
+A MERCHANT, friend to Antipholus of Syracuse.
+PINCH, a Schoolmaster and a Conjurer.
+EMILIA, Wife to Egeon, an Abbess at Ephesus.
+ADRIANA, Wife to Antipholus of Ephesus.
+LUCIANA, her Sister.
+LUCE, her Servant.
+A COURTESAN
+Messenger, Jailer, Officers, Attendants

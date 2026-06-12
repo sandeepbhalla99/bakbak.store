@@ -149,9 +149,63 @@ def parse_metadata(text, filename):
         
     return title, author
 
+def tokenize(s):
+    return re.findall(r'[a-z0-9]+', s.lower())
+
+def is_roman(s):
+    return bool(re.match(r'^[ivxlcdm]+$', s.lower()))
+
+def clean_title_tokens(tokens):
+    prefix_words = {'chapter', 'book', 'part', 'act', 'scene', 'section'}
+    
+    # Find how many leading tokens are prefixes, numbers, or roman numerals
+    start_idx = 0
+    while start_idx < len(tokens):
+        token = tokens[start_idx]
+        if token in prefix_words or token.isdigit() or is_roman(token):
+            start_idx += 1
+        else:
+            break
+            
+    if start_idx == len(tokens):
+        cleaned = [t for t in tokens if t not in prefix_words]
+        if not cleaned:
+            return tokens
+        return cleaned
+        
+    return tokens[start_idx:]
+
+def is_toc_match(toc_title, body_line):
+    toc_words = tokenize(toc_title)
+    body_words = tokenize(body_line)
+    if not toc_words or not body_words:
+        return False
+        
+    toc_clean = clean_title_tokens(toc_words)
+    body_clean = clean_title_tokens(body_words)
+    
+    if not toc_clean or not body_clean:
+        return False
+        
+    # If either cleaned token list is a single short token, digit, or Roman numeral,
+    # they must match exactly to avoid matching common prose words (like "I", "A", "1")
+    if len(toc_clean) == 1 and (len(toc_clean[0]) <= 2 or toc_clean[0].isdigit() or is_roman(toc_clean[0])):
+        return len(body_clean) == 1 and body_clean[0] == toc_clean[0]
+        
+    if len(body_clean) == 1 and (len(body_clean[0]) <= 2 or body_clean[0].isdigit() or is_roman(body_clean[0])):
+        return len(toc_clean) == 1 and toc_clean[0] == body_clean[0]
+        
+    # Standard prefix/exact match for descriptive titles
+    # Limit the length difference to prevent matching prose sentences containing the title
+    if toc_clean[:len(body_clean)] == body_clean:
+        return len(toc_clean) <= len(body_clean) + 2
+        
+    if body_clean[:len(toc_clean)] == toc_clean:
+        return len(body_clean) <= len(toc_clean) + 2
+        
+    return False
+
 def extract_toc_titles(text):
-    # Try to extract chapter titles from a Table of Contents (Contents) block
-    # Search for "Contents" or "CONTENTS" near the start
     lines = text.split('\n')
     toc_start = -1
     for idx, line in enumerate(lines[:300]):
@@ -160,34 +214,71 @@ def extract_toc_titles(text):
             break
             
     if toc_start == -1:
-        return []
+        return [], -1
         
     toc_titles = []
-    # Collect non-empty lines following "Contents" until we hit a long line or start of text
-    for line in lines[toc_start+1 : toc_start+100]:
+    
+    # Helper to check if a line starts with a chapter/section marker
+    def is_header_like(s):
+        s_lower = s.lower()
+        if re.match(r'^(?:chapter|book|part|act|scene|prologue|epilogue|preface|letter|introduction|dramatis)\b', s_lower):
+            return True
+        if re.match(r'^(?:[ivxlcdm]+\b|[\d]+\b)', s_lower):
+            return True
+        return False
+
+    i = toc_start + 1
+    while i < min(toc_start + 150, len(lines)):
+        line = lines[i]
         trimmed = line.strip()
-        if not trimmed:
-            continue
         
-        # Stop indicators for TOC
-        if len(trimmed) > 80:
-            break
-        if trimmed.startswith('***') or re.match(r'^\s*PART\s+[I\d]', trimmed, re.IGNORECASE):
-            # Parts are fine, but stop if we see full start of text
-            pass
+        if not trimmed:
+            i += 1
+            continue
             
-        # Clean title (remove page numbers at the end like ". . . 11" or "  12")
-        clean_title = re.sub(r'[\.\s\d]+$', '', trimmed).strip()
+        # Stop if we see a repeat of the first TOC title (indicating the start of the book body)
+        if toc_titles:
+            if is_toc_match(toc_titles[0], trimmed):
+                break
+            
+        # Check if this line and the next line form a prose paragraph
+        next_non_empty = ""
+        next_idx = i + 1
+        while next_idx < len(lines):
+            if lines[next_idx].strip():
+                next_non_empty = lines[next_idx].strip()
+                break
+            next_idx += 1
+            
+        # If this line and the next line are consecutive (next_idx == i + 1)
+        # and neither is header-like, then it's a prose paragraph!
+        if next_idx == i + 1 and next_non_empty:
+            if not is_header_like(trimmed) and not is_header_like(next_non_empty):
+                # We hit a regular paragraph of the story, stop TOC parsing!
+                break
+                
+        # Also, stop if we hit a long line (TOC lines are short)
+        if len(trimmed) > 75:
+            break
+            
+        # Clean the title (remove dot leaders and trailing numbers/pages)
+        clean_title = re.sub(r'(?:\.[\s\.]*|-[\s-]*|\s{2,})\d+$', '', trimmed).strip()
+        clean_title = re.sub(r'[\.\-\s]+$', '', clean_title)
         
         # Avoid short junk symbols
         if clean_title and len(clean_title) > 3:
             toc_titles.append(clean_title)
             
-    return toc_titles
+        i += 1
+        
+    return toc_titles, i
+
+def normalize_title(s):
+    return re.sub(r'[^a-z0-9]', '', s.lower())
 
 def split_into_chapters(text):
     # First, let's check if there is an explicit Table of Contents we can extract
-    toc_titles = extract_toc_titles(text)
+    toc_titles, toc_end_idx = extract_toc_titles(text)
     
     lines = text.split('\n')
     chapters = []
@@ -201,26 +292,28 @@ def split_into_chapters(text):
     
     for i, line in enumerate(lines):
         is_chapter_head = False
+        matched_toc = False
         title_text = line.strip()
         
-        # 1. Match against explicit TOC titles if we found them
-        if toc_titles:
-            # Check if this line matches any of the TOC titles exactly (case-insensitive)
-            matched_toc = False
-            for toc in toc_titles:
-                if title_text.lower() == toc.lower() or title_text.lower().startswith(toc.lower() + "—"):
-                    matched_toc = True
-                    title_text = toc
-                    break
-            if matched_toc:
-                is_chapter_head = True
-                
-        # 2. Match standard "Chapter X" or "Act X" patterns
-        if not is_chapter_head:
-            match = chapter_regex.match(line)
-            if match:
-                is_chapter_head = True
-                title_text = line.strip()
+        # Only detect chapter headings if we are past the Table of Contents block
+        if i >= toc_end_idx:
+            # 1. Match against explicit TOC titles if we found them
+            if toc_titles:
+                matched_toc = False
+                for toc in toc_titles:
+                    if is_toc_match(toc, title_text):
+                        matched_toc = True
+                        title_text = toc
+                        break
+                if matched_toc:
+                    is_chapter_head = True
+                    
+            # 2. Match standard "Chapter X" or "Act X" patterns
+            if not is_chapter_head:
+                match = chapter_regex.match(line)
+                if match:
+                    is_chapter_head = True
+                    title_text = line.strip()
                 
         # 3. Match standalone Roman numerals (e.g. "I", "II") followed by a short line (Chapter title)
         if not is_chapter_head and roman_regex.match(line):
@@ -243,6 +336,30 @@ def split_into_chapters(text):
                 title_text = f"Chapter {line.strip()}"
                 
         if is_chapter_head:
+            # Lookahead subtitle combiner: search for first non-empty line within next 3 lines
+            subtitle = ""
+            subtitle_idx = -1
+            for offset in range(1, 4):
+                if i + offset < len(lines):
+                    next_val = lines[i + offset].strip()
+                    if next_val:
+                        # If it is a short line and doesn't look like another chapter header
+                        if len(next_val) < 80 and not chapter_regex.match(lines[i + offset]) and not roman_regex.match(lines[i + offset]) and not number_regex.match(lines[i + offset]):
+                            following_empty = True
+                            if i + offset + 1 < len(lines):
+                                following_val = lines[i + offset + 1].strip()
+                                if following_val:
+                                    following_empty = False
+                            if following_empty:
+                                subtitle = next_val
+                                subtitle_idx = i + offset
+                        break
+            if subtitle:
+                if not matched_toc:
+                    base_title = title_text.strip(".:- ")
+                    title_text = f"{base_title}: {subtitle}"
+                lines[subtitle_idx] = ""
+
             # Save previous chapter if it had content
             if current_chapter_content:
                 chapters.append({
@@ -278,9 +395,36 @@ def split_into_chapters(text):
             chapters = [{"title": "Full Book", "content": text}]
             
     return chapters
+def reflow_paragraph(para):
+    lines = [line.strip() for line in para.split('\n')]
+    lines = [l for l in lines if l]
+    if not lines:
+        return ""
+    if len(lines) == 1:
+        return para.strip()
+    
+    # If average line length is small, it's likely a poem or script (skip reflow)
+    non_last_lines = lines[:-1]
+    avg_len = sum(len(l) for l in non_last_lines) / len(non_last_lines) if non_last_lines else 0
+    if avg_len > 45:
+        return " ".join(lines)
+    return "\n".join(lines)
+
+def reflow_text(text):
+    paras = re.split(r'\n\s*\n', text)
+    reflowed_paras = []
+    for para in paras:
+        para_clean = para.strip()
+        if not para_clean:
+            continue
+        reflowed_paras.append(reflow_paragraph(para_clean))
+    return "\n\n".join(reflowed_paras)
 
 def save_book(book_id, title, author, genre, chapters):
     book_dir = os.path.join(DEST_DIR, book_id)
+    if os.path.exists(book_dir):
+        import shutil
+        shutil.rmtree(book_dir)
     chapters_dir = os.path.join(book_dir, "chapters")
     os.makedirs(chapters_dir, exist_ok=True)
     
@@ -291,9 +435,11 @@ def save_book(book_id, title, author, genre, chapters):
         safe_title = re.sub(r'[^a-zA-Z0-9]', '_', chap_title)[:30].strip('_')
         filename = f"{idx+1:02d}_{safe_title}.md"
         
+        reflowed_content = reflow_text(chap['content'])
+        
         # Write chapter markdown file
         with open(os.path.join(chapters_dir, filename), 'w', encoding='utf-8') as f:
-            f.write(f"# {chap_title}\n\n{chap['content']}")
+            f.write(f"# {chap_title}\n\n{reflowed_content}")
             
         chapters_list.append({
             "title": chap_title,

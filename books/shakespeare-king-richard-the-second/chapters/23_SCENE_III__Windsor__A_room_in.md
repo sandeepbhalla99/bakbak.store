@@ -1,6 +1,4 @@
-# SCENE III. Windsor. A room in the Castle.
-
-Enter Bolingbroke as King, Harry Percy and other Lords.
+# SCENE III. Windsor. A room in the Castle: Enter Bolingbroke as King, Harry Percy and other Lords.
 
 KING HENRY.
 Can no man tell me of my unthrifty son?
@@ -34,7 +32,7 @@ As dissolute as desperate! Yet through both
 I see some sparks of better hope, which elder years
 May happily bring forth. But who comes here?
 
- Enter Aumerle.
+Enter Aumerle.
 
 AUMERLE.
 Where is the King?
@@ -49,7 +47,7 @@ To have some conference with your Grace alone.
 KING HENRY.
 Withdraw yourselves, and leave us here alone.
 
- [_Exeunt Harry Percy and Lords._]
+[_Exeunt Harry Percy and Lords._]
 
 What is the matter with our cousin now?
 
@@ -70,7 +68,7 @@ That no man enter till my tale be done.
 KING HENRY.
 Have thy desire.
 
- [_Aumerle locks the door._]
+[_Aumerle locks the door._]
 
 YORK.
 [_Within_.] My liege, beware! Look to thyself!
@@ -87,9 +85,9 @@ YORK.
 Shall I for love speak treason to thy face?
 Open the door, or I will break it open.
 
- [_King Henry  unlocks the door; and afterwards, relocks it._]
+[_King Henry  unlocks the door; and afterwards, relocks it._]
 
- Enter York.
+Enter York.
 
 KING HENRY.
 What is the matter, uncle? Speak!
@@ -148,7 +146,7 @@ And now changed to “The Beggar and the King.”
 My dangerous cousin, let your mother in.
 I know she’s come to pray for your foul sin.
 
- Enter Duchess.
+Enter Duchess.
 
 YORK.
 If thou do pardon whosoever pray,
@@ -180,12 +178,12 @@ By pardoning Rutland, my transgressing boy.
 AUMERLE.
 Unto my mother’s prayers I bend my knee.
 
- [_Kneels._]
+[_Kneels._]
 
 YORK.
 Against them both, my true joints bended be.
 
- [_Kneels._]
+[_Kneels._]
 
 Ill mayst thou thrive if thou grant any grace!
 
@@ -266,4 +264,4 @@ Your mother well hath prayed, and prove you true.
 DUCHESS.
 Come, my old son. I pray God make thee new.
 
- [_Exeunt._]
+[_Exeunt._]

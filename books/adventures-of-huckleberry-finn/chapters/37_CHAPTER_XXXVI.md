@@ -1,4 +1,3 @@
 # CHAPTER XXXVI.
 
-The Lightning Rod.—His Level Best.—A Bequest to Posterity.—A High
-Figure.
+The Lightning Rod.—His Level Best.—A Bequest to Posterity.—A High Figure.

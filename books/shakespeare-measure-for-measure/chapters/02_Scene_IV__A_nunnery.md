@@ -1,2 +1,0 @@
-# Scene IV. A nunnery
-

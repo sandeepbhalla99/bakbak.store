@@ -1,2 +1,0 @@
-# RICHARD, DUKE OF YORK
-

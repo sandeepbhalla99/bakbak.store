@@ -1,4 +1,3 @@
 # CHAPTER XXIV.
 
-Jim in Royal Robes.—They Take a Passenger.—Getting Information.—Family
-Grief.
+Jim in Royal Robes.—They Take a Passenger.—Getting Information.—Family Grief.

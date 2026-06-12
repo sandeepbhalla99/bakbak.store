@@ -1,0 +1,18 @@
+# Scene III. Juliet’s Chamber
+
+Yond light is not daylight, I know it, I.
+It is some meteor that the sun exhales
+To be to thee this night a torchbearer
+And light thee on thy way to Mantua.
+Therefore stay yet, thou need’st not to be gone.
+
+ROMEO.
+Let me be ta’en, let me be put to death,
+I am content, so thou wilt have it so.
+I’ll say yon grey is not the morning’s eye,
+’Tis but the pale reflex of Cynthia’s brow.
+Nor that is not the lark whose notes do beat
+The vaulty heaven so high above our heads.
+I have more care to stay than will to go.
+Come, death, and welcome. Juliet wills it so.
+How is’t, my soul? Let’s talk. It is not day.

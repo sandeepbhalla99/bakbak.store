@@ -1,4 +1,3 @@
 # CHAPTER XXVII.
 
-The Funeral.—Satisfying Curiosity.—Suspicious of Huck,—Quick Sales and
-Small.
+The Funeral.—Satisfying Curiosity.—Suspicious of Huck,—Quick Sales and Small.

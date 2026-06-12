@@ -1,6 +1,4 @@
-# SCENE I. London. An Apartment in Ely House.
-
-Gaunt on a couch; the Duke of York and Others standing by him.
+# SCENE I. London. An Apartment in Ely House: Gaunt on a couch; the Duke of York and Others standing by him.
 
 GAUNT.
 Will the King come, that I may breathe my last
@@ -80,8 +78,7 @@ Hath made a shameful conquest of itself.
 Ah, would the scandal vanish with my life,
 How happy then were my ensuing death!
 
- Enter King Richard and Queen; Aumerle, Bushy, Green, Bagot, Ross and
- Willoughby.
+Enter King Richard and Queen; Aumerle, Bushy, Green, Bagot, Ross and Willoughby.
 
 YORK.
 The King is come. Deal mildly with his youth,
@@ -182,7 +179,7 @@ These words hereafter thy tormentors be!
 Convey me to my bed, then to my grave.
 Love they to live that love and honour have.
 
- [_Exit, borne off by his Attendants._]
+[_Exit, borne off by his Attendants._]
 
 KING RICHARD.
 And let them die that age and sullens have,
@@ -198,7 +195,7 @@ KING RICHARD.
 Right, you say true: as Hereford’s love, so his;
 As theirs, so mine; and all be as it is.
 
- Enter Northumberland.
+Enter Northumberland.
 
 NORTHUMBERLAND.
 My liege, old Gaunt commends him to your Majesty.
@@ -290,7 +287,7 @@ What will ensue hereof there’s none can tell;
 But by bad courses may be understood
 That their events can never fall out good.
 
- [_Exit._]
+[_Exit._]
 
 KING RICHARD.
 Go, Bushy, to the Earl of Wiltshire straight.
@@ -303,7 +300,7 @@ For he is just, and always loved us well.
 Come on, our queen. Tomorrow must we part;
 Be merry, for our time of stay is short.
 
- [_Exeunt King, Queen, Bushy, Aumerle, Green and Bagot._]
+[_Exeunt King, Queen, Bushy, Aumerle, Green and Bagot._]
 
 NORTHUMBERLAND.
 Well, lords, the Duke of Lancaster is dead.
@@ -429,4 +426,4 @@ To horse, to horse! Urge doubts to them that fear.
 WILLOUGHBY.
 Hold out my horse, and I will first be there.
 
- [_Exeunt._]
+[_Exeunt._]

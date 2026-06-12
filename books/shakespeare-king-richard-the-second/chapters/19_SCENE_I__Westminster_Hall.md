@@ -1,15 +1,11 @@
 # SCENE I. Westminster Hall.
 
-The Lords spiritual on the right side of the throne; the Lords
- temporal on the left; the Commons below. Enter Bolingbroke, Aumerle,
- Surrey, Northumberland, Harry Percy, Fitzwater, another Lord, the
- Bishop of Carlisle, the Abbot of Westminster and attendants.
+The Lords spiritual on the right side of the throne; the Lords temporal on the left; the Commons below. Enter Bolingbroke, Aumerle, Surrey, Northumberland, Harry Percy, Fitzwater, another Lord, the Bishop of Carlisle, the Abbot of Westminster and attendants.
 
 BOLINGBROKE.
 Call forth Bagot.
 
- Enter Officers with Bagot.
-
+Enter Officers with Bagot.
 
 Now, Bagot, freely speak thy mind,
 What thou dost know of noble Gloucester’s death,
@@ -171,7 +167,7 @@ Of good old Abraham! Lords appellants,
 Your differences shall all rest under gage
 Till we assign you to your days of trial.
 
- Enter York, attended.
+Enter York, attended.
 
 YORK.
 Great Duke of Lancaster, I come to thee
@@ -237,7 +233,7 @@ Without suspicion.
 YORK.
 I will be his conduct.
 
- [_Exit._]
+[_Exit._]
 
 BOLINGBROKE.
 Lords, you that here are under our arrest,
@@ -245,7 +241,7 @@ Procure your sureties for your days of answer.
 Little are we beholding to your love,
 And little looked for at your helping hands.
 
- Enter York with King Richard and Officers bearing the Crown, &c.
+Enter York with King Richard and Officers bearing the Crown, &c.
 
 KING RICHARD.
 Alack, why am I sent for to a king
@@ -387,7 +383,7 @@ Since it is bankrupt of his majesty.
 BOLINGBROKE.
 Go, some of you, and fetch a looking-glass.
 
- [_Exit an Attendant._]
+[_Exit an Attendant._]
 
 NORTHUMBERLAND.
 Read o’er this paper while the glass doth come.
@@ -406,7 +402,7 @@ They shall be satisfied. I’ll read enough
 When I do see the very book indeed
 Where all my sins are writ, and that’s myself.
 
- Re-enter Attendant with glass.
+Re-enter Attendant with glass.
 
 Give me that glass, and therein will I read.
 No deeper wrinkles yet? Hath sorrow struck
@@ -422,7 +418,7 @@ That was at last outfaced by Bolingbroke?
 A brittle glory shineth in this face.
 As brittle as the glory is the face!
 
- [_Dashes the glass against the ground._]
+[_Dashes the glass against the ground._]
 
 For there it is, cracked in an hundred shivers.
 Mark, silent king, the moral of this sport,
@@ -481,14 +477,13 @@ KING RICHARD.
 O, good! “Convey”? Conveyers are you all,
 That rise thus nimbly by a true king’s fall.
 
- [_Exeunt King Richard and Guard._]
+[_Exeunt King Richard and Guard._]
 
 BOLINGBROKE.
 On Wednesday next we solemnly set down
 Our coronation. Lords, prepare yourselves.
 
- [_Exeunt all but the Bishop of Carlisle, the Abbot of Westminster and
- Aumerle._]
+[_Exeunt all but the Bishop of Carlisle, the Abbot of Westminster and Aumerle._]
 
 ABBOT.
 A woeful pageant have we here beheld.
@@ -512,4 +507,4 @@ Your hearts of sorrow, and your eyes of tears.
 Come home with me to supper. I will lay
 A plot shall show us all a merry day.
 
- [_Exeunt._]
+[_Exeunt._]

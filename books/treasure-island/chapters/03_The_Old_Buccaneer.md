@@ -1,8 +1,0 @@
-# The Old Buccaneer
-
-I.  THE OLD SEA-DOG AT THE ADMIRAL BENBOW . . . .  11
-     II.  BLACK DOG APPEARS AND DISAPPEARS . . . . . .  17
-     III.  THE BLACK SPOT . . . . . . . . . . . . .  .  24
-     IV.  THE SEA-CHEST  . . . . . . . . . . . . . . .  30
-     V.  THE LAST OF THE BLIND MAN  . . . . . . . . . . 36
-     VI.  THE CAPTAIN’S PAPERS . . . . . . . . . . . .  41

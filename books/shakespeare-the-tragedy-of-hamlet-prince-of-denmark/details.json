@@ -11,164 +11,112 @@
       "file": "01_Introduction.md"
     },
     {
-      "title": "Scene V. A more remote part of the Castle",
-      "file": "02_Scene_V__A_more_remote_part_of.md"
-    },
-    {
-      "title": "Scene II. A room in the Castle",
-      "file": "03_Scene_II__A_room_in_the_Castle.md"
-    },
-    {
-      "title": "Scene IV. Another room in the Castle",
-      "file": "04_Scene_IV__Another_room_in_the.md"
-    },
-    {
-      "title": "Scene VII. Another room in the Castle",
-      "file": "05_Scene_VII__Another_room_in_the.md"
-    },
-    {
-      "title": "Scene II. A hall in the Castle",
-      "file": "06_Scene_II__A_hall_in_the_Castle.md"
-    },
-    {
-      "title": "Dramatis Person\u00e6",
-      "file": "07_Dramatis_Person.md"
-    },
-    {
-      "title": "A Captain",
-      "file": "08_A_Captain.md"
-    },
-    {
-      "title": "Lords, Ladies, Officers, Soldiers, Sailors, Messengers, and Attendants",
-      "file": "09_Lords__Ladies__Officers__Soldi.md"
-    },
-    {
       "title": "SCENE. Elsinore.",
-      "file": "10_SCENE__Elsinore.md"
+      "file": "02_SCENE__Elsinore.md"
     },
     {
       "title": "ACT I",
-      "file": "11_ACT_I.md"
+      "file": "03_ACT_I.md"
     },
     {
-      "title": "SCENE I. Elsinore. A platform before the Castle.",
-      "file": "12_SCENE_I__Elsinore__A_platform.md"
+      "title": "Scene I. Elsinore. A platform before the Castle",
+      "file": "04_Scene_I__Elsinore__A_platform.md"
     },
     {
-      "title": "Who\u2019s there?",
-      "file": "13_Who_s_there.md"
+      "title": "Scene II. Elsinore. A room of state in the Castle",
+      "file": "05_Scene_II__Elsinore__A_room_of.md"
     },
     {
-      "title": "Long live the King!",
-      "file": "14_Long_live_the_King.md"
+      "title": "Scene III. A room in Polonius\u2019s house",
+      "file": "06_Scene_III__A_room_in_Polonius.md"
     },
     {
-      "title": "Barnardo?",
-      "file": "15_Barnardo.md"
+      "title": "Scene IV. The platform",
+      "file": "07_Scene_IV__The_platform.md"
     },
     {
-      "title": "For this relief much thanks. \u2019Tis bitter cold,",
-      "file": "16_For_this_relief_much_thanks.md"
-    },
-    {
-      "title": "BARNARDO",
-      "file": "17_BARNARDO.md"
-    },
-    {
-      "title": "SCENE II. Elsinore. A room of state in the Castle.",
-      "file": "18_SCENE_II__Elsinore__A_room_of.md"
-    },
-    {
-      "title": "SCENE III. A room in Polonius\u2019s house.",
-      "file": "19_SCENE_III__A_room_in_Polonius.md"
-    },
-    {
-      "title": "SCENE IV. The platform.",
-      "file": "20_SCENE_IV__The_platform.md"
-    },
-    {
-      "title": "SCENE V. A more remote part of the Castle.",
-      "file": "21_SCENE_V__A_more_remote_part_of.md"
+      "title": "Scene V. A more remote part of the Castle",
+      "file": "08_Scene_V__A_more_remote_part_of.md"
     },
     {
       "title": "ACT II",
-      "file": "22_ACT_II.md"
+      "file": "09_ACT_II.md"
     },
     {
-      "title": "SCENE I. A room in Polonius\u2019s house.",
-      "file": "23_SCENE_I__A_room_in_Polonius_s.md"
+      "title": "Scene III. A room in Polonius\u2019s house",
+      "file": "10_Scene_III__A_room_in_Polonius.md"
     },
     {
-      "title": "SCENE II. A room in the Castle.",
-      "file": "24_SCENE_II__A_room_in_the_Castle.md"
+      "title": "Scene II. A room in the Castle",
+      "file": "11_Scene_II__A_room_in_the_Castle.md"
     },
     {
       "title": "ACT III",
-      "file": "25_ACT_III.md"
+      "file": "12_ACT_III.md"
     },
     {
-      "title": "SCENE I. A room in the Castle.",
-      "file": "26_SCENE_I__A_room_in_the_Castle.md"
+      "title": "Scene II. A room in the Castle",
+      "file": "13_Scene_II__A_room_in_the_Castle.md"
     },
     {
-      "title": "SCENE II. A hall in the Castle.",
-      "file": "27_SCENE_II__A_hall_in_the_Castle.md"
+      "title": "Scene II. A hall in the Castle",
+      "file": "14_Scene_II__A_hall_in_the_Castle.md"
     },
     {
       "title": "PROLOGUE.",
-      "file": "28_PROLOGUE.md"
+      "file": "15_PROLOGUE.md"
     },
     {
-      "title": "SCENE III. A room in the Castle.",
-      "file": "29_SCENE_III__A_room_in_the_Castl.md"
+      "title": "Scene II. A room in the Castle",
+      "file": "16_Scene_II__A_room_in_the_Castle.md"
     },
     {
-      "title": "SCENE IV. Another room in the Castle.",
-      "file": "30_SCENE_IV__Another_room_in_the.md"
+      "title": "Scene IV. Another room in the Castle",
+      "file": "17_Scene_IV__Another_room_in_the.md"
     },
     {
       "title": "ACT IV",
-      "file": "31_ACT_IV.md"
+      "file": "18_ACT_IV.md"
     },
     {
-      "title": "SCENE I. A room in the Castle.",
-      "file": "32_SCENE_I__A_room_in_the_Castle.md"
+      "title": "Scene II. A room in the Castle",
+      "file": "19_Scene_II__A_room_in_the_Castle.md"
     },
     {
-      "title": "SCENE II. Another room in the Castle.",
-      "file": "33_SCENE_II__Another_room_in_the.md"
+      "title": "Scene IV. Another room in the Castle",
+      "file": "20_Scene_IV__Another_room_in_the.md"
     },
     {
-      "title": "SCENE III. Another room in the Castle.",
-      "file": "34_SCENE_III__Another_room_in_the.md"
+      "title": "Scene IV. Another room in the Castle",
+      "file": "21_Scene_IV__Another_room_in_the.md"
     },
     {
-      "title": "SCENE IV. A plain in Denmark.",
-      "file": "35_SCENE_IV__A_plain_in_Denmark.md"
+      "title": "Scene IV. A plain in Denmark",
+      "file": "22_Scene_IV__A_plain_in_Denmark.md"
     },
     {
-      "title": "SCENE V. Elsinore. A room in the Castle.",
-      "file": "36_SCENE_V__Elsinore__A_room_in_t.md"
+      "title": "Scene V. Elsinore. A room in the Castle",
+      "file": "23_Scene_V__Elsinore__A_room_in_t.md"
     },
     {
-      "title": "SCENE VI. Another room in the Castle.",
-      "file": "37_SCENE_VI__Another_room_in_the.md"
+      "title": "Scene IV. Another room in the Castle",
+      "file": "24_Scene_IV__Another_room_in_the.md"
     },
     {
-      "title": "SCENE VII. Another room in the Castle.",
-      "file": "38_SCENE_VII__Another_room_in_the.md"
+      "title": "Scene IV. Another room in the Castle",
+      "file": "25_Scene_IV__Another_room_in_the.md"
     },
     {
       "title": "ACT V",
-      "file": "39_ACT_V.md"
+      "file": "26_ACT_V.md"
     },
     {
-      "title": "SCENE I. A churchyard.",
-      "file": "40_SCENE_I__A_churchyard.md"
+      "title": "Scene I. A churchyard",
+      "file": "27_Scene_I__A_churchyard.md"
     },
     {
-      "title": "SCENE II. A hall in the Castle.",
-      "file": "41_SCENE_II__A_hall_in_the_Castle.md"
+      "title": "Scene II. A hall in the Castle",
+      "file": "28_Scene_II__A_hall_in_the_Castle.md"
     }
   ]
 }

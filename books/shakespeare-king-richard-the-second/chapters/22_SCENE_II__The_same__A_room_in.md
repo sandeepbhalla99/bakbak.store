@@ -1,6 +1,4 @@
-# SCENE II. The same. A room in the Duke of York’s palace.
-
-Enter York and his Duchess.
+# SCENE II. The same. A room in the Duke of York’s palace: Enter York and his Duchess.
 
 DUCHESS.
 My Lord, you told me you would tell the rest,
@@ -55,7 +53,7 @@ To whose high will we bound our calm contents.
 To Bolingbroke are we sworn subjects now,
 Whose state and honour I for aye allow.
 
- Enter Aumerle.
+Enter Aumerle.
 
 DUCHESS.
 Here comes my son Aumerle.
@@ -125,7 +123,7 @@ I do beseech you, pardon me. I may not show it.
 YORK.
 I will be satisfied. Let me see it, I say.
 
- [_Snatches it and reads it._]
+[_Snatches it and reads it._]
 
 Treason, foul treason! Villain! traitor! slave!
 
@@ -135,7 +133,7 @@ What is the matter, my lord?
 YORK.
 Ho! who is within there?
 
- Enter a Servant.
+Enter a Servant.
 
 Saddle my horse.
 God for his mercy, what treachery is here!
@@ -148,7 +146,7 @@ Give me my boots, I say. Saddle my horse.
 Now, by mine honour, by my life, my troth,
 I will appeach the villain.
 
- [_Exit Servant._]
+[_Exit Servant._]
 
 DUCHESS.
 What is the matter?
@@ -169,14 +167,14 @@ Thy life answer?
 YORK.
 Bring me my boots. I will unto the King.
 
- Re-enter Servant with boots.
+Re-enter Servant with boots.
 
 DUCHESS.
 Strike him, Aumerle! Poor boy, thou art amazed.
 [_To Servant_.]
 Hence, villain! Never more come in my sight.
 
- [_Exit Servant._]
+[_Exit Servant._]
 
 YORK.
 Give me my boots, I say.
@@ -219,7 +217,7 @@ And yet I love him.
 YORK.
 Make way, unruly woman!
 
- [_Exit._]
+[_Exit._]
 
 DUCHESS.
 After, Aumerle! Mount thee upon his horse!
@@ -230,4 +228,4 @@ I doubt not but to ride as fast as York.
 And never will I rise up from the ground
 Till Bolingbroke have pardoned thee. Away, be gone!
 
- [_Exeunt._]
+[_Exeunt._]

@@ -1,2 +1,0 @@
-# REAPERS, presented by Spirits
-

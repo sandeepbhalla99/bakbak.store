@@ -7,164 +7,160 @@
   "description": "A classic masterpiece by Bram Stoker. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "DRACULA",
-      "file": "01_DRACULA.md"
+      "title": "Introduction",
+      "file": "01_Introduction.md"
     },
     {
       "title": "CHAPTER XXVII. Mina Harker\u2019s Journal",
       "file": "02_CHAPTER_XXVII__Mina_Harker_s_J.md"
     },
     {
-      "title": "exactly contemporary, given from the standpoints and within the range",
-      "file": "03_exactly_contemporary__given_fr.md"
+      "title": "CHAPTER I: JONATHAN HARKER\u2019S JOURNAL",
+      "file": "03_CHAPTER_I__JONATHAN_HARKER_S_J.md"
     },
     {
-      "title": "DRACULA",
-      "file": "04_DRACULA.md"
+      "title": "CHAPTER II: JONATHAN HARKER\u2019S JOURNAL--_continued_",
+      "file": "04_CHAPTER_II__JONATHAN_HARKER_S.md"
     },
     {
-      "title": "CHAPTER I",
-      "file": "05_CHAPTER_I.md"
+      "title": "CHAPTER III: JONATHAN HARKER\u2019S JOURNAL--_continued_",
+      "file": "05_CHAPTER_III__JONATHAN_HARKER_S.md"
     },
     {
-      "title": "JONATHAN HARKER\u2019S JOURNAL",
-      "file": "06_JONATHAN_HARKER_S_JOURNAL.md"
+      "title": "CHAPTER IV: JONATHAN HARKER\u2019S JOURNAL--_continued_",
+      "file": "06_CHAPTER_IV__JONATHAN_HARKER_S.md"
     },
     {
-      "title": "(_Kept in shorthand._)",
-      "file": "07_Kept_in_shorthand.md"
+      "title": "CHAPTER V: _Letter from Miss Mina Murray to Miss Lucy Westenra._",
+      "file": "07_CHAPTER_V___Letter_from_Miss_M.md"
     },
     {
-      "title": "here of noble width and depth, took us among the traditions of Turkish",
-      "file": "08_here_of_noble_width_and_depth.md"
+      "title": "CHAPTER VI: MINA MURRAY\u2019S JOURNAL",
+      "file": "08_CHAPTER_VI__MINA_MURRAY_S_JOUR.md"
     },
     {
-      "title": "Carpathians. I found my smattering of German very useful here; indeed, I",
-      "file": "09_Carpathians__I_found_my_smatte.md"
+      "title": "CHAPTER VII: CUTTING FROM \u201cTHE DAILYGRAPH,\u201d 8 AUGUST",
+      "file": "09_CHAPTER_VII__CUTTING_FROM__THE.md"
     },
     {
-      "title": "here some of my notes, as they may refresh my memory when I talk over my",
-      "file": "10_here_some_of_my_notes__as_they.md"
+      "title": "CHAPTER VIII: MINA MURRAY\u2019S JOURNAL",
+      "file": "10_CHAPTER_VIII__MINA_MURRAY_S_JO.md"
     },
     {
-      "title": "imaginative whirlpool; if so my stay may be very interesting. (_Mem._, I",
-      "file": "11_imaginative_whirlpool__if_so_m.md"
+      "title": "CHAPTER IX: _Letter, Mina Harker to Lucy Westenra._",
+      "file": "11_CHAPTER_IX___Letter__Mina_Hark.md"
     },
     {
-      "title": "CHAPTER II",
-      "file": "12_CHAPTER_II.md"
+      "title": "CHAPTER X: _Letter, Dr. Seward to Hon. Arthur Holmwood._",
+      "file": "12_CHAPTER_X___Letter__Dr__Seward.md"
     },
     {
-      "title": "CHAPTER III",
-      "file": "13_CHAPTER_III.md"
+      "title": "CHAPTER XI: _Lucy Westenra\u2019s Diary._",
+      "file": "13_CHAPTER_XI___Lucy_Westenra_s_D.md"
     },
     {
-      "title": "CHAPTER IV",
-      "file": "14_CHAPTER_IV.md"
+      "title": "CHAPTER XII: DR. SEWARD\u2019S DIARY",
+      "file": "14_CHAPTER_XII__DR__SEWARD_S_DIAR.md"
     },
     {
-      "title": "CHAPTER V",
-      "file": "15_CHAPTER_V.md"
+      "title": "CHAPTER XIII: DR. SEWARD\u2019S DIARY--_continued_.",
+      "file": "15_CHAPTER_XIII__DR__SEWARD_S_DIA.md"
     },
     {
-      "title": "CHAPTER VI",
-      "file": "16_CHAPTER_VI.md"
+      "title": "CHAPTER XIV: MINA HARKER\u2019S JOURNAL",
+      "file": "16_CHAPTER_XIV__MINA_HARKER_S_JOU.md"
     },
     {
-      "title": "CHAPTER VII",
-      "file": "17_CHAPTER_VII.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "17_CHAPTER_I__Jonathan_Harker_s_J.md"
     },
     {
-      "title": "CHAPTER VIII",
-      "file": "18_CHAPTER_VIII.md"
+      "title": "CHAPTER XV: DR. SEWARD\u2019S DIARY--_continued_.",
+      "file": "18_CHAPTER_XV__DR__SEWARD_S_DIARY.md"
     },
     {
-      "title": "CHAPTER IX",
-      "file": "19_CHAPTER_IX.md"
+      "title": "CHAPTER XVI: DR. SEWARD\u2019S DIARY--_continued_",
+      "file": "19_CHAPTER_XVI__DR__SEWARD_S_DIAR.md"
     },
     {
-      "title": "CHAPTER X",
-      "file": "20_CHAPTER_X.md"
+      "title": "CHAPTER XVII: DR. SEWARD\u2019S DIARY--_continued_",
+      "file": "20_CHAPTER_XVII__DR__SEWARD_S_DIA.md"
     },
     {
-      "title": "CHAPTER XI",
-      "file": "21_CHAPTER_XI.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "21_CHAPTER_I__Jonathan_Harker_s_J.md"
     },
     {
-      "title": "CHAPTER XII",
-      "file": "22_CHAPTER_XII.md"
+      "title": "CHAPTER XVIII: DR. SEWARD\u2019S DIARY",
+      "file": "22_CHAPTER_XVIII__DR__SEWARD_S_DI.md"
     },
     {
-      "title": "CHAPTER XIII",
-      "file": "23_CHAPTER_XIII.md"
+      "title": "CHAPTER XIX: JONATHAN HARKER\u2019S JOURNAL",
+      "file": "23_CHAPTER_XIX__JONATHAN_HARKER_S.md"
     },
     {
-      "title": "CHAPTER XIV",
-      "file": "24_CHAPTER_XIV.md"
+      "title": "CHAPTER XX: JONATHAN HARKER\u2019S JOURNAL",
+      "file": "24_CHAPTER_XX__JONATHAN_HARKER_S.md"
     },
     {
-      "title": "CHAPTER XV",
-      "file": "25_CHAPTER_XV.md"
+      "title": "CHAPTER XXI: DR. SEWARD\u2019S DIARY",
+      "file": "25_CHAPTER_XXI__DR__SEWARD_S_DIAR.md"
     },
     {
-      "title": "CHAPTER XVI",
-      "file": "26_CHAPTER_XVI.md"
+      "title": "CHAPTER XXII: JONATHAN HARKER\u2019S JOURNAL",
+      "file": "26_CHAPTER_XXII__JONATHAN_HARKER.md"
     },
     {
-      "title": "CHAPTER XVII",
-      "file": "27_CHAPTER_XVII.md"
+      "title": "CHAPTER XXIII: DR. SEWARD\u2019S DIARY",
+      "file": "27_CHAPTER_XXIII__DR__SEWARD_S_DI.md"
     },
     {
-      "title": "CHAPTER XVIII",
-      "file": "28_CHAPTER_XVIII.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "28_CHAPTER_I__Jonathan_Harker_s_J.md"
     },
     {
-      "title": "CHAPTER XIX",
-      "file": "29_CHAPTER_XIX.md"
+      "title": "CHAPTER XXIV: DR. SEWARD\u2019S PHONOGRAPH DIARY, SPOKEN BY VAN HELSING",
+      "file": "29_CHAPTER_XXIV__DR__SEWARD_S_PHO.md"
     },
     {
-      "title": "JONATHAN HARKER\u2019S JOURNAL",
-      "file": "30_JONATHAN_HARKER_S_JOURNAL.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "30_CHAPTER_I__Jonathan_Harker_s_J.md"
     },
     {
-      "title": "CHAPTER XX",
-      "file": "31_CHAPTER_XX.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "31_CHAPTER_I__Jonathan_Harker_s_J.md"
     },
     {
-      "title": "JONATHAN HARKER\u2019S JOURNAL",
-      "file": "32_JONATHAN_HARKER_S_JOURNAL.md"
+      "title": "CHAPTER XXV: DR. SEWARD\u2019S DIARY",
+      "file": "32_CHAPTER_XXV__DR__SEWARD_S_DIAR.md"
     },
     {
-      "title": "CHAPTER XXI",
-      "file": "33_CHAPTER_XXI.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "33_CHAPTER_I__Jonathan_Harker_s_J.md"
     },
     {
-      "title": "CHAPTER XXII",
-      "file": "34_CHAPTER_XXII.md"
+      "title": "CHAPTER XXVI: DR. SEWARD\u2019S DIARY",
+      "file": "34_CHAPTER_XXVI__DR__SEWARD_S_DIA.md"
     },
     {
-      "title": "JONATHAN HARKER\u2019S JOURNAL",
-      "file": "35_JONATHAN_HARKER_S_JOURNAL.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "35_CHAPTER_I__Jonathan_Harker_s_J.md"
     },
     {
-      "title": "CHAPTER XXIII",
-      "file": "36_CHAPTER_XXIII.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "36_CHAPTER_I__Jonathan_Harker_s_J.md"
     },
     {
-      "title": "CHAPTER XXIV",
-      "file": "37_CHAPTER_XXIV.md"
+      "title": "CHAPTER XXVII: MINA HARKER\u2019S JOURNAL",
+      "file": "37_CHAPTER_XXVII__MINA_HARKER_S_J.md"
     },
     {
-      "title": "CHAPTER XXV",
-      "file": "38_CHAPTER_XXV.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "38_CHAPTER_I__Jonathan_Harker_s_J.md"
     },
     {
-      "title": "CHAPTER XXVI",
-      "file": "39_CHAPTER_XXVI.md"
-    },
-    {
-      "title": "CHAPTER XXVII",
-      "file": "40_CHAPTER_XXVII.md"
+      "title": "CHAPTER I. Jonathan Harker\u2019s Journal",
+      "file": "39_CHAPTER_I__Jonathan_Harker_s_J.md"
     }
   ]
 }

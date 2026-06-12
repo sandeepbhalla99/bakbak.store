@@ -2,8 +2,6 @@
 
 A LOVER’S COMPLAINT
 
-
-
 From off a hill whose concave womb reworded
 A plaintful story from a sist’ring vale,
 My spirits t’attend this double voice accorded,
@@ -308,13 +306,7 @@ O most potential love! Vow, bond, nor space,
 In thee hath neither sting, knot, nor confine,
 For thou art all and all things else are thine.
 
-‘“When thou impressest, what are precepts worth
-Of stale example? When thou wilt inflame,
-How coldly those impediments stand forth,
-Of wealth, of filial fear, law, kindred, fame!
-Love’s arms are peace, ’gainst rule, ’gainst sense, ’gainst shame,
-And sweetens, in the suff’ring pangs it bears,
-The aloes of all forces, shocks and fears.
+‘“When thou impressest, what are precepts worth Of stale example? When thou wilt inflame, How coldly those impediments stand forth, Of wealth, of filial fear, law, kindred, fame! Love’s arms are peace, ’gainst rule, ’gainst sense, ’gainst shame, And sweetens, in the suff’ring pangs it bears, The aloes of all forces, shocks and fears.
 
 ‘“Now all these hearts that do on mine depend,
 Feeling it break, with bleeding groans they pine,

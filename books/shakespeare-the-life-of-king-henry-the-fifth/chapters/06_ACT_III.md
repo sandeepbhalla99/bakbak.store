@@ -1,3 +1,0 @@
-# ACT III
-
-Chorus.

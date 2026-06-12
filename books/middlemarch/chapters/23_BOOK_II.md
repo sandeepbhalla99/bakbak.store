@@ -1,3 +1,0 @@
-# BOOK II.
-
-OLD AND YOUNG.

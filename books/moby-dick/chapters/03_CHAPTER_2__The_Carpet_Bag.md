@@ -1,2 +1,0 @@
-# CHAPTER 2. The Carpet-Bag.
-

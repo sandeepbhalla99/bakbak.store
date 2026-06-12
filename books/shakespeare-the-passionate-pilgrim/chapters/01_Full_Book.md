@@ -2,11 +2,7 @@
 
 THE PASSIONATE PILGRIM
 
-
-
-
 I
-
 
 When my love swears that she is made of truth,
 I do believe her, though I know she lies,
@@ -20,14 +16,10 @@ But wherefore says my love that she is young?
 And wherefore say not I that I am old?
 O, love’s best habit is a soothing tongue,
 And age, in love, loves not to have years told.
-    Therefore, I’ll lie with love, and love with me,
-    Since that our faults in love thus smother’d be.
-
-
-
+Therefore, I’ll lie with love, and love with me,
+Since that our faults in love thus smother’d be.
 
 II
-
 
 Two loves I have, of comfort and despair,
 That like two spirits do suggest me still;
@@ -41,14 +33,10 @@ And whether that my angel be turn’d fiend,
 Suspect I may, yet not directly tell;
 For being both to me, both to each friend,
 I guess one angel in another’s hell:
-    The truth I shall not know, but live in doubt,
-    Till my bad angel fire my good one out.
-
-
-
+The truth I shall not know, but live in doubt,
+Till my bad angel fire my good one out.
 
 III
-
 
 Did not the heavenly rhetoric of thine eye,
 ’Gainst whom the world could not hold argument,
@@ -62,14 +50,10 @@ My vow was breath, and breath a vapour is;
 Then, thou fair sun, that on this earth doth shine,
 Exhale this vapour vow; in thee it is;
 If broken then, it is no fault of mine.
-    If by me broke, what fool is not so wise
-    To break an oath, to win a paradise?
-
-
-
+If by me broke, what fool is not so wise
+To break an oath, to win a paradise?
 
 IV
-
 
 Sweet Cytherea, sitting by a brook
 With young Adonis, lovely, fresh and green,
@@ -83,35 +67,14 @@ But whether unripe years did want conceit,
 Or he refus’d to take her figur’d proffer,
 The tender nibbler would not touch the bait,
 But smile and jest at every gentle offer.
-    Then fell she on her back, fair queen, and toward:
-    He rose and ran away; ah, fool too froward!
-
-
-
+Then fell she on her back, fair queen, and toward:
+He rose and ran away; ah, fool too froward!
 
 V
 
-
-If love make me forsworn, how shall I swear to love?
-O never faith could hold, if not to beauty vowed.
-Though to myself forsworn, to thee I’ll constant prove;
-Those thoughts, to me like oaks, to thee like osiers bowed.
-Study his bias leaves, and makes his book thine eyes,
-Where all those pleasures live that art can comprehend.
-If knowledge be the mark, to know thee shall suffice;
-Well learned is that tongue that well can thee commend,
-All ignorant that soul that sees thee without wonder;
-Which is to me some praise, that I thy parts admire.
-Thine eye Jove’s lightning seems, thy voice his dreadful thunder,
-Which, not to anger bent, is music and sweet fire.
-    Celestial as thou art, O do not love that wrong,
-    To sing heaven’s praise with such an earthly tongue.
-
-
-
+If love make me forsworn, how shall I swear to love? O never faith could hold, if not to beauty vowed. Though to myself forsworn, to thee I’ll constant prove; Those thoughts, to me like oaks, to thee like osiers bowed. Study his bias leaves, and makes his book thine eyes, Where all those pleasures live that art can comprehend. If knowledge be the mark, to know thee shall suffice; Well learned is that tongue that well can thee commend, All ignorant that soul that sees thee without wonder; Which is to me some praise, that I thy parts admire. Thine eye Jove’s lightning seems, thy voice his dreadful thunder, Which, not to anger bent, is music and sweet fire. Celestial as thou art, O do not love that wrong, To sing heaven’s praise with such an earthly tongue.
 
 VI
-
 
 Scarce had the sun dried up the dewy morn,
 And scarce the herd gone to the hedge for shade,
@@ -125,41 +88,23 @@ Anon he comes, and throws his mantle by,
 And stood stark naked on the brook’s green brim:
 The sun look’d on the world with glorious eye,
 Yet not so wistly as this queen on him.
-    He, spying her, bounc’d in, whereas he stood,
-    “O Jove,” quoth she, “why was not I a flood?”
-
-
-
+He, spying her, bounc’d in, whereas he stood,
+“O Jove,” quoth she, “why was not I a flood?”
 
 VII
-
 
 Fair is my love, but not so fair as fickle,
 Mild as a dove, but neither true nor trusty,
 Brighter than glass, and yet, as glass is, brittle,
 Softer than wax, and yet, as iron, rusty:
-    A lily pale, with damask dye to grace her,
-    None fairer, nor none falser to deface her.
+A lily pale, with damask dye to grace her,
+None fairer, nor none falser to deface her.
 
-Her lips to mine how often hath she joined,
-Between each kiss her oaths of true love swearing!
-How many tales to please me hath she coined,
-Dreading my love, the loss thereof still fearing!
-    Yet in the midst of all her pure protestings,
-    Her faith, her oaths, her tears, and all were jestings.
+Her lips to mine how often hath she joined, Between each kiss her oaths of true love swearing! How many tales to please me hath she coined, Dreading my love, the loss thereof still fearing! Yet in the midst of all her pure protestings, Her faith, her oaths, her tears, and all were jestings.
 
-She burnt with love, as straw with fire flameth;
-She burnt out love, as soon as straw out-burneth;
-She fram’d the love, and yet she foil’d the framing;
-She bade love last, and yet she fell a-turning.
-    Was this a lover, or a lecher whether?
-    Bad in the best, though excellent in neither.
-
-
-
+She burnt with love, as straw with fire flameth; She burnt out love, as soon as straw out-burneth; She fram’d the love, and yet she foil’d the framing; She bade love last, and yet she fell a-turning. Was this a lover, or a lecher whether? Bad in the best, though excellent in neither.
 
 VIII
-
 
 If music and sweet poetry agree,
 As they must needs, the sister and the brother,
@@ -173,17 +118,13 @@ Thou lov’st to hear the sweet melodious sound
 That Phœbus’ lute, the queen of music, makes;
 And I in deep delight am chiefly drown’d
 Whenas himself to singing he betakes.
-    One god is god of both, as poets feign;
-    One knight loves both, and both in thee remain.
-
-
-
+One god is god of both, as poets feign;
+One knight loves both, and both in thee remain.
 
 IX
 
-
 Fair was the morn when the fair queen of love,
-        *        *        *        *        *        *
+*        *        *        *        *        *
 Paler for sorrow than her milk-white dove,
 For Adon’s sake, a youngster proud and wild;
 Her stand she takes upon a steep-up hill;
@@ -194,34 +135,21 @@ Forbade the boy he should not pass those grounds.
 Here in these brakes deep-wounded with a boar,
 Deep in the thigh, a spectacle of ruth!
 See in my thigh,” quoth she, “here was the sore.”
-    She showed hers: he saw more wounds than one,
-    And blushing fled, and left her all alone.
-
-
-
+She showed hers: he saw more wounds than one,
+And blushing fled, and left her all alone.
 
 X
 
-
-Sweet rose, fair flower, untimely pluck’d, soon vaded,
-Pluck’d in the bud and vaded in the spring!
-Bright orient pearl, alack, too timely shaded!
-Fair creature, kill’d too soon by death’s sharp sting!
-    Like a green plum that hangs upon a tree,
-    And falls, through wind, before the fall should be.
+Sweet rose, fair flower, untimely pluck’d, soon vaded, Pluck’d in the bud and vaded in the spring! Bright orient pearl, alack, too timely shaded! Fair creature, kill’d too soon by death’s sharp sting! Like a green plum that hangs upon a tree, And falls, through wind, before the fall should be.
 
 I weep for thee, and yet no cause I have;
 For why thou left’st me nothing in thy will;
 And yet thou left’st me more than I did crave;
 For why I craved nothing of thee still.
-    O yes, dear friend, I pardon crave of thee,
-    Thy discontent thou didst bequeath to me.
-
-
-
+O yes, dear friend, I pardon crave of thee,
+Thy discontent thou didst bequeath to me.
 
 XI
-
 
 Venus, with young Adonis sitting by her
 Under a myrtle shade, began to woo him;
@@ -235,117 +163,82 @@ As if the boy should use like loving charms;
 And with her lips on his did act the seizure;
 And as she fetched breath, away he skips,
 And would not take her meaning nor her pleasure.
-    Ah, that I had my lady at this bay,
-    To kiss and clip me till I run away!
-
-
-
+Ah, that I had my lady at this bay,
+To kiss and clip me till I run away!
 
 XII
-
 
 Crabbed age and youth cannot live together:
 Youth is full of pleasance, age is full of care;
 Youth like summer morn, age like winter weather;
 Youth like summer brave, age like winter bare.
 Youth is full of sport, age’s breath is short;
-    Youth is nimble, age is lame;
+Youth is nimble, age is lame;
 Youth is hot and bold, age is weak and cold;
-    Youth is wild, and age is tame.
+Youth is wild, and age is tame.
 Age, I do abhor thee; youth, I do adore thee;
-    O, my love, my love is young!
+O, my love, my love is young!
 Age, I do defy thee. O, sweet shepherd, hie thee,
 For methinks thou stay’st too long.
 
-
-
-
 XIII
-
 
 Beauty is but a vain and doubtful good,
 A shining gloss that vadeth suddenly;
 A flower that dies when first it ’gins to bud;
 A brittle glass that’s broken presently:
-    A doubtful good, a gloss, a glass, a flower,
-    Lost, vaded, broken, dead within an hour.
+A doubtful good, a gloss, a glass, a flower,
+Lost, vaded, broken, dead within an hour.
 
 And as goods lost are seld or never found,
 As vaded gloss no rubbing will refresh,
 As flowers dead lie wither’d on the ground,
 As broken glass no cement can redress,
-    So beauty blemish’d once, for ever’s lost,
-    In spite of physic, painting, pain and cost.
-
-
-
+So beauty blemish’d once, for ever’s lost,
+In spite of physic, painting, pain and cost.
 
 XIV
-
 
 Good night, good rest. Ah, neither be my share:
 She bade good night that kept my rest away;
 And daff’d me to a cabin hang’d with care,
 To descant on the doubts of my decay.
-    “Farewell,” quoth she, “and come again tomorrow:”
-    Fare well I could not, for I supp’d with sorrow.
+“Farewell,” quoth she, “and come again tomorrow:”
+Fare well I could not, for I supp’d with sorrow.
 
 Yet at my parting sweetly did she smile,
 In scorn or friendship, nill I conster whether:
 ’T may be, she joy’d to jest at my exile,
 ’T may be, again to make me wander thither:
-    “Wander,” a word for shadows like myself,
-    As take the pain, but cannot pluck the pelf.
+“Wander,” a word for shadows like myself,
+As take the pain, but cannot pluck the pelf.
 
 Lord, how mine eyes throw gazes to the east!
 My heart doth charge the watch; the morning rise
 Doth cite each moving sense from idle rest.
 Not daring trust the office of mine eyes,
-    While Philomela sits and sings, I sit and mark,
-    And wish her lays were tuned like the lark.
+While Philomela sits and sings, I sit and mark,
+And wish her lays were tuned like the lark.
 
 For she doth welcome daylight with her ditty,
 And drives away dark dreaming night.
 The night so pack’d, I post unto my pretty;
 Heart hath his hope and eyes their wished sight;
-    Sorrow chang’d to solace, solace mix’d with sorrow;
-    For why, she sigh’d, and bade me come tomorrow.
+Sorrow chang’d to solace, solace mix’d with sorrow;
+For why, she sigh’d, and bade me come tomorrow.
 
 Were I with her, the night would post too soon;
 But now are minutes added to the hours;
 To spite me now, each minute seems a moon;
 Yet not for me, shine sun to succour flowers!
-    Pack night, peep day; good day, of night now borrow:
-    Short, night, tonight, and length thyself tomorrow.
-
-
-
+Pack night, peep day; good day, of night now borrow:
+Short, night, tonight, and length thyself tomorrow.
 
 XV
 
-
-It was a lording’s daughter, the fairest one of three,
-That liked of her master as well as well might be,
-Till looking on an Englishman, the fairest that eye could see,
-    Her fancy fell a-turning.
-Long was the combat doubtful, that love with love did fight,
-To leave the master loveless, or kill the gallant knight;
-To put in practice either, alas, it was a spite
-    Unto the silly damsel!
-But one must be refused; more mickle was the pain,
-That nothing could be used to turn them both to gain,
-For of the two the trusty knight was wounded with disdain:
-    Alas she could not help it!
-Thus art with arms contending was victor of the day,
-Which by a gift of learning did bear the maid away:
-Then lullaby, the learned man hath got the lady gay;
-    For now my song is ended.
-
-
-
+It was a lording’s daughter, the fairest one of three, That liked of her master as well as well might be, Till looking on an Englishman, the fairest that eye could see, Her fancy fell a-turning. Long was the combat doubtful, that love with love did fight, To leave the master loveless, or kill the gallant knight; To put in practice either, alas, it was a spite Unto the silly damsel! But one must be refused; more mickle was the pain, That nothing could be used to turn them both to gain, For of the two the trusty knight was wounded with disdain: Alas she could not help it! Thus art with arms contending was victor of the day, Which by a gift of learning did bear the maid away: Then lullaby, the learned man hath got the lady gay; For now my song is ended.
 
 XVI
-
 
 On a day, alack the day!
 Love, whose month was ever May,
@@ -366,11 +259,7 @@ Juno but an Ethiope were,
 And deny himself for Jove,
 Turning mortal for thy love.”
 
-
-
-
 XVII
-
 
 My flocks feed not, my ewes breed not,
 My rams speed not, all is amis:
@@ -411,80 +300,72 @@ For a sweet content, the cause of all my woe!
 Poor Corydon must live alone;
 Other help for him I see that there is none.
 
-
-
-
 XVIII
-
 
 Whenas thine eye hath chose the dame,
 And stall’d the deer that thou shouldst strike,
 Let reason rule things worthy blame,
 As well as fancy, partial might;
-    Take counsel of some wiser head,
-    Neither too young nor yet unwed.
+Take counsel of some wiser head,
+Neither too young nor yet unwed.
 
 And when thou com’st thy tale to tell,
 Smooth not thy tongue with filed talk,
 Least she some subtle practice smell,—
 A cripple soon can find a halt,—
-    But plainly say thou lov’st her well,
-    And set her person forth to sale.
+But plainly say thou lov’st her well,
+And set her person forth to sale.
 
 What though her frowning brows be bent,
 Her cloudy looks will calm ere night,
 And then too late she will repent,
 That thus dissembled her delight;
-    And twice desire, ere it be day,
-    That which with scorn she put away.
+And twice desire, ere it be day,
+That which with scorn she put away.
 
 What though she strive to try her strength,
 And ban and brawl, and say thee nay,
 Her feeble force will yield at length,
 When craft hath taught her thus to say:
-    “Had women been so strong as men,
-    In faith, you had not had it then.”
+“Had women been so strong as men,
+In faith, you had not had it then.”
 
 And to her will frame all thy ways;
 Spare not to spend, and chiefly there
 Where thy desert may merit praise,
 By ringing in thy lady’s ear:
-    The strongest castle, tower and town,
-    The golden bullet beats it down.
+The strongest castle, tower and town,
+The golden bullet beats it down.
 
 Serve always with assured trust,
 And in thy suit be humble true;
 Unless thy lady prove unjust,
 Press never thou to choose a new:
-    When time shall serve, be thou not slack,
-    To proffer, though she put thee back.
+When time shall serve, be thou not slack,
+To proffer, though she put thee back.
 
 The wiles and guiles that women work,
 Dissembled with an outward show,
 The tricks and toys that in them lurk,
 The cock that treads them shall not know,
-    Have you not heard it said full oft,
-    A woman’s nay doth stand for nought.
+Have you not heard it said full oft,
+A woman’s nay doth stand for nought.
 
 Think women still to strive with men,
 To sin and never for to saint:
 There is no heaven, by holy then,
 When time with age shall them attaint,
-    Were kisses all the joys in bed,
-    One woman would another wed.
+Were kisses all the joys in bed,
+One woman would another wed.
 
 But soft, enough,—too much,—I fear
 Lest that my mistress hear my song:
 She will not stick to round me on th’ ear,
 To teach my tongue to be so long.
-    Yet will she blush, here be it said,
-    To hear her secrets so bewray’d.
-
-
-
+Yet will she blush, here be it said,
+To hear her secrets so bewray’d.
 
 XIX
-
 
 Live with me and be my love,
 And we will all the pleasures prove
@@ -513,11 +394,7 @@ And truth in every shepherd’s tongue,
 These pretty pleasures might me move
 To live with thee and be thy love.
 
-
-
-
 XX
-
 
 As it fell upon a day
 In the merry month of May,

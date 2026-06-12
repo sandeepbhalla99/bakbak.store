@@ -1,4 +1,3 @@
 # CHAPTER XXXIII.
 
-A Nigger Stealer.—Southern Hospitality.—A Pretty Long Blessing.—Tar and
-Feathers.
+A Nigger Stealer.—Southern Hospitality.—A Pretty Long Blessing.—Tar and Feathers.

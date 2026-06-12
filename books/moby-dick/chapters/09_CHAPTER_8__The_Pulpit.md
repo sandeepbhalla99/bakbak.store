@@ -1,2 +1,0 @@
-# CHAPTER 8. The Pulpit.
-

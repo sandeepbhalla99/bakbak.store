@@ -1,3 +1,0 @@
-# CHAPTER XXX.
-
-The King Went for Him.—A Royal Row.—Powerful Mellow.

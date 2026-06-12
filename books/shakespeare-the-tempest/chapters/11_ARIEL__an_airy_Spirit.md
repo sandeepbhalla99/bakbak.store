@@ -1,2 +1,0 @@
-# ARIEL, an airy Spirit
-

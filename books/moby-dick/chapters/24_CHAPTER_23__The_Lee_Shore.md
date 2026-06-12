@@ -1,2 +1,0 @@
-# CHAPTER 23. The Lee Shore.
-

@@ -2,5 +2,6 @@
 
 THE TRAGEDY OF ANTONY AND CLEOPATRA
 
-
 Contents
+
+ACT I

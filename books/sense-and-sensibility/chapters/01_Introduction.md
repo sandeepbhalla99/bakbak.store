@@ -2,46 +2,28 @@
 
 Transcriber's Note:
 
-The Table of Contents is not part of the original book. The illustration
-on page 290 is missing from the book. The Introduction ends abruptly.
-Seems incomplete.
+The Table of Contents is not part of the original book. The illustration on page 290 is missing from the book. The Introduction ends abruptly. Seems incomplete.
 
+[Illustration: _Mr. Dashwood introduced him._--P. 219.]
 
-       [Illustration: _Mr. Dashwood introduced him._--P. 219.]
+SENSE & SENSIBILITY
 
+BY
 
+JANE AUSTEN
 
-                         SENSE & SENSIBILITY
+WITH AN INTRODUCTION
 
+BY
 
+AUSTIN DOBSON
 
-                                  BY
+ILLUSTRATED
 
-                             JANE AUSTEN
+BY
 
+HUGH THOMSON
 
+LONDON: MACMILLAN AND CO., LIMITED
 
-                         WITH AN INTRODUCTION
-
-
-                                  BY
-
-                            AUSTIN DOBSON
-
-
-
-                             ILLUSTRATED
-
-
-                                  BY
-
-                             HUGH THOMSON
-
-
-
-
-
-
-                  LONDON: MACMILLAN AND CO., LIMITED
-
-                   NEW YORK: THE MACMILLAN COMPANY
+NEW YORK: THE MACMILLAN COMPANY

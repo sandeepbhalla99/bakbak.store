@@ -11,152 +11,112 @@
       "file": "01_Introduction.md"
     },
     {
-      "title": "INDUCTION",
-      "file": "02_INDUCTION.md"
-    },
-    {
-      "title": "Scene III. York. The Archbishop\u2019s palace.",
-      "file": "03_Scene_III__York__The_Archbisho.md"
-    },
-    {
-      "title": "Scene IV. The Boar\u2019s head Tavern in Eastcheap.",
-      "file": "04_Scene_IV__The_Boar_s_head_Tave.md"
-    },
-    {
-      "title": "Scene II. Gloucestershire. Before Justice Shallow\u2019s house.",
-      "file": "05_Scene_II__Gloucestershire__Bef.md"
-    },
-    {
-      "title": "Scene V. Another chamber.",
-      "file": "06_Scene_V__Another_chamber.md"
-    },
-    {
-      "title": "Scene V. A public place near Westminster Abbey.",
-      "file": "07_Scene_V__A_public_place_near_W.md"
-    },
-    {
-      "title": "EPILOGUE",
-      "file": "08_EPILOGUE.md"
-    },
-    {
-      "title": "Dramatis Person\u00e6",
-      "file": "09_Dramatis_Person.md"
-    },
-    {
       "title": "SCENE: England.",
-      "file": "10_SCENE__England.md"
+      "file": "02_SCENE__England.md"
     },
     {
       "title": "INDUCTION",
-      "file": "11_INDUCTION.md"
-    },
-    {
-      "title": "Making the wind my post-horse, still unfold",
-      "file": "12_Making_the_wind_my_post_horse.md"
-    },
-    {
-      "title": "Upon my tongues continual slanders ride,",
-      "file": "13_Upon_my_tongues_continual_slan.md"
+      "file": "03_INDUCTION.md"
     },
     {
       "title": "ACT I",
-      "file": "14_ACT_I.md"
+      "file": "04_ACT_I.md"
     },
     {
-      "title": "SCENE I. The same.",
-      "file": "15_SCENE_I__The_same.md"
+      "title": "Scene I. The same",
+      "file": "05_Scene_I__The_same.md"
     },
     {
-      "title": "SCENE II. London. A street.",
-      "file": "16_SCENE_II__London__A_street.md"
+      "title": "Scene II. London. A street",
+      "file": "06_Scene_II__London__A_street.md"
     },
     {
-      "title": "SCENE III. York. The Archbishop\u2019s palace.",
-      "file": "17_SCENE_III__York__The_Archbisho.md"
+      "title": "Scene III. York. The Archbishop\u2019s palace",
+      "file": "07_Scene_III__York__The_Archbisho.md"
     },
     {
       "title": "ACT II",
-      "file": "18_ACT_II.md"
+      "file": "08_ACT_II.md"
     },
     {
-      "title": "SCENE I. London. A street.",
-      "file": "19_SCENE_I__London__A_street.md"
+      "title": "Scene II. London. A street",
+      "file": "09_Scene_II__London__A_street.md"
     },
     {
-      "title": "SCENE II. London. Another street.",
-      "file": "20_SCENE_II__London__Another_stre.md"
+      "title": "Scene II. London. Another street",
+      "file": "10_Scene_II__London__Another_stre.md"
     },
     {
-      "title": "SCENE III. Warkworth. Before the castle.",
-      "file": "21_SCENE_III__Warkworth__Before_t.md"
+      "title": "Scene III. Warkworth. Before the castle",
+      "file": "11_Scene_III__Warkworth__Before_t.md"
     },
     {
-      "title": "SCENE IV. London. The Boar\u2019s head Tavern in Eastcheap.",
-      "file": "22_SCENE_IV__London__The_Boar_s_h.md"
+      "title": "SCENE IV. London. The Boar\u2019s head Tavern in Eastcheap: Enter two Drawers.",
+      "file": "12_SCENE_IV__London__The_Boar_s_h.md"
     },
     {
       "title": "ACT III",
-      "file": "23_ACT_III.md"
+      "file": "13_ACT_III.md"
     },
     {
-      "title": "SCENE I. Westminster. The palace.",
-      "file": "24_SCENE_I__Westminster__The_pala.md"
+      "title": "Scene I. Westminster. The palace",
+      "file": "14_Scene_I__Westminster__The_pala.md"
     },
     {
-      "title": "SCENE II. Gloucestershire. Before Justice Shallow\u2019s house.",
-      "file": "25_SCENE_II__Gloucestershire__Bef.md"
+      "title": "Scene II. Gloucestershire. Before Justice Shallow\u2019s house",
+      "file": "15_Scene_II__Gloucestershire__Bef.md"
     },
     {
       "title": "ACT IV",
-      "file": "26_ACT_IV.md"
+      "file": "16_ACT_IV.md"
     },
     {
-      "title": "SCENE I. Yorkshire. Gaultree Forest.",
-      "file": "27_SCENE_I__Yorkshire__Gaultree_F.md"
+      "title": "Scene I. Yorkshire. Gaultree Forest",
+      "file": "17_Scene_I__Yorkshire__Gaultree_F.md"
     },
     {
-      "title": "SCENE II. Another part of the forest.",
-      "file": "28_SCENE_II__Another_part_of_the.md"
+      "title": "Scene II. Another part of the forest",
+      "file": "18_Scene_II__Another_part_of_the.md"
     },
     {
-      "title": "SCENE III. Another part of the forest.",
-      "file": "29_SCENE_III__Another_part_of_the.md"
+      "title": "Scene II. Another part of the forest",
+      "file": "19_Scene_II__Another_part_of_the.md"
     },
     {
-      "title": "SCENE IV. Westminster. The Jerusalem Chamber.",
-      "file": "30_SCENE_IV__Westminster__The_Jer.md"
+      "title": "Scene IV. Westminster. The Jerusalem Chamber",
+      "file": "20_Scene_IV__Westminster__The_Jer.md"
     },
     {
-      "title": "SCENE V. Another chamber.",
-      "file": "31_SCENE_V__Another_chamber.md"
+      "title": "Scene V. Another chamber",
+      "file": "21_Scene_V__Another_chamber.md"
     },
     {
       "title": "ACT V",
-      "file": "32_ACT_V.md"
+      "file": "22_ACT_V.md"
     },
     {
-      "title": "SCENE I. Gloucestershire. Shallow\u2019s house.",
-      "file": "33_SCENE_I__Gloucestershire__Shal.md"
+      "title": "Scene I. Gloucestershire. Shallow\u2019s house",
+      "file": "23_Scene_I__Gloucestershire__Shal.md"
     },
     {
-      "title": "SCENE II. Westminster. The palace.",
-      "file": "34_SCENE_II__Westminster__The_pal.md"
+      "title": "Scene I. Westminster. The palace",
+      "file": "24_Scene_I__Westminster__The_pala.md"
     },
     {
-      "title": "SCENE III. Gloucestershire. Shallow\u2019s orchard.",
-      "file": "35_SCENE_III__Gloucestershire__Sh.md"
+      "title": "Scene III. Gloucestershire. Shallow\u2019s orchard",
+      "file": "25_Scene_III__Gloucestershire__Sh.md"
     },
     {
-      "title": "SCENE IV. London. A street.",
-      "file": "36_SCENE_IV__London__A_street.md"
+      "title": "Scene II. London. A street",
+      "file": "26_Scene_II__London__A_street.md"
     },
     {
-      "title": "SCENE V. A public place near Westminster Abbey.",
-      "file": "37_SCENE_V__A_public_place_near_W.md"
+      "title": "Scene V. A public place near Westminster Abbey",
+      "file": "27_Scene_V__A_public_place_near_W.md"
     },
     {
-      "title": "EPILOGUE.",
-      "file": "38_EPILOGUE.md"
+      "title": "EPILOGUE",
+      "file": "28_EPILOGUE.md"
     }
   ]
 }

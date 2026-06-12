@@ -1,7 +1,6 @@
 # SCENE II. The coast of Wales. A castle in view.
 
-Flourish: drums and trumpets. Enter King Richard, the Bishop of
- Carlisle, Aumerle and soldiers.
+Flourish: drums and trumpets. Enter King Richard, the Bishop of Carlisle, Aumerle and soldiers.
 
 KING RICHARD.
 Barkloughly Castle call they this at hand?
@@ -77,7 +76,7 @@ God for his Richard hath in heavenly pay
 A glorious angel. Then, if angels fight,
 Weak men must fall, for heaven still guards the right.
 
- Enter Salisbury.
+Enter Salisbury.
 
 Welcome, my lord. How far off lies your power?
 
@@ -118,7 +117,7 @@ Ye favourites of a king. Are we not high?
 High be our thoughts. I know my uncle York
 Hath power enough to serve our turn. But who comes here?
 
- Enter Sir Stephen Scroop.
+Enter Sir Stephen Scroop.
 
 SCROOP.
 More health and happiness betide my liege
@@ -286,4 +285,4 @@ That wounds me with the flatteries of his tongue.
 Discharge my followers. Let them hence away,
 From Richard’s night to Bolingbroke’s fair day.
 
- [_Exeunt._]
+[_Exeunt._]

@@ -1,2 +1,0 @@
-# STORY OF THE DOOR
-

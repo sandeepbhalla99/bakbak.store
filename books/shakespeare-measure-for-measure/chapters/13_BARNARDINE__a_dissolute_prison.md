@@ -1,2 +1,0 @@
-# BARNARDINE, a dissolute prisoner
-

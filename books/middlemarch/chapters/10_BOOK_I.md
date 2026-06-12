@@ -1,3 +1,0 @@
-# BOOK I.
-
-MISS BROOKE.

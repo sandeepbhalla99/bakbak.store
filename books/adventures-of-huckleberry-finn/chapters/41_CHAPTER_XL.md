@@ -1,3 +1,0 @@
-# CHAPTER XL.
-
-Fishing.—The Vigilance Committee.—A Lively Run.—Jim Advises a Doctor.

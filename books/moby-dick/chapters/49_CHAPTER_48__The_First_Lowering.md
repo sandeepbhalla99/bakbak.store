@@ -1,2 +1,0 @@
-# CHAPTER 48. The First Lowering.
-

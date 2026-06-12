@@ -1,3 +1,0 @@
-# A Captain
-
-English Ambassadors.

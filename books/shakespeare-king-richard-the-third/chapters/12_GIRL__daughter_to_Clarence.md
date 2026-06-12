@@ -1,2 +1,0 @@
-# GIRL, daughter to Clarence
-

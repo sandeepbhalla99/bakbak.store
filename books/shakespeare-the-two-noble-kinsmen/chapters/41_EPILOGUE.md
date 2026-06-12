@@ -1,3 +1,0 @@
-# EPILOGUE
-
-Enter Epilogue.

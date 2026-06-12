@@ -1,4 +1,3 @@
 # CHAPTER XXXI.
 
-Ominous Plans.—News from Jim.—Old Recollections.—A Sheep
-Story.—Valuable Information.
+Ominous Plans.—News from Jim.—Old Recollections.—A Sheep Story.—Valuable Information.

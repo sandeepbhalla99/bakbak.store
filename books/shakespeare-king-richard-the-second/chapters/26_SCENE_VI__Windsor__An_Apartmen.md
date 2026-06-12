@@ -1,6 +1,4 @@
-# SCENE VI. Windsor. An Apartment in the Castle.
-
-Flourish. Enter King Henry and York with Lords and Attendants.
+# SCENE VI. Windsor. An Apartment in the Castle: Flourish. Enter King Henry and York with Lords and Attendants.
 
 KING HENRY.
 Kind uncle York, the latest news we hear
@@ -8,7 +6,7 @@ Is that the rebels have consumed with fire
 Our town of Cicester in Gloucestershire,
 But whether they be ta’en or slain we hear not.
 
- Enter Northumberland.
+Enter Northumberland.
 
 Welcome, my lord. What is the news?
 
@@ -23,7 +21,7 @@ KING HENRY.
 We thank thee, gentle Percy, for thy pains,
 And to thy worth will add right worthy gains.
 
- Enter Fitzwater.
+Enter Fitzwater.
 
 FITZWATER.
 My lord, I have from Oxford sent to London
@@ -35,7 +33,7 @@ KING HENRY.
 Thy pains, Fitzwater, shall not be forgot.
 Right noble is thy merit, well I wot.
 
- Enter Harry Percy with the Bishop of Carlisle.
+Enter Harry Percy with the Bishop of Carlisle.
 
 PERCY.
 The grand conspirator, Abbot of Westminster,
@@ -52,7 +50,7 @@ So as thou liv’st in peace, die free from strife;
 For though mine enemy thou hast ever been,
 High sparks of honour in thee have I seen.
 
- Enter Exton with attendants, bearing a coffin.
+Enter Exton with attendants, bearing a coffin.
 
 EXTON.
 Great king, within this coffin I present
@@ -85,4 +83,4 @@ To wash this blood off from my guilty hand.
 March sadly after; grace my mournings here
 In weeping after this untimely bier.
 
- [_Exeunt._]
+[_Exeunt._]

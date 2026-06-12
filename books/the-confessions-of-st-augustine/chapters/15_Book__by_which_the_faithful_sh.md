@@ -1,49 +1,13 @@
 # Book, by which the faithful should be blessed and multiplied. Next
 
-didst Thou form the living soul of the faithful, through affections well
-ordered by the vigour of continency: and after that, the mind subjected
-to Thee alone and needing to imitate no human authority, hast Thou
-renewed after Thy image and likeness; and didst subject its rational
-actions to the excellency of the understanding, as the woman to the man;
-and to all Offices of Thy Ministry, necessary for the perfecting of the
-faithful in this life, Thou willedst, that for their temporal uses, good
-things, fruitful to themselves in time to come, be given by the same
-faithful. All these we see, and they are very good, because Thou seest
-them in us, Who hast given unto us Thy Spirit, by which we might see
-them, and in them love Thee.
+didst Thou form the living soul of the faithful, through affections well ordered by the vigour of continency: and after that, the mind subjected to Thee alone and needing to imitate no human authority, hast Thou renewed after Thy image and likeness; and didst subject its rational actions to the excellency of the understanding, as the woman to the man; and to all Offices of Thy Ministry, necessary for the perfecting of the faithful in this life, Thou willedst, that for their temporal uses, good things, fruitful to themselves in time to come, be given by the same faithful. All these we see, and they are very good, because Thou seest them in us, Who hast given unto us Thy Spirit, by which we might see them, and in them love Thee.
 
-O Lord God, give peace unto us: (for Thou hast given us all things;) the
-peace of rest, the peace of the Sabbath, which hath no evening. For
-all this most goodly array of things very good, having finished their
-courses, is to pass away, for in them there was morning and evening.
+O Lord God, give peace unto us: (for Thou hast given us all things;) the peace of rest, the peace of the Sabbath, which hath no evening. For all this most goodly array of things very good, having finished their courses, is to pass away, for in them there was morning and evening.
 
-But the seventh day hath no evening, nor hath it setting; because Thou
-hast sanctified it to an everlasting continuance; that that which Thou
-didst after Thy works which were very good, resting the seventh day,
-although Thou madest them in unbroken rest, that may the voice of
-Thy Book announce beforehand unto us, that we also after our works
-(therefore very good, because Thou hast given them us), shall rest in
-Thee also in the Sabbath of eternal life.
+But the seventh day hath no evening, nor hath it setting; because Thou hast sanctified it to an everlasting continuance; that that which Thou didst after Thy works which were very good, resting the seventh day, although Thou madest them in unbroken rest, that may the voice of Thy Book announce beforehand unto us, that we also after our works (therefore very good, because Thou hast given them us), shall rest in Thee also in the Sabbath of eternal life.
 
-For then shalt Thou rest in us, as now Thou workest in us; and so shall
-that be Thy rest through us, as these are Thy works through us. But
-Thou, Lord, ever workest, and art ever at rest. Nor dost Thou see in
-time, nor art moved in time, nor restest in a time; and yet Thou makest
-things seen in time, yea the times themselves, and the rest which
-results from time.
+For then shalt Thou rest in us, as now Thou workest in us; and so shall that be Thy rest through us, as these are Thy works through us. But Thou, Lord, ever workest, and art ever at rest. Nor dost Thou see in time, nor art moved in time, nor restest in a time; and yet Thou makest things seen in time, yea the times themselves, and the rest which results from time.
 
-We therefore see these things which Thou madest, because they are: but
-they are, because Thou seest them. And we see without, that they are,
-and within, that they are good, but Thou sawest them there, when made,
-where Thou sawest them, yet to be made. And we were at a later time
-moved to do well, after our hearts had conceived of Thy Spirit; but in
-the former time we were moved to do evil, forsaking Thee; but Thou, the
-One, the Good God, didst never cease doing good. And we also have some
-good works, of Thy gift, but not eternal; after them we trust to rest in
-Thy great hallowing. But Thou, being the Good which needeth no good, art
-ever at rest, because Thy rest is Thou Thyself. And what man can teach
-man to understand this? or what Angel, an Angel? or what Angel, a man?
-Let it be asked of Thee, sought in Thee, knocked for at Thee; so, so
-shall it be received, so shall it be found, so shall it be opened. Amen.
+We therefore see these things which Thou madest, because they are: but they are, because Thou seest them. And we see without, that they are, and within, that they are good, but Thou sawest them there, when made, where Thou sawest them, yet to be made. And we were at a later time moved to do well, after our hearts had conceived of Thy Spirit; but in the former time we were moved to do evil, forsaking Thee; but Thou, the One, the Good God, didst never cease doing good. And we also have some good works, of Thy gift, but not eternal; after them we trust to rest in Thy great hallowing. But Thou, being the Good which needeth no good, art ever at rest, because Thy rest is Thou Thyself. And what man can teach man to understand this? or what Angel, an Angel? or what Angel, a man? Let it be asked of Thee, sought in Thee, knocked for at Thee; so, so shall it be received, so shall it be found, so shall it be opened. Amen.
 
-                         GRATIAS TIBI DOMINE
+GRATIAS TIBI DOMINE

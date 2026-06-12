@@ -1,6 +1,4 @@
-# SCENE V. Pomfret. The dungeon of the Castle.
-
-Enter Richard.
+# SCENE V. Pomfret. The dungeon of the Castle: Enter Richard.
 
 RICHARD.
 I have been studying how I may compare
@@ -71,7 +69,7 @@ Yet blessing on his heart that gives it me,
 For ’tis a sign of love; and love to Richard
 Is a strange brooch in this all-hating world.
 
- Enter a Groom of the stable.
+Enter a Groom of the stable.
 
 GROOM.
 Hail, royal Prince!
@@ -114,7 +112,7 @@ Wast born to bear? I was not made a horse,
 And yet I bear a burden like an ass,
 Spurred, galled and tired by jauncing Bolingbroke.
 
- Enter Keeper with a dish.
+Enter Keeper with a dish.
 
 KEEPER. [_To the Groom_.]
 Fellow, give place. Here is no longer stay.
@@ -125,7 +123,7 @@ If thou love me, ’tis time thou wert away.
 GROOM.
 My tongue dares not, that my heart shall say.
 
- [_Exit._]
+[_Exit._]
 
 KEEPER.
 My lord, will’t please you to fall to?
@@ -141,30 +139,26 @@ RICHARD.
 The devil take Henry of Lancaster and thee!
 Patience is stale, and I am weary of it.
 
- [_Strikes the Keeper._]
+[_Strikes the Keeper._]
 
 KEEPER.
 Help, help, help!
 
- Enter Exton and Servants, armed.
+Enter Exton and Servants, armed.
 
 RICHARD.
 How now! What means death in this rude assault?
 Villain, thy own hand yields thy death’s instrument.
 
- [_Snatching a weapon and killing one._]
+[_Snatching a weapon and killing one._]
 
 Go thou and fill another room in hell.
 
- [_He kills another, then Exton strikes him down._]
+[_He kills another, then Exton strikes him down._]
 
-That hand shall burn in never-quenching fire
-That staggers thus my person. Exton, thy fierce hand
-Hath with the King’s blood stained the King’s own land.
-Mount, mount, my soul! Thy seat is up on high,
-Whilst my gross flesh sinks downward, here to die.
+That hand shall burn in never-quenching fire That staggers thus my person. Exton, thy fierce hand Hath with the King’s blood stained the King’s own land. Mount, mount, my soul! Thy seat is up on high, Whilst my gross flesh sinks downward, here to die.
 
- [_Dies._]
+[_Dies._]
 
 EXTON.
 As full of valour as of royal blood!
@@ -174,4 +168,4 @@ Says that this deed is chronicled in hell.
 This dead king to the living king I’ll bear.
 Take hence the rest, and give them burial here.
 
- [_Exeunt._]
+[_Exeunt._]

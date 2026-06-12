@@ -1,4 +1,3 @@
 # CHAPTER XXXV.
 
-Escaping Properly.—Dark Schemes.—Discrimination in Stealing.—A Deep
-Hole.
+Escaping Properly.—Dark Schemes.—Discrimination in Stealing.—A Deep Hole.

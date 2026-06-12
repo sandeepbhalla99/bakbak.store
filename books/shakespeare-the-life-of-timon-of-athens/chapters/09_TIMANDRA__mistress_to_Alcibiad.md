@@ -1,2 +1,0 @@
-# TIMANDRA, mistress to Alcibiades
-

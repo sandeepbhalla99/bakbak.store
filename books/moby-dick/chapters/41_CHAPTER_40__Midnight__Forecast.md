@@ -1,2 +1,0 @@
-# CHAPTER 40. Midnight, Forecastle.
-

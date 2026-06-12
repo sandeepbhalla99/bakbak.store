@@ -1,2 +1,0 @@
-# CHAPTER 16. The Ship.
-

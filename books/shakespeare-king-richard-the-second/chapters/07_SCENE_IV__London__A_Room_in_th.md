@@ -1,6 +1,4 @@
-# SCENE IV. London. A Room in the King’s Castle
-
-Enter King Richard, Green and Bagot at one door; Aumerle at another.
+# SCENE IV. London. A Room in the King’s Castle: Enter King Richard, Green and Bagot at one door; Aumerle at another.
 
 KING RICHARD.
 We did observe.—Cousin Aumerle,
@@ -72,7 +70,7 @@ They shall subscribe them for large sums of gold,
 And send them after to supply our wants;
 For we will make for Ireland presently.
 
- Enter Bushy.
+Enter Bushy.
 
 Bushy, what news?
 
@@ -98,4 +96,4 @@ Pray God we may make haste and come too late!
 ALL.
 Amen!
 
- [_Exeunt._]
+[_Exeunt._]

@@ -1,7 +1,6 @@
 # SCENE III. Wales. Before Flint Castle.
 
-Enter, with drum and colours, Bolingbroke and Forces; Northumberland
- and Others.
+Enter, with drum and colours, Bolingbroke and Forces; Northumberland and Others.
 
 BOLINGBROKE.
 So that by this intelligence we learn
@@ -39,7 +38,7 @@ BOLINGBROKE.
 I know it, uncle, and oppose not myself
 Against their will. But who comes here?
 
- Enter Harry Percy.
+Enter Harry Percy.
 
 Welcome, Harry. What, will not this castle yield?
 
@@ -95,10 +94,7 @@ The rage be his, whilst on the earth I rain
 My waters—on the earth, and not on him.
 March on, and mark King Richard how he looks.
 
- A parley sounded, and answered by a trumpet within. Flourish. Enter on
- the Walls, the King, the Bishop of Carlisle, Aumerle, Scroop and
- Salisbury
-
+A parley sounded, and answered by a trumpet within. Flourish. Enter on the Walls, the King, the Bishop of Carlisle, Aumerle, Scroop and Salisbury
 
 See, see, King Richard doth himself appear,
 As doth the blushing discontented sun
@@ -174,12 +170,9 @@ Shall be accomplished without contradiction.
 With all the gracious utterance thou hast,
 Speak to his gentle hearing kind commends.
 
- [_Northumberland returns to Bolingbroke._]
+[_Northumberland returns to Bolingbroke._]
 
-[_To Aumerle_.] We do debase ourselves, cousin, do we not,
-To look so poorly and to speak so fair?
-Shall we call back Northumberland and send
-Defiance to the traitor, and so die?
+[_To Aumerle_.] We do debase ourselves, cousin, do we not, To look so poorly and to speak so fair? Shall we call back Northumberland and send Defiance to the traitor, and so die?
 
 AUMERLE.
 No, good my lord. Let’s fight with gentle words
@@ -246,7 +239,7 @@ To come at traitors’ calls, and do them grace.
 In the base court? Come down? Down, court! down, king!
 For night-owls shriek where mounting larks should sing.
 
- [_Exeunt from above._]
+[_Exeunt from above._]
 
 BOLINGBROKE.
 What says his Majesty?
@@ -256,7 +249,7 @@ Sorrow and grief of heart
 Makes him speak fondly like a frantic man.
 Yet he is come.
 
- Enter King Richard and his attendants.
+Enter King Richard and his attendants.
 
 BOLINGBROKE.
 Stand all apart,
@@ -298,4 +291,4 @@ Yea, my good lord.
 KING RICHARD.
 Then I must not say no.
 
- [_Flourish. Exeunt._]
+[_Flourish. Exeunt._]

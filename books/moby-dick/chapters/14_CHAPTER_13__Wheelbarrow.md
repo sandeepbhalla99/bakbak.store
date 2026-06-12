@@ -1,2 +1,0 @@
-# CHAPTER 13. Wheelbarrow.
-

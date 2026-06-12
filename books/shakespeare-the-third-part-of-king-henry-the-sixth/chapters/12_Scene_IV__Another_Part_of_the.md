@@ -1,0 +1,24 @@
+# Scene IV. Another Part of the Field
+
+RICHARD.
+Now, Clifford, I have singled thee alone.
+Suppose this arm is for the Duke of York,
+And this for Rutland; both bound to revenge,
+Wert thou environed with a brazen wall.
+
+CLIFFORD.
+Now, Richard, I am with thee here alone.
+This is the hand that stabbed thy father York,
+And this the hand that slew thy brother Rutland;
+And here’s the heart that triumphs in their death
+And cheers these hands that slew thy sire and brother
+To execute the like upon thyself;
+And so have at thee!
+
+They fight. Warwick comes; Clifford flies.
+
+RICHARD.
+Nay, Warwick, single out some other chase;
+For I myself will hunt this wolf to death.
+
+[_Exeunt._]

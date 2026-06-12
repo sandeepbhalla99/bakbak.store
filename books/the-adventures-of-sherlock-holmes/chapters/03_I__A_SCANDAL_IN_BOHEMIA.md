@@ -1,3 +1,0 @@
-# I. A SCANDAL IN BOHEMIA
-
-I.

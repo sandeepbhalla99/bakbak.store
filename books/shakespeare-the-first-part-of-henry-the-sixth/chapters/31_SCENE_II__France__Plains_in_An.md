@@ -1,0 +1,48 @@
+# SCENE II. France. Plains in Anjou
+
+Enter Charles, Burgundy, Alençon, Bastard, Reignier, La Pucelle and forces.
+
+CHARLES.
+These news, my lords, may cheer our drooping spirits:
+’Tis said the stout Parisians do revolt
+And turn again unto the warlike French.
+
+ALENÇON.
+Then march to Paris, royal Charles of France,
+And keep not back your powers in dalliance.
+
+PUCELLE.
+Peace be amongst them, if they turn to us;
+Else ruin combat with their palaces!
+
+Enter Scout.
+
+SCOUT.
+Success unto our valiant general,
+And happiness to his accomplices!
+
+CHARLES.
+What tidings send our scouts? I prithee, speak.
+
+SCOUT.
+The English army, that divided was
+Into two parties, is now conjoin’d in one,
+And means to give you battle presently.
+
+CHARLES.
+Somewhat too sudden, sirs, the warning is;
+But we will presently provide for them.
+
+BURGUNDY.
+I trust the ghost of Talbot is not there.
+Now he is gone, my lord, you need not fear.
+
+PUCELLE.
+Of all base passions, fear is most accursed.
+Command the conquest, Charles, it shall be thine;
+Let Henry fret and all the world repine.
+
+CHARLES.
+Then on, my lords; and France be fortunate!
+
+[_Exeunt._]

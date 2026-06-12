@@ -11,160 +11,108 @@
       "file": "01_Introduction.md"
     },
     {
-      "title": "Scene III. Venice. A public place.",
-      "file": "02_Scene_III__Venice__A_public_pl.md"
-    },
-    {
-      "title": "Scene IX. Belmont. A room in Portia\u2019s house.",
-      "file": "03_Scene_IX__Belmont__A_room_in_P.md"
-    },
-    {
-      "title": "Scene V. The same. A garden.",
-      "file": "04_Scene_V__The_same__A_garden.md"
-    },
-    {
-      "title": "Scene II. The same. A street.",
-      "file": "05_Scene_II__The_same__A_street.md"
-    },
-    {
-      "title": "Scene I. Belmont. The avenue to Portia\u2019s house.",
-      "file": "06_Scene_I__Belmont__The_avenue_t.md"
-    },
-    {
-      "title": "Dramatis Person\u00e6",
-      "file": "07_Dramatis_Person.md"
-    },
-    {
-      "title": "SALERIO, a messenger from Venice",
-      "file": "08_SALERIO__a_messenger_from_Veni.md"
-    },
-    {
-      "title": "JESSICA, daughter to Shylock",
-      "file": "09_JESSICA__daughter_to_Shylock.md"
-    },
-    {
-      "title": "Servants and other Attendants",
-      "file": "10_Servants_and_other_Attendants.md"
-    },
-    {
-      "title": "the Continent",
-      "file": "11_the_Continent.md"
+      "title": "SCENE: Partly at Venice, and partly at Belmont, the seat of Portia on: the Continent",
+      "file": "02_SCENE__Partly_at_Venice__and_p.md"
     },
     {
       "title": "ACT I",
-      "file": "12_ACT_I.md"
+      "file": "03_ACT_I.md"
     },
     {
-      "title": "SCENE I. Venice. A street.",
-      "file": "13_SCENE_I__Venice__A_street.md"
+      "title": "Scene I. Venice. A street",
+      "file": "04_Scene_I__Venice__A_street.md"
     },
     {
-      "title": "What stuff \u2019tis made of, whereof it is born,",
-      "file": "14_What_stuff__tis_made_of__where.md"
+      "title": "Scene II. Belmont. A room in Portia\u2019s house",
+      "file": "05_Scene_II__Belmont__A_room_in_P.md"
     },
     {
-      "title": "And such a want-wit sadness makes of me,",
-      "file": "15_And_such_a_want_wit_sadness_ma.md"
-    },
-    {
-      "title": "That curtsy to them, do them reverence,",
-      "file": "16_That_curtsy_to_them__do_them_r.md"
-    },
-    {
-      "title": "And every object that might make me fear",
-      "file": "17_And_every_object_that_might_ma.md"
-    },
-    {
-      "title": "SCENE II. Belmont. A room in Portia\u2019s house.",
-      "file": "18_SCENE_II__Belmont__A_room_in_P.md"
-    },
-    {
-      "title": "SCENE III. Venice. A public place.",
-      "file": "19_SCENE_III__Venice__A_public_pl.md"
+      "title": "Scene III. Venice. A public place",
+      "file": "06_Scene_III__Venice__A_public_pl.md"
     },
     {
       "title": "ACT II",
-      "file": "20_ACT_II.md"
+      "file": "07_ACT_II.md"
     },
     {
-      "title": "SCENE I. Belmont. A room in Portia\u2019s house.",
-      "file": "21_SCENE_I__Belmont__A_room_in_Po.md"
+      "title": "Scene II. Belmont. A room in Portia\u2019s house",
+      "file": "08_Scene_II__Belmont__A_room_in_P.md"
     },
     {
-      "title": "SCENE II. Venice. A street.",
-      "file": "22_SCENE_II__Venice__A_street.md"
+      "title": "Scene I. Venice. A street",
+      "file": "09_Scene_I__Venice__A_street.md"
     },
     {
-      "title": "SCENE III. The same. A room in Shylock\u2019s house.",
-      "file": "23_SCENE_III__The_same__A_room_in.md"
+      "title": "Scene III. The same. A room in Shylock\u2019s house",
+      "file": "10_Scene_III__The_same__A_room_in.md"
     },
     {
-      "title": "SCENE IV. The same. A street.",
-      "file": "24_SCENE_IV__The_same__A_street.md"
+      "title": "Scene IV. The same. A street",
+      "file": "11_Scene_IV__The_same__A_street.md"
     },
     {
-      "title": "SCENE V. The same. Before Shylock\u2019s house.",
-      "file": "25_SCENE_V__The_same__Before_Shyl.md"
+      "title": "Scene V. The same. Before Shylock\u2019s house",
+      "file": "12_Scene_V__The_same__Before_Shyl.md"
     },
     {
-      "title": "SCENE VI. The same.",
-      "file": "26_SCENE_VI__The_same.md"
+      "title": "Scene IV. The same. A street",
+      "file": "13_Scene_IV__The_same__A_street.md"
     },
     {
-      "title": "SCENE VII. Belmont. A room in Portia\u2019s house.",
-      "file": "27_SCENE_VII__Belmont__A_room_in.md"
+      "title": "Scene II. Belmont. A room in Portia\u2019s house",
+      "file": "14_Scene_II__Belmont__A_room_in_P.md"
     },
     {
-      "title": "SCENE VIII. Venice. A street.",
-      "file": "28_SCENE_VIII__Venice__A_street.md"
+      "title": "Scene I. Venice. A street",
+      "file": "15_Scene_I__Venice__A_street.md"
     },
     {
-      "title": "SCENE IX. Belmont. A room in Portia\u2019s house.",
-      "file": "29_SCENE_IX__Belmont__A_room_in_P.md"
+      "title": "Scene II. Belmont. A room in Portia\u2019s house",
+      "file": "16_Scene_II__Belmont__A_room_in_P.md"
     },
     {
       "title": "ACT III",
-      "file": "30_ACT_III.md"
+      "file": "17_ACT_III.md"
     },
     {
-      "title": "SCENE I. Venice. A street.",
-      "file": "31_SCENE_I__Venice__A_street.md"
+      "title": "Scene I. Venice. A street",
+      "file": "18_Scene_I__Venice__A_street.md"
     },
     {
-      "title": "SCENE II. Belmont. A room in Portia\u2019s house.",
-      "file": "32_SCENE_II__Belmont__A_room_in_P.md"
+      "title": "Scene II. Belmont. A room in Portia\u2019s house",
+      "file": "19_Scene_II__Belmont__A_room_in_P.md"
     },
     {
-      "title": "SCENE III. Venice. A street.",
-      "file": "33_SCENE_III__Venice__A_street.md"
+      "title": "Scene I. Venice. A street",
+      "file": "20_Scene_I__Venice__A_street.md"
     },
     {
-      "title": "SCENE IV. Belmont. A room in Portia\u2019s house.",
-      "file": "34_SCENE_IV__Belmont__A_room_in_P.md"
+      "title": "Scene II. Belmont. A room in Portia\u2019s house",
+      "file": "21_Scene_II__Belmont__A_room_in_P.md"
     },
     {
-      "title": "SCENE V. The same. A garden.",
-      "file": "35_SCENE_V__The_same__A_garden.md"
+      "title": "Scene VI. The same",
+      "file": "22_Scene_VI__The_same.md"
     },
     {
       "title": "ACT IV",
-      "file": "36_ACT_IV.md"
+      "file": "23_ACT_IV.md"
     },
     {
-      "title": "SCENE I. Venice. A court of justice.",
-      "file": "37_SCENE_I__Venice__A_court_of_ju.md"
+      "title": "Scene I. Venice. A court of justice",
+      "file": "24_Scene_I__Venice__A_court_of_ju.md"
     },
     {
-      "title": "SCENE II. The same. A street.",
-      "file": "38_SCENE_II__The_same__A_street.md"
+      "title": "Scene IV. The same. A street",
+      "file": "25_Scene_IV__The_same__A_street.md"
     },
     {
       "title": "ACT V",
-      "file": "39_ACT_V.md"
+      "file": "26_ACT_V.md"
     },
     {
-      "title": "SCENE I. Belmont. The avenue to Portia\u2019s house.",
-      "file": "40_SCENE_I__Belmont__The_avenue_t.md"
+      "title": "Scene I. Belmont. The avenue to Portia\u2019s house",
+      "file": "27_Scene_I__Belmont__The_avenue_t.md"
     }
   ]
 }

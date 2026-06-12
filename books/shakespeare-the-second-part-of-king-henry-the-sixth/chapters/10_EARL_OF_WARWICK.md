@@ -1,2 +1,0 @@
-# EARL OF WARWICK
-

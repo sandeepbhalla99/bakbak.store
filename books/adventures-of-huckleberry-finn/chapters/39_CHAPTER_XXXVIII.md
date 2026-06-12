@@ -1,4 +1,3 @@
 # CHAPTER XXXVIII.
 
-The Coat of Arms.—A Skilled Superintendent.—Unpleasant Glory.—A Tearful
-Subject.
+The Coat of Arms.—A Skilled Superintendent.—Unpleasant Glory.—A Tearful Subject.

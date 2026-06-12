@@ -1,6 +1,4 @@
-# SCENE IV. Another room in the Castle.
-
-Enter Exton and a Servant.
+# SCENE IV. Another room in the Castle: Enter Exton and a Servant.
 
 EXTON.
 Didst thou not mark the King, what words he spake:
@@ -24,4 +22,4 @@ That would divorce this terror from my heart”,
 Meaning the king at Pomfret. Come, let’s go.
 I am the King’s friend, and will rid his foe.
 
- [_Exeunt._]
+[_Exeunt._]

@@ -1,7 +1,6 @@
 # SCENE I. Bristol. Bolingbroke’s camp.
 
-Enter Bolingbroke, York, Northumberland, Harry Percy, Willoughby,
- Ross; Officers behind, with Bushy and Green, prisoners.
+Enter Bolingbroke, York, Northumberland, Harry Percy, Willoughby, Ross; Officers behind, with Bushy and Green, prisoners.
 
 BOLINGBROKE.
 Bring forth these men.
@@ -46,7 +45,7 @@ And plague injustice with the pains of hell.
 BOLINGBROKE.
 My Lord Northumberland, see them dispatched.
 
- [_Exeunt Northumberland and Others, with Bushy and Green._]
+[_Exeunt Northumberland and Others, with Bushy and Green._]
 
 Uncle, you say the Queen is at your house;
 For God’s sake, fairly let her be entreated.
@@ -62,4 +61,4 @@ Thanks, gentle uncle. Come, lords, away,
 To fight with Glendower and his complices.
 A while to work, and after holiday.
 
- [_Exeunt._]
+[_Exeunt._]

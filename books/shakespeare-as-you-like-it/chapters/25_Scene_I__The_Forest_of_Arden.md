@@ -1,97 +1,97 @@
 # Scene I. The Forest of Arden
 
-Enter Duke Senior, Amiens and two or three Lords, dressed as foresters.
+TOUCHSTONE.
+We shall find a time, Audrey; patience, gentle Audrey.
 
-DUKE SENIOR.
-Now, my co-mates and brothers in exile,
-Hath not old custom made this life more sweet
-Than that of painted pomp? Are not these woods
-More free from peril than the envious court?
-Here feel we not the penalty of Adam,
-The seasons’ difference, as the icy fang
-And churlish chiding of the winter’s wind,
-Which when it bites and blows upon my body
-Even till I shrink with cold, I smile and say:
-“This is no flattery. These are counsellors
-That feelingly persuade me what I am.”
-Sweet are the uses of adversity,
-Which, like the toad, ugly and venomous,
-Wears yet a precious jewel in his head;
-And this our life, exempt from public haunt,
-Finds tongues in trees, books in the running brooks,
-Sermons in stones, and good in everything.
+AUDREY.
+Faith, the priest was good enough, for all the old gentleman’s saying.
 
-AMIENS.
-I would not change it. Happy is your grace,
-That can translate the stubbornness of fortune
-Into so quiet and so sweet a style.
+TOUCHSTONE.
+A most wicked Sir Oliver, Audrey, a most vile Martext. But Audrey,
+there is a youth here in the forest lays claim to you.
 
-DUKE SENIOR.
-Come, shall we go and kill us venison?
-And yet it irks me the poor dappled fools,
-Being native burghers of this desert city,
-Should in their own confines with forked heads
-Have their round haunches gored.
+AUDREY.
+Ay, I know who ’tis. He hath no interest in me in the world.
 
-FIRST LORD.
-Indeed, my lord,
-The melancholy Jaques grieves at that,
-And in that kind swears you do more usurp
-Than doth your brother that hath banished you.
-Today my lord of Amiens and myself
-Did steal behind him as he lay along
-Under an oak, whose antique root peeps out
-Upon the brook that brawls along this wood;
-To the which place a poor sequestered stag,
-That from the hunter’s aim had ta’en a hurt,
-Did come to languish; and indeed, my lord,
-The wretched animal heaved forth such groans
-That their discharge did stretch his leathern coat
-Almost to bursting, and the big round tears
-Coursed one another down his innocent nose
-In piteous chase. And thus the hairy fool,
-Much marked of the melancholy Jaques,
-Stood on th’ extremest verge of the swift brook,
-Augmenting it with tears.
+Enter William.
 
-DUKE SENIOR.
-But what said Jaques?
-Did he not moralize this spectacle?
+Here comes the man you mean.
 
-FIRST LORD.
-O yes, into a thousand similes.
-First, for his weeping into the needless stream:
-“Poor deer,” quoth he “thou mak’st a testament
-As worldlings do, giving thy sum of more
-To that which had too much.” Then, being there alone,
-Left and abandoned of his velvet friends:
-“’Tis right”; quoth he, “thus misery doth part
-The flux of company.” Anon a careless herd,
-Full of the pasture, jumps along by him
-And never stays to greet him. “Ay,” quoth Jaques,
-“Sweep on, you fat and greasy citizens!
-’Tis just the fashion. Wherefore do you look
-Upon that poor and broken bankrupt there?”
-Thus most invectively he pierceth through
-The body of the country, city, court,
-Yea, and of this our life, swearing that we
-Are mere usurpers, tyrants, and what’s worse,
-To fright the animals and to kill them up
-In their assigned and native dwelling-place.
+TOUCHSTONE. It is meat and drink to me to see a clown. By my troth, we that have good wits have much to answer for. We shall be flouting; we cannot hold.
 
-DUKE SENIOR.
-And did you leave him in this contemplation?
+WILLIAM.
+Good ev’n, Audrey.
 
-SECOND LORD.
-We did, my lord, weeping and commenting
-Upon the sobbing deer.
+AUDREY.
+God ye good ev’n, William.
 
-DUKE SENIOR.
-Show me the place.
-I love to cope him in these sullen fits,
-For then he’s full of matter.
+WILLIAM.
+And good ev’n to you, sir.
 
-FIRST LORD.
-I’ll bring you to him straight.
+TOUCHSTONE.
+Good ev’n, gentle friend. Cover thy head, cover thy head. Nay, prithee,
+be covered. How old are you, friend?
+
+WILLIAM.
+Five-and-twenty, sir.
+
+TOUCHSTONE.
+A ripe age. Is thy name William?
+
+WILLIAM.
+William, sir.
+
+TOUCHSTONE.
+A fair name. Wast born i’ th’ forest here?
+
+WILLIAM.
+Ay, sir, I thank God.
+
+TOUCHSTONE.
+“Thank God.” A good answer. Art rich?
+
+WILLIAM.
+Faith, sir, so-so.
+
+TOUCHSTONE.
+“So-so” is good, very good, very excellent good. And yet it is not, it
+is but so-so. Art thou wise?
+
+WILLIAM.
+Ay, sir, I have a pretty wit.
+
+TOUCHSTONE. Why, thou sayst well. I do now remember a saying: “The fool doth think he is wise, but the wise man knows himself to be a fool.” The heathen philosopher, when he had a desire to eat a grape, would open his lips when he put it into his mouth, meaning thereby that grapes were made to eat and lips to open. You do love this maid?
+
+WILLIAM.
+I do, sir.
+
+TOUCHSTONE.
+Give me your hand. Art thou learned?
+
+WILLIAM.
+No, sir.
+
+TOUCHSTONE. Then learn this of me: to have is to have. For it is a figure in rhetoric that drink, being poured out of cup into a glass, by filling the one doth empty the other. For all your writers do consent that _ipse_ is “he.” Now, you are not _ipse_, for I am he.
+
+WILLIAM.
+Which he, sir?
+
+TOUCHSTONE. He, sir, that must marry this woman. Therefore, you clown, abandon—which is in the vulgar, “leave”—the society—which in the boorish is “company”—of this female—which in the common is “woman”; which together is, abandon the society of this female, or, clown, thou perishest; or, to thy better understanding, diest; or, to wit, I kill thee, make thee away, translate thy life into death, thy liberty into bondage. I will deal in poison with thee, or in bastinado, or in steel. I will bandy with thee in faction; will o’errun thee with policy. I will kill thee a hundred and fifty ways! Therefore tremble and depart.
+
+AUDREY.
+Do, good William.
+
+WILLIAM.
+God rest you merry, sir.
+
+[_Exit._]
+
+Enter Corin.
+
+CORIN.
+Our master and mistress seek you. Come away, away.
+
+TOUCHSTONE.
+Trip, Audrey, trip, Audrey! I attend, I attend.
 
 [_Exeunt._]

@@ -1,3 +1,0 @@
-# Scene III.
-
-A Street.

@@ -1,2 +1,0 @@
-# CHAPTER 26. Knights and Squires.
-

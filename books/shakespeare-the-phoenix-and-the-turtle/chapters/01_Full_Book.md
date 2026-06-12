@@ -2,7 +2,6 @@
 
 THE PHOENIX AND THE TURTLE
 
-
 Let the bird of loudest lay,
 On the sole Arabian tree,
 Herald sad and trumpet be,
@@ -68,8 +67,7 @@ To the phoenix and the dove,
 Co-supremes and stars of love,
 As chorus to their tragic scene.
 
-
-       THRENOS
+THRENOS
 
 Beauty, truth, and rarity.
 Grace in all simplicity,

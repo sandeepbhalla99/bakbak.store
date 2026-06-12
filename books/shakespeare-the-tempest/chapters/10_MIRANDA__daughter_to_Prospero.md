@@ -1,2 +1,0 @@
-# MIRANDA, daughter to Prospero
-

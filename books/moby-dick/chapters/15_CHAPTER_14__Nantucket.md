@@ -1,2 +1,0 @@
-# CHAPTER 14. Nantucket.
-

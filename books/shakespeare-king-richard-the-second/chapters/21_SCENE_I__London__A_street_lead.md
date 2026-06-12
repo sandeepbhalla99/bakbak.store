@@ -1,6 +1,4 @@
-# SCENE I. London. A street leading to the Tower.
-
-Enter the Queen and ladies.
+# SCENE I. London. A street leading to the Tower: Enter the Queen and ladies.
 
 QUEEN.
 This way the King will come. This is the way
@@ -10,7 +8,7 @@ Is doomed a prisoner by proud Bolingbroke.
 Here let us rest, if this rebellious earth
 Have any resting for her true king’s queen.
 
- Enter King Richard and Guard.
+Enter King Richard and Guard.
 
 But soft, but see, or rather do not see
 My fair rose wither; yet look up, behold,
@@ -63,7 +61,7 @@ And in compassion weep the fire out;
 And some will mourn in ashes, some coal-black,
 For the deposing of a rightful king.
 
- Enter Northumberland, attended.
+Enter Northumberland, attended.
 
 NORTHUMBERLAND.
 My lord, the mind of Bolingbroke is changed.
@@ -135,13 +133,13 @@ Since, wedding it, there is such length in grief.
 One kiss shall stop our mouths, and dumbly part;
 Thus give I mine, and thus take I thy heart.
 
- [_They kiss._]
+[_They kiss._]
 
 QUEEN.
 Give me mine own again; ’twere no good part
 To take on me to keep and kill thy heart.
 
- [_They kiss again._]
+[_They kiss again._]
 
 So, now I have mine own again, be gone,
 That I may strive to kill it with a groan.
@@ -150,4 +148,4 @@ KING RICHARD.
 We make woe wanton with this fond delay:
 Once more, adieu. The rest let sorrow say.
 
- [_Exeunt._]
+[_Exeunt._]

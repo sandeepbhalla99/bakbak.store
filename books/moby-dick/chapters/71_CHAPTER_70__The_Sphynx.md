@@ -1,2 +1,0 @@
-# CHAPTER 70. The Sphynx.
-

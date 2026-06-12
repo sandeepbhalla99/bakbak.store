@@ -1,6 +1,4 @@
-# SCENE I. London. A Room in the palace.
-
-Enter King Richard, John of Gaunt, with other Nobles and Attendants.
+# SCENE I. London. A Room in the palace: Enter King Richard, John of Gaunt, with other Nobles and Attendants.
 
 KING RICHARD.
 Old John of Gaunt, time-honoured Lancaster,
@@ -257,7 +255,7 @@ The slavish motive of recanting fear
 And spit it bleeding in his high disgrace,
 Where shame doth harbour, even in Mowbray’s face.
 
- [_Exit Gaunt._]
+[_Exit Gaunt._]
 
 KING RICHARD.
 We were not born to sue, but to command;
@@ -271,4 +269,4 @@ Justice design the victor’s chivalry.
 Lord Marshal, command our officers-at-arms
 Be ready to direct these home alarms.
 
- [_Exeunt._]
+[_Exeunt._]

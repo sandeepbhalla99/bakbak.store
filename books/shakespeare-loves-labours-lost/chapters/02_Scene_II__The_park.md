@@ -1,2 +1,0 @@
-# Scene II. The park
-

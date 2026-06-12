@@ -1,2 +1,0 @@
-# Tell about the party
-
