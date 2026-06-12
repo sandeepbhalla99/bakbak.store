@@ -1,0 +1,114 @@
+{
+  "id": "cranford",
+  "title": "Cranford",
+  "author": "Project Gutenberg",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Chapter 1904",
+      "file": "02_Chapter_1904.md"
+    },
+    {
+      "title": "CHAPTER XVI. PEACE TO CRANFORD",
+      "file": "03_CHAPTER_XVI__PEACE_TO_CRANFORD.md"
+    },
+    {
+      "title": "LIST OF ILLUSTRATIONS",
+      "file": "04_LIST_OF_ILLUSTRATIONS.md"
+    },
+    {
+      "title": "I went to call Miss Matty",
+      "file": "05_I_went_to_call_Miss_Matty.md"
+    },
+    {
+      "title": "* * * * *",
+      "file": "06_.md"
+    },
+    {
+      "title": "Graphic Photo-Engraving Co._, _London_",
+      "file": "07_Graphic_Photo_Engraving_Co.md"
+    },
+    {
+      "title": "OUR SOCIETY",
+      "file": "08_OUR_SOCIETY.md"
+    },
+    {
+      "title": "nothing is so easy as verbal retaliation; but, somehow, good-will",
+      "file": "09_nothing_is_so_easy_as_verbal_r.md"
+    },
+    {
+      "title": "answer for it, the last gigot, the last tight and scanty petticoat in",
+      "file": "10_answer_for_it__the_last_gigot.md"
+    },
+    {
+      "title": "CHAPTER II.",
+      "file": "11_CHAPTER_II.md"
+    },
+    {
+      "title": "CHAPTER III.",
+      "file": "12_CHAPTER_III.md"
+    },
+    {
+      "title": "CHAPTER IV.",
+      "file": "13_CHAPTER_IV.md"
+    },
+    {
+      "title": "CHAPTER V.",
+      "file": "14_CHAPTER_V.md"
+    },
+    {
+      "title": "CHAPTER VI.",
+      "file": "15_CHAPTER_VI.md"
+    },
+    {
+      "title": "CHAPTER VII.",
+      "file": "16_CHAPTER_VII.md"
+    },
+    {
+      "title": "CHAPTER VIII.",
+      "file": "17_CHAPTER_VIII.md"
+    },
+    {
+      "title": "CHAPTER IX.",
+      "file": "18_CHAPTER_IX.md"
+    },
+    {
+      "title": "CHAPTER X.",
+      "file": "19_CHAPTER_X.md"
+    },
+    {
+      "title": "CHAPTER XI.",
+      "file": "20_CHAPTER_XI.md"
+    },
+    {
+      "title": "CHAPTER XII.",
+      "file": "21_CHAPTER_XII.md"
+    },
+    {
+      "title": "CHAPTER XIII.",
+      "file": "22_CHAPTER_XIII.md"
+    },
+    {
+      "title": "CHAPTER XIV.",
+      "file": "23_CHAPTER_XIV.md"
+    },
+    {
+      "title": "CHAPTER XV.",
+      "file": "24_CHAPTER_XV.md"
+    },
+    {
+      "title": "CHAPTER XVI.",
+      "file": "25_CHAPTER_XVI.md"
+    },
+    {
+      "title": "* * * * *",
+      "file": "26_.md"
+    }
+  ]
+}

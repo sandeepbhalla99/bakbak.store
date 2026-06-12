@@ -1,5 +1,5 @@
 import { updateReadingProgress, getCurrentUser } from './auth.js';
-import { BOOKS } from './books.js';
+import { getBookDetails } from './books.js';
 
 let activeBook = null;
 let activeChapterIndex = 0;
@@ -10,8 +10,8 @@ export function getActiveBook() {
   return activeBook;
 }
 
-export function initReader(bookId, startingChapter = 0) {
-  activeBook = BOOKS.find(b => b.id === bookId);
+export async function initReader(bookId, startingChapter = 0) {
+  activeBook = await getBookDetails(bookId);
   if (!activeBook) return;
 
   // Fetch bookmark if it exists
@@ -23,7 +23,7 @@ export function initReader(bookId, startingChapter = 0) {
   }
 
   applyReaderSettings();
-  renderReaderContent();
+  await renderReaderContent();
 }
 
 function applyReaderSettings() {
@@ -49,13 +49,9 @@ function applyReaderSettings() {
       btn.classList.remove('active');
     }
   });
-
-  const fontPlusBtn = document.getElementById('reader-font-plus');
-  const fontMinusBtn = document.getElementById('reader-font-minus');
-  // Just UI feedback if needed
 }
 
-export function renderReaderContent() {
+export async function renderReaderContent() {
   if (!activeBook) return;
 
   const container = document.getElementById('reader-view-container');
@@ -71,35 +67,45 @@ export function renderReaderContent() {
   const textBody = container.querySelector('.reader-text-body');
   
   if (chapter && textBody) {
-    let htmlContent = `<h2>${chapter.title}</h2>`;
-    chapter.content.forEach((para, idx) => {
-      htmlContent += `<p data-para-idx="${idx}">${para}</p>`;
-    });
-    textBody.innerHTML = htmlContent;
-
-    // Update progress numbers
-    const chapterNumEl = document.getElementById('reader-chapter-num');
-    const progressPctEl = document.getElementById('reader-progress-pct');
-    const progressFill = document.getElementById('reader-progress-fill');
+    textBody.innerHTML = `<p style="text-align: center; color: var(--text-muted); padding: 40px;">Loading Chapter Text...</p>`;
     
-    if (chapterNumEl) {
-      chapterNumEl.textContent = `Chapter ${activeChapterIndex + 1} of ${activeBook.chapters.length}`;
-    }
+    try {
+      const response = await fetch(`books/${activeBook.id}/chapters/${chapter.file}`);
+      if (!response.ok) throw new Error("Could not load chapter file");
+      
+      const markdown = await response.text();
+      // Parse markdown to HTML using marked.js
+      const htmlContent = marked.parse(markdown);
+      textBody.innerHTML = htmlContent;
 
-    const progressPct = Math.round(((activeChapterIndex + 1) / activeBook.chapters.length) * 100);
-    if (progressPctEl) {
-      progressPctEl.textContent = `${progressPct}% Read`;
-    }
-    if (progressFill) {
-      progressFill.style.width = `${progressPct}%`;
-    }
+      // Update progress numbers
+      const chapterNumEl = document.getElementById('reader-chapter-num');
+      const progressPctEl = document.getElementById('reader-progress-pct');
+      const progressFill = document.getElementById('reader-progress-fill');
+      
+      if (chapterNumEl) {
+        chapterNumEl.textContent = `Chapter ${activeChapterIndex + 1} of ${activeBook.chapters.length}`;
+      }
 
-    // Save progress
-    updateReadingProgress(activeBook.id, activeChapterIndex, 0, progressPct);
-    
-    // Scroll reader body back to top
-    const wrapper = container.querySelector('.reader-body-wrapper');
-    if (wrapper) wrapper.scrollTop = 0;
+      const progressPct = Math.round(((activeChapterIndex + 1) / activeBook.chapters.length) * 100);
+      if (progressPctEl) {
+        progressPctEl.textContent = `${progressPct}% Read`;
+      }
+      if (progressFill) {
+        progressFill.style.width = `${progressPct}%`;
+      }
+
+      // Save progress
+      updateReadingProgress(activeBook.id, activeChapterIndex, 0, progressPct);
+      
+      // Scroll reader body back to top
+      const wrapper = container.querySelector('.reader-body-wrapper');
+      if (wrapper) wrapper.scrollTop = 0;
+
+    } catch (err) {
+      console.error(err);
+      textBody.innerHTML = `<p style="text-align: center; color: var(--accent); padding: 40px;">Failed to load chapter text. Please check your connection or retry.</p>`;
+    }
   }
 
   // Handle arrows accessibility
@@ -114,17 +120,17 @@ export function renderReaderContent() {
 }
 
 // NAVIGATION
-export function prevChapter() {
+export async function prevChapter() {
   if (activeChapterIndex > 0) {
     activeChapterIndex--;
-    renderReaderContent();
+    await renderReaderContent();
   }
 }
 
-export function nextChapter() {
+export async function nextChapter() {
   if (activeBook && activeChapterIndex < activeBook.chapters.length - 1) {
     activeChapterIndex++;
-    renderReaderContent();
+    await renderReaderContent();
   }
 }
 

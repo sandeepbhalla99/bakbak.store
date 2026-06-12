@@ -1,0 +1,43 @@
+# Scene V. A Room in Gloucester’s Castle
+
+Enter Cornwall and Edmund.
+
+CORNWALL.
+I will have my revenge ere I depart his house.
+
+EDMUND.
+How, my lord, I may be censured, that nature thus gives way to
+loyalty, something fears me to think of.
+
+CORNWALL.
+I now perceive it was not altogether your brother’s evil
+disposition made him seek his death; but a provoking merit, set
+a-work by a reproveable badness in himself.
+
+EDMUND.
+How malicious is my fortune, that I must repent to be just! This
+is the letter he spoke of, which approves him an intelligent
+party to the advantages of France. O heavens! that this treason
+were not; or not I the detector!
+
+CORNWALL.
+Go with me to the Duchess.
+
+EDMUND.
+If the matter of this paper be certain, you have mighty business
+in hand.
+
+CORNWALL.
+True or false, it hath made thee Earl of Gloucester. Seek out
+where thy father is, that he may be ready for our apprehension.
+
+EDMUND.
+[_Aside._] If I find him comforting the King, it will stuff his
+suspicion more fully. I will persever in my course of loyalty,
+though the conflict be sore between that and my blood.
+
+CORNWALL.
+I will lay trust upon thee; and thou shalt find a dearer father
+in my love.
+
+ [_Exeunt._]

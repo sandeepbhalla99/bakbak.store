@@ -1,0 +1,36 @@
+# SCENE V. A Room in Lord Stanley’s house
+
+Enter Stanley Earl of Derby and Sir Christopher Urswick.
+
+STANLEY.
+Sir Christopher, tell Richmond this from me:
+That in the sty of the most deadly boar
+My son George Stanley is franked up in hold;
+If I revolt, off goes young George’s head;
+The fear of that holds off my present aid.
+So get thee gone. Commend me to thy lord;
+Withal say that the Queen hath heartily consented
+He should espouse Elizabeth her daughter.
+But tell me, where is princely Richmond now?
+
+CHRISTOPHER.
+At Pembroke, or at Ha’rfordwest in Wales.
+
+STANLEY.
+What men of name resort to him?
+
+CHRISTOPHER.
+Sir Walter Herbert, a renowned soldier;
+Sir Gilbert Talbot, Sir William Stanley,
+Oxford, redoubted Pembroke, Sir James Blunt,
+And Rice ap Thomas, with a valiant crew,
+And many other of great name and worth;
+And towards London do they bend their power,
+If by the way they be not fought withal.
+
+STANLEY.
+Well, hie thee to thy lord; I kiss his hand.
+My letter will resolve him of my mind.
+Farewell.
+
+[_Exeunt._]

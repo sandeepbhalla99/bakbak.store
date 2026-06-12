@@ -1,0 +1,852 @@
+[
+  {
+    "id": "the-adventures-of-roderick-random",
+    "title": "The Adventures of Roderick Random",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-history-of-sir-richard-calmady-a-romance",
+    "title": "The History of Sir Richard Calmady  A Romance",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-twelfth-night-or-what-you-will",
+    "title": "TWELFTH NIGHT; OR, WHAT YOU WILL",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tragedy-of-coriolanus",
+    "title": "THE TRAGEDY OF CORIOLANUS",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-second-part-of-king-henry-the-sixth",
+    "title": "THE SECOND PART OF KING HENRY THE SIXTH",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "twenty-years-after",
+    "title": "Twenty years after",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-passionate-pilgrim",
+    "title": "THE PASSIONATE PILGRIM",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "crime-and-punishment",
+    "title": "Crime and Punishment",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "sense-and-sensibility",
+    "title": "Sense and Sensibility",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "wuthering-heights",
+    "title": "Wuthering Heights",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-taming-of-the-shrew",
+    "title": "THE TAMING OF THE SHREW",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "a-room-with-a-view",
+    "title": "A Room with a View",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "jane-eyre-an-autobiography",
+    "title": "Jane Eyre  An Autobiography",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-adventures-of-tom-sawyer-complete",
+    "title": "The Adventures of Tom Sawyer  Complete",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tragedy-of-titus-andronicus",
+    "title": "THE TRAGEDY OF TITUS ANDRONICUS",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-as-you-like-it",
+    "title": "AS YOU LIKE IT",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "cranford",
+    "title": "Cranford",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-odyssey-rendered-into-english-prose-for-the-u",
+    "title": "The Odyssey  Rendered into English prose for the u",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "pride-and-prejudice",
+    "title": "Pride and Prejudice",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-troilus-and-cressida",
+    "title": "TROILUS AND CRESSIDA",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-pericles-prince-of-tyre",
+    "title": "PERICLES, PRINCE OF TYRE",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-a-midsummer-nights-dream",
+    "title": "A MIDSUMMER NIGHT\u2019S DREAM",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "romeo-and-juliet",
+    "title": "Romeo and Juliet",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-cymbeline",
+    "title": "CYMBELINE",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tragedy-of-hamlet-prince-of-denmark",
+    "title": "THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-phoenix-and-the-turtle",
+    "title": "THE PHOENIX AND THE TURTLE",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "adventures-of-huckleberry-finn",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "meditations",
+    "title": "Meditations",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-rape-of-lucrece",
+    "title": "THE RAPE OF LUCRECE",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "treasure-island",
+    "title": "Treasure Island",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "a-tale-of-two-cities",
+    "title": "A Tale of Two Cities",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tragedy-of-julius-caesar",
+    "title": "THE TRAGEDY OF JULIUS CAESAR",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-great-gatsby",
+    "title": "The Great Gatsby",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tragedy-of-othello-the-moor-of-venice",
+    "title": "THE TRAGEDY OF OTHELLO, THE MOOR OF VENICE",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-first-part-of-king-henry-the-fourth",
+    "title": "THE FIRST PART OF KING HENRY THE FOURTH",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-comedy-of-errors",
+    "title": "THE COMEDY OF ERRORS",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-expedition-of-humphry-clinker",
+    "title": "The Expedition of Humphry Clinker",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-adventures-of-ferdinand-count-fathom-complet",
+    "title": "The Adventures of Ferdinand Count Fathom   Complet",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tragedy-of-macbeth",
+    "title": "THE TRAGEDY OF MACBETH",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-king-richard-the-second",
+    "title": "KING RICHARD THE SECOND",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-venus-and-adonis",
+    "title": "VENUS AND ADONIS",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-winters-tale",
+    "title": "THE WINTER\u2019S TALE",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tragedy-of-antony-and-cleopatra",
+    "title": "THE TRAGEDY OF ANTONY AND CLEOPATRA",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "der-zauberberg-erster-band",
+    "title": "Der Zauberberg  Erster Band",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-life-and-death-of-king-john",
+    "title": "THE LIFE AND DEATH OF KING JOHN",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "thus-spake-zarathustra-a-book-for-all-and-none",
+    "title": "Thus Spake Zarathustra  A Book for All and None",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "alice-s-adventures-in-wonderland",
+    "title": "Alice s Adventures in Wonderland",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-two-gentlemen-of-verona",
+    "title": "THE TWO GENTLEMEN OF VERONA",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-hound-of-the-baskervilles",
+    "title": "The Hound of the Baskervilles",
+    "author": "Project Gutenberg",
+    "genre": "Mystery",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-confessions-of-st-augustine",
+    "title": "The Confessions of St  Augustine",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-brothers-karamazov",
+    "title": "The Brothers Karamazov",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "history-of-tom-jones-a-foundling",
+    "title": "History of Tom Jones  a Foundling",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-picture-of-dorian-gray",
+    "title": "The Picture of Dorian Gray",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-loves-labours-lost",
+    "title": "LOVE\u2019S LABOUR\u2019S LOST",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-measure-for-measure",
+    "title": "MEASURE FOR MEASURE",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-merchant-of-venice",
+    "title": "THE MERCHANT OF VENICE",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-two-noble-kinsmen",
+    "title": "THE TWO NOBLE KINSMEN",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-a-lovers-complaint",
+    "title": "A LOVER\u2019S COMPLAINT",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-blue-castle-a-novel",
+    "title": "The Blue Castle  a novel",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-king-henry-the-eighth",
+    "title": "KING HENRY THE EIGHTH",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-king-richard-the-third",
+    "title": "KING RICHARD THE THIRD",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-king-in-yellow",
+    "title": "The King in Yellow",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+    "title": "The strange case of Dr  Jekyll and Mr  Hyde",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-merry-wives-of-windsor",
+    "title": "THE MERRY WIVES OF WINDSOR",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-turn-of-the-screw",
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by Henry James. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "a-doll-s-house-a-play",
+    "title": "A Doll s House   a play",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-alls-well-that-ends-well",
+    "title": "ALL\u2019S WELL THAT ENDS WELL",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-second-part-of-king-henry-the-fourth",
+    "title": "THE SECOND PART OF KING HENRY THE FOURTH",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-count-of-monte-cristo",
+    "title": "The Count of Monte Cristo",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-first-part-of-henry-the-sixth",
+    "title": "THE FIRST PART OF HENRY THE SIXTH",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "covering-end",
+    "title": "Covering End",
+    "author": "Henry James",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+    "description": "A classic masterpiece by Henry James. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tragedy-of-king-lear",
+    "title": "THE TRAGEDY OF KING LEAR",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-life-of-king-henry-the-fifth",
+    "title": "THE LIFE OF KING HENRY THE FIFTH",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-adventures-of-sherlock-holmes",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Project Gutenberg",
+    "genre": "Mystery",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-life-of-timon-of-athens",
+    "title": "THE LIFE OF TIMON OF ATHENS",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-third-part-of-king-henry-the-sixth",
+    "title": "THE THIRD PART OF KING HENRY THE SIXTH",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "middlemarch",
+    "title": "Middlemarch",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-enchanted-april",
+    "title": "The Enchanted April",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "dracula",
+    "title": "Dracula",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tempest",
+    "title": "THE TEMPEST",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-much-ado-about-nothing",
+    "title": "MUCH ADO ABOUT NOTHING",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "shakespeare-the-tragedy-of-romeo-and-juliet",
+    "title": "THE TRAGEDY OF ROMEO AND JULIET",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "moby-dick-or-the-whale",
+    "title": "Moby Dick  Or  The Whale",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "little-women-or-meg-jo-beth-and-amy",
+    "title": "Little Women  Or  Meg  Jo  Beth  and Amy",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "frankenstein-or-the-modern-prometheus",
+    "title": "Frankenstein  or  the modern prometheus",
+    "author": "Project Gutenberg",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+    "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  }
+]

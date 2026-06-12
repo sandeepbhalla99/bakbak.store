@@ -1,0 +1,62 @@
+{
+  "id": "the-adventures-of-sherlock-holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Project Gutenberg",
+  "genre": "Mystery",
+  "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "XII.   The Adventure of the Copper Beeches",
+      "file": "02_XII____The_Adventure_of_the_Co.md"
+    },
+    {
+      "title": "I. A SCANDAL IN BOHEMIA",
+      "file": "03_I__A_SCANDAL_IN_BOHEMIA.md"
+    },
+    {
+      "title": "yet there was but one woman to him, and that woman was the late Irene",
+      "file": "04_yet_there_was_but_one_woman_to.md"
+    },
+    {
+      "title": "observation in following out those clues, and clearing up those",
+      "file": "05_observation_in_following_out_t.md"
+    },
+    {
+      "title": "his activity, however, which I merely shared with all the readers of",
+      "file": "06_his_activity__however__which_I.md"
+    },
+    {
+      "title": "dreams and was hot upon the scent of some new problem. I rang the bell",
+      "file": "07_dreams_and_was_hot_upon_the_sc.md"
+    },
+    {
+      "title": "spirit case and a gasogene in the corner. Then he stood before the fire",
+      "file": "08_spirit_case_and_a_gasogene_in.md"
+    },
+    {
+      "title": "on seven and a half pounds since I saw you.\u201d",
+      "file": "09_on_seven_and_a_half_pounds_sin.md"
+    },
+    {
+      "title": "that you intended to go into harness.\u201d",
+      "file": "10_that_you_intended_to_go_into_h.md"
+    },
+    {
+      "title": "\u201cThen, how do you know?\u201d",
+      "file": "11_Then__how_do_you_know.md"
+    },
+    {
+      "title": "servant girl?\u201d",
+      "file": "12_servant_girl.md"
+    },
+    {
+      "title": "country walk on Thursday and came home in a dreadful mess, but as I",
+      "file": "13_country_walk_on_Thursday_and_c.md"
+    }
+  ]
+}

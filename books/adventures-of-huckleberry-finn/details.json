@@ -1,0 +1,362 @@
+{
+  "id": "adventures-of-huckleberry-finn",
+  "title": "Adventures of Huckleberry Finn",
+  "author": "Project Gutenberg",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "CHAPTER I.",
+      "file": "02_CHAPTER_I.md"
+    },
+    {
+      "title": "CHAPTER II.",
+      "file": "03_CHAPTER_II.md"
+    },
+    {
+      "title": "CHAPTER III.",
+      "file": "04_CHAPTER_III.md"
+    },
+    {
+      "title": "CHAPTER IV.",
+      "file": "05_CHAPTER_IV.md"
+    },
+    {
+      "title": "CHAPTER V.",
+      "file": "06_CHAPTER_V.md"
+    },
+    {
+      "title": "CHAPTER VI.",
+      "file": "07_CHAPTER_VI.md"
+    },
+    {
+      "title": "CHAPTER VII.",
+      "file": "08_CHAPTER_VII.md"
+    },
+    {
+      "title": "CHAPTER VIII.",
+      "file": "09_CHAPTER_VIII.md"
+    },
+    {
+      "title": "CHAPTER IX.",
+      "file": "10_CHAPTER_IX.md"
+    },
+    {
+      "title": "CHAPTER X.",
+      "file": "11_CHAPTER_X.md"
+    },
+    {
+      "title": "CHAPTER XI.",
+      "file": "12_CHAPTER_XI.md"
+    },
+    {
+      "title": "CHAPTER XII.",
+      "file": "13_CHAPTER_XII.md"
+    },
+    {
+      "title": "CHAPTER XIII.",
+      "file": "14_CHAPTER_XIII.md"
+    },
+    {
+      "title": "CHAPTER XIV.",
+      "file": "15_CHAPTER_XIV.md"
+    },
+    {
+      "title": "CHAPTER XV.",
+      "file": "16_CHAPTER_XV.md"
+    },
+    {
+      "title": "CHAPTER XVI.",
+      "file": "17_CHAPTER_XVI.md"
+    },
+    {
+      "title": "CHAPTER XVII.",
+      "file": "18_CHAPTER_XVII.md"
+    },
+    {
+      "title": "CHAPTER XVIII.",
+      "file": "19_CHAPTER_XVIII.md"
+    },
+    {
+      "title": "CHAPTER XIX.",
+      "file": "20_CHAPTER_XIX.md"
+    },
+    {
+      "title": "CHAPTER XX.",
+      "file": "21_CHAPTER_XX.md"
+    },
+    {
+      "title": "CHAPTER XXI.",
+      "file": "22_CHAPTER_XXI.md"
+    },
+    {
+      "title": "CHAPTER XXII.",
+      "file": "23_CHAPTER_XXII.md"
+    },
+    {
+      "title": "CHAPTER XXIII.",
+      "file": "24_CHAPTER_XXIII.md"
+    },
+    {
+      "title": "CHAPTER XXIV.",
+      "file": "25_CHAPTER_XXIV.md"
+    },
+    {
+      "title": "CHAPTER XXV.",
+      "file": "26_CHAPTER_XXV.md"
+    },
+    {
+      "title": "CHAPTER XXVI.",
+      "file": "27_CHAPTER_XXVI.md"
+    },
+    {
+      "title": "CHAPTER XXVII.",
+      "file": "28_CHAPTER_XXVII.md"
+    },
+    {
+      "title": "CHAPTER XXVIII.",
+      "file": "29_CHAPTER_XXVIII.md"
+    },
+    {
+      "title": "CHAPTER XXIX.",
+      "file": "30_CHAPTER_XXIX.md"
+    },
+    {
+      "title": "CHAPTER XXX.",
+      "file": "31_CHAPTER_XXX.md"
+    },
+    {
+      "title": "CHAPTER XXXI.",
+      "file": "32_CHAPTER_XXXI.md"
+    },
+    {
+      "title": "CHAPTER XXXII.",
+      "file": "33_CHAPTER_XXXII.md"
+    },
+    {
+      "title": "CHAPTER XXXIII.",
+      "file": "34_CHAPTER_XXXIII.md"
+    },
+    {
+      "title": "CHAPTER XXXIV.",
+      "file": "35_CHAPTER_XXXIV.md"
+    },
+    {
+      "title": "CHAPTER XXXV.",
+      "file": "36_CHAPTER_XXXV.md"
+    },
+    {
+      "title": "CHAPTER XXXVI.",
+      "file": "37_CHAPTER_XXXVI.md"
+    },
+    {
+      "title": "CHAPTER XXXVII.",
+      "file": "38_CHAPTER_XXXVII.md"
+    },
+    {
+      "title": "CHAPTER XXXVIII.",
+      "file": "39_CHAPTER_XXXVIII.md"
+    },
+    {
+      "title": "CHAPTER XXXIX.",
+      "file": "40_CHAPTER_XXXIX.md"
+    },
+    {
+      "title": "CHAPTER XL.",
+      "file": "41_CHAPTER_XL.md"
+    },
+    {
+      "title": "CHAPTER XLI.",
+      "file": "42_CHAPTER_XLI.md"
+    },
+    {
+      "title": "CHAPTER XLII.",
+      "file": "43_CHAPTER_XLII.md"
+    },
+    {
+      "title": "CHAPTER THE LAST.",
+      "file": "44_CHAPTER_THE_LAST.md"
+    },
+    {
+      "title": "Scene: The Mississippi Valley Time: Forty to fifty years ago",
+      "file": "45_Scene__The_Mississippi_Valley.md"
+    },
+    {
+      "title": "CHAPTER I.",
+      "file": "46_CHAPTER_I.md"
+    },
+    {
+      "title": "CHAPTER II.",
+      "file": "47_CHAPTER_II.md"
+    },
+    {
+      "title": "CHAPTER III.",
+      "file": "48_CHAPTER_III.md"
+    },
+    {
+      "title": "CHAPTER IV.",
+      "file": "49_CHAPTER_IV.md"
+    },
+    {
+      "title": "CHAPTER V.",
+      "file": "50_CHAPTER_V.md"
+    },
+    {
+      "title": "CHAPTER VI.",
+      "file": "51_CHAPTER_VI.md"
+    },
+    {
+      "title": "CHAPTER VII.",
+      "file": "52_CHAPTER_VII.md"
+    },
+    {
+      "title": "CHAPTER VIII.",
+      "file": "53_CHAPTER_VIII.md"
+    },
+    {
+      "title": "CHAPTER IX.",
+      "file": "54_CHAPTER_IX.md"
+    },
+    {
+      "title": "CHAPTER X.",
+      "file": "55_CHAPTER_X.md"
+    },
+    {
+      "title": "CHAPTER XI.",
+      "file": "56_CHAPTER_XI.md"
+    },
+    {
+      "title": "CHAPTER XII.",
+      "file": "57_CHAPTER_XII.md"
+    },
+    {
+      "title": "CHAPTER XIII.",
+      "file": "58_CHAPTER_XIII.md"
+    },
+    {
+      "title": "CHAPTER XIV.",
+      "file": "59_CHAPTER_XIV.md"
+    },
+    {
+      "title": "CHAPTER XV.",
+      "file": "60_CHAPTER_XV.md"
+    },
+    {
+      "title": "CHAPTER XVI.",
+      "file": "61_CHAPTER_XVI.md"
+    },
+    {
+      "title": "CHAPTER XVII.",
+      "file": "62_CHAPTER_XVII.md"
+    },
+    {
+      "title": "CHAPTER XVIII.",
+      "file": "63_CHAPTER_XVIII.md"
+    },
+    {
+      "title": "CHAPTER XIX.",
+      "file": "64_CHAPTER_XIX.md"
+    },
+    {
+      "title": "CHAPTER XX.",
+      "file": "65_CHAPTER_XX.md"
+    },
+    {
+      "title": "CHAPTER XXI.",
+      "file": "66_CHAPTER_XXI.md"
+    },
+    {
+      "title": "CHAPTER XXII.",
+      "file": "67_CHAPTER_XXII.md"
+    },
+    {
+      "title": "CHAPTER XXIII.",
+      "file": "68_CHAPTER_XXIII.md"
+    },
+    {
+      "title": "CHAPTER XXIV.",
+      "file": "69_CHAPTER_XXIV.md"
+    },
+    {
+      "title": "CHAPTER XXV.",
+      "file": "70_CHAPTER_XXV.md"
+    },
+    {
+      "title": "CHAPTER XXVI.",
+      "file": "71_CHAPTER_XXVI.md"
+    },
+    {
+      "title": "CHAPTER XXVII.",
+      "file": "72_CHAPTER_XXVII.md"
+    },
+    {
+      "title": "CHAPTER XXVIII.",
+      "file": "73_CHAPTER_XXVIII.md"
+    },
+    {
+      "title": "CHAPTER XXIX.",
+      "file": "74_CHAPTER_XXIX.md"
+    },
+    {
+      "title": "CHAPTER XXX.",
+      "file": "75_CHAPTER_XXX.md"
+    },
+    {
+      "title": "CHAPTER XXXI.",
+      "file": "76_CHAPTER_XXXI.md"
+    },
+    {
+      "title": "CHAPTER XXXII.",
+      "file": "77_CHAPTER_XXXII.md"
+    },
+    {
+      "title": "CHAPTER XXXIII.",
+      "file": "78_CHAPTER_XXXIII.md"
+    },
+    {
+      "title": "CHAPTER XXXIV.",
+      "file": "79_CHAPTER_XXXIV.md"
+    },
+    {
+      "title": "CHAPTER XXXV.",
+      "file": "80_CHAPTER_XXXV.md"
+    },
+    {
+      "title": "CHAPTER XXXVI.",
+      "file": "81_CHAPTER_XXXVI.md"
+    },
+    {
+      "title": "CHAPTER XXXVII.",
+      "file": "82_CHAPTER_XXXVII.md"
+    },
+    {
+      "title": "CHAPTER XXXVIII.",
+      "file": "83_CHAPTER_XXXVIII.md"
+    },
+    {
+      "title": "CHAPTER XXXIX.",
+      "file": "84_CHAPTER_XXXIX.md"
+    },
+    {
+      "title": "CHAPTER XL.",
+      "file": "85_CHAPTER_XL.md"
+    },
+    {
+      "title": "CHAPTER XLI.",
+      "file": "86_CHAPTER_XLI.md"
+    },
+    {
+      "title": "CHAPTER XLII.",
+      "file": "87_CHAPTER_XLII.md"
+    },
+    {
+      "title": "CHAPTER THE LAST",
+      "file": "88_CHAPTER_THE_LAST.md"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Dramatis Personæ
+
+RICHARD, DUKE OF GLOUCESTER, afterwards KING RICHARD III.

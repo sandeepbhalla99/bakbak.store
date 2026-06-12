@@ -1,0 +1,230 @@
+{
+  "id": "treasure-island",
+  "title": "Treasure Island",
+  "author": "Project Gutenberg",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "TREASURE ISLAND",
+      "file": "01_TREASURE_ISLAND.md"
+    },
+    {
+      "title": "TREASURE ISLAND",
+      "file": "02_TREASURE_ISLAND.md"
+    },
+    {
+      "title": "The Old Buccaneer",
+      "file": "03_The_Old_Buccaneer.md"
+    },
+    {
+      "title": "The Sea Cook",
+      "file": "04_The_Sea_Cook.md"
+    },
+    {
+      "title": "My Shore Adventure",
+      "file": "05_My_Shore_Adventure.md"
+    },
+    {
+      "title": "The Stockade",
+      "file": "06_The_Stockade.md"
+    },
+    {
+      "title": "XVI.  NARRATIVE CONTINUED BY THE DOCTOR:",
+      "file": "07_XVI___NARRATIVE_CONTINUED_BY_T.md"
+    },
+    {
+      "title": "XVII.  NARRATIVE CONTINUED BY THE DOCTOR:",
+      "file": "08_XVII___NARRATIVE_CONTINUED_BY.md"
+    },
+    {
+      "title": "XVIII.  NARRATIVE CONTINUED BY THE DOCTOR:",
+      "file": "09_XVIII___NARRATIVE_CONTINUED_BY.md"
+    },
+    {
+      "title": "XIX.  NARRATIVE RESUMED BY JIM HAWKINS:",
+      "file": "10_XIX___NARRATIVE_RESUMED_BY_JIM.md"
+    },
+    {
+      "title": "My Sea Adventure",
+      "file": "11_My_Sea_Adventure.md"
+    },
+    {
+      "title": "Captain Silver",
+      "file": "12_Captain_Silver.md"
+    },
+    {
+      "title": "XXXII.  THE TREASURE-HUNT--THE VOICE AMONG",
+      "file": "13_XXXII___THE_TREASURE_HUNT__THE.md"
+    },
+    {
+      "title": "TREASURE ISLAND",
+      "file": "14_TREASURE_ISLAND.md"
+    },
+    {
+      "title": "PART ONE--The Old Buccaneer",
+      "file": "15_PART_ONE__The_Old_Buccaneer.md"
+    },
+    {
+      "title": "Chapter I: The Old Sea-dog at the Admiral Benbow",
+      "file": "16_Chapter_I__The_Old_Sea_dog_at.md"
+    },
+    {
+      "title": "my father kept the Admiral Benbow inn and the brown old seaman with the",
+      "file": "17_my_father_kept_the_Admiral_Ben.md"
+    },
+    {
+      "title": "often afterwards:",
+      "file": "18_often_afterwards.md"
+    },
+    {
+      "title": "\u201cFifteen men on the dead man\u2019s chest--",
+      "file": "19_Fifteen_men_on_the_dead_man_s.md"
+    },
+    {
+      "title": "\u201cFifteen men on the dead man\u2019s chest--",
+      "file": "20_Fifteen_men_on_the_dead_man_s.md"
+    },
+    {
+      "title": "Chapter II: Black Dog Appears and Disappears",
+      "file": "21_Chapter_II__Black_Dog_Appears.md"
+    },
+    {
+      "title": "Chapter III: The Black Spot",
+      "file": "22_Chapter_III__The_Black_Spot.md"
+    },
+    {
+      "title": "Chapter IV: The Sea-chest",
+      "file": "23_Chapter_IV__The_Sea_chest.md"
+    },
+    {
+      "title": "Chapter V: The Last of the Blind Man",
+      "file": "24_Chapter_V__The_Last_of_the_Bli.md"
+    },
+    {
+      "title": "Chapter VI: The Captain\u2019s Papers",
+      "file": "25_Chapter_VI__The_Captain_s_Pape.md"
+    },
+    {
+      "title": "Chapter VII: I Go to Bristol",
+      "file": "26_Chapter_VII__I_Go_to_Bristol.md"
+    },
+    {
+      "title": "Chapter VIII: At the Sign of the Spy-glass",
+      "file": "27_Chapter_VIII__At_the_Sign_of_t.md"
+    },
+    {
+      "title": "Chapter IX: Powder and Arms",
+      "file": "28_Chapter_IX__Powder_and_Arms.md"
+    },
+    {
+      "title": "Chapter X: The Voyage",
+      "file": "29_Chapter_X__The_Voyage.md"
+    },
+    {
+      "title": "Chapter XI: What I Heard in the Apple-Barrel",
+      "file": "30_Chapter_XI__What_I_Heard_in_th.md"
+    },
+    {
+      "title": "Chapter XII: Council of War",
+      "file": "31_Chapter_XII__Council_of_War.md"
+    },
+    {
+      "title": "Chapter XIII: How I Began My Shore Adventure",
+      "file": "32_Chapter_XIII__How_I_Began_My_S.md"
+    },
+    {
+      "title": "Chapter XIV: The First Blow",
+      "file": "33_Chapter_XIV__The_First_Blow.md"
+    },
+    {
+      "title": "Chapter XV: The Man of the Island",
+      "file": "34_Chapter_XV__The_Man_of_the_Isl.md"
+    },
+    {
+      "title": "Chapter XVI: Narrative Continued by the Doctor: How the Ship Was Abandoned",
+      "file": "35_Chapter_XVI__Narrative_Continu.md"
+    },
+    {
+      "title": "Chapter XXVII: Narrative Continued by the Doctor: The Jolly-boat\u2019s Last Trip",
+      "file": "36_Chapter_XXVII__Narrative_Conti.md"
+    },
+    {
+      "title": "Chapter XVIII: Narrative Continued by the Doctor: End of the First Day\u2019s Fighting",
+      "file": "37_Chapter_XVIII__Narrative_Conti.md"
+    },
+    {
+      "title": "Chapter XIX: Narrative Resumed by Jim Hawkins: The Garrison in the Stockade",
+      "file": "38_Chapter_XIX__Narrative_Resumed.md"
+    },
+    {
+      "title": "Chapter XX: Silver\u2019s Embassy",
+      "file": "39_Chapter_XX__Silver_s_Embassy.md"
+    },
+    {
+      "title": "Chapter XXI: The Attack",
+      "file": "40_Chapter_XXI__The_Attack.md"
+    },
+    {
+      "title": "Chapter XXII: How I Began My Sea Adventure",
+      "file": "41_Chapter_XXII__How_I_Began_My_S.md"
+    },
+    {
+      "title": "Chapter XXIII: The Ebb-tide Runs",
+      "file": "42_Chapter_XXIII__The_Ebb_tide_Ru.md"
+    },
+    {
+      "title": "\u201cFifteen men on the dead man\u2019s chest--",
+      "file": "43_Fifteen_men_on_the_dead_man_s.md"
+    },
+    {
+      "title": "Chapter XXIV: The Cruise of the Coracle",
+      "file": "44_Chapter_XXIV__The_Cruise_of_th.md"
+    },
+    {
+      "title": "Chapter XXV: I Strike the Jolly Roger",
+      "file": "45_Chapter_XXV__I_Strike_the_Joll.md"
+    },
+    {
+      "title": "Chapter XXVI: Israel Hands",
+      "file": "46_Chapter_XXVI__Israel_Hands.md"
+    },
+    {
+      "title": "Chapter XXVII: \u201cPieces of Eight\u201d",
+      "file": "47_Chapter_XXVII___Pieces_of_Eigh.md"
+    },
+    {
+      "title": "Chapter XXVIII: In the Enemy\u2019s Camp",
+      "file": "48_Chapter_XXVIII__In_the_Enemy_s.md"
+    },
+    {
+      "title": "Chapter XXIX: The Black Spot Again",
+      "file": "49_Chapter_XXIX__The_Black_Spot_A.md"
+    },
+    {
+      "title": "Chapter XXX: On Parole",
+      "file": "50_Chapter_XXX__On_Parole.md"
+    },
+    {
+      "title": "Chapter XXXI: The Treasure-hunt--Flint\u2019s Pointer",
+      "file": "51_Chapter_XXXI__The_Treasure_hun.md"
+    },
+    {
+      "title": "Chapter XXXII: The Treasure-hunt--The Voice Among the Trees",
+      "file": "52_Chapter_XXXII__The_Treasure_hu.md"
+    },
+    {
+      "title": "\u201cFifteen men on the dead man\u2019s chest--",
+      "file": "53_Fifteen_men_on_the_dead_man_s.md"
+    },
+    {
+      "title": "Chapter XXXIII: The Fall of a Chieftain",
+      "file": "54_Chapter_XXXIII__The_Fall_of_a.md"
+    },
+    {
+      "title": "Chapter XXXIV: And Last",
+      "file": "55_Chapter_XXXIV__And_Last.md"
+    }
+  ]
+}

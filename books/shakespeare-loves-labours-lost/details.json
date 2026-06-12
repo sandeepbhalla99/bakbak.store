@@ -1,0 +1,166 @@
+{
+  "id": "shakespeare-loves-labours-lost",
+  "title": "LOVE\u2019S LABOUR\u2019S LOST",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene II. The park",
+      "file": "02_Scene_II__The_park.md"
+    },
+    {
+      "title": "Scene I. The King of Navarre\u2019s park. A pavilion and tents at a distance",
+      "file": "03_Scene_I__The_King_of_Navarre_s.md"
+    },
+    {
+      "title": "Scene I. The King of Navarre\u2019s park",
+      "file": "04_Scene_I__The_King_of_Navarre_s.md"
+    },
+    {
+      "title": "Scene III. The same",
+      "file": "05_Scene_III__The_same.md"
+    },
+    {
+      "title": "Scene II. The same. Before the Princess\u2019s pavilion",
+      "file": "06_Scene_II__The_same__Before_the.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "07_Dramatis_Person.md"
+    },
+    {
+      "title": "KING of Navarre, also known as Ferdinand",
+      "file": "08_KING_of_Navarre__also_known_as.md"
+    },
+    {
+      "title": "DUMAINE, Lord attending on the King",
+      "file": "09_DUMAINE__Lord_attending_on_the.md"
+    },
+    {
+      "title": "The PRINCESS of France",
+      "file": "10_The_PRINCESS_of_France.md"
+    },
+    {
+      "title": "BOYET, Lord attending on the Princess",
+      "file": "11_BOYET__Lord_attending_on_the_P.md"
+    },
+    {
+      "title": "MARCAD\u00c9, a messenger from France",
+      "file": "12_MARCAD___a_messenger_from_Fran.md"
+    },
+    {
+      "title": "Lords, Blackamoors, Officers and Others, Attendants on the King and",
+      "file": "13_Lords__Blackamoors__Officers_a.md"
+    },
+    {
+      "title": "SCENE: Navarre",
+      "file": "14_SCENE__Navarre.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "15_ACT_I.md"
+    },
+    {
+      "title": "Scene I. The King of Navarre\u2019s park",
+      "file": "16_Scene_I__The_King_of_Navarre_s.md"
+    },
+    {
+      "title": "That honour which shall bate his scythe\u2019s keen edge,",
+      "file": "17_That_honour_which_shall_bate_h.md"
+    },
+    {
+      "title": "And the huge army of the world\u2019s desires,",
+      "file": "18_And_the_huge_army_of_the_world.md"
+    },
+    {
+      "title": "Our court shall be a little academe,",
+      "file": "19_Our_court_shall_be_a_little_ac.md"
+    },
+    {
+      "title": "My fellow-scholars, and to keep those statutes",
+      "file": "20_My_fellow_scholars__and_to_kee.md"
+    },
+    {
+      "title": "That his own hand may strike his honour down",
+      "file": "21_That_his_own_hand_may_strike_h.md"
+    },
+    {
+      "title": "If you are armed to do as sworn to do,",
+      "file": "22_If_you_are_armed_to_do_as_swor.md"
+    },
+    {
+      "title": "Fat paunches have lean pates, and dainty bits",
+      "file": "23_Fat_paunches_have_lean_pates.md"
+    },
+    {
+      "title": "[_He signs._]",
+      "file": "24_He_signs.md"
+    },
+    {
+      "title": "The grosser manner of these world\u2019s delights",
+      "file": "25_The_grosser_manner_of_these_wo.md"
+    },
+    {
+      "title": "[_He signs._]",
+      "file": "26_He_signs.md"
+    },
+    {
+      "title": "[_He signs._]",
+      "file": "27_He_signs.md"
+    },
+    {
+      "title": "Scene II. The park",
+      "file": "28_Scene_II__The_park.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "29_ACT_II.md"
+    },
+    {
+      "title": "Scene I. The King of Navarre\u2019s park. A pavilion and tents at a distance",
+      "file": "30_Scene_I__The_King_of_Navarre_s.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "31_ACT_III.md"
+    },
+    {
+      "title": "Scene I. The King of Navarre\u2019s park",
+      "file": "32_Scene_I__The_King_of_Navarre_s.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "33_ACT_IV.md"
+    },
+    {
+      "title": "Scene I. The King of Navarre\u2019s park",
+      "file": "34_Scene_I__The_King_of_Navarre_s.md"
+    },
+    {
+      "title": "Scene II. The same",
+      "file": "35_Scene_II__The_same.md"
+    },
+    {
+      "title": "Scene III. The same",
+      "file": "36_Scene_III__The_same.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "37_ACT_V.md"
+    },
+    {
+      "title": "Scene I. The King of Navarre\u2019s park",
+      "file": "38_Scene_I__The_King_of_Navarre_s.md"
+    },
+    {
+      "title": "Scene II. The same. Before the Princess\u2019s pavilion",
+      "file": "39_Scene_II__The_same__Before_the.md"
+    }
+  ]
+}

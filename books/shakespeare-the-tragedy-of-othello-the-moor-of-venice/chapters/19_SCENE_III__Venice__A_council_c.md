@@ -1,0 +1,469 @@
+# SCENE III. Venice. A council chamber.
+
+The Duke and Senators sitting at a table; Officers attending.
+
+DUKE.
+There is no composition in these news
+That gives them credit.
+
+FIRST SENATOR.
+Indeed, they are disproportion’d;
+My letters say a hundred and seven galleys.
+
+DUKE.
+And mine a hundred and forty.
+
+SECOND SENATOR
+And mine two hundred:
+But though they jump not on a just account,
+(As in these cases, where the aim reports,
+’Tis oft with difference,) yet do they all confirm
+A Turkish fleet, and bearing up to Cyprus.
+
+DUKE.
+Nay, it is possible enough to judgement:
+I do not so secure me in the error,
+But the main article I do approve
+In fearful sense.
+
+SAILOR.
+[_Within._] What, ho! what, ho! what, ho!
+
+OFFICER.
+A messenger from the galleys.
+
+Enter Sailor.
+
+DUKE.
+Now,—what’s the business?
+
+SAILOR.
+The Turkish preparation makes for Rhodes,
+So was I bid report here to the state
+By Signior Angelo.
+
+DUKE.
+How say you by this change?
+
+FIRST SENATOR.
+This cannot be
+By no assay of reason. ’Tis a pageant
+To keep us in false gaze. When we consider
+The importancy of Cyprus to the Turk;
+And let ourselves again but understand
+That, as it more concerns the Turk than Rhodes,
+So may he with more facile question bear it,
+For that it stands not in such warlike brace,
+But altogether lacks the abilities
+That Rhodes is dress’d in. If we make thought of this,
+We must not think the Turk is so unskilful
+To leave that latest which concerns him first,
+Neglecting an attempt of ease and gain,
+To wake and wage a danger profitless.
+
+DUKE.
+Nay, in all confidence, he’s not for Rhodes.
+
+OFFICER.
+Here is more news.
+
+Enter a Messenger.
+
+MESSENGER.
+The Ottomites, reverend and gracious,
+Steering with due course toward the isle of Rhodes,
+Have there injointed them with an after fleet.
+
+FIRST SENATOR.
+Ay, so I thought. How many, as you guess?
+
+MESSENGER.
+Of thirty sail, and now they do re-stem
+Their backward course, bearing with frank appearance
+Their purposes toward Cyprus. Signior Montano,
+Your trusty and most valiant servitor,
+With his free duty recommends you thus,
+And prays you to believe him.
+
+DUKE.
+’Tis certain, then, for Cyprus.
+Marcus Luccicos, is not he in town?
+
+FIRST SENATOR.
+He’s now in Florence.
+
+DUKE.
+Write from us to him; post-post-haste dispatch.
+
+FIRST SENATOR.
+Here comes Brabantio and the valiant Moor.
+
+Enter Brabantio, Othello, Iago, Roderigo and Officers.
+
+DUKE.
+Valiant Othello, we must straight employ you
+Against the general enemy Ottoman.
+[_To Brabantio._] I did not see you; welcome, gentle signior,
+We lack’d your counsel and your help tonight.
+
+BRABANTIO.
+So did I yours. Good your grace, pardon me.
+Neither my place, nor aught I heard of business
+Hath rais’d me from my bed, nor doth the general care
+Take hold on me; for my particular grief
+Is of so flood-gate and o’erbearing nature
+That it engluts and swallows other sorrows,
+And it is still itself.
+
+DUKE.
+Why, what’s the matter?
+
+BRABANTIO.
+My daughter! O, my daughter!
+
+DUKE and SENATORS.
+Dead?
+
+BRABANTIO.
+Ay, to me.
+She is abused, stol’n from me, and corrupted
+By spells and medicines bought of mountebanks;
+For nature so preposterously to err,
+Being not deficient, blind, or lame of sense,
+Sans witchcraft could not.
+
+DUKE.
+Whoe’er he be, that in this foul proceeding,
+Hath thus beguil’d your daughter of herself,
+And you of her, the bloody book of law
+You shall yourself read in the bitter letter,
+After your own sense, yea, though our proper son
+Stood in your action.
+
+BRABANTIO.
+Humbly I thank your grace.
+Here is the man, this Moor, whom now it seems
+Your special mandate for the state affairs
+Hath hither brought.
+
+ALL.
+We are very sorry for ’t.
+
+DUKE.
+[_To Othello._] What, in your own part, can you say to this?
+
+BRABANTIO.
+Nothing, but this is so.
+
+OTHELLO.
+Most potent, grave, and reverend signiors,
+My very noble and approv’d good masters:
+That I have ta’en away this old man’s daughter,
+It is most true; true, I have married her.
+The very head and front of my offending
+Hath this extent, no more. Rude am I in my speech,
+And little bless’d with the soft phrase of peace;
+For since these arms of mine had seven years’ pith,
+Till now some nine moons wasted, they have us’d
+Their dearest action in the tented field,
+And little of this great world can I speak,
+More than pertains to feats of broil and battle,
+And therefore little shall I grace my cause
+In speaking for myself. Yet, by your gracious patience,
+I will a round unvarnish’d tale deliver
+Of my whole course of love: what drugs, what charms,
+What conjuration, and what mighty magic,
+(For such proceeding I am charged withal)
+I won his daughter.
+
+BRABANTIO.
+A maiden never bold:
+Of spirit so still and quiet that her motion
+Blush’d at herself; and she, in spite of nature,
+Of years, of country, credit, everything,
+To fall in love with what she fear’d to look on!
+It is judgement maim’d and most imperfect
+That will confess perfection so could err
+Against all rules of nature, and must be driven
+To find out practices of cunning hell,
+Why this should be. I therefore vouch again,
+That with some mixtures powerful o’er the blood,
+Or with some dram conjur’d to this effect,
+He wrought upon her.
+
+DUKE.
+To vouch this is no proof;
+Without more wider and more overt test
+Than these thin habits and poor likelihoods
+Of modern seeming do prefer against him.
+
+FIRST SENATOR.
+But, Othello, speak:
+Did you by indirect and forced courses
+Subdue and poison this young maid’s affections?
+Or came it by request, and such fair question
+As soul to soul affordeth?
+
+OTHELLO.
+I do beseech you,
+Send for the lady to the Sagittary,
+And let her speak of me before her father.
+If you do find me foul in her report,
+The trust, the office I do hold of you,
+Not only take away, but let your sentence
+Even fall upon my life.
+
+DUKE.
+Fetch Desdemona hither.
+
+OTHELLO.
+Ancient, conduct them, you best know the place.
+
+[_Exeunt Iago and Attendants._]
+
+And till she come, as truly as to heaven
+I do confess the vices of my blood,
+So justly to your grave ears I’ll present
+How I did thrive in this fair lady’s love,
+And she in mine.
+
+DUKE.
+Say it, Othello.
+
+OTHELLO.
+Her father lov’d me, oft invited me,
+Still question’d me the story of my life,
+From year to year—the battles, sieges, fortunes,
+That I have pass’d.
+I ran it through, even from my boyish days
+To the very moment that he bade me tell it,
+Wherein I spake of most disastrous chances,
+Of moving accidents by flood and field;
+Of hair-breadth scapes i’ th’ imminent deadly breach;
+Of being taken by the insolent foe,
+And sold to slavery, of my redemption thence,
+And portance in my traveler’s history,
+Wherein of antres vast and deserts idle,
+Rough quarries, rocks, and hills whose heads touch heaven,
+It was my hint to speak,—such was the process;
+And of the Cannibals that each other eat,
+The Anthropophagi, and men whose heads
+Do grow beneath their shoulders. This to hear
+Would Desdemona seriously incline.
+But still the house affairs would draw her thence,
+Which ever as she could with haste dispatch,
+She’d come again, and with a greedy ear
+Devour up my discourse; which I observing,
+Took once a pliant hour, and found good means
+To draw from her a prayer of earnest heart
+That I would all my pilgrimage dilate,
+Whereof by parcels she had something heard,
+But not intentively. I did consent,
+And often did beguile her of her tears,
+When I did speak of some distressful stroke
+That my youth suffer’d. My story being done,
+She gave me for my pains a world of sighs.
+She swore, in faith, ’twas strange, ’twas passing strange;
+’Twas pitiful, ’twas wondrous pitiful.
+She wish’d she had not heard it, yet she wish’d
+That heaven had made her such a man: she thank’d me,
+And bade me, if I had a friend that lov’d her,
+I should but teach him how to tell my story,
+And that would woo her. Upon this hint I spake:
+She lov’d me for the dangers I had pass’d,
+And I lov’d her that she did pity them.
+This only is the witchcraft I have us’d.
+Here comes the lady. Let her witness it.
+
+Enter  Desdemona, Iago and Attendants.
+
+DUKE.
+I think this tale would win my daughter too.
+Good Brabantio,
+Take up this mangled matter at the best.
+Men do their broken weapons rather use
+Than their bare hands.
+
+BRABANTIO.
+I pray you hear her speak.
+If she confess that she was half the wooer,
+Destruction on my head, if my bad blame
+Light on the man!—Come hither, gentle mistress:
+Do you perceive in all this noble company
+Where most you owe obedience?
+
+DESDEMONA.
+My noble father,
+I do perceive here a divided duty:
+To you I am bound for life and education.
+My life and education both do learn me
+How to respect you. You are the lord of duty,
+I am hitherto your daughter: but here’s my husband.
+And so much duty as my mother show’d
+To you, preferring you before her father,
+So much I challenge that I may profess
+Due to the Moor my lord.
+
+BRABANTIO.
+God be with you! I have done.
+Please it your grace, on to the state affairs.
+I had rather to adopt a child than get it.—
+Come hither, Moor:
+I here do give thee that with all my heart
+Which, but thou hast already, with all my heart
+I would keep from thee.—For your sake, jewel,
+I am glad at soul I have no other child,
+For thy escape would teach me tyranny,
+To hang clogs on them.—I have done, my lord.
+
+DUKE.
+Let me speak like yourself, and lay a sentence,
+Which as a grise or step may help these lovers
+Into your favour.
+When remedies are past, the griefs are ended
+By seeing the worst, which late on hopes depended.
+To mourn a mischief that is past and gone
+Is the next way to draw new mischief on.
+What cannot be preserved when fortune takes,
+Patience her injury a mockery makes.
+The robb’d that smiles steals something from the thief;
+He robs himself that spends a bootless grief.
+
+BRABANTIO.
+So let the Turk of Cyprus us beguile,
+We lose it not so long as we can smile;
+He bears the sentence well, that nothing bears
+But the free comfort which from thence he hears;
+But he bears both the sentence and the sorrow
+That, to pay grief, must of poor patience borrow.
+These sentences to sugar or to gall,
+Being strong on both sides, are equivocal:
+But words are words; I never yet did hear
+That the bruis’d heart was pierced through the ear.
+I humbly beseech you, proceed to the affairs of state.
+
+DUKE.
+The Turk with a most mighty preparation makes for Cyprus. Othello, the
+fortitude of the place is best known to you. And though we have there a
+substitute of most allowed sufficiency, yet opinion, a sovereign
+mistress of effects, throws a more safer voice on you: you must
+therefore be content to slubber the gloss of your new fortunes with
+this more stubborn and boisterous expedition.
+
+OTHELLO.
+The tyrant custom, most grave senators,
+Hath made the flinty and steel couch of war
+My thrice-driven bed of down: I do agnize
+A natural and prompt alacrity
+I find in hardness, and do undertake
+This present wars against the Ottomites.
+Most humbly, therefore, bending to your state,
+I crave fit disposition for my wife,
+Due reference of place and exhibition,
+With such accommodation and besort
+As levels with her breeding.
+
+DUKE.
+If you please,
+Be’t at her father’s.
+
+BRABANTIO.
+I’ll not have it so.
+
+OTHELLO.
+Nor I.
+
+DESDEMONA.
+Nor I. I would not there reside,
+To put my father in impatient thoughts,
+By being in his eye. Most gracious duke,
+To my unfolding lend your prosperous ear,
+And let me find a charter in your voice
+T’ assist my simpleness.
+
+DUKE.
+What would you, Desdemona?
+
+DESDEMONA.
+That I did love the Moor to live with him,
+My downright violence and storm of fortunes
+May trumpet to the world: my heart’s subdued
+Even to the very quality of my lord.
+I saw Othello’s visage in his mind,
+And to his honours and his valiant parts
+Did I my soul and fortunes consecrate.
+So that, dear lords, if I be left behind,
+A moth of peace, and he go to the war,
+The rites for which I love him are bereft me,
+And I a heavy interim shall support
+By his dear absence. Let me go with him.
+
+OTHELLO.
+Let her have your voice.
+Vouch with me, heaven, I therefore beg it not
+To please the palate of my appetite,
+Nor to comply with heat, the young affects
+In me defunct, and proper satisfaction,
+But to be free and bounteous to her mind.
+And heaven defend your good souls that you think
+I will your serious and great business scant
+For she is with me. No, when light-wing’d toys
+Of feather’d Cupid seel with wanton dullness
+My speculative and offic’d instruments,
+That my disports corrupt and taint my business,
+Let housewives make a skillet of my helm,
+And all indign and base adversities
+Make head against my estimation.
+
+DUKE.
+Be it as you shall privately determine,
+Either for her stay or going. The affair cries haste,
+And speed must answer it.
+
+FIRST SENATOR.
+You must away tonight.
+
+OTHELLO.
+With all my heart.
+
+DUKE.
+At nine i’ the morning here we’ll meet again.
+Othello, leave some officer behind,
+And he shall our commission bring to you,
+With such things else of quality and respect
+As doth import you.
+
+OTHELLO.
+So please your grace, my ancient,
+A man he is of honesty and trust,
+To his conveyance I assign my wife,
+With what else needful your good grace shall think
+To be sent after me.
+
+DUKE.
+Let it be so.
+Good night to everyone. [_To Brabantio._] And, noble signior,
+If virtue no delighted beauty lack,
+Your son-in-law is far more fair than black.
+
+FIRST SENATOR.
+Adieu, brave Moor, use Desdemona well.
+
+BRABANTIO.
+Look to her, Moor, if thou hast eyes to see:
+She has deceiv’d her father, and may thee.
+
+[_Exeunt Duke, Senators, Officers, &c._]
+
+OTHELLO.
+My life upon her faith! Honest Iago,
+My Desdemona must I leave to thee.
+I prithee, let thy wife attend on her,
+And bring them after in the best advantage.—
+Come, Desdemona, I have but an hour
+Of love, of worldly matters, and direction,
+To spend with thee. We must obey the time.
+
+[_Exeunt Othello and Desdemona._]
+
+RODERIGO.

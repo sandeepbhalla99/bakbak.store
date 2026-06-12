@@ -1,0 +1,70 @@
+{
+  "id": "the-confessions-of-st-augustine",
+  "title": "The Confessions of St  Augustine",
+  "author": "Project Gutenberg",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "BOOK I",
+      "file": "02_BOOK_I.md"
+    },
+    {
+      "title": "BOOK II",
+      "file": "03_BOOK_II.md"
+    },
+    {
+      "title": "BOOK III",
+      "file": "04_BOOK_III.md"
+    },
+    {
+      "title": "BOOK IV",
+      "file": "05_BOOK_IV.md"
+    },
+    {
+      "title": "BOOK V",
+      "file": "06_BOOK_V.md"
+    },
+    {
+      "title": "BOOK VI",
+      "file": "07_BOOK_VI.md"
+    },
+    {
+      "title": "BOOK VII",
+      "file": "08_BOOK_VII.md"
+    },
+    {
+      "title": "BOOK VIII",
+      "file": "09_BOOK_VIII.md"
+    },
+    {
+      "title": "BOOK IX",
+      "file": "10_BOOK_IX.md"
+    },
+    {
+      "title": "BOOK X",
+      "file": "11_BOOK_X.md"
+    },
+    {
+      "title": "BOOK XI",
+      "file": "12_BOOK_XI.md"
+    },
+    {
+      "title": "BOOK XII",
+      "file": "13_BOOK_XII.md"
+    },
+    {
+      "title": "BOOK XIII",
+      "file": "14_BOOK_XIII.md"
+    },
+    {
+      "title": "Book, by which the faithful should be blessed and multiplied. Next",
+      "file": "15_Book__by_which_the_faithful_sh.md"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# SCENE IV. A camp in Wales.
+
+Enter Earl of Salisbury and a Welsh Captain.
+
+CAPTAIN.
+My Lord of Salisbury, we have stayed ten days
+And hardly kept our countrymen together,
+And yet we hear no tidings from the King.
+Therefore we will disperse ourselves. Farewell.
+
+SALISBURY.
+Stay yet another day, thou trusty Welshman.
+The King reposeth all his confidence in thee.
+
+CAPTAIN.
+’Tis thought the King is dead. We will not stay.
+The bay trees in our country are all withered,
+And meteors fright the fixed stars of heaven;
+The pale-faced moon looks bloody on the earth,
+And lean-looked prophets whisper fearful change;
+Rich men look sad, and ruffians dance and leap,
+The one in fear to lose what they enjoy,
+The other to enjoy by rage and war.
+These signs forerun the death or fall of kings.
+Farewell. Our countrymen are gone and fled,
+As well assured Richard their king is dead.
+
+ [_Exit._]
+
+SALISBURY.
+Ah, Richard! With the eyes of heavy mind
+I see thy glory like a shooting star
+Fall to the base earth from the firmament.
+Thy sun sets weeping in the lowly west,
+Witnessing storms to come, woe, and unrest.
+Thy friends are fled, to wait upon thy foes,
+And crossly to thy good all fortune goes.
+
+ [_Exit._]

@@ -1,0 +1,186 @@
+{
+  "id": "shakespeare-the-second-part-of-king-henry-the-sixth",
+  "title": "THE SECOND PART OF KING HENRY THE SIXTH",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene IV. Gloucester\u2019s Garden",
+      "file": "02_Scene_IV__Gloucester_s_Garden.md"
+    },
+    {
+      "title": "SCENE IV. A Street",
+      "file": "03_SCENE_IV__A_Street.md"
+    },
+    {
+      "title": "SCENE III. A Bedchamber",
+      "file": "04_SCENE_III__A_Bedchamber.md"
+    },
+    {
+      "title": "SCENE X. Kent. Iden\u2019s Garden",
+      "file": "05_SCENE_X__Kent__Iden_s_Garden.md"
+    },
+    {
+      "title": "SCENE III. Fields near Saint Albans",
+      "file": "06_SCENE_III__Fields_near_Saint_A.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "07_Dramatis_Person.md"
+    },
+    {
+      "title": "CARDINAL Beaufort, Bishop of Winchester, great-uncle to the King",
+      "file": "08_CARDINAL_Beaufort__Bishop_of_W.md"
+    },
+    {
+      "title": "VAUX",
+      "file": "09_VAUX.md"
+    },
+    {
+      "title": "EARL OF WARWICK",
+      "file": "10_EARL_OF_WARWICK.md"
+    },
+    {
+      "title": "Two Gentlemen, prisoners with Suffolk",
+      "file": "11_Two_Gentlemen__prisoners_with.md"
+    },
+    {
+      "title": "Alexander IDEN, a Kentish gentleman",
+      "file": "12_Alexander_IDEN__a_Kentish_gent.md"
+    },
+    {
+      "title": "Beadle, Sheriff, and Officers, Citizens, Prentices, Falconers, Guards,",
+      "file": "13_Beadle__Sheriff__and_Officers.md"
+    },
+    {
+      "title": "A Spirit",
+      "file": "14_A_Spirit.md"
+    },
+    {
+      "title": "SCENE: England.",
+      "file": "15_SCENE__England.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "16_ACT_I.md"
+    },
+    {
+      "title": "Scene I. London. The palace",
+      "file": "17_Scene_I__London__The_palace.md"
+    },
+    {
+      "title": "Scene II. The Duke of Gloucester\u2019s House",
+      "file": "18_Scene_II__The_Duke_of_Gloucest.md"
+    },
+    {
+      "title": "Scene III. London. The palace",
+      "file": "19_Scene_III__London__The_palace.md"
+    },
+    {
+      "title": "Scene IV. Gloucester\u2019s Garden",
+      "file": "20_Scene_IV__Gloucester_s_Garden.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "21_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. Saint Albans",
+      "file": "22_SCENE_I__Saint_Albans.md"
+    },
+    {
+      "title": "SCENE II. London. The Duke of York\u2019s Garden",
+      "file": "23_SCENE_II__London__The_Duke_of.md"
+    },
+    {
+      "title": "SCENE III. A Hall of Justice",
+      "file": "24_SCENE_III__A_Hall_of_Justice.md"
+    },
+    {
+      "title": "SCENE IV. A Street",
+      "file": "25_SCENE_IV__A_Street.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "26_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. The Abbey at Bury St. Edmund\u2019s",
+      "file": "27_SCENE_I__The_Abbey_at_Bury_St.md"
+    },
+    {
+      "title": "SCENE II. Bury St. Edmund\u2019s. A Room of State",
+      "file": "28_SCENE_II__Bury_St__Edmund_s__A.md"
+    },
+    {
+      "title": "SCENE III. A Bedchamber",
+      "file": "29_SCENE_III__A_Bedchamber.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "30_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. The Coast of Kent",
+      "file": "31_SCENE_I__The_Coast_of_Kent.md"
+    },
+    {
+      "title": "SCENE II. Blackheath",
+      "file": "32_SCENE_II__Blackheath.md"
+    },
+    {
+      "title": "SCENE III. Another part of Blackheath",
+      "file": "33_SCENE_III__Another_part_of_Bla.md"
+    },
+    {
+      "title": "SCENE IV. London. The Palace",
+      "file": "34_SCENE_IV__London__The_Palace.md"
+    },
+    {
+      "title": "SCENE V. London. The Tower",
+      "file": "35_SCENE_V__London__The_Tower.md"
+    },
+    {
+      "title": "SCENE VI. London. Cannon Street",
+      "file": "36_SCENE_VI__London__Cannon_Stree.md"
+    },
+    {
+      "title": "SCENE VII. London. Smithfield",
+      "file": "37_SCENE_VII__London__Smithfield.md"
+    },
+    {
+      "title": "SCENE VIII. Southwark",
+      "file": "38_SCENE_VIII__Southwark.md"
+    },
+    {
+      "title": "SCENE IX. Kenilworth Castle",
+      "file": "39_SCENE_IX__Kenilworth_Castle.md"
+    },
+    {
+      "title": "SCENE X. Kent. Iden\u2019s Garden",
+      "file": "40_SCENE_X__Kent__Iden_s_Garden.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "41_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. Fields between Dartford and Blackheath",
+      "file": "42_SCENE_I__Fields_between_Dartfo.md"
+    },
+    {
+      "title": "SCENE II. Saint Albans",
+      "file": "43_SCENE_II__Saint_Albans.md"
+    },
+    {
+      "title": "SCENE III. Fields near Saint Albans",
+      "file": "44_SCENE_III__Fields_near_Saint_A.md"
+    }
+  ]
+}

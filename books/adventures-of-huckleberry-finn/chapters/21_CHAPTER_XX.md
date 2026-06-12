@@ -1,0 +1,4 @@
+# CHAPTER XX.
+
+Huck Explains.—Laying Out a Campaign.—Working the Camp—meeting.—A
+Pirate at the Camp—meeting.—The Duke as a Printer.

@@ -1,0 +1,114 @@
+{
+  "id": "covering-end",
+  "title": "Covering End",
+  "author": "Henry James",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+  "description": "A classic masterpiece by Henry James. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Section 1",
+      "file": "01_Section_1.md"
+    },
+    {
+      "title": "Section 2",
+      "file": "02_Section_2.md"
+    },
+    {
+      "title": "Section 3",
+      "file": "03_Section_3.md"
+    },
+    {
+      "title": "Section 4",
+      "file": "04_Section_4.md"
+    },
+    {
+      "title": "Section 5",
+      "file": "05_Section_5.md"
+    },
+    {
+      "title": "Section 6",
+      "file": "06_Section_6.md"
+    },
+    {
+      "title": "Section 7",
+      "file": "07_Section_7.md"
+    },
+    {
+      "title": "Section 8",
+      "file": "08_Section_8.md"
+    },
+    {
+      "title": "Section 9",
+      "file": "09_Section_9.md"
+    },
+    {
+      "title": "Section 10",
+      "file": "10_Section_10.md"
+    },
+    {
+      "title": "Section 11",
+      "file": "11_Section_11.md"
+    },
+    {
+      "title": "Section 12",
+      "file": "12_Section_12.md"
+    },
+    {
+      "title": "Section 13",
+      "file": "13_Section_13.md"
+    },
+    {
+      "title": "Section 14",
+      "file": "14_Section_14.md"
+    },
+    {
+      "title": "Section 15",
+      "file": "15_Section_15.md"
+    },
+    {
+      "title": "Section 16",
+      "file": "16_Section_16.md"
+    },
+    {
+      "title": "Section 17",
+      "file": "17_Section_17.md"
+    },
+    {
+      "title": "Section 18",
+      "file": "18_Section_18.md"
+    },
+    {
+      "title": "Section 19",
+      "file": "19_Section_19.md"
+    },
+    {
+      "title": "Section 20",
+      "file": "20_Section_20.md"
+    },
+    {
+      "title": "Section 21",
+      "file": "21_Section_21.md"
+    },
+    {
+      "title": "Section 22",
+      "file": "22_Section_22.md"
+    },
+    {
+      "title": "Section 23",
+      "file": "23_Section_23.md"
+    },
+    {
+      "title": "Section 24",
+      "file": "24_Section_24.md"
+    },
+    {
+      "title": "Section 25",
+      "file": "25_Section_25.md"
+    },
+    {
+      "title": "Section 26",
+      "file": "26_Section_26.md"
+    }
+  ]
+}

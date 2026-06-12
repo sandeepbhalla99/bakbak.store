@@ -1,0 +1,218 @@
+{
+  "id": "shakespeare-cymbeline",
+  "title": "CYMBELINE",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene VII. Britain. The palace.",
+      "file": "02_Scene_VII__Britain__The_palace.md"
+    },
+    {
+      "title": "Scene II. Britain. Imogen\u2019s bedchamber in Cymbeline\u2019s palace; a trunk",
+      "file": "03_Scene_II__Britain__Imogen_s_be.md"
+    },
+    {
+      "title": "Scene III. Cymbeline\u2019s palace. An ante-chamber adjoining Imogen\u2019s",
+      "file": "04_Scene_III__Cymbeline_s_palace.md"
+    },
+    {
+      "title": "Scene V. Rome. Another room in Philario\u2019s house.",
+      "file": "05_Scene_V__Rome__Another_room_in.md"
+    },
+    {
+      "title": "Scene VIII. Rome. A public place.",
+      "file": "06_Scene_VIII__Rome__A_public_pla.md"
+    },
+    {
+      "title": "Scene IV. Wales. Before the cave of Belarius.",
+      "file": "07_Scene_IV__Wales__Before_the_ca.md"
+    },
+    {
+      "title": "Scene II. Britain. A field of battle between the British and Roman",
+      "file": "08_Scene_II__Britain__A_field_of.md"
+    },
+    {
+      "title": "Scene V. Britain. Cymbeline\u2019s tent.",
+      "file": "09_Scene_V__Britain__Cymbeline_s.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "10_Dramatis_Person.md"
+    },
+    {
+      "title": "TWO GAOLERS",
+      "file": "11_TWO_GAOLERS.md"
+    },
+    {
+      "title": "HELEN, a lady attending on Imogen",
+      "file": "12_HELEN__a_lady_attending_on_Imo.md"
+    },
+    {
+      "title": "APPARITIONS",
+      "file": "13_APPARITIONS.md"
+    },
+    {
+      "title": "Attendants",
+      "file": "14_Attendants.md"
+    },
+    {
+      "title": "SCENE: Britain; Italy.",
+      "file": "15_SCENE__Britain__Italy.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "16_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. Britain. The garden of Cymbeline\u2019s palace.",
+      "file": "17_SCENE_I__Britain__The_garden_o.md"
+    },
+    {
+      "title": "No more obey the heavens than our courtiers",
+      "file": "18_No_more_obey_the_heavens_than.md"
+    },
+    {
+      "title": "But what\u2019s the matter?",
+      "file": "19_But_what_s_the_matter.md"
+    },
+    {
+      "title": "His daughter, and the heir of\u2019s kingdom, whom",
+      "file": "20_His_daughter__and_the_heir_of.md"
+    },
+    {
+      "title": "SCENE II. The same.",
+      "file": "21_SCENE_II__The_same.md"
+    },
+    {
+      "title": "SCENE III. Britain. A public place.",
+      "file": "22_SCENE_III__Britain__A_public_p.md"
+    },
+    {
+      "title": "SCENE IV. Britain. Cymbeline\u2019s palace.",
+      "file": "23_SCENE_IV__Britain__Cymbeline_s.md"
+    },
+    {
+      "title": "SCENE V. Rome. Philario\u2019s house.",
+      "file": "24_SCENE_V__Rome__Philario_s_hous.md"
+    },
+    {
+      "title": "SCENE VI. Britain. Cymbeline\u2019s palace.",
+      "file": "25_SCENE_VI__Britain__Cymbeline_s.md"
+    },
+    {
+      "title": "SCENE VII. Britain. The palace.",
+      "file": "26_SCENE_VII__Britain__The_palace.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "27_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. Britain. Before Cymbeline\u2019s palace.",
+      "file": "28_SCENE_I__Britain__Before_Cymbe.md"
+    },
+    {
+      "title": "Scene II. Britain. Imogen\u2019s bedchamber in Cymbeline\u2019s palace; a trunk",
+      "file": "29_Scene_II__Britain__Imogen_s_be.md"
+    },
+    {
+      "title": "Scene III. Cymbeline\u2019s palace. An ante-chamber adjoining Imogen\u2019s",
+      "file": "30_Scene_III__Cymbeline_s_palace.md"
+    },
+    {
+      "title": "SCENE IV. Rome. Philario\u2019s house.",
+      "file": "31_SCENE_IV__Rome__Philario_s_hou.md"
+    },
+    {
+      "title": "SCENE V. Rome. Another room in Philario\u2019s house.",
+      "file": "32_SCENE_V__Rome__Another_room_in.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "33_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. Britain. A hall in Cymbeline\u2019s palace.",
+      "file": "34_SCENE_I__Britain__A_hall_in_Cy.md"
+    },
+    {
+      "title": "SCENE II. Britain. Another room in Cymbeline\u2019s palace.",
+      "file": "35_SCENE_II__Britain__Another_roo.md"
+    },
+    {
+      "title": "SCENE III. Wales. A mountainous country with a cave.",
+      "file": "36_SCENE_III__Wales__A_mountainou.md"
+    },
+    {
+      "title": "SCENE IV. Wales, near Milford Haven.",
+      "file": "37_SCENE_IV__Wales__near_Milford.md"
+    },
+    {
+      "title": "SCENE V. Britain. Cymbeline\u2019s palace.",
+      "file": "38_SCENE_V__Britain__Cymbeline_s.md"
+    },
+    {
+      "title": "SCENE VI. Wales. Before the cave of Belarius.",
+      "file": "39_SCENE_VI__Wales__Before_the_ca.md"
+    },
+    {
+      "title": "SCENE VII. The same.",
+      "file": "40_SCENE_VII__The_same.md"
+    },
+    {
+      "title": "SCENE VIII. Rome. A public place.",
+      "file": "41_SCENE_VIII__Rome__A_public_pla.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "42_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. Wales. Near the cave of Belarius.",
+      "file": "43_SCENE_I__Wales__Near_the_cave.md"
+    },
+    {
+      "title": "SCENE II. Wales. Before the cave of Belarius.",
+      "file": "44_SCENE_II__Wales__Before_the_ca.md"
+    },
+    {
+      "title": "SCENE III. Britain. Cymbeline\u2019s palace.",
+      "file": "45_SCENE_III__Britain__Cymbeline.md"
+    },
+    {
+      "title": "SCENE IV. Wales. Before the cave of Belarius.",
+      "file": "46_SCENE_IV__Wales__Before_the_ca.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "47_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. Britain. The Roman camp.",
+      "file": "48_SCENE_I__Britain__The_Roman_ca.md"
+    },
+    {
+      "title": "Scene II. Britain. A field of battle between the British and Roman",
+      "file": "49_Scene_II__Britain__A_field_of.md"
+    },
+    {
+      "title": "SCENE III. Another part of the field.",
+      "file": "50_SCENE_III__Another_part_of_the.md"
+    },
+    {
+      "title": "SCENE IV. Britain. A prison.",
+      "file": "51_SCENE_IV__Britain__A_prison.md"
+    },
+    {
+      "title": "SCENE V. Britain. Cymbeline\u2019s tent.",
+      "file": "52_SCENE_V__Britain__Cymbeline_s.md"
+    }
+  ]
+}

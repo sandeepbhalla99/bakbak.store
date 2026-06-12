@@ -1,0 +1,4 @@
+# CHAPTER XXVI.
+
+A Pious King.—The King’s Clergy.—She Asked His Pardon.—Hiding in the
+Room.—Huck Takes the Money.

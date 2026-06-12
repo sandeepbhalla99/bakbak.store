@@ -1,0 +1,198 @@
+{
+  "id": "shakespeare-much-ado-about-nothing",
+  "title": "MUCH ADO ABOUT NOTHING",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "02_ACT_I.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "03_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "04_Scene_II.md"
+    },
+    {
+      "title": "Scene III.",
+      "file": "05_Scene_III.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "06_ACT_II.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "07_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "08_Scene_II.md"
+    },
+    {
+      "title": "Scene III.",
+      "file": "09_Scene_III.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "10_ACT_III.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "11_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "12_Scene_II.md"
+    },
+    {
+      "title": "Scene III.",
+      "file": "13_Scene_III.md"
+    },
+    {
+      "title": "Scene IV.",
+      "file": "14_Scene_IV.md"
+    },
+    {
+      "title": "Scene V.",
+      "file": "15_Scene_V.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "16_ACT_IV.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "17_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "18_Scene_II.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "19_ACT_V.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "20_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "21_Scene_II.md"
+    },
+    {
+      "title": "Scene III.",
+      "file": "22_Scene_III.md"
+    },
+    {
+      "title": "Scene IV.",
+      "file": "23_Scene_IV.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "24_Dramatis_Person.md"
+    },
+    {
+      "title": "SCENE. Messina.",
+      "file": "25_SCENE__Messina.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "26_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. Before Leonato\u2019s House.",
+      "file": "27_SCENE_I__Before_Leonato_s_Hous.md"
+    },
+    {
+      "title": "SCENE II. A room in Leonato\u2019s house.",
+      "file": "28_SCENE_II__A_room_in_Leonato_s.md"
+    },
+    {
+      "title": "SCENE III. Another room in Leonato\u2019s house.",
+      "file": "29_SCENE_III__Another_room_in_Leo.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "30_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. A hall in Leonato\u2019s house.",
+      "file": "31_SCENE_I__A_hall_in_Leonato_s_h.md"
+    },
+    {
+      "title": "SCENE II. Another room in Leonato\u2019s house.",
+      "file": "32_SCENE_II__Another_room_in_Leon.md"
+    },
+    {
+      "title": "SCENE III. Leonato\u2019s Garden.",
+      "file": "33_SCENE_III__Leonato_s_Garden.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "34_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. Leonato\u2019s Garden.",
+      "file": "35_SCENE_I__Leonato_s_Garden.md"
+    },
+    {
+      "title": "SCENE II. A Room in Leonato\u2019s House.",
+      "file": "36_SCENE_II__A_Room_in_Leonato_s.md"
+    },
+    {
+      "title": "Scene III. A Street.",
+      "file": "37_Scene_III__A_Street.md"
+    },
+    {
+      "title": "Scene IV. A Room in Leonato\u2019s House.",
+      "file": "38_Scene_IV__A_Room_in_Leonato_s.md"
+    },
+    {
+      "title": "Scene V. Another Room in Leonato\u2019s House.",
+      "file": "39_Scene_V__Another_Room_in_Leona.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "40_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. The Inside of a Church.",
+      "file": "41_SCENE_I__The_Inside_of_a_Churc.md"
+    },
+    {
+      "title": "Scene II. A Prison.",
+      "file": "42_Scene_II__A_Prison.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "43_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. Before Leonato\u2019s House.",
+      "file": "44_SCENE_I__Before_Leonato_s_Hous.md"
+    },
+    {
+      "title": "SCENE II. Leonato\u2019s Garden.",
+      "file": "45_SCENE_II__Leonato_s_Garden.md"
+    },
+    {
+      "title": "SCENE III. The Inside of a Church.",
+      "file": "46_SCENE_III__The_Inside_of_a_Chu.md"
+    },
+    {
+      "title": "SCENE IV. A Room in Leonato\u2019s House.",
+      "file": "47_SCENE_IV__A_Room_in_Leonato_s.md"
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "id": "the-brothers-karamazov",
+  "title": "The Brothers Karamazov",
+  "author": "Project Gutenberg",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #a78bfa 0%, #7c3aed 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Chapter XI. Another Reputation Ruined",
+      "file": "02_Chapter_XI__Another_Reputation.md"
+    },
+    {
+      "title": "Chapter III. Conversations And Exhortations Of Father Zossima",
+      "file": "03_Chapter_III__Conversations_And.md"
+    },
+    {
+      "title": "Chapter IX. They Carry Mitya Away",
+      "file": "04_Chapter_IX__They_Carry_Mitya_A.md"
+    },
+    {
+      "title": "Chapter XIV. The Peasants Stand Firm",
+      "file": "05_Chapter_XIV__The_Peasants_Stan.md"
+    },
+    {
+      "title": "Chapter III. Ilusha\u2019s Funeral. The Speech At The Stone",
+      "file": "06_Chapter_III__Ilusha_s_Funeral.md"
+    },
+    {
+      "title": "Part I",
+      "file": "07_Part_I.md"
+    },
+    {
+      "title": "Book I. The History Of A Family",
+      "file": "08_Book_I__The_History_Of_A_Famil.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "09_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "10_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "11_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "12_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "13_Chapter_V.md"
+    },
+    {
+      "title": "Book II. An Unfortunate Gathering",
+      "file": "14_Book_II__An_Unfortunate_Gather.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "15_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "16_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "17_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "18_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "19_Chapter_V.md"
+    },
+    {
+      "title": "Chapter VI.",
+      "file": "20_Chapter_VI.md"
+    },
+    {
+      "title": "Chapter VII.",
+      "file": "21_Chapter_VII.md"
+    },
+    {
+      "title": "Chapter VIII.",
+      "file": "22_Chapter_VIII.md"
+    },
+    {
+      "title": "Book III. The Sensualists",
+      "file": "23_Book_III__The_Sensualists.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "24_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "25_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "26_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "27_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "28_Chapter_V.md"
+    },
+    {
+      "title": "Chapter VI.",
+      "file": "29_Chapter_VI.md"
+    },
+    {
+      "title": "Chapter VII.",
+      "file": "30_Chapter_VII.md"
+    },
+    {
+      "title": "Chapter VIII.",
+      "file": "31_Chapter_VIII.md"
+    },
+    {
+      "title": "Chapter IX.",
+      "file": "32_Chapter_IX.md"
+    },
+    {
+      "title": "Chapter X.",
+      "file": "33_Chapter_X.md"
+    },
+    {
+      "title": "Chapter XI.",
+      "file": "34_Chapter_XI.md"
+    },
+    {
+      "title": "Part II",
+      "file": "35_Part_II.md"
+    },
+    {
+      "title": "Book IV. Lacerations",
+      "file": "36_Book_IV__Lacerations.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "37_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "38_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "39_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "40_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "41_Chapter_V.md"
+    },
+    {
+      "title": "Chapter VI.",
+      "file": "42_Chapter_VI.md"
+    },
+    {
+      "title": "Chapter VII.",
+      "file": "43_Chapter_VII.md"
+    },
+    {
+      "title": "Book V. Pro And Contra",
+      "file": "44_Book_V__Pro_And_Contra.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "45_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "46_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "47_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "48_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "49_Chapter_V.md"
+    },
+    {
+      "title": "Chapter VI.",
+      "file": "50_Chapter_VI.md"
+    },
+    {
+      "title": "Chapter VII.",
+      "file": "51_Chapter_VII.md"
+    },
+    {
+      "title": "Book VI. The Russian Monk",
+      "file": "52_Book_VI__The_Russian_Monk.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "53_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "54_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "55_Chapter_III.md"
+    },
+    {
+      "title": "Part III",
+      "file": "56_Part_III.md"
+    },
+    {
+      "title": "Book VII. Alyosha",
+      "file": "57_Book_VII__Alyosha.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "58_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "59_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "60_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "61_Chapter_IV.md"
+    },
+    {
+      "title": "Book VIII. Mitya",
+      "file": "62_Book_VIII__Mitya.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "63_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "64_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "65_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "66_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "67_Chapter_V.md"
+    },
+    {
+      "title": "Chapter VI.",
+      "file": "68_Chapter_VI.md"
+    },
+    {
+      "title": "Chapter VII.",
+      "file": "69_Chapter_VII.md"
+    },
+    {
+      "title": "Chapter VIII.",
+      "file": "70_Chapter_VIII.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation",
+      "file": "71_Book_IX__The_Preliminary_Inves.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "72_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "73_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "74_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "75_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "76_Chapter_V.md"
+    },
+    {
+      "title": "Chapter VI.",
+      "file": "77_Chapter_VI.md"
+    },
+    {
+      "title": "Chapter VII.",
+      "file": "78_Chapter_VII.md"
+    },
+    {
+      "title": "Chapter VIII.",
+      "file": "79_Chapter_VIII.md"
+    },
+    {
+      "title": "Chapter IX.",
+      "file": "80_Chapter_IX.md"
+    },
+    {
+      "title": "Part IV",
+      "file": "81_Part_IV.md"
+    },
+    {
+      "title": "Book X. The Boys",
+      "file": "82_Book_X__The_Boys.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "83_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "84_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "85_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "86_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "87_Chapter_V.md"
+    },
+    {
+      "title": "Chapter VI.",
+      "file": "88_Chapter_VI.md"
+    },
+    {
+      "title": "Chapter VII.",
+      "file": "89_Chapter_VII.md"
+    },
+    {
+      "title": "Book XI. Ivan",
+      "file": "90_Book_XI__Ivan.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "91_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "92_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "93_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "94_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "95_Chapter_V.md"
+    },
+    {
+      "title": "Chapter VI.",
+      "file": "96_Chapter_VI.md"
+    },
+    {
+      "title": "Chapter VII.",
+      "file": "97_Chapter_VII.md"
+    },
+    {
+      "title": "Chapter VIII.",
+      "file": "98_Chapter_VIII.md"
+    },
+    {
+      "title": "Chapter IX.",
+      "file": "99_Chapter_IX.md"
+    },
+    {
+      "title": "Chapter X.",
+      "file": "100_Chapter_X.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error",
+      "file": "101_Book_XII__A_Judicial_Error.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "102_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "103_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "104_Chapter_III.md"
+    },
+    {
+      "title": "Chapter IV.",
+      "file": "105_Chapter_IV.md"
+    },
+    {
+      "title": "Chapter V.",
+      "file": "106_Chapter_V.md"
+    },
+    {
+      "title": "Chapter VI.",
+      "file": "107_Chapter_VI.md"
+    },
+    {
+      "title": "Chapter VII.",
+      "file": "108_Chapter_VII.md"
+    },
+    {
+      "title": "Chapter VIII.",
+      "file": "109_Chapter_VIII.md"
+    },
+    {
+      "title": "Chapter IX.",
+      "file": "110_Chapter_IX.md"
+    },
+    {
+      "title": "Chapter X.",
+      "file": "111_Chapter_X.md"
+    },
+    {
+      "title": "Chapter XI.",
+      "file": "112_Chapter_XI.md"
+    },
+    {
+      "title": "Chapter XII.",
+      "file": "113_Chapter_XII.md"
+    },
+    {
+      "title": "Chapter XIII.",
+      "file": "114_Chapter_XIII.md"
+    },
+    {
+      "title": "Chapter XIV.",
+      "file": "115_Chapter_XIV.md"
+    },
+    {
+      "title": "EPILOGUE",
+      "file": "116_EPILOGUE.md"
+    },
+    {
+      "title": "Chapter I.",
+      "file": "117_Chapter_I.md"
+    },
+    {
+      "title": "Chapter II.",
+      "file": "118_Chapter_II.md"
+    },
+    {
+      "title": "Chapter III.",
+      "file": "119_Chapter_III.md"
+    }
+  ]
+}

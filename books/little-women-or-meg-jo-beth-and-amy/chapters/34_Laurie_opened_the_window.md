@@ -1,0 +1,2 @@
+# Laurie opened the window
+

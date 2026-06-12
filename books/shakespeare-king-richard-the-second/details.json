@@ -1,0 +1,114 @@
+{
+  "id": "shakespeare-king-richard-the-second",
+  "title": "KING RICHARD THE SECOND",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "SCENE: Dispersedly in England and Wales.",
+      "file": "02_SCENE__Dispersedly_in_England.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "03_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. London. A Room in the palace.",
+      "file": "04_SCENE_I__London__A_Room_in_the.md"
+    },
+    {
+      "title": "SCENE II. The same. A room in the Duke of Lancaster\u2019s palace.",
+      "file": "05_SCENE_II__The_same__A_room_in.md"
+    },
+    {
+      "title": "SCENE III. Open Space, near Coventry. Lists set out, and a Throne.",
+      "file": "06_SCENE_III__Open_Space__near_Co.md"
+    },
+    {
+      "title": "SCENE IV. London. A Room in the King\u2019s Castle",
+      "file": "07_SCENE_IV__London__A_Room_in_th.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "08_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. London. An Apartment in Ely House.",
+      "file": "09_SCENE_I__London__An_Apartment.md"
+    },
+    {
+      "title": "SCENE II. The Same. A Room in the Castle.",
+      "file": "10_SCENE_II__The_Same__A_Room_in.md"
+    },
+    {
+      "title": "SCENE III. The Wolds in Gloucestershire.",
+      "file": "11_SCENE_III__The_Wolds_in_Glouce.md"
+    },
+    {
+      "title": "SCENE IV. A camp in Wales.",
+      "file": "12_SCENE_IV__A_camp_in_Wales.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "13_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. Bristol. Bolingbroke\u2019s camp.",
+      "file": "14_SCENE_I__Bristol__Bolingbroke.md"
+    },
+    {
+      "title": "SCENE II. The coast of Wales. A castle in view.",
+      "file": "15_SCENE_II__The_coast_of_Wales.md"
+    },
+    {
+      "title": "SCENE III. Wales. Before Flint Castle.",
+      "file": "16_SCENE_III__Wales__Before_Flint.md"
+    },
+    {
+      "title": "SCENE IV. Langley. The Duke of York\u2019s garden.",
+      "file": "17_SCENE_IV__Langley__The_Duke_of.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "18_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. Westminster Hall.",
+      "file": "19_SCENE_I__Westminster_Hall.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "20_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. London. A street leading to the Tower.",
+      "file": "21_SCENE_I__London__A_street_lead.md"
+    },
+    {
+      "title": "SCENE II. The same. A room in the Duke of York\u2019s palace.",
+      "file": "22_SCENE_II__The_same__A_room_in.md"
+    },
+    {
+      "title": "SCENE III. Windsor. A room in the Castle.",
+      "file": "23_SCENE_III__Windsor__A_room_in.md"
+    },
+    {
+      "title": "SCENE IV. Another room in the Castle.",
+      "file": "24_SCENE_IV__Another_room_in_the.md"
+    },
+    {
+      "title": "SCENE V. Pomfret. The dungeon of the Castle.",
+      "file": "25_SCENE_V__Pomfret__The_dungeon.md"
+    },
+    {
+      "title": "SCENE VI. Windsor. An Apartment in the Castle.",
+      "file": "26_SCENE_VI__Windsor__An_Apartmen.md"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shakespeare-venus-and-adonis",
+  "title": "VENUS AND ADONIS",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Section 1",
+      "file": "01_Section_1.md"
+    },
+    {
+      "title": "Section 2",
+      "file": "02_Section_2.md"
+    },
+    {
+      "title": "Section 3",
+      "file": "03_Section_3.md"
+    },
+    {
+      "title": "Section 4",
+      "file": "04_Section_4.md"
+    }
+  ]
+}

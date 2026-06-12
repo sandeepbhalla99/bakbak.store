@@ -1,0 +1,4 @@
+# CHAPTER XVI.
+
+Expectation.—A White Lie.—Floating Currency.—Running by Cairo.—Swimming
+Ashore.

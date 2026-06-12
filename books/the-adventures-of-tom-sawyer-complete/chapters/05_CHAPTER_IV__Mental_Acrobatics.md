@@ -1,0 +1,3 @@
+# CHAPTER IV. Mental Acrobatics—Attending Sunday—School—The
+
+Superintendent—“Showing off”—Tom Lionized

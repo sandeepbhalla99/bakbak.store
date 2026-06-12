@@ -1,0 +1,198 @@
+{
+  "id": "shakespeare-as-you-like-it",
+  "title": "AS YOU LIKE IT",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene III. A Room in the Palace",
+      "file": "02_Scene_III__A_Room_in_the_Palac.md"
+    },
+    {
+      "title": "Scene VII. Another part of the Forest",
+      "file": "03_Scene_VII__Another_part_of_the.md"
+    },
+    {
+      "title": "Scene V. Another part of the Forest",
+      "file": "04_Scene_V__Another_part_of_the_F.md"
+    },
+    {
+      "title": "Scene III. Another part of the Forest",
+      "file": "05_Scene_III__Another_part_of_the.md"
+    },
+    {
+      "title": "Epilogue",
+      "file": "06_Epilogue.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "07_Dramatis_Person.md"
+    },
+    {
+      "title": "DENNIS, Servant to Oliver",
+      "file": "08_DENNIS__Servant_to_Oliver.md"
+    },
+    {
+      "title": "TOUCHSTONE, a Clown",
+      "file": "09_TOUCHSTONE__a_Clown.md"
+    },
+    {
+      "title": "DUKE SENIOR (Ferdinand), living in exile",
+      "file": "10_DUKE_SENIOR__Ferdinand___livin.md"
+    },
+    {
+      "title": "AMIENS, Lord attending on the Duke Senior",
+      "file": "11_AMIENS__Lord_attending_on_the.md"
+    },
+    {
+      "title": "LE BEAU, a Courtier attending upon Frederick",
+      "file": "12_LE_BEAU__a_Courtier_attending.md"
+    },
+    {
+      "title": "SIR OLIVER MARTEXT, a Vicar",
+      "file": "13_SIR_OLIVER_MARTEXT__a_Vicar.md"
+    },
+    {
+      "title": "A person representing HYMEN",
+      "file": "14_A_person_representing_HYMEN.md"
+    },
+    {
+      "title": "Lords belonging to the two Dukes; Pages, Foresters, and other",
+      "file": "15_Lords_belonging_to_the_two_Duk.md"
+    },
+    {
+      "title": "The scene lies first near Oliver\u2019s house; afterwards partly in the",
+      "file": "16_The_scene_lies_first_near_Oliv.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "17_ACT_I.md"
+    },
+    {
+      "title": "Scene I. An Orchard near Oliver\u2019s house",
+      "file": "18_Scene_I__An_Orchard_near_Olive.md"
+    },
+    {
+      "title": "blessing, to breed me well; and there begins my sadness. My brother",
+      "file": "19_blessing__to_breed_me_well__an.md"
+    },
+    {
+      "title": "hired; but I, his brother, gain nothing under him but growth, for the",
+      "file": "20_hired__but_I__his_brother__gai.md"
+    },
+    {
+      "title": "begins to mutiny against this servitude. I will no longer endure it,",
+      "file": "21_begins_to_mutiny_against_this.md"
+    },
+    {
+      "title": "Scene II. A Lawn before the Duke\u2019s Palace",
+      "file": "22_Scene_II__A_Lawn_before_the_Du.md"
+    },
+    {
+      "title": "Scene III. A Room in the Palace",
+      "file": "23_Scene_III__A_Room_in_the_Palac.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "24_ACT_II.md"
+    },
+    {
+      "title": "Scene I. The Forest of Arden",
+      "file": "25_Scene_I__The_Forest_of_Arden.md"
+    },
+    {
+      "title": "Scene II. A Room in the Palace",
+      "file": "26_Scene_II__A_Room_in_the_Palace.md"
+    },
+    {
+      "title": "Scene III. Before Oliver\u2019s House",
+      "file": "27_Scene_III__Before_Oliver_s_Hou.md"
+    },
+    {
+      "title": "Scene IV. The Forest of Arden",
+      "file": "28_Scene_IV__The_Forest_of_Arden.md"
+    },
+    {
+      "title": "Scene V. Another part of the Forest",
+      "file": "29_Scene_V__Another_part_of_the_F.md"
+    },
+    {
+      "title": "Scene VI. Another part of the Forest",
+      "file": "30_Scene_VI__Another_part_of_the.md"
+    },
+    {
+      "title": "Scene VII. Another part of the Forest",
+      "file": "31_Scene_VII__Another_part_of_the.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "32_ACT_III.md"
+    },
+    {
+      "title": "Scene I. A Room in the Palace",
+      "file": "33_Scene_I__A_Room_in_the_Palace.md"
+    },
+    {
+      "title": "Scene II. The Forest of Arden",
+      "file": "34_Scene_II__The_Forest_of_Arden.md"
+    },
+    {
+      "title": "Scene III. Another part of the Forest",
+      "file": "35_Scene_III__Another_part_of_the.md"
+    },
+    {
+      "title": "Scene IV. Another part of the Forest. Before a Cottage",
+      "file": "36_Scene_IV__Another_part_of_the.md"
+    },
+    {
+      "title": "Scene V. Another part of the Forest",
+      "file": "37_Scene_V__Another_part_of_the_F.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "38_ACT_IV.md"
+    },
+    {
+      "title": "Scene I. The Forest of Arden",
+      "file": "39_Scene_I__The_Forest_of_Arden.md"
+    },
+    {
+      "title": "Scene II. Another part of the Forest",
+      "file": "40_Scene_II__Another_part_of_the.md"
+    },
+    {
+      "title": "Scene III. Another part of the Forest",
+      "file": "41_Scene_III__Another_part_of_the.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "42_ACT_V.md"
+    },
+    {
+      "title": "Scene I. The Forest of Arden",
+      "file": "43_Scene_I__The_Forest_of_Arden.md"
+    },
+    {
+      "title": "Scene II. Another part of the Forest",
+      "file": "44_Scene_II__Another_part_of_the.md"
+    },
+    {
+      "title": "Scene III. Another part of the Forest",
+      "file": "45_Scene_III__Another_part_of_the.md"
+    },
+    {
+      "title": "Scene IV. Another part of the Forest",
+      "file": "46_Scene_IV__Another_part_of_the.md"
+    },
+    {
+      "title": "Epilogue",
+      "file": "47_Epilogue.md"
+    }
+  ]
+}

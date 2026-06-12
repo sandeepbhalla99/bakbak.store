@@ -1,0 +1,14 @@
+{
+  "id": "shakespeare-the-passionate-pilgrim",
+  "title": "THE PASSIONATE PILGRIM",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Full Book",
+      "file": "01_Full_Book.md"
+    }
+  ]
+}

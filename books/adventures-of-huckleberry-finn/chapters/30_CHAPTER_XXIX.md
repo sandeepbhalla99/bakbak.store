@@ -1,0 +1,4 @@
+# CHAPTER XXIX.
+
+Contested Relationship.—The King Explains the Loss.—A Question of
+Handwriting.—Digging up the Corpse.—Huck Escapes.

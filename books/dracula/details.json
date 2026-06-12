@@ -1,0 +1,170 @@
+{
+  "id": "dracula",
+  "title": "Dracula",
+  "author": "Project Gutenberg",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "DRACULA",
+      "file": "01_DRACULA.md"
+    },
+    {
+      "title": "CHAPTER XXVII. Mina Harker\u2019s Journal",
+      "file": "02_CHAPTER_XXVII__Mina_Harker_s_J.md"
+    },
+    {
+      "title": "exactly contemporary, given from the standpoints and within the range",
+      "file": "03_exactly_contemporary__given_fr.md"
+    },
+    {
+      "title": "DRACULA",
+      "file": "04_DRACULA.md"
+    },
+    {
+      "title": "CHAPTER I",
+      "file": "05_CHAPTER_I.md"
+    },
+    {
+      "title": "JONATHAN HARKER\u2019S JOURNAL",
+      "file": "06_JONATHAN_HARKER_S_JOURNAL.md"
+    },
+    {
+      "title": "(_Kept in shorthand._)",
+      "file": "07_Kept_in_shorthand.md"
+    },
+    {
+      "title": "here of noble width and depth, took us among the traditions of Turkish",
+      "file": "08_here_of_noble_width_and_depth.md"
+    },
+    {
+      "title": "Carpathians. I found my smattering of German very useful here; indeed, I",
+      "file": "09_Carpathians__I_found_my_smatte.md"
+    },
+    {
+      "title": "here some of my notes, as they may refresh my memory when I talk over my",
+      "file": "10_here_some_of_my_notes__as_they.md"
+    },
+    {
+      "title": "imaginative whirlpool; if so my stay may be very interesting. (_Mem._, I",
+      "file": "11_imaginative_whirlpool__if_so_m.md"
+    },
+    {
+      "title": "CHAPTER II",
+      "file": "12_CHAPTER_II.md"
+    },
+    {
+      "title": "CHAPTER III",
+      "file": "13_CHAPTER_III.md"
+    },
+    {
+      "title": "CHAPTER IV",
+      "file": "14_CHAPTER_IV.md"
+    },
+    {
+      "title": "CHAPTER V",
+      "file": "15_CHAPTER_V.md"
+    },
+    {
+      "title": "CHAPTER VI",
+      "file": "16_CHAPTER_VI.md"
+    },
+    {
+      "title": "CHAPTER VII",
+      "file": "17_CHAPTER_VII.md"
+    },
+    {
+      "title": "CHAPTER VIII",
+      "file": "18_CHAPTER_VIII.md"
+    },
+    {
+      "title": "CHAPTER IX",
+      "file": "19_CHAPTER_IX.md"
+    },
+    {
+      "title": "CHAPTER X",
+      "file": "20_CHAPTER_X.md"
+    },
+    {
+      "title": "CHAPTER XI",
+      "file": "21_CHAPTER_XI.md"
+    },
+    {
+      "title": "CHAPTER XII",
+      "file": "22_CHAPTER_XII.md"
+    },
+    {
+      "title": "CHAPTER XIII",
+      "file": "23_CHAPTER_XIII.md"
+    },
+    {
+      "title": "CHAPTER XIV",
+      "file": "24_CHAPTER_XIV.md"
+    },
+    {
+      "title": "CHAPTER XV",
+      "file": "25_CHAPTER_XV.md"
+    },
+    {
+      "title": "CHAPTER XVI",
+      "file": "26_CHAPTER_XVI.md"
+    },
+    {
+      "title": "CHAPTER XVII",
+      "file": "27_CHAPTER_XVII.md"
+    },
+    {
+      "title": "CHAPTER XVIII",
+      "file": "28_CHAPTER_XVIII.md"
+    },
+    {
+      "title": "CHAPTER XIX",
+      "file": "29_CHAPTER_XIX.md"
+    },
+    {
+      "title": "JONATHAN HARKER\u2019S JOURNAL",
+      "file": "30_JONATHAN_HARKER_S_JOURNAL.md"
+    },
+    {
+      "title": "CHAPTER XX",
+      "file": "31_CHAPTER_XX.md"
+    },
+    {
+      "title": "JONATHAN HARKER\u2019S JOURNAL",
+      "file": "32_JONATHAN_HARKER_S_JOURNAL.md"
+    },
+    {
+      "title": "CHAPTER XXI",
+      "file": "33_CHAPTER_XXI.md"
+    },
+    {
+      "title": "CHAPTER XXII",
+      "file": "34_CHAPTER_XXII.md"
+    },
+    {
+      "title": "JONATHAN HARKER\u2019S JOURNAL",
+      "file": "35_JONATHAN_HARKER_S_JOURNAL.md"
+    },
+    {
+      "title": "CHAPTER XXIII",
+      "file": "36_CHAPTER_XXIII.md"
+    },
+    {
+      "title": "CHAPTER XXIV",
+      "file": "37_CHAPTER_XXIV.md"
+    },
+    {
+      "title": "CHAPTER XXV",
+      "file": "38_CHAPTER_XXV.md"
+    },
+    {
+      "title": "CHAPTER XXVI",
+      "file": "39_CHAPTER_XXVI.md"
+    },
+    {
+      "title": "CHAPTER XXVII",
+      "file": "40_CHAPTER_XXVII.md"
+    }
+  ]
+}

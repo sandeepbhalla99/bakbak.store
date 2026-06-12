@@ -1,0 +1,194 @@
+{
+  "id": "shakespeare-the-first-part-of-henry-the-sixth",
+  "title": "THE FIRST PART OF HENRY THE SIXTH",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene VI. Orleans",
+      "file": "02_Scene_VI__Orleans.md"
+    },
+    {
+      "title": "SCENE V. The Tower of London",
+      "file": "03_SCENE_V__The_Tower_of_London.md"
+    },
+    {
+      "title": "SCENE IV. Paris. The Palace",
+      "file": "04_SCENE_IV__Paris__The_Palace.md"
+    },
+    {
+      "title": "SCENE VII. Another part of the field",
+      "file": "05_SCENE_VII__Another_part_of_the.md"
+    },
+    {
+      "title": "SCENE V. London. The royal palace",
+      "file": "06_SCENE_V__London__The_royal_pal.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "07_Dramatis_Person.md"
+    },
+    {
+      "title": "Mortimer\u2019s JAILERS",
+      "file": "08_Mortimer_s_JAILERS.md"
+    },
+    {
+      "title": "General of the French forces in Bordeaux",
+      "file": "09_General_of_the_French_forces_i.md"
+    },
+    {
+      "title": "An old Shepherd, father to Joan la Pucelle",
+      "file": "10_An_old_Shepherd__father_to_Joa.md"
+    },
+    {
+      "title": "JOAN LA PUCELLE, commonly called Joan of Arc",
+      "file": "11_JOAN_LA_PUCELLE__commonly_call.md"
+    },
+    {
+      "title": "Lords, Warders of the Tower, Heralds, Officers, Soldiers, Messengers,",
+      "file": "12_Lords__Warders_of_the_Tower__H.md"
+    },
+    {
+      "title": "Fiends appearing to Joan la Pucelle",
+      "file": "13_Fiends_appearing_to_Joan_la_Pu.md"
+    },
+    {
+      "title": "SCENE: Partly in England and partly in France",
+      "file": "14_SCENE__Partly_in_England_and_p.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "15_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. Westminster Abbey.",
+      "file": "16_SCENE_I__Westminster_Abbey.md"
+    },
+    {
+      "title": "Scene II. France. Before Orleans",
+      "file": "17_Scene_II__France__Before_Orlea.md"
+    },
+    {
+      "title": "SCENE III. London. Before the Tower.",
+      "file": "18_SCENE_III__London__Before_the.md"
+    },
+    {
+      "title": "SCENE IV. Orleans.",
+      "file": "19_SCENE_IV__Orleans.md"
+    },
+    {
+      "title": "SCENE V. Before Orleans.",
+      "file": "20_SCENE_V__Before_Orleans.md"
+    },
+    {
+      "title": "SCENE VI. Orleans.",
+      "file": "21_SCENE_VI__Orleans.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "22_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. Before Orleans.",
+      "file": "23_SCENE_I__Before_Orleans.md"
+    },
+    {
+      "title": "SCENE II. Orleans. Within the town.",
+      "file": "24_SCENE_II__Orleans__Within_the.md"
+    },
+    {
+      "title": "SCENE III. Auvergne. The Countess\u2019s castle.",
+      "file": "25_SCENE_III__Auvergne__The_Count.md"
+    },
+    {
+      "title": "SCENE IV. London. The Temple Garden.",
+      "file": "26_SCENE_IV__London__The_Temple_G.md"
+    },
+    {
+      "title": "SCENE V. The Tower of London.",
+      "file": "27_SCENE_V__The_Tower_of_London.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "28_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. London. The Parliament House.",
+      "file": "29_SCENE_I__London__The_Parliamen.md"
+    },
+    {
+      "title": "SCENE II. France. Before Rouen.",
+      "file": "30_SCENE_II__France__Before_Rouen.md"
+    },
+    {
+      "title": "SCENE III. The plains near Rouen.",
+      "file": "31_SCENE_III__The_plains_near_Rou.md"
+    },
+    {
+      "title": "SCENE IV. Paris. The Palace.",
+      "file": "32_SCENE_IV__Paris__The_Palace.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "33_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. Paris. The Palace.",
+      "file": "34_SCENE_I__Paris__The_Palace.md"
+    },
+    {
+      "title": "SCENE II. Before Bordeaux.",
+      "file": "35_SCENE_II__Before_Bordeaux.md"
+    },
+    {
+      "title": "SCENE III. Plains in Gascony.",
+      "file": "36_SCENE_III__Plains_in_Gascony.md"
+    },
+    {
+      "title": "SCENE IV. Other plains in Gascony.",
+      "file": "37_SCENE_IV__Other_plains_in_Gasc.md"
+    },
+    {
+      "title": "SCENE V. The English camp near Bordeaux.",
+      "file": "38_SCENE_V__The_English_camp_near.md"
+    },
+    {
+      "title": "SCENE VI. A field of battle.",
+      "file": "39_SCENE_VI__A_field_of_battle.md"
+    },
+    {
+      "title": "SCENE VII. Another part of the field.",
+      "file": "40_SCENE_VII__Another_part_of_the.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "41_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. London. The Palace.",
+      "file": "42_SCENE_I__London__The_Palace.md"
+    },
+    {
+      "title": "SCENE II. France. Plains in Anjou.",
+      "file": "43_SCENE_II__France__Plains_in_An.md"
+    },
+    {
+      "title": "SCENE III. Before Angiers.",
+      "file": "44_SCENE_III__Before_Angiers.md"
+    },
+    {
+      "title": "SCENE IV. Camp of the Duke of York in Anjou.",
+      "file": "45_SCENE_IV__Camp_of_the_Duke_of.md"
+    },
+    {
+      "title": "SCENE V. London. The royal palace.",
+      "file": "46_SCENE_V__London__The_royal_pal.md"
+    }
+  ]
+}

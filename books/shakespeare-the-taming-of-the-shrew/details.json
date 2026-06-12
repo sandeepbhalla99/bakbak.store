@@ -1,0 +1,182 @@
+{
+  "id": "shakespeare-the-taming-of-the-shrew",
+  "title": "THE TAMING OF THE SHREW",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene II. A bedchamber in the Lord\u2019s house.",
+      "file": "02_Scene_II__A_bedchamber_in_the.md"
+    },
+    {
+      "title": "Scene II. Padua. Before Hortensio\u2019s house.",
+      "file": "03_Scene_II__Padua__Before_Horten.md"
+    },
+    {
+      "title": "Scene I. Padua. A room in Baptista\u2019s house.",
+      "file": "04_Scene_I__Padua__A_room_in_Bapt.md"
+    },
+    {
+      "title": "Scene II. The same. Before Baptista\u2019s house.",
+      "file": "05_Scene_II__The_same__Before_Bap.md"
+    },
+    {
+      "title": "Scene V. A public road.",
+      "file": "06_Scene_V__A_public_road.md"
+    },
+    {
+      "title": "Scene II. A room in Lucentio\u2019s house.",
+      "file": "07_Scene_II__A_room_in_Lucentio_s.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "08_Dramatis_Person.md"
+    },
+    {
+      "title": "SERVANTS",
+      "file": "09_SERVANTS.md"
+    },
+    {
+      "title": "PETRUCHIO, a gentleman of Verona; suitor to Katherina",
+      "file": "10_PETRUCHIO__a_gentleman_of_Vero.md"
+    },
+    {
+      "title": "HORTENSIO",
+      "file": "11_HORTENSIO.md"
+    },
+    {
+      "title": "BIONDELLO",
+      "file": "12_BIONDELLO.md"
+    },
+    {
+      "title": "CURTIS",
+      "file": "13_CURTIS.md"
+    },
+    {
+      "title": "PEDANT, set up to personate Vincentio",
+      "file": "14_PEDANT__set_up_to_personate_Vi.md"
+    },
+    {
+      "title": "BIANCA",
+      "file": "15_BIANCA.md"
+    },
+    {
+      "title": "WIDOW",
+      "file": "16_WIDOW.md"
+    },
+    {
+      "title": "Tailor, Haberdasher, and Servants attending on Baptista and Petruchio",
+      "file": "17_Tailor__Haberdasher__and_Serva.md"
+    },
+    {
+      "title": "SCENE: Sometimes in Padua, and sometimes in Petruchio\u2019s house in the",
+      "file": "18_SCENE__Sometimes_in_Padua__and.md"
+    },
+    {
+      "title": "INDUCTION",
+      "file": "19_INDUCTION.md"
+    },
+    {
+      "title": "SCENE I. Before an alehouse on a heath.",
+      "file": "20_SCENE_I__Before_an_alehouse_on.md"
+    },
+    {
+      "title": "Enter Hostess and Sly",
+      "file": "21_Enter_Hostess_and_Sly.md"
+    },
+    {
+      "title": "A pair of stocks, you rogue!",
+      "file": "22_A_pair_of_stocks__you_rogue.md"
+    },
+    {
+      "title": "world slide. Sessa!",
+      "file": "23_world_slide__Sessa.md"
+    },
+    {
+      "title": "You will not pay for the glasses you have burst?",
+      "file": "24_You_will_not_pay_for_the_glass.md"
+    },
+    {
+      "title": "No, not a denier. Go by, Saint Jeronimy, go to thy cold bed and warm",
+      "file": "25_No__not_a_denier__Go_by__Saint.md"
+    },
+    {
+      "title": "SCENE II. A bedchamber in the Lord\u2019s house.",
+      "file": "26_SCENE_II__A_bedchamber_in_the.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "27_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. Padua. A public place.",
+      "file": "28_SCENE_I__Padua__A_public_place.md"
+    },
+    {
+      "title": "SCENE II. Padua. Before Hortensio\u2019s house.",
+      "file": "29_SCENE_II__Padua__Before_Horten.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "30_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. Padua. A room in Baptista\u2019s house.",
+      "file": "31_SCENE_I__Padua__A_room_in_Bapt.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "32_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. Padua. A room in Baptista\u2019s house.",
+      "file": "33_SCENE_I__Padua__A_room_in_Bapt.md"
+    },
+    {
+      "title": "SCENE II. The same. Before Baptista\u2019s house.",
+      "file": "34_SCENE_II__The_same__Before_Bap.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "35_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. A hall in Petruchio\u2019s country house.",
+      "file": "36_SCENE_I__A_hall_in_Petruchio_s.md"
+    },
+    {
+      "title": "SCENE II. Padua. Before Baptista\u2019s house.",
+      "file": "37_SCENE_II__Padua__Before_Baptis.md"
+    },
+    {
+      "title": "SCENE III. A room in Petruchio\u2019s house.",
+      "file": "38_SCENE_III__A_room_in_Petruchio.md"
+    },
+    {
+      "title": "SCENE IV. Padua. Before Baptista\u2019s house.",
+      "file": "39_SCENE_IV__Padua__Before_Baptis.md"
+    },
+    {
+      "title": "SCENE V. A public road.",
+      "file": "40_SCENE_V__A_public_road.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "41_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. Padua. Before Lucentio\u2019s house.",
+      "file": "42_SCENE_I__Padua__Before_Lucenti.md"
+    },
+    {
+      "title": "SCENE II. A room in Lucentio\u2019s house.",
+      "file": "43_SCENE_II__A_room_in_Lucentio_s.md"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# SCENE I. Sicilia. A Street in some Town.
+
+Enter Cleomenes and Dion.
+
+CLEOMENES
+The climate’s delicate; the air most sweet,
+Fertile the isle, the temple much surpassing
+The common praise it bears.
+
+DION.
+I shall report,
+For most it caught me, the celestial habits
+(Methinks I so should term them) and the reverence
+Of the grave wearers. O, the sacrifice!
+How ceremonious, solemn, and unearthly,
+It was i’ th’ offering!
+
+CLEOMENES
+But of all, the burst
+And the ear-deaf’ning voice o’ th’ oracle,
+Kin to Jove’s thunder, so surprised my sense
+That I was nothing.
+
+DION.
+If the event o’ th’ journey
+Prove as successful to the queen,—O, be’t so!—
+As it hath been to us rare, pleasant, speedy,
+The time is worth the use on’t.
+
+CLEOMENES
+Great Apollo
+Turn all to th’ best! These proclamations,
+So forcing faults upon Hermione,
+I little like.
+
+DION.
+The violent carriage of it
+Will clear or end the business: when the oracle,
+(Thus by Apollo’s great divine seal’d up)
+Shall the contents discover, something rare
+Even then will rush to knowledge. Go. Fresh horses!
+And gracious be the issue!
+
+ [_Exeunt._]

@@ -1,0 +1,242 @@
+{
+  "id": "a-tale-of-two-cities",
+  "title": "A Tale of Two Cities",
+  "author": "Project Gutenberg",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Book the First--Recalled to Life",
+      "file": "02_Book_the_First__Recalled_to_Li.md"
+    },
+    {
+      "title": "CHAPTER VI     The Shoemaker",
+      "file": "03_CHAPTER_VI_____The_Shoemaker.md"
+    },
+    {
+      "title": "Book the Second--the Golden Thread",
+      "file": "04_Book_the_Second__the_Golden_Th.md"
+    },
+    {
+      "title": "CHAPTER XXIV   Drawn to the Loadstone Rock",
+      "file": "05_CHAPTER_XXIV___Drawn_to_the_Lo.md"
+    },
+    {
+      "title": "Book the Third--the Track of a Storm",
+      "file": "06_Book_the_Third__the_Track_of_a.md"
+    },
+    {
+      "title": "CHAPTER XV     The Footsteps Die Out For Ever",
+      "file": "07_CHAPTER_XV_____The_Footsteps_D.md"
+    },
+    {
+      "title": "Book the First--Recalled to Life",
+      "file": "08_Book_the_First__Recalled_to_Li.md"
+    },
+    {
+      "title": "The Period",
+      "file": "09_The_Period.md"
+    },
+    {
+      "title": "noisiest authorities insisted on its being received, for good or for",
+      "file": "10_noisiest_authorities_insisted.md"
+    },
+    {
+      "title": "than crystal to the lords of the State preserves of loaves and fishes,",
+      "file": "11_than_crystal_to_the_lords_of_t.md"
+    },
+    {
+      "title": "to relate, have proved more important to the human race than any",
+      "file": "12_to_relate__have_proved_more_im.md"
+    },
+    {
+      "title": "CHAPTER II.",
+      "file": "13_CHAPTER_II.md"
+    },
+    {
+      "title": "CHAPTER III.",
+      "file": "14_CHAPTER_III.md"
+    },
+    {
+      "title": "CHAPTER IV.",
+      "file": "15_CHAPTER_IV.md"
+    },
+    {
+      "title": "CHAPTER V.",
+      "file": "16_CHAPTER_V.md"
+    },
+    {
+      "title": "CHAPTER VI.",
+      "file": "17_CHAPTER_VI.md"
+    },
+    {
+      "title": "Book the Second--the Golden Thread",
+      "file": "18_Book_the_Second__the_Golden_Th.md"
+    },
+    {
+      "title": "CHAPTER I.",
+      "file": "19_CHAPTER_I.md"
+    },
+    {
+      "title": "CHAPTER II.",
+      "file": "20_CHAPTER_II.md"
+    },
+    {
+      "title": "CHAPTER III.",
+      "file": "21_CHAPTER_III.md"
+    },
+    {
+      "title": "CHAPTER IV.",
+      "file": "22_CHAPTER_IV.md"
+    },
+    {
+      "title": "CHAPTER V.",
+      "file": "23_CHAPTER_V.md"
+    },
+    {
+      "title": "CHAPTER VI.",
+      "file": "24_CHAPTER_VI.md"
+    },
+    {
+      "title": "CHAPTER VII.",
+      "file": "25_CHAPTER_VII.md"
+    },
+    {
+      "title": "CHAPTER VIII.",
+      "file": "26_CHAPTER_VIII.md"
+    },
+    {
+      "title": "CHAPTER IX.",
+      "file": "27_CHAPTER_IX.md"
+    },
+    {
+      "title": "CHAPTER X.",
+      "file": "28_CHAPTER_X.md"
+    },
+    {
+      "title": "CHAPTER XI.",
+      "file": "29_CHAPTER_XI.md"
+    },
+    {
+      "title": "CHAPTER XII.",
+      "file": "30_CHAPTER_XII.md"
+    },
+    {
+      "title": "CHAPTER XIII.",
+      "file": "31_CHAPTER_XIII.md"
+    },
+    {
+      "title": "CHAPTER XIV.",
+      "file": "32_CHAPTER_XIV.md"
+    },
+    {
+      "title": "CHAPTER XV.",
+      "file": "33_CHAPTER_XV.md"
+    },
+    {
+      "title": "CHAPTER XVI.",
+      "file": "34_CHAPTER_XVI.md"
+    },
+    {
+      "title": "CHAPTER XVII.",
+      "file": "35_CHAPTER_XVII.md"
+    },
+    {
+      "title": "CHAPTER XVIII.",
+      "file": "36_CHAPTER_XVIII.md"
+    },
+    {
+      "title": "CHAPTER XIX.",
+      "file": "37_CHAPTER_XIX.md"
+    },
+    {
+      "title": "CHAPTER XX.",
+      "file": "38_CHAPTER_XX.md"
+    },
+    {
+      "title": "CHAPTER XXI.",
+      "file": "39_CHAPTER_XXI.md"
+    },
+    {
+      "title": "CHAPTER XXII.",
+      "file": "40_CHAPTER_XXII.md"
+    },
+    {
+      "title": "CHAPTER XXIII.",
+      "file": "41_CHAPTER_XXIII.md"
+    },
+    {
+      "title": "CHAPTER XXIV.",
+      "file": "42_CHAPTER_XXIV.md"
+    },
+    {
+      "title": "Book the Third--the Track of a Storm",
+      "file": "43_Book_the_Third__the_Track_of_a.md"
+    },
+    {
+      "title": "CHAPTER I.",
+      "file": "44_CHAPTER_I.md"
+    },
+    {
+      "title": "CHAPTER II.",
+      "file": "45_CHAPTER_II.md"
+    },
+    {
+      "title": "CHAPTER III.",
+      "file": "46_CHAPTER_III.md"
+    },
+    {
+      "title": "CHAPTER IV.",
+      "file": "47_CHAPTER_IV.md"
+    },
+    {
+      "title": "CHAPTER V.",
+      "file": "48_CHAPTER_V.md"
+    },
+    {
+      "title": "CHAPTER VI.",
+      "file": "49_CHAPTER_VI.md"
+    },
+    {
+      "title": "CHAPTER VII.",
+      "file": "50_CHAPTER_VII.md"
+    },
+    {
+      "title": "CHAPTER VIII.",
+      "file": "51_CHAPTER_VIII.md"
+    },
+    {
+      "title": "CHAPTER IX.",
+      "file": "52_CHAPTER_IX.md"
+    },
+    {
+      "title": "CHAPTER X.",
+      "file": "53_CHAPTER_X.md"
+    },
+    {
+      "title": "CHAPTER XI.",
+      "file": "54_CHAPTER_XI.md"
+    },
+    {
+      "title": "CHAPTER XII.",
+      "file": "55_CHAPTER_XII.md"
+    },
+    {
+      "title": "CHAPTER XIII.",
+      "file": "56_CHAPTER_XIII.md"
+    },
+    {
+      "title": "CHAPTER XIV.",
+      "file": "57_CHAPTER_XIV.md"
+    },
+    {
+      "title": "CHAPTER XV.",
+      "file": "58_CHAPTER_XV.md"
+    }
+  ]
+}

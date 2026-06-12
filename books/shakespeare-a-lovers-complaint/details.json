@@ -1,0 +1,14 @@
+{
+  "id": "shakespeare-a-lovers-complaint",
+  "title": "A LOVER\u2019S COMPLAINT",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Full Book",
+      "file": "01_Full_Book.md"
+    }
+  ]
+}

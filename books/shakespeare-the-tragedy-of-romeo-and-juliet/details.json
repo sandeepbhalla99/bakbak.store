@@ -1,0 +1,182 @@
+{
+  "id": "shakespeare-the-tragedy-of-romeo-and-juliet",
+  "title": "THE TRAGEDY OF ROMEO AND JULIET",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene V. A Hall in Capulet\u2019s House.",
+      "file": "02_Scene_V__A_Hall_in_Capulet_s_H.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "03_ACT_II.md"
+    },
+    {
+      "title": "Scene VI. Friar Lawrence\u2019s Cell.",
+      "file": "04_Scene_VI__Friar_Lawrence_s_Cel.md"
+    },
+    {
+      "title": "Scene V. An open Gallery to Juliet\u2019s Chamber, overlooking the Garden.",
+      "file": "05_Scene_V__An_open_Gallery_to_Ju.md"
+    },
+    {
+      "title": "Scene V. Juliet\u2019s Chamber; Juliet on the bed.",
+      "file": "06_Scene_V__Juliet_s_Chamber__Jul.md"
+    },
+    {
+      "title": "Scene III. A churchyard; in it a Monument belonging to the Capulets.",
+      "file": "07_Scene_III__A_churchyard__in_it.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "08_Dramatis_Person.md"
+    },
+    {
+      "title": "Citizens of Verona; several Men and Women, relations to both houses;",
+      "file": "09_Citizens_of_Verona__several_Me.md"
+    },
+    {
+      "title": "SCENE. During the greater part of the Play in Verona; once, in the",
+      "file": "10_SCENE__During_the_greater_part.md"
+    },
+    {
+      "title": "THE PROLOGUE",
+      "file": "11_THE_PROLOGUE.md"
+    },
+    {
+      "title": "From ancient grudge break to new mutiny,",
+      "file": "12_From_ancient_grudge_break_to_n.md"
+    },
+    {
+      "title": "Whose misadventur\u2019d piteous overthrows",
+      "file": "13_Whose_misadventur_d_piteous_ov.md"
+    },
+    {
+      "title": "Is now the two hours\u2019 traffic of our stage;",
+      "file": "14_Is_now_the_two_hours__traffic.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "15_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. A public place.",
+      "file": "16_SCENE_I__A_public_place.md"
+    },
+    {
+      "title": "SCENE II. A Street.",
+      "file": "17_SCENE_II__A_Street.md"
+    },
+    {
+      "title": "SCENE III. Room in Capulet\u2019s House.",
+      "file": "18_SCENE_III__Room_in_Capulet_s_H.md"
+    },
+    {
+      "title": "SCENE IV. A Street.",
+      "file": "19_SCENE_IV__A_Street.md"
+    },
+    {
+      "title": "SCENE V. A Hall in Capulet\u2019s House.",
+      "file": "20_SCENE_V__A_Hall_in_Capulet_s_H.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "21_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. An open place adjoining Capulet\u2019s Garden.",
+      "file": "22_SCENE_I__An_open_place_adjoini.md"
+    },
+    {
+      "title": "SCENE II. Capulet\u2019s Garden.",
+      "file": "23_SCENE_II__Capulet_s_Garden.md"
+    },
+    {
+      "title": "SCENE III. Friar Lawrence\u2019s Cell.",
+      "file": "24_SCENE_III__Friar_Lawrence_s_Ce.md"
+    },
+    {
+      "title": "SCENE IV. A Street.",
+      "file": "25_SCENE_IV__A_Street.md"
+    },
+    {
+      "title": "SCENE V. Capulet\u2019s Garden.",
+      "file": "26_SCENE_V__Capulet_s_Garden.md"
+    },
+    {
+      "title": "SCENE VI. Friar Lawrence\u2019s Cell.",
+      "file": "27_SCENE_VI__Friar_Lawrence_s_Cel.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "28_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. A public Place.",
+      "file": "29_SCENE_I__A_public_Place.md"
+    },
+    {
+      "title": "SCENE II. A Room in Capulet\u2019s House.",
+      "file": "30_SCENE_II__A_Room_in_Capulet_s.md"
+    },
+    {
+      "title": "SCENE III. Friar Lawrence\u2019s cell.",
+      "file": "31_SCENE_III__Friar_Lawrence_s_ce.md"
+    },
+    {
+      "title": "SCENE IV. A Room in Capulet\u2019s House.",
+      "file": "32_SCENE_IV__A_Room_in_Capulet_s.md"
+    },
+    {
+      "title": "SCENE V. An open Gallery to Juliet\u2019s Chamber, overlooking the Garden.",
+      "file": "33_SCENE_V__An_open_Gallery_to_Ju.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "34_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. Friar Lawrence\u2019s Cell.",
+      "file": "35_SCENE_I__Friar_Lawrence_s_Cell.md"
+    },
+    {
+      "title": "SCENE II. Hall in Capulet\u2019s House.",
+      "file": "36_SCENE_II__Hall_in_Capulet_s_Ho.md"
+    },
+    {
+      "title": "SCENE III. Juliet\u2019s Chamber.",
+      "file": "37_SCENE_III__Juliet_s_Chamber.md"
+    },
+    {
+      "title": "SCENE IV. Hall in Capulet\u2019s House.",
+      "file": "38_SCENE_IV__Hall_in_Capulet_s_Ho.md"
+    },
+    {
+      "title": "SCENE V. Juliet\u2019s Chamber; Juliet on the bed.",
+      "file": "39_SCENE_V__Juliet_s_Chamber__Jul.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "40_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. Mantua. A Street.",
+      "file": "41_SCENE_I__Mantua__A_Street.md"
+    },
+    {
+      "title": "SCENE II. Friar Lawrence\u2019s Cell.",
+      "file": "42_SCENE_II__Friar_Lawrence_s_Cel.md"
+    },
+    {
+      "title": "SCENE III. A churchyard; in it a Monument belonging to the Capulets.",
+      "file": "43_SCENE_III__A_churchyard__in_it.md"
+    }
+  ]
+}

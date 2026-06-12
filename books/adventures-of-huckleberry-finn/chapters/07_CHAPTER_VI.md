@@ -1,0 +1,4 @@
+# CHAPTER VI.
+
+He Went for Judge Thatcher.—Huck Decided to Leave.—Political
+Economy.—Thrashing Around.

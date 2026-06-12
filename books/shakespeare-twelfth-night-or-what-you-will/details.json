@@ -1,0 +1,174 @@
+{
+  "id": "shakespeare-twelfth-night-or-what-you-will",
+  "title": "TWELFTH NIGHT; OR, WHAT YOU WILL",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene V. A Room in Olivia\u2019s House.",
+      "file": "02_Scene_V__A_Room_in_Olivia_s_Ho.md"
+    },
+    {
+      "title": "Scene V. Olivia\u2019s garden.",
+      "file": "03_Scene_V__Olivia_s_garden.md"
+    },
+    {
+      "title": "Scene IV. Olivia\u2019s garden.",
+      "file": "04_Scene_IV__Olivia_s_garden.md"
+    },
+    {
+      "title": "Scene III. Olivia\u2019s Garden.",
+      "file": "05_Scene_III__Olivia_s_Garden.md"
+    },
+    {
+      "title": "Scene I. The Street before Olivia\u2019s House.",
+      "file": "06_Scene_I__The_Street_before_Oli.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "07_Dramatis_Person.md"
+    },
+    {
+      "title": "CURIO, Gentleman attending on the Duke",
+      "file": "08_CURIO__Gentleman_attending_on.md"
+    },
+    {
+      "title": "A SEA CAPTAIN, friend to Viola",
+      "file": "09_A_SEA_CAPTAIN__friend_to_Viola.md"
+    },
+    {
+      "title": "PRIEST",
+      "file": "10_PRIEST.md"
+    },
+    {
+      "title": "SCENE: A City in Illyria; and the Sea-coast near it.",
+      "file": "11_SCENE__A_City_in_Illyria__and.md"
+    },
+    {
+      "title": "ACT I.",
+      "file": "12_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. An Apartment in the Duke\u2019s Palace.",
+      "file": "13_SCENE_I__An_Apartment_in_the_D.md"
+    },
+    {
+      "title": "Enter Orsino, Duke of Illyria, Curio, and other Lords; Musicians",
+      "file": "14_Enter_Orsino__Duke_of_Illyria.md"
+    },
+    {
+      "title": "Give me excess of it; that, surfeiting,",
+      "file": "15_Give_me_excess_of_it__that__su.md"
+    },
+    {
+      "title": "Stealing and giving odour. Enough; no more;",
+      "file": "16_Stealing_and_giving_odour__Eno.md"
+    },
+    {
+      "title": "Even in a minute! So full of shapes is fancy,",
+      "file": "17_Even_in_a_minute__So_full_of_s.md"
+    },
+    {
+      "title": "Will you go hunt, my lord?",
+      "file": "18_Will_you_go_hunt__my_lord.md"
+    },
+    {
+      "title": "What, Curio?",
+      "file": "19_What__Curio.md"
+    },
+    {
+      "title": "That instant was I turn\u2019d into a hart,",
+      "file": "20_That_instant_was_I_turn_d_into.md"
+    },
+    {
+      "title": "SCENE II. The sea-coast.",
+      "file": "21_SCENE_II__The_sea_coast.md"
+    },
+    {
+      "title": "SCENE III. A Room in Olivia\u2019s House.",
+      "file": "22_SCENE_III__A_Room_in_Olivia_s.md"
+    },
+    {
+      "title": "SCENE IV. A Room in the Duke\u2019s Palace.",
+      "file": "23_SCENE_IV__A_Room_in_the_Duke_s.md"
+    },
+    {
+      "title": "SCENE V. A Room in Olivia\u2019s House.",
+      "file": "24_SCENE_V__A_Room_in_Olivia_s_Ho.md"
+    },
+    {
+      "title": "ACT II.",
+      "file": "25_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. The sea-coast.",
+      "file": "26_SCENE_I__The_sea_coast.md"
+    },
+    {
+      "title": "SCENE II. A street.",
+      "file": "27_SCENE_II__A_street.md"
+    },
+    {
+      "title": "SCENE III. A Room in Olivia\u2019s House.",
+      "file": "28_SCENE_III__A_Room_in_Olivia_s.md"
+    },
+    {
+      "title": "SCENE IV. A Room in the Duke\u2019s Palace.",
+      "file": "29_SCENE_IV__A_Room_in_the_Duke_s.md"
+    },
+    {
+      "title": "SCENE V. Olivia\u2019s garden.",
+      "file": "30_SCENE_V__Olivia_s_garden.md"
+    },
+    {
+      "title": "ACT III.",
+      "file": "31_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. Olivia\u2019s garden.",
+      "file": "32_SCENE_I__Olivia_s_garden.md"
+    },
+    {
+      "title": "SCENE II. A Room in Olivia\u2019s House.",
+      "file": "33_SCENE_II__A_Room_in_Olivia_s_H.md"
+    },
+    {
+      "title": "SCENE III. A street.",
+      "file": "34_SCENE_III__A_street.md"
+    },
+    {
+      "title": "SCENE IV. Olivia\u2019s garden.",
+      "file": "35_SCENE_IV__Olivia_s_garden.md"
+    },
+    {
+      "title": "ACT IV.",
+      "file": "36_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. The Street before Olivia\u2019s House.",
+      "file": "37_SCENE_I__The_Street_before_Oli.md"
+    },
+    {
+      "title": "SCENE II. A Room in Olivia\u2019s House.",
+      "file": "38_SCENE_II__A_Room_in_Olivia_s_H.md"
+    },
+    {
+      "title": "SCENE III. Olivia\u2019s Garden.",
+      "file": "39_SCENE_III__Olivia_s_Garden.md"
+    },
+    {
+      "title": "ACT V.",
+      "file": "40_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. The Street before Olivia\u2019s House.",
+      "file": "41_SCENE_I__The_Street_before_Oli.md"
+    }
+  ]
+}

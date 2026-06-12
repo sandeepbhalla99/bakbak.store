@@ -1,0 +1,170 @@
+{
+  "id": "shakespeare-measure-for-measure",
+  "title": "MEASURE FOR MEASURE",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene IV. A nunnery",
+      "file": "02_Scene_IV__A_nunnery.md"
+    },
+    {
+      "title": "Scene IV. A room in Angelo\u2019s house",
+      "file": "03_Scene_IV__A_room_in_Angelo_s_h.md"
+    },
+    {
+      "title": "Scene II. The street before the prisons",
+      "file": "04_Scene_II__The_street_before_th.md"
+    },
+    {
+      "title": "Scene VI. Street near the city gate",
+      "file": "05_Scene_VI__Street_near_the_city.md"
+    },
+    {
+      "title": "Scene I. A public place near the city gate",
+      "file": "06_Scene_I__A_public_place_near_t.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "07_Dramatis_Person.md"
+    },
+    {
+      "title": "VARRIUS, a Gentleman, Servant to the Duke",
+      "file": "08_VARRIUS__a_Gentleman__Servant.md"
+    },
+    {
+      "title": "MESSENGER, from Angelo",
+      "file": "09_MESSENGER__from_Angelo.md"
+    },
+    {
+      "title": "FRANCISCA, a nun",
+      "file": "10_FRANCISCA__a_nun.md"
+    },
+    {
+      "title": "Two GENTLEMEN",
+      "file": "11_Two_GENTLEMEN.md"
+    },
+    {
+      "title": "FRIAR PETER",
+      "file": "12_FRIAR_PETER.md"
+    },
+    {
+      "title": "BARNARDINE, a dissolute prisoner",
+      "file": "13_BARNARDINE__a_dissolute_prison.md"
+    },
+    {
+      "title": "Lords, Officers, Servants, Citizens and Attendants",
+      "file": "14_Lords__Officers__Servants__Cit.md"
+    },
+    {
+      "title": "SCENE: Vienna",
+      "file": "15_SCENE__Vienna.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "16_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. An apartment in the Duke\u2019s palace.",
+      "file": "17_SCENE_I__An_apartment_in_the_D.md"
+    },
+    {
+      "title": "From which we would not have you warp.\u2014Call hither,",
+      "file": "18_From_which_we_would_not_have_y.md"
+    },
+    {
+      "title": "[_Exit an Attendant._]",
+      "file": "19_Exit_an_Attendant.md"
+    },
+    {
+      "title": "SCENE II. A street.",
+      "file": "20_SCENE_II__A_street.md"
+    },
+    {
+      "title": "SCENE III. A monastery.",
+      "file": "21_SCENE_III__A_monastery.md"
+    },
+    {
+      "title": "SCENE IV. A nunnery.",
+      "file": "22_SCENE_IV__A_nunnery.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "23_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. A hall in Angelo\u2019s house.",
+      "file": "24_SCENE_I__A_hall_in_Angelo_s_ho.md"
+    },
+    {
+      "title": "SCENE II. Another room in the same.",
+      "file": "25_SCENE_II__Another_room_in_the.md"
+    },
+    {
+      "title": "SCENE III. A room in a prison.",
+      "file": "26_SCENE_III__A_room_in_a_prison.md"
+    },
+    {
+      "title": "SCENE IV. A room in Angelo\u2019s house.",
+      "file": "27_SCENE_IV__A_room_in_Angelo_s_h.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "28_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. A room in the prison.",
+      "file": "29_SCENE_I__A_room_in_the_prison.md"
+    },
+    {
+      "title": "SCENE II. The street before the prison.",
+      "file": "30_SCENE_II__The_street_before_th.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "31_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. A room in Mariana\u2019s house.",
+      "file": "32_SCENE_I__A_room_in_Mariana_s_h.md"
+    },
+    {
+      "title": "SCENE II. A room in the prison.",
+      "file": "33_SCENE_II__A_room_in_the_prison.md"
+    },
+    {
+      "title": "SCENE III. Another room in the same.",
+      "file": "34_SCENE_III__Another_room_in_the.md"
+    },
+    {
+      "title": "SCENE IV. A room in Angelo\u2019s house.",
+      "file": "35_SCENE_IV__A_room_in_Angelo_s_h.md"
+    },
+    {
+      "title": "SCENE V. Fields without the town.",
+      "file": "36_SCENE_V__Fields_without_the_to.md"
+    },
+    {
+      "title": "SCENE VI. Street near the city gate.",
+      "file": "37_SCENE_VI__Street_near_the_city.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "38_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. A public place near the city gate.",
+      "file": "39_SCENE_I__A_public_place_near_t.md"
+    },
+    {
+      "title": "[_Exit an Attendant._]",
+      "file": "40_Exit_an_Attendant.md"
+    }
+  ]
+}

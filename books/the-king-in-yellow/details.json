@@ -1,0 +1,118 @@
+{
+  "id": "the-king-in-yellow",
+  "title": "The King in Yellow",
+  "author": "Project Gutenberg",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "THE REPAIRER OF REPUTATIONS",
+      "file": "02_THE_REPAIRER_OF_REPUTATIONS.md"
+    },
+    {
+      "title": "THE MASK",
+      "file": "03_THE_MASK.md"
+    },
+    {
+      "title": "THE COURT OF THE DRAGON",
+      "file": "04_THE_COURT_OF_THE_DRAGON.md"
+    },
+    {
+      "title": "THE YELLOW SIGN",
+      "file": "05_THE_YELLOW_SIGN.md"
+    },
+    {
+      "title": "THE DEMOISELLE D\u2019YS",
+      "file": "06_THE_DEMOISELLE_D_YS.md"
+    },
+    {
+      "title": "THE PROPHETS\u2019 PARADISE",
+      "file": "07_THE_PROPHETS__PARADISE.md"
+    },
+    {
+      "title": "THE STREET OF THE FOUR WINDS",
+      "file": "08_THE_STREET_OF_THE_FOUR_WINDS.md"
+    },
+    {
+      "title": "THE STREET OF THE FIRST SHELL",
+      "file": "09_THE_STREET_OF_THE_FIRST_SHELL.md"
+    },
+    {
+      "title": "THE STREET OF OUR LADY OF THE FIELDS",
+      "file": "10_THE_STREET_OF_OUR_LADY_OF_THE.md"
+    },
+    {
+      "title": "RUE BARR\u00c9E",
+      "file": "11_RUE_BARR_E.md"
+    },
+    {
+      "title": "The shadows lengthen",
+      "file": "12_The_shadows_lengthen.md"
+    },
+    {
+      "title": "But stranger still is",
+      "file": "13_But_stranger_still_is.md"
+    },
+    {
+      "title": "Must die unheard in",
+      "file": "14_Must_die_unheard_in.md"
+    },
+    {
+      "title": "Lost Carcosa.\u201d",
+      "file": "15_Lost_Carcosa.md"
+    },
+    {
+      "title": "Act i, Scene 2.",
+      "file": "16_Act_i__Scene_2.md"
+    },
+    {
+      "title": "THE REPAIRER OF REPUTATIONS",
+      "file": "17_THE_REPAIRER_OF_REPUTATIONS.md"
+    },
+    {
+      "title": "n\u00f4tre.... Voila toute la diff\u00e9rence.\u201d",
+      "file": "18_n_tre_____Voila_toute_la_diff.md"
+    },
+    {
+      "title": "exclusion of foreign-born Jews as a measure of self-preservation, the",
+      "file": "19_exclusion_of_foreign_born_Jews.md"
+    },
+    {
+      "title": "THE MASK",
+      "file": "20_THE_MASK.md"
+    },
+    {
+      "title": "THE YELLOW SIGN",
+      "file": "21_THE_YELLOW_SIGN.md"
+    },
+    {
+      "title": "THE DEMOISELLE D\u2019YS",
+      "file": "22_THE_DEMOISELLE_D_YS.md"
+    },
+    {
+      "title": "THE PROPHETS\u2019 PARADISE",
+      "file": "23_THE_PROPHETS__PARADISE.md"
+    },
+    {
+      "title": "THE STREET OF THE FOUR WINDS",
+      "file": "24_THE_STREET_OF_THE_FOUR_WINDS.md"
+    },
+    {
+      "title": "THE STREET OF THE FIRST SHELL",
+      "file": "25_THE_STREET_OF_THE_FIRST_SHELL.md"
+    },
+    {
+      "title": "THE STREET OF OUR LADY OF THE FIELDS",
+      "file": "26_THE_STREET_OF_OUR_LADY_OF_THE.md"
+    },
+    {
+      "title": "RUE BARR\u00c9E",
+      "file": "27_RUE_BARR_E.md"
+    }
+  ]
+}

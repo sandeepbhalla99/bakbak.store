@@ -1,0 +1,518 @@
+{
+  "id": "the-count-of-monte-cristo",
+  "title": "The Count of Monte Cristo",
+  "author": "Project Gutenberg",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+  "description": "A classic masterpiece by Project Gutenberg. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Chapter 27. The Story",
+      "file": "02_Chapter_27__The_Story.md"
+    },
+    {
+      "title": "Chapter 47. The Dappled Grays",
+      "file": "03_Chapter_47__The_Dappled_Grays.md"
+    },
+    {
+      "title": "Chapter 73. The Promise",
+      "file": "04_Chapter_73__The_Promise.md"
+    },
+    {
+      "title": "Chapter 95. Father and Daughter",
+      "file": "05_Chapter_95__Father_and_Daughte.md"
+    },
+    {
+      "title": "Chapter 117. The Fifth of October",
+      "file": "06_Chapter_117__The_Fifth_of_Octo.md"
+    },
+    {
+      "title": "VOLUME ONE",
+      "file": "07_VOLUME_ONE.md"
+    },
+    {
+      "title": "Chapter 1. Marseilles\u2014The Arrival",
+      "file": "08_Chapter_1__Marseilles_The_Arri.md"
+    },
+    {
+      "title": "Chapter 2. Father and Son",
+      "file": "09_Chapter_2__Father_and_Son.md"
+    },
+    {
+      "title": "Chapter 3. The Catalans",
+      "file": "10_Chapter_3__The_Catalans.md"
+    },
+    {
+      "title": "Chapter 4. Conspiracy",
+      "file": "11_Chapter_4__Conspiracy.md"
+    },
+    {
+      "title": "Chapter 5. The Marriage Feast",
+      "file": "12_Chapter_5__The_Marriage_Feast.md"
+    },
+    {
+      "title": "Chapter 6. The Deputy Procureur du Roi",
+      "file": "13_Chapter_6__The_Deputy_Procureu.md"
+    },
+    {
+      "title": "Chapter 7. The Examination",
+      "file": "14_Chapter_7__The_Examination.md"
+    },
+    {
+      "title": "Chapter 8. The Ch\u00e2teau d\u2019If",
+      "file": "15_Chapter_8__The_Ch_teau_d_If.md"
+    },
+    {
+      "title": "Chapter 9. The Evening of the Betrothal",
+      "file": "16_Chapter_9__The_Evening_of_the.md"
+    },
+    {
+      "title": "Chapter 10. The King\u2019s Closet at the Tuileries",
+      "file": "17_Chapter_10__The_King_s_Closet.md"
+    },
+    {
+      "title": "Chapter 11. The Corsican Ogre",
+      "file": "18_Chapter_11__The_Corsican_Ogre.md"
+    },
+    {
+      "title": "Chapter 12. Father and Son",
+      "file": "19_Chapter_12__Father_and_Son.md"
+    },
+    {
+      "title": "Chapter 13. The Hundred Days",
+      "file": "20_Chapter_13__The_Hundred_Days.md"
+    },
+    {
+      "title": "Chapter 14. The Two Prisoners",
+      "file": "21_Chapter_14__The_Two_Prisoners.md"
+    },
+    {
+      "title": "Chapter 15. Number 34 and Number 27",
+      "file": "22_Chapter_15__Number_34_and_Numb.md"
+    },
+    {
+      "title": "Chapter 16. A Learned Italian",
+      "file": "23_Chapter_16__A_Learned_Italian.md"
+    },
+    {
+      "title": "Chapter 17. The Abb\u00e9\u2019s Chamber",
+      "file": "24_Chapter_17__The_Abb__s_Chamber.md"
+    },
+    {
+      "title": "Chapter 18. The Treasure",
+      "file": "25_Chapter_18__The_Treasure.md"
+    },
+    {
+      "title": "Chapter 19. The Third Attack",
+      "file": "26_Chapter_19__The_Third_Attack.md"
+    },
+    {
+      "title": "Chapter 20. The Cemetery of the Ch\u00e2teau d\u2019If",
+      "file": "27_Chapter_20__The_Cemetery_of_th.md"
+    },
+    {
+      "title": "Chapter 21. The Island of Tiboulen",
+      "file": "28_Chapter_21__The_Island_of_Tibo.md"
+    },
+    {
+      "title": "Chapter 22. The Smugglers",
+      "file": "29_Chapter_22__The_Smugglers.md"
+    },
+    {
+      "title": "Chapter 23. The Island of Monte Cristo",
+      "file": "30_Chapter_23__The_Island_of_Mont.md"
+    },
+    {
+      "title": "Chapter 24. The Secret Cave",
+      "file": "31_Chapter_24__The_Secret_Cave.md"
+    },
+    {
+      "title": "Chapter 25. The Unknown",
+      "file": "32_Chapter_25__The_Unknown.md"
+    },
+    {
+      "title": "Chapter 26. The Pont du Gard Inn",
+      "file": "33_Chapter_26__The_Pont_du_Gard_I.md"
+    },
+    {
+      "title": "Chapter 27. The Story",
+      "file": "34_Chapter_27__The_Story.md"
+    },
+    {
+      "title": "VOLUME TWO",
+      "file": "35_VOLUME_TWO.md"
+    },
+    {
+      "title": "Chapter 28. The Prison Register",
+      "file": "36_Chapter_28__The_Prison_Registe.md"
+    },
+    {
+      "title": "Chapter 29. The House of Morrel & Son",
+      "file": "37_Chapter_29__The_House_of_Morre.md"
+    },
+    {
+      "title": "Chapter 30. The Fifth of September",
+      "file": "38_Chapter_30__The_Fifth_of_Septe.md"
+    },
+    {
+      "title": "Chapter 31. Italy: Sinbad the Sailor",
+      "file": "39_Chapter_31__Italy__Sinbad_the.md"
+    },
+    {
+      "title": "Chapter 32. The Waking",
+      "file": "40_Chapter_32__The_Waking.md"
+    },
+    {
+      "title": "Chapter 33. Roman Bandits",
+      "file": "41_Chapter_33__Roman_Bandits.md"
+    },
+    {
+      "title": "Chapter 34. The Colosseum",
+      "file": "42_Chapter_34__The_Colosseum.md"
+    },
+    {
+      "title": "Chapter 35. La Mazzolata",
+      "file": "43_Chapter_35__La_Mazzolata.md"
+    },
+    {
+      "title": "Chapter 36. The Carnival at Rome",
+      "file": "44_Chapter_36__The_Carnival_at_Ro.md"
+    },
+    {
+      "title": "Chapter 37. The Catacombs of Saint Sebastian",
+      "file": "45_Chapter_37__The_Catacombs_of_S.md"
+    },
+    {
+      "title": "Chapter 38. The Rendezvous",
+      "file": "46_Chapter_38__The_Rendezvous.md"
+    },
+    {
+      "title": "Chapter 39. The Guests",
+      "file": "47_Chapter_39__The_Guests.md"
+    },
+    {
+      "title": "Chapter 40. The Breakfast",
+      "file": "48_Chapter_40__The_Breakfast.md"
+    },
+    {
+      "title": "Chapter 41. The Presentation",
+      "file": "49_Chapter_41__The_Presentation.md"
+    },
+    {
+      "title": "Chapter 42. Monsieur Bertuccio",
+      "file": "50_Chapter_42__Monsieur_Bertuccio.md"
+    },
+    {
+      "title": "Chapter 43. The House at Auteuil",
+      "file": "51_Chapter_43__The_House_at_Auteu.md"
+    },
+    {
+      "title": "Chapter 44. The Vendetta",
+      "file": "52_Chapter_44__The_Vendetta.md"
+    },
+    {
+      "title": "Chapter 45. The Rain of Blood",
+      "file": "53_Chapter_45__The_Rain_of_Blood.md"
+    },
+    {
+      "title": "Chapter 46. Unlimited Credit",
+      "file": "54_Chapter_46__Unlimited_Credit.md"
+    },
+    {
+      "title": "Chapter 47. The Dappled Grays",
+      "file": "55_Chapter_47__The_Dappled_Grays.md"
+    },
+    {
+      "title": "VOLUME THREE",
+      "file": "56_VOLUME_THREE.md"
+    },
+    {
+      "title": "Chapter 48. Ideology",
+      "file": "57_Chapter_48__Ideology.md"
+    },
+    {
+      "title": "Chapter 49. Hayd\u00e9e",
+      "file": "58_Chapter_49__Hayd_e.md"
+    },
+    {
+      "title": "Chapter 50. The Morrel Family",
+      "file": "59_Chapter_50__The_Morrel_Family.md"
+    },
+    {
+      "title": "Chapter 51. Pyramus and Thisbe",
+      "file": "60_Chapter_51__Pyramus_and_Thisbe.md"
+    },
+    {
+      "title": "Chapter 52. Toxicology",
+      "file": "61_Chapter_52__Toxicology.md"
+    },
+    {
+      "title": "Chapter 53. Robert le Diable",
+      "file": "62_Chapter_53__Robert_le_Diable.md"
+    },
+    {
+      "title": "Chapter 54. A Flurry in Stocks",
+      "file": "63_Chapter_54__A_Flurry_in_Stocks.md"
+    },
+    {
+      "title": "Chapter 55. Major Cavalcanti",
+      "file": "64_Chapter_55__Major_Cavalcanti.md"
+    },
+    {
+      "title": "Chapter 56. Andrea Cavalcanti",
+      "file": "65_Chapter_56__Andrea_Cavalcanti.md"
+    },
+    {
+      "title": "Chapter 57. In the Lucern Patch",
+      "file": "66_Chapter_57__In_the_Lucern_Patc.md"
+    },
+    {
+      "title": "Chapter 58. M. Noirtier de Villefort",
+      "file": "67_Chapter_58__M__Noirtier_de_Vil.md"
+    },
+    {
+      "title": "Chapter 59. The Will",
+      "file": "68_Chapter_59__The_Will.md"
+    },
+    {
+      "title": "Chapter 60. The Telegraph",
+      "file": "69_Chapter_60__The_Telegraph.md"
+    },
+    {
+      "title": "Chapter 61. How a Gardener May Get Rid of the Dormice that Eat His",
+      "file": "70_Chapter_61__How_a_Gardener_May.md"
+    },
+    {
+      "title": "Chapter 62. Ghosts",
+      "file": "71_Chapter_62__Ghosts.md"
+    },
+    {
+      "title": "Chapter 63. The Dinner",
+      "file": "72_Chapter_63__The_Dinner.md"
+    },
+    {
+      "title": "Chapter 64. The Beggar",
+      "file": "73_Chapter_64__The_Beggar.md"
+    },
+    {
+      "title": "Chapter 65. A Conjugal Scene",
+      "file": "74_Chapter_65__A_Conjugal_Scene.md"
+    },
+    {
+      "title": "Chapter 66. Matrimonial Projects",
+      "file": "75_Chapter_66__Matrimonial_Projec.md"
+    },
+    {
+      "title": "Chapter 67. The Office of the King\u2019s Attorney",
+      "file": "76_Chapter_67__The_Office_of_the.md"
+    },
+    {
+      "title": "Chapter 68. A Summer Ball",
+      "file": "77_Chapter_68__A_Summer_Ball.md"
+    },
+    {
+      "title": "Chapter 69. The Inquiry",
+      "file": "78_Chapter_69__The_Inquiry.md"
+    },
+    {
+      "title": "Chapter 70. The Ball",
+      "file": "79_Chapter_70__The_Ball.md"
+    },
+    {
+      "title": "Chapter 71. Bread and Salt",
+      "file": "80_Chapter_71__Bread_and_Salt.md"
+    },
+    {
+      "title": "Chapter 72. Madame de Saint-M\u00e9ran",
+      "file": "81_Chapter_72__Madame_de_Saint_M.md"
+    },
+    {
+      "title": "Chapter 73. The Promise",
+      "file": "82_Chapter_73__The_Promise.md"
+    },
+    {
+      "title": "VOLUME FOUR",
+      "file": "83_VOLUME_FOUR.md"
+    },
+    {
+      "title": "Chapter 74. The Villefort Family Vault",
+      "file": "84_Chapter_74__The_Villefort_Fami.md"
+    },
+    {
+      "title": "Chapter 75. A Signed Statement",
+      "file": "85_Chapter_75__A_Signed_Statement.md"
+    },
+    {
+      "title": "Chapter 76. Progress of Cavalcanti the Younger",
+      "file": "86_Chapter_76__Progress_of_Cavalc.md"
+    },
+    {
+      "title": "Chapter 77. Hayd\u00e9e",
+      "file": "87_Chapter_77__Hayd_e.md"
+    },
+    {
+      "title": "Chapter 78. We hear From Yanina",
+      "file": "88_Chapter_78__We_hear_From_Yanin.md"
+    },
+    {
+      "title": "Chapter 79. The Lemonade",
+      "file": "89_Chapter_79__The_Lemonade.md"
+    },
+    {
+      "title": "Chapter 80. The Accusation",
+      "file": "90_Chapter_80__The_Accusation.md"
+    },
+    {
+      "title": "Chapter 81. The Room of the Retired Baker",
+      "file": "91_Chapter_81__The_Room_of_the_Re.md"
+    },
+    {
+      "title": "Chapter 82. The Burglary",
+      "file": "92_Chapter_82__The_Burglary.md"
+    },
+    {
+      "title": "Chapter 83. The Hand of God",
+      "file": "93_Chapter_83__The_Hand_of_God.md"
+    },
+    {
+      "title": "Chapter 84. Beauchamp",
+      "file": "94_Chapter_84__Beauchamp.md"
+    },
+    {
+      "title": "Chapter 85. The Journey",
+      "file": "95_Chapter_85__The_Journey.md"
+    },
+    {
+      "title": "Chapter 86. The Trial",
+      "file": "96_Chapter_86__The_Trial.md"
+    },
+    {
+      "title": "Chapter 87. The Challenge",
+      "file": "97_Chapter_87__The_Challenge.md"
+    },
+    {
+      "title": "Chapter 88. The Insult",
+      "file": "98_Chapter_88__The_Insult.md"
+    },
+    {
+      "title": "Chapter 89. The Night",
+      "file": "99_Chapter_89__The_Night.md"
+    },
+    {
+      "title": "Chapter 90. The Meeting",
+      "file": "100_Chapter_90__The_Meeting.md"
+    },
+    {
+      "title": "Chapter 91. Mother and Son",
+      "file": "101_Chapter_91__Mother_and_Son.md"
+    },
+    {
+      "title": "Chapter 92. The Suicide",
+      "file": "102_Chapter_92__The_Suicide.md"
+    },
+    {
+      "title": "Chapter 93. Valentine",
+      "file": "103_Chapter_93__Valentine.md"
+    },
+    {
+      "title": "Chapter 94. Maximilian\u2019s Avowal",
+      "file": "104_Chapter_94__Maximilian_s_Avowa.md"
+    },
+    {
+      "title": "Chapter 95. Father and Daughter",
+      "file": "105_Chapter_95__Father_and_Daughte.md"
+    },
+    {
+      "title": "Chapter 96. The Contract",
+      "file": "106_Chapter_96__The_Contract.md"
+    },
+    {
+      "title": "Chapter 97. The Departure for Belgium",
+      "file": "107_Chapter_97__The_Departure_for.md"
+    },
+    {
+      "title": "Chapter 98. The Bell and Bottle Tavern",
+      "file": "108_Chapter_98__The_Bell_and_Bottl.md"
+    },
+    {
+      "title": "Chapter 99. The Law",
+      "file": "109_Chapter_99__The_Law.md"
+    },
+    {
+      "title": "Chapter 100. The Apparition",
+      "file": "110_Chapter_100__The_Apparition.md"
+    },
+    {
+      "title": "Chapter 101. Locusta",
+      "file": "111_Chapter_101__Locusta.md"
+    },
+    {
+      "title": "Chapter 102. Valentine",
+      "file": "112_Chapter_102__Valentine.md"
+    },
+    {
+      "title": "Chapter 103. Maximilian",
+      "file": "113_Chapter_103__Maximilian.md"
+    },
+    {
+      "title": "Chapter 104. Danglars\u2019 Signature",
+      "file": "114_Chapter_104__Danglars__Signatu.md"
+    },
+    {
+      "title": "Chapter 105. The Cemetery of P\u00e8re-Lachaise",
+      "file": "115_Chapter_105__The_Cemetery_of_P.md"
+    },
+    {
+      "title": "Chapter 106. Dividing the Proceeds",
+      "file": "116_Chapter_106__Dividing_the_Proc.md"
+    },
+    {
+      "title": "Chapter 107. The Lions\u2019 Den",
+      "file": "117_Chapter_107__The_Lions__Den.md"
+    },
+    {
+      "title": "Chapter 108. The Judge",
+      "file": "118_Chapter_108__The_Judge.md"
+    },
+    {
+      "title": "Chapter 109. The Assizes",
+      "file": "119_Chapter_109__The_Assizes.md"
+    },
+    {
+      "title": "Chapter 110. The Indictment",
+      "file": "120_Chapter_110__The_Indictment.md"
+    },
+    {
+      "title": "Chapter 111. Expiation",
+      "file": "121_Chapter_111__Expiation.md"
+    },
+    {
+      "title": "Chapter 112. The Departure",
+      "file": "122_Chapter_112__The_Departure.md"
+    },
+    {
+      "title": "Chapter 113. The Past",
+      "file": "123_Chapter_113__The_Past.md"
+    },
+    {
+      "title": "Chapter 114. Peppino",
+      "file": "124_Chapter_114__Peppino.md"
+    },
+    {
+      "title": "Chapter 115. Luigi Vampa\u2019s Bill of Fare",
+      "file": "125_Chapter_115__Luigi_Vampa_s_Bil.md"
+    },
+    {
+      "title": "Chapter 116. The Pardon",
+      "file": "126_Chapter_116__The_Pardon.md"
+    },
+    {
+      "title": "Chapter 117. The Fifth of October",
+      "file": "127_Chapter_117__The_Fifth_of_Octo.md"
+    }
+  ]
+}

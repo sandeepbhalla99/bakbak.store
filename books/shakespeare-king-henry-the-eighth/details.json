@@ -1,0 +1,174 @@
+{
+  "id": "shakespeare-king-henry-the-eighth",
+  "title": "KING HENRY THE EIGHTH",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #06b6d4 0%, #0891b2 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "KING HENRY THE EIGHTH",
+      "file": "01_KING_HENRY_THE_EIGHTH.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "02_ACT_I.md"
+    },
+    {
+      "title": "Scene IV. A Hall in York Place",
+      "file": "03_Scene_IV__A_Hall_in_York_Place.md"
+    },
+    {
+      "title": "Scene IV. A hall in Blackfriars",
+      "file": "04_Scene_IV__A_hall_in_Blackfriar.md"
+    },
+    {
+      "title": "Scene II. Ante-chamber to the King\u2019s apartment",
+      "file": "05_Scene_II__Ante_chamber_to_the.md"
+    },
+    {
+      "title": "Scene II. Kimbolton",
+      "file": "06_Scene_II__Kimbolton.md"
+    },
+    {
+      "title": "Epilogue",
+      "file": "07_Epilogue.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "08_Dramatis_Person.md"
+    },
+    {
+      "title": "KING HENRY THE EIGHTH",
+      "file": "09_KING_HENRY_THE_EIGHTH.md"
+    },
+    {
+      "title": "DUKE OF SUFFOLK",
+      "file": "10_DUKE_OF_SUFFOLK.md"
+    },
+    {
+      "title": "PAGE to Gardiner",
+      "file": "11_PAGE_to_Gardiner.md"
+    },
+    {
+      "title": "CAPUTIUS, Ambassador from the Emperor Charles V",
+      "file": "12_CAPUTIUS__Ambassador_from_the.md"
+    },
+    {
+      "title": "Three Gentlemen",
+      "file": "13_Three_Gentlemen.md"
+    },
+    {
+      "title": "SIR HENRY GUILDFORD",
+      "file": "14_SIR_HENRY_GUILDFORD.md"
+    },
+    {
+      "title": "Epilogue",
+      "file": "15_Epilogue.md"
+    },
+    {
+      "title": "upon the Queen; Scribes, Officers, Guards, and other Attendants",
+      "file": "16_upon_the_Queen__Scribes__Offic.md"
+    },
+    {
+      "title": "SCENE: London; Westminster; Kimbolton",
+      "file": "17_SCENE__London__Westminster__Ki.md"
+    },
+    {
+      "title": "The subject will deserve it. Such as give",
+      "file": "18_The_subject_will_deserve_it__S.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "19_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. London. An ante-chamber in the palace.",
+      "file": "20_SCENE_I__London__An_ante_chamb.md"
+    },
+    {
+      "title": "SCENE II. The same. The council-chamber.",
+      "file": "21_SCENE_II__The_same__The_counci.md"
+    },
+    {
+      "title": "SCENE III. An ante-chamber in the palace.",
+      "file": "22_SCENE_III__An_ante_chamber_in.md"
+    },
+    {
+      "title": "SCENE IV. A Hall in York Place.",
+      "file": "23_SCENE_IV__A_Hall_in_York_Place.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "24_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. Westminster. A street.",
+      "file": "25_SCENE_I__Westminster__A_street.md"
+    },
+    {
+      "title": "SCENE II. An ante-chamber in the palace.",
+      "file": "26_SCENE_II__An_ante_chamber_in_t.md"
+    },
+    {
+      "title": "SCENE III. An ante-chamber of the Queen\u2019s apartments.",
+      "file": "27_SCENE_III__An_ante_chamber_of.md"
+    },
+    {
+      "title": "SCENE IV. A hall in Blackfriars.",
+      "file": "28_SCENE_IV__A_hall_in_Blackfriar.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "29_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. London. The Queen\u2019s apartments.",
+      "file": "30_SCENE_I__London__The_Queen_s_a.md"
+    },
+    {
+      "title": "SCENE II. Ante-chamber to the King\u2019s apartment.",
+      "file": "31_SCENE_II__Ante_chamber_to_the.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "32_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. A street in Westminster.",
+      "file": "33_SCENE_I__A_street_in_Westminst.md"
+    },
+    {
+      "title": "SCENE II. Kimbolton.",
+      "file": "34_SCENE_II__Kimbolton.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "35_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. A gallery in the palace.",
+      "file": "36_SCENE_I__A_gallery_in_the_pala.md"
+    },
+    {
+      "title": "SCENE II. Lobby before the council-chamber.",
+      "file": "37_SCENE_II__Lobby_before_the_cou.md"
+    },
+    {
+      "title": "SCENE III. The palace yard.",
+      "file": "38_SCENE_III__The_palace_yard.md"
+    },
+    {
+      "title": "SCENE IV. The palace.",
+      "file": "39_SCENE_IV__The_palace.md"
+    },
+    {
+      "title": "Epilogue",
+      "file": "40_Epilogue.md"
+    },
+    {
+      "title": "EPILOGUE.",
+      "file": "41_EPILOGUE.md"
+    }
+  ]
+}

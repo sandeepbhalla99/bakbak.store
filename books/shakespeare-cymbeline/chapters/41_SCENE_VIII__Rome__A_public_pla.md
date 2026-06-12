@@ -1,0 +1,36 @@
+# SCENE VIII. Rome. A public place.
+
+Enter two Roman Senators and Tribunes.
+
+FIRST SENATOR.
+This is the tenour of the Emperor’s writ:
+That since the common men are now in action
+’Gainst the Pannonians and Dalmatians,
+And that the legions now in Gallia are
+Full weak to undertake our wars against
+The fall’n-off Britons, that we do incite
+The gentry to this business. He creates
+Lucius proconsul; and to you, the tribunes,
+For this immediate levy, he commands
+His absolute commission. Long live Cæsar!
+
+TRIBUNE.
+Is Lucius general of the forces?
+
+SECOND SENATOR.
+Ay.
+
+TRIBUNE.
+Remaining now in Gallia?
+
+FIRST SENATOR.
+With those legions
+Which I have spoke of, whereunto your levy
+Must be supplyant. The words of your commission
+Will tie you to the numbers and the time
+Of their dispatch.
+
+TRIBUNE.
+We will discharge our duty.
+
+ [_Exeunt._]

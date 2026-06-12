@@ -1,0 +1,178 @@
+{
+  "id": "shakespeare-the-two-gentlemen-of-verona",
+  "title": "THE TWO GENTLEMEN OF VERONA",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene III. The same. A room in Antonio\u2019s house",
+      "file": "02_Scene_III__The_same__A_room_in.md"
+    },
+    {
+      "title": "Scene VII. Verona. A room in Julia\u2019s house",
+      "file": "03_Scene_VII__Verona__A_room_in_J.md"
+    },
+    {
+      "title": "Scene II. The same. A room in the Duke\u2019s palace",
+      "file": "04_Scene_II__The_same__A_room_in.md"
+    },
+    {
+      "title": "Scene IV. The same",
+      "file": "05_Scene_IV__The_same.md"
+    },
+    {
+      "title": "Scene IV. Another part of the forest",
+      "file": "06_Scene_IV__Another_part_of_the.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "07_Dramatis_Person.md"
+    },
+    {
+      "title": "OUTLAWS, with Valentine",
+      "file": "08_OUTLAWS__with_Valentine.md"
+    },
+    {
+      "title": "LUCETTA, waiting-woman to Julia",
+      "file": "09_LUCETTA__waiting_woman_to_Juli.md"
+    },
+    {
+      "title": "Servants, Musicians",
+      "file": "10_Servants__Musicians.md"
+    },
+    {
+      "title": "SCENE: Verona; Milan; the frontiers of Mantua",
+      "file": "11_SCENE__Verona__Milan__the_fron.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "12_ACT_I.md"
+    },
+    {
+      "title": "Scene I. Verona. An open place",
+      "file": "13_Scene_I__Verona__An_open_place.md"
+    },
+    {
+      "title": "Than, living dully sluggardized at home,",
+      "file": "14_Than__living_dully_sluggardize.md"
+    },
+    {
+      "title": "But since thou lov\u2019st, love still, and thrive therein,",
+      "file": "15_But_since_thou_lov_st__love_st.md"
+    },
+    {
+      "title": "Think on thy Proteus when thou haply seest",
+      "file": "16_Think_on_thy_Proteus_when_thou.md"
+    },
+    {
+      "title": "Commend thy grievance to my holy prayers,",
+      "file": "17_Commend_thy_grievance_to_my_ho.md"
+    },
+    {
+      "title": "And on a love-book pray for my success?",
+      "file": "18_And_on_a_love_book_pray_for_my.md"
+    },
+    {
+      "title": "That\u2019s on some shallow story of deep love,",
+      "file": "19_That_s_on_some_shallow_story_o.md"
+    },
+    {
+      "title": "Scene II. The same. The garden of Julia\u2019s house",
+      "file": "20_Scene_II__The_same__The_garden.md"
+    },
+    {
+      "title": "Scene III. The same. A room in Antonio\u2019s house",
+      "file": "21_Scene_III__The_same__A_room_in.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "22_ACT_II.md"
+    },
+    {
+      "title": "Scene I. Milan. A room in the Duke\u2019s palace",
+      "file": "23_Scene_I__Milan__A_room_in_the.md"
+    },
+    {
+      "title": "Scene II. Verona. A room in Julia\u2019s house",
+      "file": "24_Scene_II__Verona__A_room_in_Ju.md"
+    },
+    {
+      "title": "Scene III. The same. A street",
+      "file": "25_Scene_III__The_same__A_street.md"
+    },
+    {
+      "title": "Scene IV. Milan. A room in the Duke\u2019s palace",
+      "file": "26_Scene_IV__Milan__A_room_in_the.md"
+    },
+    {
+      "title": "Scene V. The same. A street",
+      "file": "27_Scene_V__The_same__A_street.md"
+    },
+    {
+      "title": "Scene VI. The same. The Duke\u2019s palace",
+      "file": "28_Scene_VI__The_same__The_Duke_s.md"
+    },
+    {
+      "title": "Scene VII. Verona. A room in Julia\u2019s house",
+      "file": "29_Scene_VII__Verona__A_room_in_J.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "30_ACT_III.md"
+    },
+    {
+      "title": "Scene I. Milan. An anteroom in the Duke\u2019s palace",
+      "file": "31_Scene_I__Milan__An_anteroom_in.md"
+    },
+    {
+      "title": "Scene II. The same. A room in the Duke\u2019s palace",
+      "file": "32_Scene_II__The_same__A_room_in.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "33_ACT_IV.md"
+    },
+    {
+      "title": "Scene I. A forest between Milan and Verona",
+      "file": "34_Scene_I__A_forest_between_Mila.md"
+    },
+    {
+      "title": "Scene II. Milan. The court of the Duke\u2019s palace",
+      "file": "35_Scene_II__Milan__The_court_of.md"
+    },
+    {
+      "title": "Scene III. The same",
+      "file": "36_Scene_III__The_same.md"
+    },
+    {
+      "title": "Scene IV. The same",
+      "file": "37_Scene_IV__The_same.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "38_ACT_V.md"
+    },
+    {
+      "title": "Scene I. Milan. An abbey",
+      "file": "39_Scene_I__Milan__An_abbey.md"
+    },
+    {
+      "title": "Scene II. The same. A room in the Duke\u2019s palace",
+      "file": "40_Scene_II__The_same__A_room_in.md"
+    },
+    {
+      "title": "Scene III. Frontiers of Mantua. The forest",
+      "file": "41_Scene_III__Frontiers_of_Mantua.md"
+    },
+    {
+      "title": "Scene IV. Another part of the forest",
+      "file": "42_Scene_IV__Another_part_of_the.md"
+    }
+  ]
+}

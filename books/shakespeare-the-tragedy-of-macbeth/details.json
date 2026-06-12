@@ -1,0 +1,186 @@
+{
+  "id": "shakespeare-the-tragedy-of-macbeth",
+  "title": "THE TRAGEDY OF MACBETH",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene VII. The same. A Lobby in the Castle.",
+      "file": "02_Scene_VII__The_same__A_Lobby_i.md"
+    },
+    {
+      "title": "Scene IV. The same. Without the Castle.",
+      "file": "03_Scene_IV__The_same__Without_th.md"
+    },
+    {
+      "title": "Scene VI. Forres. A Room in the Palace.",
+      "file": "04_Scene_VI__Forres__A_Room_in_th.md"
+    },
+    {
+      "title": "Scene III. England. Before the King\u2019s Palace.",
+      "file": "05_Scene_III__England__Before_the.md"
+    },
+    {
+      "title": "Scene VIII. The same. Another part of the field.",
+      "file": "06_Scene_VIII__The_same__Another.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "07_Dramatis_Person.md"
+    },
+    {
+      "title": "Lords, Gentlemen, Officers, Soldiers, Murderers, Attendants and",
+      "file": "08_Lords__Gentlemen__Officers__So.md"
+    },
+    {
+      "title": "SCENE: In the end of the Fourth Act, in England; through the rest of",
+      "file": "09_SCENE__In_the_end_of_the_Fourt.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "10_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. An open Place.",
+      "file": "11_SCENE_I__An_open_Place.md"
+    },
+    {
+      "title": "In thunder, lightning, or in rain?",
+      "file": "12_In_thunder__lightning__or_in_r.md"
+    },
+    {
+      "title": "When the hurlyburly\u2019s done,",
+      "file": "13_When_the_hurlyburly_s_done.md"
+    },
+    {
+      "title": "SCENE II. A Camp near Forres.",
+      "file": "14_SCENE_II__A_Camp_near_Forres.md"
+    },
+    {
+      "title": "SCENE III. A heath.",
+      "file": "15_SCENE_III__A_heath.md"
+    },
+    {
+      "title": "SCENE IV. Forres. A Room in the Palace.",
+      "file": "16_SCENE_IV__Forres__A_Room_in_th.md"
+    },
+    {
+      "title": "SCENE V. Inverness. A Room in Macbeth\u2019s Castle.",
+      "file": "17_SCENE_V__Inverness__A_Room_in.md"
+    },
+    {
+      "title": "SCENE VI. The same. Before the Castle.",
+      "file": "18_SCENE_VI__The_same__Before_the.md"
+    },
+    {
+      "title": "SCENE VII. The same. A Lobby in the Castle.",
+      "file": "19_SCENE_VII__The_same__A_Lobby_i.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "20_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. Inverness. Court within the Castle.",
+      "file": "21_SCENE_I__Inverness__Court_with.md"
+    },
+    {
+      "title": "SCENE II. The same.",
+      "file": "22_SCENE_II__The_same.md"
+    },
+    {
+      "title": "SCENE III. The same.",
+      "file": "23_SCENE_III__The_same.md"
+    },
+    {
+      "title": "SCENE IV. The same. Without the Castle.",
+      "file": "24_SCENE_IV__The_same__Without_th.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "25_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. Forres. A Room in the Palace.",
+      "file": "26_SCENE_I__Forres__A_Room_in_the.md"
+    },
+    {
+      "title": "SCENE II. The same. Another Room in the Palace.",
+      "file": "27_SCENE_II__The_same__Another_Ro.md"
+    },
+    {
+      "title": "SCENE III. The same. A Park or Lawn, with a gate leading to the Palace.",
+      "file": "28_SCENE_III__The_same__A_Park_or.md"
+    },
+    {
+      "title": "SCENE IV. The same. A Room of state in the Palace.",
+      "file": "29_SCENE_IV__The_same__A_Room_of.md"
+    },
+    {
+      "title": "SCENE V. The heath.",
+      "file": "30_SCENE_V__The_heath.md"
+    },
+    {
+      "title": "SCENE VI. Forres. A Room in the Palace.",
+      "file": "31_SCENE_VI__Forres__A_Room_in_th.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "32_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. A dark Cave. In the middle, a Cauldron Boiling.",
+      "file": "33_SCENE_I__A_dark_Cave__In_the_m.md"
+    },
+    {
+      "title": "SCENE II. Fife. A Room in Macduff\u2019s Castle.",
+      "file": "34_SCENE_II__Fife__A_Room_in_Macd.md"
+    },
+    {
+      "title": "SCENE III. England. Before the King\u2019s Palace.",
+      "file": "35_SCENE_III__England__Before_the.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "36_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. Dunsinane. A Room in the Castle.",
+      "file": "37_SCENE_I__Dunsinane__A_Room_in.md"
+    },
+    {
+      "title": "SCENE II. The Country near Dunsinane.",
+      "file": "38_SCENE_II__The_Country_near_Dun.md"
+    },
+    {
+      "title": "SCENE III. Dunsinane. A Room in the Castle.",
+      "file": "39_SCENE_III__Dunsinane__A_Room_i.md"
+    },
+    {
+      "title": "SCENE IV. Country near Dunsinane: a Wood in view.",
+      "file": "40_SCENE_IV__Country_near_Dunsina.md"
+    },
+    {
+      "title": "SCENE V. Dunsinane. Within the castle.",
+      "file": "41_SCENE_V__Dunsinane__Within_the.md"
+    },
+    {
+      "title": "SCENE VI. The same. A Plain before the Castle.",
+      "file": "42_SCENE_VI__The_same__A_Plain_be.md"
+    },
+    {
+      "title": "SCENE VII. The same. Another part of the Plain.",
+      "file": "43_SCENE_VII__The_same__Another_p.md"
+    },
+    {
+      "title": "SCENE VIII. The same. Another part of the field.",
+      "file": "44_SCENE_VIII__The_same__Another.md"
+    }
+  ]
+}

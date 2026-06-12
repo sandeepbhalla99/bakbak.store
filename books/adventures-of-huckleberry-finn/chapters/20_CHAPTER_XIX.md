@@ -1,0 +1,4 @@
+# CHAPTER XIX.
+
+Tying Up Day—times.—An Astronomical Theory.—Running a Temperance
+Revival.—The Duke of Bridgewater.—The Troubles of Royalty.

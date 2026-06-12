@@ -1,0 +1,3 @@
+# There is no such thing as a moral or an immoral book. Books are well
+
+written, or badly written. That is all.

@@ -1,0 +1,378 @@
+{
+  "id": "shakespeare-the-tragedy-of-antony-and-cleopatra",
+  "title": "THE TRAGEDY OF ANTONY AND CLEOPATRA",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "02_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "03_Scene_II.md"
+    },
+    {
+      "title": "Scene III.",
+      "file": "04_Scene_III.md"
+    },
+    {
+      "title": "Scene V.",
+      "file": "05_Scene_V.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "06_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "07_Scene_II.md"
+    },
+    {
+      "title": "Scene III.",
+      "file": "08_Scene_III.md"
+    },
+    {
+      "title": "Scene IV.",
+      "file": "09_Scene_IV.md"
+    },
+    {
+      "title": "Scene V.",
+      "file": "10_Scene_V.md"
+    },
+    {
+      "title": "Scene VI.",
+      "file": "11_Scene_VI.md"
+    },
+    {
+      "title": "Scene VII.",
+      "file": "12_Scene_VII.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "13_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "14_Scene_II.md"
+    },
+    {
+      "title": "Scene III.",
+      "file": "15_Scene_III.md"
+    },
+    {
+      "title": "Scene IV.",
+      "file": "16_Scene_IV.md"
+    },
+    {
+      "title": "Scene V.",
+      "file": "17_Scene_V.md"
+    },
+    {
+      "title": "Scene VI.",
+      "file": "18_Scene_VI.md"
+    },
+    {
+      "title": "Scene VII.",
+      "file": "19_Scene_VII.md"
+    },
+    {
+      "title": "Scene VIII.",
+      "file": "20_Scene_VIII.md"
+    },
+    {
+      "title": "Scene IX.",
+      "file": "21_Scene_IX.md"
+    },
+    {
+      "title": "Scene X.",
+      "file": "22_Scene_X.md"
+    },
+    {
+      "title": "Scene XI.",
+      "file": "23_Scene_XI.md"
+    },
+    {
+      "title": "Scene XII.",
+      "file": "24_Scene_XII.md"
+    },
+    {
+      "title": "Scene XIII.",
+      "file": "25_Scene_XIII.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "26_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "27_Scene_II.md"
+    },
+    {
+      "title": "Scene III.",
+      "file": "28_Scene_III.md"
+    },
+    {
+      "title": "Scene IV.",
+      "file": "29_Scene_IV.md"
+    },
+    {
+      "title": "Scene V.",
+      "file": "30_Scene_V.md"
+    },
+    {
+      "title": "Scene VI.",
+      "file": "31_Scene_VI.md"
+    },
+    {
+      "title": "Scene VII.",
+      "file": "32_Scene_VII.md"
+    },
+    {
+      "title": "Scene VIII.",
+      "file": "33_Scene_VIII.md"
+    },
+    {
+      "title": "Scene IX.",
+      "file": "34_Scene_IX.md"
+    },
+    {
+      "title": "Scene X.",
+      "file": "35_Scene_X.md"
+    },
+    {
+      "title": "Scene XI.",
+      "file": "36_Scene_XI.md"
+    },
+    {
+      "title": "Scene XII.",
+      "file": "37_Scene_XII.md"
+    },
+    {
+      "title": "Scene XIII.",
+      "file": "38_Scene_XIII.md"
+    },
+    {
+      "title": "Scene XIV.",
+      "file": "39_Scene_XIV.md"
+    },
+    {
+      "title": "Scene XV.",
+      "file": "40_Scene_XV.md"
+    },
+    {
+      "title": "Scene I.",
+      "file": "41_Scene_I.md"
+    },
+    {
+      "title": "Scene II.",
+      "file": "42_Scene_II.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "43_Dramatis_Person.md"
+    },
+    {
+      "title": "MARK ANTONY, Triumvir",
+      "file": "44_MARK_ANTONY__Triumvir.md"
+    },
+    {
+      "title": "SCENE: Dispersed, in several parts of the Roman Empire.",
+      "file": "45_SCENE__Dispersed__in_several_p.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "46_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. Alexandria. A Room in Cleopatra\u2019s palace.",
+      "file": "47_SCENE_I__Alexandria__A_Room_in.md"
+    },
+    {
+      "title": "SCENE II. Alexandria. Another Room in Cleopatra\u2019s palace.",
+      "file": "48_SCENE_II__Alexandria__Another.md"
+    },
+    {
+      "title": "SCENE III. Alexandria. A Room in Cleopatra\u2019s palace.",
+      "file": "49_SCENE_III__Alexandria__A_Room.md"
+    },
+    {
+      "title": "SCENE IV. Rome. An Apartment in Caesar\u2019s House.",
+      "file": "50_SCENE_IV__Rome__An_Apartment_i.md"
+    },
+    {
+      "title": "SCENE V. Alexandria. A Room in the Palace.",
+      "file": "51_SCENE_V__Alexandria__A_Room_in.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "52_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. Messina. A Room in Pompey\u2019s house.",
+      "file": "53_SCENE_I__Messina__A_Room_in_Po.md"
+    },
+    {
+      "title": "SCENE II. Rome. A Room in the House of Lepidus.",
+      "file": "54_SCENE_II__Rome__A_Room_in_the.md"
+    },
+    {
+      "title": "SCENE III. Rome. A Room in Caesar\u2019s House.",
+      "file": "55_SCENE_III__Rome__A_Room_in_Cae.md"
+    },
+    {
+      "title": "SCENE IV. Rome. A street.",
+      "file": "56_SCENE_IV__Rome__A_street.md"
+    },
+    {
+      "title": "SCENE V. Alexandria. A Room in the Palace.",
+      "file": "57_SCENE_V__Alexandria__A_Room_in.md"
+    },
+    {
+      "title": "SCENE VI. Near Misenum.",
+      "file": "58_SCENE_VI__Near_Misenum.md"
+    },
+    {
+      "title": "SCENE VII. On board Pompey\u2019s Galley, lying near Misenum.",
+      "file": "59_SCENE_VII__On_board_Pompey_s_G.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "60_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. A plain in Syria.",
+      "file": "61_SCENE_I__A_plain_in_Syria.md"
+    },
+    {
+      "title": "SCENE II. Rome. An Ante-chamber in Caesar\u2019s house.",
+      "file": "62_SCENE_II__Rome__An_Ante_chambe.md"
+    },
+    {
+      "title": "SCENE III. Alexandria. A Room in the Palace.",
+      "file": "63_SCENE_III__Alexandria__A_Room.md"
+    },
+    {
+      "title": "SCENE IV. Athens. A Room in Antony\u2019s House.",
+      "file": "64_SCENE_IV__Athens__A_Room_in_An.md"
+    },
+    {
+      "title": "SCENE V. Athens. Another Room in Antony\u2019s House.",
+      "file": "65_SCENE_V__Athens__Another_Room.md"
+    },
+    {
+      "title": "SCENE VI. Rome. A Room in Caesar\u2019s House.",
+      "file": "66_SCENE_VI__Rome__A_Room_in_Caes.md"
+    },
+    {
+      "title": "SCENE VII. Antony\u2019s Camp near the Promontory of Actium.",
+      "file": "67_SCENE_VII__Antony_s_Camp_near.md"
+    },
+    {
+      "title": "SCENE VIII. A plain near Actium.",
+      "file": "68_SCENE_VIII__A_plain_near_Actiu.md"
+    },
+    {
+      "title": "SCENE IX. Another part of the Plain.",
+      "file": "69_SCENE_IX__Another_part_of_the.md"
+    },
+    {
+      "title": "SCENE X. Another part of the Plain.",
+      "file": "70_SCENE_X__Another_part_of_the_P.md"
+    },
+    {
+      "title": "SCENE XI. Alexandria. A Room in the Palace.",
+      "file": "71_SCENE_XI__Alexandria__A_Room_i.md"
+    },
+    {
+      "title": "SCENE XII. Caesar\u2019s camp in Egypt.",
+      "file": "72_SCENE_XII__Caesar_s_camp_in_Eg.md"
+    },
+    {
+      "title": "SCENE XIII. Alexandria. A Room in the Palace.",
+      "file": "73_SCENE_XIII__Alexandria__A_Room.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "74_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. Caesar\u2019s Camp at Alexandria.",
+      "file": "75_SCENE_I__Caesar_s_Camp_at_Alex.md"
+    },
+    {
+      "title": "SCENE II. Alexandria. A Room in the Palace.",
+      "file": "76_SCENE_II__Alexandria__A_Room_i.md"
+    },
+    {
+      "title": "SCENE III. Alexandria. Before the Palace.",
+      "file": "77_SCENE_III__Alexandria__Before.md"
+    },
+    {
+      "title": "SCENE IV. Alexandria. A Room in the Palace.",
+      "file": "78_SCENE_IV__Alexandria__A_Room_i.md"
+    },
+    {
+      "title": "SCENE V. Antony\u2019s camp near Alexandria.",
+      "file": "79_SCENE_V__Antony_s_camp_near_Al.md"
+    },
+    {
+      "title": "SCENE VI. Alexandria. Caesar\u2019s camp.",
+      "file": "80_SCENE_VI__Alexandria__Caesar_s.md"
+    },
+    {
+      "title": "SCENE VII. Field of battle between the Camps.",
+      "file": "81_SCENE_VII__Field_of_battle_bet.md"
+    },
+    {
+      "title": "SCENE VIII. Under the Walls of Alexandria.",
+      "file": "82_SCENE_VIII__Under_the_Walls_of.md"
+    },
+    {
+      "title": "SCENE IX. Caesar\u2019s camp.",
+      "file": "83_SCENE_IX__Caesar_s_camp.md"
+    },
+    {
+      "title": "SCENE X. Ground between the two Camps.",
+      "file": "84_SCENE_X__Ground_between_the_tw.md"
+    },
+    {
+      "title": "SCENE XI. Another part of the Ground.",
+      "file": "85_SCENE_XI__Another_part_of_the.md"
+    },
+    {
+      "title": "SCENE XII. Another part of the Ground.",
+      "file": "86_SCENE_XII__Another_part_of_the.md"
+    },
+    {
+      "title": "SCENE XIII. Alexandria. A Room in the Palace.",
+      "file": "87_SCENE_XIII__Alexandria__A_Room.md"
+    },
+    {
+      "title": "SCENE XIV. Alexandria. Another Room.",
+      "file": "88_SCENE_XIV__Alexandria__Another.md"
+    },
+    {
+      "title": "SCENE XV. Alexandria. A monument.",
+      "file": "89_SCENE_XV__Alexandria__A_monume.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "90_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. Caesar\u2019s Camp before Alexandria.",
+      "file": "91_SCENE_I__Caesar_s_Camp_before.md"
+    },
+    {
+      "title": "SCENE II. Alexandria. A Room in the Monument.",
+      "file": "92_SCENE_II__Alexandria__A_Room_i.md"
+    }
+  ]
+}

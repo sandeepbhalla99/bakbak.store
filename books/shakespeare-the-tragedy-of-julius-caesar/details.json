@@ -1,0 +1,178 @@
+{
+  "id": "shakespeare-the-tragedy-of-julius-caesar",
+  "title": "THE TRAGEDY OF JULIUS CAESAR",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "Scene III. The same. A street",
+      "file": "02_Scene_III__The_same__A_street.md"
+    },
+    {
+      "title": "Scene IV. Another part of the same street, before the house of Brutus",
+      "file": "03_Scene_IV__Another_part_of_the.md"
+    },
+    {
+      "title": "Scene III. The same. A street",
+      "file": "04_Scene_III__The_same__A_street.md"
+    },
+    {
+      "title": "Scene III. Within the tent of Brutus",
+      "file": "05_Scene_III__Within_the_tent_of.md"
+    },
+    {
+      "title": "Scene V. Another part of the field",
+      "file": "06_Scene_V__Another_part_of_the_f.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "07_Dramatis_Person.md"
+    },
+    {
+      "title": "JULIUS CAESAR",
+      "file": "08_JULIUS_CAESAR.md"
+    },
+    {
+      "title": "M. AEMILIUS LEPIDUS,   \u201d    \u201d     \u201d",
+      "file": "09_M__AEMILIUS_LEPIDUS.md"
+    },
+    {
+      "title": "MARULLUS, tribune",
+      "file": "10_MARULLUS__tribune.md"
+    },
+    {
+      "title": "A Soothsayer",
+      "file": "11_A_Soothsayer.md"
+    },
+    {
+      "title": "LUCILIUS, TITINIUS, MESSALA, young CATO, and VOLUMNIUS, Friends to",
+      "file": "12_LUCILIUS__TITINIUS__MESSALA__y.md"
+    },
+    {
+      "title": "PINDARUS, Servant to Cassius",
+      "file": "13_PINDARUS__Servant_to_Cassius.md"
+    },
+    {
+      "title": "PORTIA, wife to Brutus",
+      "file": "14_PORTIA__wife_to_Brutus.md"
+    },
+    {
+      "title": "The Ghost of Caesar",
+      "file": "15_The_Ghost_of_Caesar.md"
+    },
+    {
+      "title": "SCENE: Rome, the conspirators\u2019 camp near Sardis, and the plains of",
+      "file": "16_SCENE__Rome__the_conspirators.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "17_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. Rome. A street.",
+      "file": "18_SCENE_I__Rome__A_street.md"
+    },
+    {
+      "title": "Of your profession? Speak, what trade art thou?",
+      "file": "19_Of_your_profession__Speak__wha.md"
+    },
+    {
+      "title": "You, sir, what trade are you?",
+      "file": "20_You__sir__what_trade_are_you.md"
+    },
+    {
+      "title": "Truly, sir, in respect of a fine workman, I am but, as you would say, a",
+      "file": "21_Truly__sir__in_respect_of_a_fi.md"
+    },
+    {
+      "title": "SCENE II. The same. A public place.",
+      "file": "22_SCENE_II__The_same__A_public_p.md"
+    },
+    {
+      "title": "SCENE III. The same. A street.",
+      "file": "23_SCENE_III__The_same__A_street.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "24_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. Rome. Brutus\u2019 orchard.",
+      "file": "25_SCENE_I__Rome__Brutus__orchard.md"
+    },
+    {
+      "title": "SCENE II. A room in Caesar\u2019s palace.",
+      "file": "26_SCENE_II__A_room_in_Caesar_s_p.md"
+    },
+    {
+      "title": "SCENE III. A street near the Capitol.",
+      "file": "27_SCENE_III__A_street_near_the_C.md"
+    },
+    {
+      "title": "SCENE IV. Another part of the same street, before the house of Brutus.",
+      "file": "28_SCENE_IV__Another_part_of_the.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "29_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. Rome. Before the Capitol; the Senate sitting.",
+      "file": "30_SCENE_I__Rome__Before_the_Capi.md"
+    },
+    {
+      "title": "SCENE II. The same. The Forum.",
+      "file": "31_SCENE_II__The_same__The_Forum.md"
+    },
+    {
+      "title": "SCENE III. The same. A street.",
+      "file": "32_SCENE_III__The_same__A_street.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "33_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. Rome. A room in Antony\u2019s house.",
+      "file": "34_SCENE_I__Rome__A_room_in_Anton.md"
+    },
+    {
+      "title": "SCENE II. Before Brutus\u2019 tent, in the camp near Sardis.",
+      "file": "35_SCENE_II__Before_Brutus__tent.md"
+    },
+    {
+      "title": "SCENE III. Within the tent of Brutus.",
+      "file": "36_SCENE_III__Within_the_tent_of.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "37_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. The plains of Philippi.",
+      "file": "38_SCENE_I__The_plains_of_Philipp.md"
+    },
+    {
+      "title": "SCENE II. The same. The field of battle.",
+      "file": "39_SCENE_II__The_same__The_field.md"
+    },
+    {
+      "title": "SCENE III. Another part of the field.",
+      "file": "40_SCENE_III__Another_part_of_the.md"
+    },
+    {
+      "title": "SCENE IV. Another part of the field.",
+      "file": "41_SCENE_IV__Another_part_of_the.md"
+    },
+    {
+      "title": "SCENE V. Another part of the field.",
+      "file": "42_SCENE_V__Another_part_of_the_f.md"
+    }
+  ]
+}

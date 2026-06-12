@@ -1,4 +1,4 @@
-import { BOOKS } from './books.js';
+import { BOOKS, loadCatalog, getBookDetails } from './books.js';
 import { 
   getCurrentUser, 
   registerUser, 
@@ -42,7 +42,8 @@ let activeView = 'home';
 let selectedReviewRating = 5;
 
 // INITIALIZE APP
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
+  await loadCatalog(); // fetch the catalog and populate BOOKS
   setupNavigation();
   setupAuth();
   setupCatalog();
@@ -371,8 +372,11 @@ function renderFeaturedBooks() {
   });
 }
 
-function openBookDetailPreview(bookId) {
-  const book = BOOKS.find(b => b.id === bookId);
+async function openBookDetailPreview(bookId) {
+  const bookSummary = BOOKS.find(b => b.id === bookId);
+  if (!bookSummary) return;
+
+  const book = await getBookDetails(bookId);
   if (!book) return;
 
   const user = getCurrentUser();
@@ -396,7 +400,7 @@ function openBookDetailPreview(bookId) {
     shelfStatusSelect = `<p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 16px;"><span id="modal-login-prompt" style="color: var(--primary); cursor: pointer; font-weight: 600; text-decoration: underline;">Sign In</span> to save books to your bookshelf.</p>`;
   }
 
-  const ratingHTML = Array(Math.round(book.rating)).fill('★').join('') + Array(5 - Math.round(book.rating)).fill('☆').join('');
+  const ratingHTML = Array(Math.round(book.rating || 4.5)).fill('★').join('') + Array(5 - Math.round(book.rating || 4.5)).fill('☆').join('');
 
   const modalLayout = document.getElementById('book-preview-layout');
   modalLayout.innerHTML = `
@@ -410,8 +414,8 @@ function openBookDetailPreview(bookId) {
       
       <div style="display: flex; gap: 10px; align-items: center; margin-bottom: 16px;">
         <span class="book-details-genre">${book.genre}</span>
-        <span style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">${ratingHTML} ${book.rating}</span>
-        <span style="font-size: 0.85rem; color: var(--text-muted);">${book.pages} pages</span>
+        <span style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">${ratingHTML} ${book.rating || 4.5}</span>
+        <span style="font-size: 0.85rem; color: var(--text-muted);">${book.chapters.length} chapters</span>
       </div>
 
       <p class="book-details-description">${book.description}</p>

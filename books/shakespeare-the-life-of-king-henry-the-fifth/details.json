@@ -1,0 +1,194 @@
+{
+  "id": "shakespeare-the-life-of-king-henry-the-fifth",
+  "title": "THE LIFE OF KING HENRY THE FIFTH",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+  "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "file": "01_Introduction.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "02_ACT_I.md"
+    },
+    {
+      "title": "Scene II. The same. The presence chamber.",
+      "file": "03_Scene_II__The_same__The_presen.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "04_ACT_II.md"
+    },
+    {
+      "title": "Scene IV. France. The King\u2019s palace.",
+      "file": "05_Scene_IV__France__The_King_s_p.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "06_ACT_III.md"
+    },
+    {
+      "title": "Scene VII. The French camp, near Agincourt.",
+      "file": "07_Scene_VII__The_French_camp__ne.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "08_ACT_IV.md"
+    },
+    {
+      "title": "Scene VIII. Before King Henry\u2019s pavilion.",
+      "file": "09_Scene_VIII__Before_King_Henry.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "10_ACT_V.md"
+    },
+    {
+      "title": "Scene II. France. A royal palace.",
+      "file": "11_Scene_II__France__A_royal_pala.md"
+    },
+    {
+      "title": "Dramatis Person\u00e6",
+      "file": "12_Dramatis_Person.md"
+    },
+    {
+      "title": "Governor of Harfleur",
+      "file": "13_Governor_of_Harfleur.md"
+    },
+    {
+      "title": "HOSTESS of a tavern in Eastcheap, formerly Mistress Nell Quickly, and",
+      "file": "14_HOSTESS_of_a_tavern_in_Eastche.md"
+    },
+    {
+      "title": "Lords, Ladies, Officers, Soldiers, Citizens, Messengers, and",
+      "file": "15_Lords__Ladies__Officers__Soldi.md"
+    },
+    {
+      "title": "SCENE: England; afterwards France.",
+      "file": "16_SCENE__England__afterwards_Fra.md"
+    },
+    {
+      "title": "PROLOGUE.",
+      "file": "17_PROLOGUE.md"
+    },
+    {
+      "title": "ACT I",
+      "file": "18_ACT_I.md"
+    },
+    {
+      "title": "SCENE I. London. An ante-chamber in the King\u2019s palace.",
+      "file": "19_SCENE_I__London__An_ante_chamb.md"
+    },
+    {
+      "title": "SCENE II. The same. The presence chamber.",
+      "file": "20_SCENE_II__The_same__The_presen.md"
+    },
+    {
+      "title": "ACT II",
+      "file": "21_ACT_II.md"
+    },
+    {
+      "title": "SCENE I. London. A street.",
+      "file": "22_SCENE_I__London__A_street.md"
+    },
+    {
+      "title": "SCENE II. Southampton. A council-chamber.",
+      "file": "23_SCENE_II__Southampton__A_counc.md"
+    },
+    {
+      "title": "SCENE III. London. Before a tavern.",
+      "file": "24_SCENE_III__London__Before_a_ta.md"
+    },
+    {
+      "title": "SCENE IV. France. The King\u2019s palace.",
+      "file": "25_SCENE_IV__France__The_King_s_p.md"
+    },
+    {
+      "title": "ACT III",
+      "file": "26_ACT_III.md"
+    },
+    {
+      "title": "SCENE I. France. Before Harfleur.",
+      "file": "27_SCENE_I__France__Before_Harfle.md"
+    },
+    {
+      "title": "SCENE II. The same.",
+      "file": "28_SCENE_II__The_same.md"
+    },
+    {
+      "title": "SCENE III. Before the gates.",
+      "file": "29_SCENE_III__Before_the_gates.md"
+    },
+    {
+      "title": "SCENE IV. The French King\u2019s palace.",
+      "file": "30_SCENE_IV__The_French_King_s_pa.md"
+    },
+    {
+      "title": "SCENE V. The same.",
+      "file": "31_SCENE_V__The_same.md"
+    },
+    {
+      "title": "SCENE VI. The English camp in Picardy.",
+      "file": "32_SCENE_VI__The_English_camp_in.md"
+    },
+    {
+      "title": "SCENE VII. The French camp, near Agincourt.",
+      "file": "33_SCENE_VII__The_French_camp__ne.md"
+    },
+    {
+      "title": "ACT IV",
+      "file": "34_ACT_IV.md"
+    },
+    {
+      "title": "SCENE I. The English camp at Agincourt.",
+      "file": "35_SCENE_I__The_English_camp_at_A.md"
+    },
+    {
+      "title": "SCENE II. The French camp.",
+      "file": "36_SCENE_II__The_French_camp.md"
+    },
+    {
+      "title": "SCENE III. The English camp.",
+      "file": "37_SCENE_III__The_English_camp.md"
+    },
+    {
+      "title": "SCENE IV. The field of battle.",
+      "file": "38_SCENE_IV__The_field_of_battle.md"
+    },
+    {
+      "title": "SCENE V. Another part of the field.",
+      "file": "39_SCENE_V__Another_part_of_the_f.md"
+    },
+    {
+      "title": "SCENE VI. Another part of the field.",
+      "file": "40_SCENE_VI__Another_part_of_the.md"
+    },
+    {
+      "title": "SCENE VII. Another part of the field.",
+      "file": "41_SCENE_VII__Another_part_of_the.md"
+    },
+    {
+      "title": "SCENE VIII. Before King Henry\u2019s pavilion.",
+      "file": "42_SCENE_VIII__Before_King_Henry.md"
+    },
+    {
+      "title": "ACT V",
+      "file": "43_ACT_V.md"
+    },
+    {
+      "title": "SCENE I. France. The English camp.",
+      "file": "44_SCENE_I__France__The_English_c.md"
+    },
+    {
+      "title": "SCENE II. France. A royal palace.",
+      "file": "45_SCENE_II__France__A_royal_pala.md"
+    },
+    {
+      "title": "EPILOGUE.",
+      "file": "46_EPILOGUE.md"
+    }
+  ]
+}

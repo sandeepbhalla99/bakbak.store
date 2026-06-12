@@ -1,0 +1,3 @@
+# CHAPTER XXXII.
+
+Still and Sunday—like.—Mistaken Identity.—Up a Stump.—In a Dilemma.
