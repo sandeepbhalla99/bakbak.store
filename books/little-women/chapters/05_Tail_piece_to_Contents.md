@@ -1,7 +1,15 @@
 # Tail-piece to Contents
 
-It was rather a pretty little picture
+Hurrah for Miss March
 
-Waved a brake before her face
+Jo darted away
 
-I see him bow and smile
+Jo laid herself on the sofa and affected to read
+
+November is the most disagreeable month in the year
+
+One of them horrid telegraph things
+
+She came suddenly upon Mr. Brooke
+
+The man clipped

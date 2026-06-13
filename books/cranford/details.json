@@ -7,80 +7,76 @@
   "description": "A classic masterpiece by Elizabeth Gaskell. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "Chapter 1904",
-      "file": "02_Chapter_1904.md"
+      "file": "01_Chapter_1904.md"
     },
     {
       "title": "CHAPTER I: OUR SOCIETY",
-      "file": "03_CHAPTER_I__OUR_SOCIETY.md"
+      "file": "02_CHAPTER_I__OUR_SOCIETY.md"
     },
     {
       "title": "CHAPTER II: THE CAPTAIN",
-      "file": "04_CHAPTER_II__THE_CAPTAIN.md"
+      "file": "03_CHAPTER_II__THE_CAPTAIN.md"
     },
     {
       "title": "CHAPTER III: A LOVE AFFAIR OF LONG AGO",
-      "file": "05_CHAPTER_III__A_LOVE_AFFAIR_OF.md"
+      "file": "04_CHAPTER_III__A_LOVE_AFFAIR_OF.md"
     },
     {
       "title": "CHAPTER IV: A VISIT TO AN OLD BACHELOR",
-      "file": "06_CHAPTER_IV__A_VISIT_TO_AN_OLD.md"
+      "file": "05_CHAPTER_IV__A_VISIT_TO_AN_OLD.md"
     },
     {
       "title": "CHAPTER V: OLD LETTERS",
-      "file": "07_CHAPTER_V__OLD_LETTERS.md"
+      "file": "06_CHAPTER_V__OLD_LETTERS.md"
     },
     {
       "title": "CHAPTER VI: POOR PETER",
-      "file": "08_CHAPTER_VI__POOR_PETER.md"
+      "file": "07_CHAPTER_VI__POOR_PETER.md"
     },
     {
       "title": "CHAPTER VII: VISITING",
-      "file": "09_CHAPTER_VII__VISITING.md"
+      "file": "08_CHAPTER_VII__VISITING.md"
     },
     {
       "title": "CHAPTER VIII: \u201cYOUR LADYSHIP\u201d",
-      "file": "10_CHAPTER_VIII___YOUR_LADYSHIP.md"
+      "file": "09_CHAPTER_VIII___YOUR_LADYSHIP.md"
     },
     {
       "title": "CHAPTER IX: SIGNOR BRUNONI",
-      "file": "11_CHAPTER_IX__SIGNOR_BRUNONI.md"
+      "file": "10_CHAPTER_IX__SIGNOR_BRUNONI.md"
     },
     {
       "title": "CHAPTER IX. SIGNOR BRUNONI",
-      "file": "12_CHAPTER_IX__SIGNOR_BRUNONI.md"
+      "file": "11_CHAPTER_IX__SIGNOR_BRUNONI.md"
     },
     {
       "title": "CHAPTER X: THE PANIC",
-      "file": "13_CHAPTER_X__THE_PANIC.md"
+      "file": "12_CHAPTER_X__THE_PANIC.md"
     },
     {
       "title": "CHAPTER XI: SAMUEL BROWN",
-      "file": "14_CHAPTER_XI__SAMUEL_BROWN.md"
+      "file": "13_CHAPTER_XI__SAMUEL_BROWN.md"
     },
     {
       "title": "CHAPTER XII: ENGAGED TO BE MARRIED",
-      "file": "15_CHAPTER_XII__ENGAGED_TO_BE_MAR.md"
+      "file": "14_CHAPTER_XII__ENGAGED_TO_BE_MAR.md"
     },
     {
       "title": "CHAPTER XIII: STOPPED PAYMENT",
-      "file": "16_CHAPTER_XIII__STOPPED_PAYMENT.md"
+      "file": "15_CHAPTER_XIII__STOPPED_PAYMENT.md"
     },
     {
       "title": "CHAPTER XIV: FRIENDS IN NEED",
-      "file": "17_CHAPTER_XIV__FRIENDS_IN_NEED.md"
+      "file": "16_CHAPTER_XIV__FRIENDS_IN_NEED.md"
     },
     {
       "title": "CHAPTER XV: A HAPPY RETURN",
-      "file": "18_CHAPTER_XV__A_HAPPY_RETURN.md"
+      "file": "17_CHAPTER_XV__A_HAPPY_RETURN.md"
     },
     {
       "title": "CHAPTER XVI: PEACE TO CRANFORD",
-      "file": "19_CHAPTER_XVI__PEACE_TO_CRANFORD.md"
+      "file": "18_CHAPTER_XVI__PEACE_TO_CRANFORD.md"
     }
   ]
 }

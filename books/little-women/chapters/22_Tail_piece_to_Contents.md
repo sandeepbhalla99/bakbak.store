@@ -1,7 +1,5 @@
 # Tail-piece to Contents
 
-Looking up she saw Mr. Bhaer
+Teddy bore a charmed life
 
-Does this suit you, Mr. Bhaer?
-
-Under the umbrella
+Leaving Mrs. March and her daughters under the festival tree

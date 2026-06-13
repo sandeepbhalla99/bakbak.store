@@ -1,49 +1,56 @@
 # Introduction
 
-THE TRAGEDY OF CORIOLANUS
+# Introduction
 
-Contents
+<div style="text-align: center; margin-bottom: 2.5rem; padding-top: 1rem;">
+  <h1 style="font-size: 2.25rem; margin-bottom: 0.5rem; font-weight: 800; color: var(--text-main); line-height: 1.2;">THE TRAGEDY OF CORIOLANUS</h1>
+  <p style="font-size: 1.25rem; color: var(--text-muted); font-style: italic; margin-top: 0.5rem;">by William Shakespeare</p>
+</div>
 
-ACT I
-Scene I. Rome. A street
-Scene II. Corioles. The Senate House
-Scene III. Rome. An apartment in Martius’ house
-Scene IV. Before Corioles
-Scene V. Within Corioles. A street
-Scene VI. Near the camp of Cominius
-Scene VII. The gates of Corioles
-Scene VIII. A field of battle between the Roman and the Volscian camps
-Scene IX. The Roman camp
-Scene X. The camp of the Volsces
+<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 2rem 0; opacity: 0.5;">
 
-ACT II
-Scene I. Rome. A public place
-Scene II. Rome. The Capitol
-Scene III. Rome. The Forum
+<div class="toc-container" style="max-width: 550px; margin: 0 auto; padding: 0 10px;">
+  <h3 style="text-align: center; margin-bottom: 1.5rem; letter-spacing: 0.08em; text-transform: uppercase; font-size: 1.1rem; font-weight: 700; color: var(--text-main);">Table of Contents</h3>
+  <ul style="list-style: none; padding: 0; margin: 0; line-height: 2;">
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="02_SCENE__Partly_in_Rome__and_par.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>SCENE: Partly in Rome, and partly in the territories of the Volscians: and Antiates.</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 1</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="03_ACT_I.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT I</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 2</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="04_Scene_I__Rome__A_street.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rome. A street</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 3</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="05_Scene_II__Corioles__The_Senate.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene II. Corioles. The Senate House</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 4</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="06_Scene_III__Rome__An_apartment.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. Rome. An apartment in Martius’ house</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 5</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="07_Scene_IV__Before_Corioles.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene IV. Before Corioles</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 6</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="08_Scene_V__Within_Corioles__A_st.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene V. Within Corioles. A street</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 7</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="09_Scene_VI__Near_the_camp_of_Com.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene VI. Near the camp of Cominius</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 8</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="10_Scene_VII__The_gates_of_Coriol.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene VII. The gates of Corioles</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 9</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="11_Scene_VIII__A_field_of_battle.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene VIII. A field of battle between the Roman and the Volscian camps</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 10</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="12_Scene_IX__The_Roman_camp.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene IX. The Roman camp</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 11</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="13_Scene_X__The_camp_of_the_Volsc.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene X. The camp of the Volsces</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 12</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="14_ACT_II.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT II</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 13</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="15_Scene_I__Rome__A_public_place.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rome. A public place</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 14</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="16_Scene_II__Rome__The_Capitol.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene II. Rome. The Capitol</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 15</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="17_Scene_III__Rome__The_Forum.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. Rome. The Forum</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 16</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="18_ACT_III.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT III</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 17</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="19_Scene_I__Rome__A_street.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rome. A street</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 18</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="20_Scene_II__Rome__A_room_in_Cori.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene II. Rome. A room in Coriolanus’s house</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 19</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="21_Scene_III__Rome__The_Forum.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. Rome. The Forum</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 20</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="22_ACT_IV.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT IV</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 21</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="23_Scene_I__Rome__Before_a_gate_o.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rome. Before a gate of the city</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 22</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="24_Scene_II__Rome__A_street_near.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene II. Rome. A street near the gate</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 23</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="25_Scene_III__A_highway_between_R.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. A highway between Rome and Antium</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 24</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="26_Scene_IV__Antium__Before_Aufid.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene IV. Antium. Before Aufidius’s house</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 25</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="27_Scene_V__Antium__A_hall_in_Auf.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene V. Antium. A hall in Aufidius’s house</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 26</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="28_Scene_I__Rome__A_public_place.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rome. A public place</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 27</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="29_Scene_VII__A_camp_at_a_short_d.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene VII. A camp at a short distance from Rome</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 28</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="30_ACT_V.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT V</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 29</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="31_Scene_I__Rome__A_public_place.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rome. A public place</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 30</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="32_Scene_II__An_Advanced_post_of.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene II. An Advanced post of the Volscian camp before Rome</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 31</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="33_Scene_III__The_tent_of_Coriola.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. The tent of Coriolanus</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 32</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="34_Scene_I__Rome__A_public_place.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rome. A public place</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 33</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="35_Scene_II__Rome__A_street_near.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene II. Rome. A street near the gate</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 34</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="36_Scene_VI__Antium__A_public_pla.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene VI. Antium. A public place</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 35</span></a></li>
+  </ul>
+</div>
 
-ACT III
-Scene I. Rome. A street
-Scene II. Rome. A room in Coriolanus’s house
-Scene III. Rome. The Forum
-
-ACT IV
-Scene I. Rome. Before a gate of the city
-Scene II. Rome. A street near the gate
-Scene III. A highway between Rome and Antium
-Scene IV. Antium. Before Aufidius’s house
-Scene V. Antium. A hall in Aufidius’s house
-Scene VI. Rome. A public place
-Scene VII. A camp at a short distance from Rome
-
-ACT V
-Scene I. Rome. A public place
-Scene II. An Advanced post of the Volscian camp before Rome.
-Scene III. The tent of Coriolanus
-Scene IV. Rome. A public place
-Scene V. Rome. A street near the gate
-Scene VI. Antium. A public place
-
-Dramatis Personæ
+<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 3rem 0; opacity: 0.5;">
 
 CAIUS MARTIUS CORIOLANUS, a noble Roman
 VOLUMNIA, his mother

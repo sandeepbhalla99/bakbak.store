@@ -7,400 +7,396 @@
   "description": "A classic masterpiece by George Eliot. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
+      "title": "PRELUDE",
+      "file": "01_PRELUDE.md"
     },
     {
-      "title": "PRELUDE",
-      "file": "02_PRELUDE.md"
+      "title": "CHAPTER I",
+      "file": "02_CHAPTER_I.md"
     },
     {
       "title": "CHAPTER I",
       "file": "03_CHAPTER_I.md"
     },
     {
-      "title": "CHAPTER I",
-      "file": "04_CHAPTER_I.md"
-    },
-    {
       "title": "CHAPTER II",
-      "file": "05_CHAPTER_II.md"
+      "file": "04_CHAPTER_II.md"
     },
     {
       "title": "CHAPTER III",
-      "file": "06_CHAPTER_III.md"
+      "file": "05_CHAPTER_III.md"
     },
     {
       "title": "CHAPTER IV",
-      "file": "07_CHAPTER_IV.md"
+      "file": "06_CHAPTER_IV.md"
     },
     {
       "title": "CHAPTER V",
-      "file": "08_CHAPTER_V.md"
+      "file": "07_CHAPTER_V.md"
     },
     {
       "title": "CHAPTER VI",
-      "file": "09_CHAPTER_VI.md"
+      "file": "08_CHAPTER_VI.md"
     },
     {
       "title": "CHAPTER VII",
-      "file": "10_CHAPTER_VII.md"
+      "file": "09_CHAPTER_VII.md"
     },
     {
       "title": "CHAPTER VIII",
-      "file": "11_CHAPTER_VIII.md"
+      "file": "10_CHAPTER_VIII.md"
     },
     {
       "title": "CHAPTER IX",
-      "file": "12_CHAPTER_IX.md"
+      "file": "11_CHAPTER_IX.md"
     },
     {
       "title": "CHAPTER X",
-      "file": "13_CHAPTER_X.md"
+      "file": "12_CHAPTER_X.md"
     },
     {
       "title": "CHAPTER XI",
-      "file": "14_CHAPTER_XI.md"
+      "file": "13_CHAPTER_XI.md"
     },
     {
       "title": "CHAPTER XII",
-      "file": "15_CHAPTER_XII.md"
+      "file": "14_CHAPTER_XII.md"
     },
     {
       "title": "CHAPTER II",
-      "file": "16_CHAPTER_II.md"
+      "file": "15_CHAPTER_II.md"
     },
     {
       "title": "CHAPTER XIII",
-      "file": "17_CHAPTER_XIII.md"
+      "file": "16_CHAPTER_XIII.md"
     },
     {
       "title": "CHAPTER XIV",
-      "file": "18_CHAPTER_XIV.md"
+      "file": "17_CHAPTER_XIV.md"
     },
     {
       "title": "CHAPTER XV",
-      "file": "19_CHAPTER_XV.md"
+      "file": "18_CHAPTER_XV.md"
     },
     {
       "title": "CHAPTER XVI",
-      "file": "20_CHAPTER_XVI.md"
+      "file": "19_CHAPTER_XVI.md"
     },
     {
       "title": "CHAPTER XVII",
-      "file": "21_CHAPTER_XVII.md"
+      "file": "20_CHAPTER_XVII.md"
     },
     {
       "title": "CHAPTER XVIII",
-      "file": "22_CHAPTER_XVIII.md"
+      "file": "21_CHAPTER_XVIII.md"
     },
     {
       "title": "CHAPTER XIX",
-      "file": "23_CHAPTER_XIX.md"
+      "file": "22_CHAPTER_XIX.md"
     },
     {
       "title": "CHAPTER XX",
-      "file": "24_CHAPTER_XX.md"
+      "file": "23_CHAPTER_XX.md"
     },
     {
       "title": "CHAPTER XXI",
-      "file": "25_CHAPTER_XXI.md"
+      "file": "24_CHAPTER_XXI.md"
     },
     {
       "title": "CHAPTER XXII",
-      "file": "26_CHAPTER_XXII.md"
+      "file": "25_CHAPTER_XXII.md"
     },
     {
       "title": "CHAPTER III",
-      "file": "27_CHAPTER_III.md"
+      "file": "26_CHAPTER_III.md"
     },
     {
       "title": "CHAPTER XXIII",
-      "file": "28_CHAPTER_XXIII.md"
+      "file": "27_CHAPTER_XXIII.md"
     },
     {
       "title": "CHAPTER XXIV",
-      "file": "29_CHAPTER_XXIV.md"
+      "file": "28_CHAPTER_XXIV.md"
     },
     {
       "title": "CHAPTER XXV",
-      "file": "30_CHAPTER_XXV.md"
+      "file": "29_CHAPTER_XXV.md"
     },
     {
       "title": "CHAPTER XXVI",
-      "file": "31_CHAPTER_XXVI.md"
+      "file": "30_CHAPTER_XXVI.md"
     },
     {
       "title": "CHAPTER XXVII",
-      "file": "32_CHAPTER_XXVII.md"
+      "file": "31_CHAPTER_XXVII.md"
     },
     {
       "title": "CHAPTER XXVIII",
-      "file": "33_CHAPTER_XXVIII.md"
+      "file": "32_CHAPTER_XXVIII.md"
     },
     {
       "title": "CHAPTER XXIX",
-      "file": "34_CHAPTER_XXIX.md"
+      "file": "33_CHAPTER_XXIX.md"
     },
     {
       "title": "CHAPTER XXX",
-      "file": "35_CHAPTER_XXX.md"
+      "file": "34_CHAPTER_XXX.md"
     },
     {
       "title": "CHAPTER XXXI",
-      "file": "36_CHAPTER_XXXI.md"
+      "file": "35_CHAPTER_XXXI.md"
     },
     {
       "title": "CHAPTER XXXII",
-      "file": "37_CHAPTER_XXXII.md"
+      "file": "36_CHAPTER_XXXII.md"
     },
     {
       "title": "CHAPTER XXXIII",
-      "file": "38_CHAPTER_XXXIII.md"
+      "file": "37_CHAPTER_XXXIII.md"
     },
     {
       "title": "CHAPTER IV",
-      "file": "39_CHAPTER_IV.md"
+      "file": "38_CHAPTER_IV.md"
     },
     {
       "title": "CHAPTER XXXIV",
-      "file": "40_CHAPTER_XXXIV.md"
+      "file": "39_CHAPTER_XXXIV.md"
     },
     {
       "title": "CHAPTER XXXV",
-      "file": "41_CHAPTER_XXXV.md"
+      "file": "40_CHAPTER_XXXV.md"
     },
     {
       "title": "CHAPTER XXXVI",
-      "file": "42_CHAPTER_XXXVI.md"
+      "file": "41_CHAPTER_XXXVI.md"
     },
     {
       "title": "CHAPTER XXXVII",
-      "file": "43_CHAPTER_XXXVII.md"
+      "file": "42_CHAPTER_XXXVII.md"
     },
     {
       "title": "CHAPTER XXXVIII",
-      "file": "44_CHAPTER_XXXVIII.md"
+      "file": "43_CHAPTER_XXXVIII.md"
     },
     {
       "title": "CHAPTER XXXIX",
-      "file": "45_CHAPTER_XXXIX.md"
+      "file": "44_CHAPTER_XXXIX.md"
     },
     {
       "title": "CHAPTER XL",
-      "file": "46_CHAPTER_XL.md"
+      "file": "45_CHAPTER_XL.md"
     },
     {
       "title": "BOOK VII. TWO TEMPTATIONS",
-      "file": "47_BOOK_VII__TWO_TEMPTATIONS.md"
+      "file": "46_BOOK_VII__TWO_TEMPTATIONS.md"
     },
     {
       "title": "CHAPTER XLI",
-      "file": "48_CHAPTER_XLI.md"
+      "file": "47_CHAPTER_XLI.md"
     },
     {
       "title": "CHAPTER XLII",
-      "file": "49_CHAPTER_XLII.md"
+      "file": "48_CHAPTER_XLII.md"
     },
     {
       "title": "CHAPTER V",
-      "file": "50_CHAPTER_V.md"
+      "file": "49_CHAPTER_V.md"
     },
     {
       "title": "CHAPTER XLIII",
-      "file": "51_CHAPTER_XLIII.md"
+      "file": "50_CHAPTER_XLIII.md"
     },
     {
       "title": "CHAPTER XLIV",
-      "file": "52_CHAPTER_XLIV.md"
+      "file": "51_CHAPTER_XLIV.md"
     },
     {
       "title": "CHAPTER XLV",
-      "file": "53_CHAPTER_XLV.md"
+      "file": "52_CHAPTER_XLV.md"
     },
     {
       "title": "CHAPTER XLVI",
-      "file": "54_CHAPTER_XLVI.md"
+      "file": "53_CHAPTER_XLVI.md"
     },
     {
       "title": "CHAPTER XLVII",
-      "file": "55_CHAPTER_XLVII.md"
+      "file": "54_CHAPTER_XLVII.md"
     },
     {
       "title": "CHAPTER XLVIII",
-      "file": "56_CHAPTER_XLVIII.md"
+      "file": "55_CHAPTER_XLVIII.md"
     },
     {
       "title": "CHAPTER XLIX",
-      "file": "57_CHAPTER_XLIX.md"
+      "file": "56_CHAPTER_XLIX.md"
     },
     {
       "title": "CHAPTER L",
-      "file": "58_CHAPTER_L.md"
+      "file": "57_CHAPTER_L.md"
     },
     {
       "title": "CHAPTER LI",
-      "file": "59_CHAPTER_LI.md"
+      "file": "58_CHAPTER_LI.md"
     },
     {
       "title": "CHAPTER LII",
-      "file": "60_CHAPTER_LII.md"
+      "file": "59_CHAPTER_LII.md"
     },
     {
       "title": "CHAPTER LIII",
-      "file": "61_CHAPTER_LIII.md"
+      "file": "60_CHAPTER_LIII.md"
     },
     {
       "title": "CHAPTER VI",
-      "file": "62_CHAPTER_VI.md"
+      "file": "61_CHAPTER_VI.md"
     },
     {
       "title": "CHAPTER LIV",
-      "file": "63_CHAPTER_LIV.md"
+      "file": "62_CHAPTER_LIV.md"
     },
     {
       "title": "CHAPTER LV",
-      "file": "64_CHAPTER_LV.md"
+      "file": "63_CHAPTER_LV.md"
     },
     {
       "title": "CHAPTER LVI",
-      "file": "65_CHAPTER_LVI.md"
+      "file": "64_CHAPTER_LVI.md"
     },
     {
       "title": "CHAPTER LVII",
-      "file": "66_CHAPTER_LVII.md"
+      "file": "65_CHAPTER_LVII.md"
     },
     {
       "title": "CHAPTER LVIII",
-      "file": "67_CHAPTER_LVIII.md"
+      "file": "66_CHAPTER_LVIII.md"
     },
     {
       "title": "CHAPTER LIX",
-      "file": "68_CHAPTER_LIX.md"
+      "file": "67_CHAPTER_LIX.md"
     },
     {
       "title": "CHAPTER LX",
-      "file": "69_CHAPTER_LX.md"
+      "file": "68_CHAPTER_LX.md"
     },
     {
       "title": "CHAPTER LXI",
-      "file": "70_CHAPTER_LXI.md"
+      "file": "69_CHAPTER_LXI.md"
     },
     {
       "title": "CHAPTER LXII",
-      "file": "71_CHAPTER_LXII.md"
+      "file": "70_CHAPTER_LXII.md"
     },
     {
       "title": "CHAPTER VII",
-      "file": "72_CHAPTER_VII.md"
+      "file": "71_CHAPTER_VII.md"
     },
     {
       "title": "CHAPTER LXIII",
-      "file": "73_CHAPTER_LXIII.md"
+      "file": "72_CHAPTER_LXIII.md"
     },
     {
       "title": "CHAPTER LXIV",
-      "file": "74_CHAPTER_LXIV.md"
+      "file": "73_CHAPTER_LXIV.md"
     },
     {
       "title": "CHAPTER LXV",
-      "file": "75_CHAPTER_LXV.md"
+      "file": "74_CHAPTER_LXV.md"
     },
     {
       "title": "CHAPTER LXVI",
-      "file": "76_CHAPTER_LXVI.md"
+      "file": "75_CHAPTER_LXVI.md"
     },
     {
       "title": "CHAPTER LXVII",
-      "file": "77_CHAPTER_LXVII.md"
+      "file": "76_CHAPTER_LXVII.md"
     },
     {
       "title": "CHAPTER LXVIII",
-      "file": "78_CHAPTER_LXVIII.md"
+      "file": "77_CHAPTER_LXVIII.md"
     },
     {
       "title": "Act as fair parts with ends as laudable?",
-      "file": "79_Act_as_fair_parts_with_ends_as.md"
+      "file": "78_Act_as_fair_parts_with_ends_as.md"
     },
     {
       "title": "CHAPTER LXIX",
-      "file": "80_CHAPTER_LXIX.md"
+      "file": "79_CHAPTER_LXIX.md"
     },
     {
       "title": "CHAPTER LXX",
-      "file": "81_CHAPTER_LXX.md"
+      "file": "80_CHAPTER_LXX.md"
     },
     {
       "title": "CHAPTER LXXI",
-      "file": "82_CHAPTER_LXXI.md"
+      "file": "81_CHAPTER_LXXI.md"
     },
     {
       "title": "CHAPTER VIII",
-      "file": "83_CHAPTER_VIII.md"
+      "file": "82_CHAPTER_VIII.md"
     },
     {
       "title": "CHAPTER LXXII",
-      "file": "84_CHAPTER_LXXII.md"
+      "file": "83_CHAPTER_LXXII.md"
     },
     {
       "title": "CHAPTER LXXIII",
-      "file": "85_CHAPTER_LXXIII.md"
+      "file": "84_CHAPTER_LXXIII.md"
     },
     {
       "title": "CHAPTER LXXIV",
-      "file": "86_CHAPTER_LXXIV.md"
+      "file": "85_CHAPTER_LXXIV.md"
     },
     {
       "title": "CHAPTER LXXV",
-      "file": "87_CHAPTER_LXXV.md"
+      "file": "86_CHAPTER_LXXV.md"
     },
     {
       "title": "CHAPTER LXXVI",
-      "file": "88_CHAPTER_LXXVI.md"
+      "file": "87_CHAPTER_LXXVI.md"
     },
     {
       "title": "CHAPTER LXXVII",
-      "file": "89_CHAPTER_LXXVII.md"
+      "file": "88_CHAPTER_LXXVII.md"
     },
     {
       "title": "CHAPTER LXXVIII",
-      "file": "90_CHAPTER_LXXVIII.md"
+      "file": "89_CHAPTER_LXXVIII.md"
     },
     {
       "title": "CHAPTER LXXIX",
-      "file": "91_CHAPTER_LXXIX.md"
+      "file": "90_CHAPTER_LXXIX.md"
     },
     {
       "title": "CHAPTER LXXX",
-      "file": "92_CHAPTER_LXXX.md"
+      "file": "91_CHAPTER_LXXX.md"
     },
     {
       "title": "CHAPTER LXXXI",
-      "file": "93_CHAPTER_LXXXI.md"
+      "file": "92_CHAPTER_LXXXI.md"
     },
     {
       "title": "CHAPTER LXXXII",
-      "file": "94_CHAPTER_LXXXII.md"
+      "file": "93_CHAPTER_LXXXII.md"
     },
     {
       "title": "CHAPTER LXXXIII",
-      "file": "95_CHAPTER_LXXXIII.md"
+      "file": "94_CHAPTER_LXXXIII.md"
     },
     {
       "title": "CHAPTER LXXXIV",
-      "file": "96_CHAPTER_LXXXIV.md"
+      "file": "95_CHAPTER_LXXXIV.md"
     },
     {
       "title": "CHAPTER LXXXV",
-      "file": "97_CHAPTER_LXXXV.md"
+      "file": "96_CHAPTER_LXXXV.md"
     },
     {
       "title": "CHAPTER LXXXVI",
-      "file": "98_CHAPTER_LXXXVI.md"
+      "file": "97_CHAPTER_LXXXVI.md"
     },
     {
       "title": "FINALE",
-      "file": "99_FINALE.md"
+      "file": "98_FINALE.md"
     }
   ]
 }

@@ -1,44 +1,30 @@
 # Introduction
 
-MEDITATIONS
+# Introduction
 
-By Marcus Aurelius
+<div style="text-align: center; margin-bottom: 2.5rem; padding-top: 1rem;">
+  <h1 style="font-size: 2.25rem; margin-bottom: 0.5rem; font-weight: 800; color: var(--text-main); line-height: 1.2;">Meditations</h1>
+  <p style="font-size: 1.25rem; color: var(--text-muted); font-style: italic; margin-top: 0.5rem;">by Marcus Aurelius</p>
+</div>
 
-CONTENTS
+<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 2rem 0; opacity: 0.5;">
 
-NOTES
+<div class="toc-container" style="max-width: 550px; margin: 0 auto; padding: 0 10px;">
+  <h3 style="text-align: center; margin-bottom: 1.5rem; letter-spacing: 0.08em; text-transform: uppercase; font-size: 1.1rem; font-weight: 700; color: var(--text-main);">Table of Contents</h3>
+  <ul style="list-style: none; padding: 0; margin: 0; line-height: 2;">
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="02_APPENDIX.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>APPENDIX</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 1</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="03_NOTES.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>NOTES</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 2</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="04_BOOK_II__Both_to_frequent___4.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>BOOK II "Both to frequent" (4). Gr. τὸ μή, C. conjectures τὸ μὲ. The</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 3</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="05_BOOK_IV_XV___Agathos___18___Th.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>BOOK IV XV. "Agathos" (18): This is probably not a proper name, but the: text seems to be unsound. The meaning may be "the good man ought"</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 4</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="06_BOOK_V_XIV__katorqwseiz__15.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>BOOK V XIV. katorqwseiz (15): Acts of "rightness" or "straightness."</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 5</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="07_BOOK_VII_IX__C__translates_his.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>BOOK VII IX. C. translates his conjecture mh for h. The Greek means</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 6</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="08_BOOK_X_XXII__The_Greek_means.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>BOOK X XXII. The Greek means, "paltry breath bearing up corpses, so that: the tale of Dead Man's Land is clearer."</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 7</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="09_BOOK_XI_V___Cithaeron___6___Oe.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>BOOK XI V. "Cithaeron" (6): Oedipus utters this cry after discovering</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 8</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="10_GLOSSARY.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>GLOSSARY</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 9</span></a></li>
+  </ul>
+</div>
 
-INTRODUCTION
-
-FIRST BOOK
-
-SECOND BOOK
-
-THIRD BOOK
-
-FOURTH BOOK
-
-FIFTH BOOK
-
-SIXTH BOOK
-
-SEVENTH BOOK
-
-EIGHTH BOOK
-
-NINTH BOOK
-
-TENTH BOOK
-
-ELEVENTH BOOK
-
-TWELFTH BOOK
-
-APPENDIX
-
-GLOSSARY
-
-INTRODUCTION
+<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 3rem 0; opacity: 0.5;">
 
 MARCUS AURELIUS ANTONINUS was born on April 26, A.D. 121. His real name was M. Annius Verus, and he was sprung of a noble family which claimed descent from Numa, second King of Rome. Thus the most religious of emperors came of the blood of the most pious of early kings. His father, Annius Verus, had held high office in Rome, and his grandfather, of the same name, had been thrice Consul. Both his parents died young, but Marcus held them in loving remembrance. On his father's death Marcus was adopted by his grandfather, the consular Annius Verus, and there was deep love between these two. On the very first page of his book Marcus gratefully declares how of his grandfather he had learned to be gentle and meek, and to refrain from all anger and passion. The Emperor Hadrian divined the fine character of the lad, whom he used to call not Verus but Verissimus, more Truthful than his own name. He advanced Marcus to equestrian rank when six years of age, and at the age of eight made him a member of the ancient Salian priesthood. The boy's aunt, Annia Galeria Faustina, was married to Antoninus Pius, afterwards emperor. Hence it came about that Antoninus, having no son, adopted Marcus, changing his name to that which he is known by, and betrothed him to his daughter Faustina. His education was conducted with all care. The ablest teachers were engaged for him, and he was trained in the strict doctrine of the Stoic philosophy, which was his great delight. He was taught to dress plainly and to live simply, to avoid all softness and luxury. His body was trained to hardihood by wrestling, hunting, and outdoor games; and though his constitution was weak, he showed great personal courage to encounter the fiercest boars. At the same time he was kept from the extravagancies of his day. The great excitement in Rome was the strife of the Factions, as they were called, in the circus. The racing drivers used to adopt one of four colours--red, blue, white, or green--and their partisans showed an eagerness in supporting them which nothing could surpass. Riot and corruption went in the train of the racing chariots; and from all these things Marcus held severely aloof.
 

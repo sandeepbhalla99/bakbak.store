@@ -1,23 +1,13 @@
 # Tail-piece to Contents
 
-Every one was very kind, especially the officers
+A select symposium
 
-I've seen the imperial family several times
+He doesn't prink at his glass before coming
 
-Trying to sketch the gray-stone lion's head on the wall
+Jo stuffed the whole bundle into the stove
 
-She leaned her head upon her hands
+He put the sisters into the carriage
 
-Now, this is filling at the price
+He laid his head down on the mossy post
 
-Up with the Bonnets of Bonnie Dundee
-
-I amused myself by dropping gingerbread nuts over the seat
-
-Thou shalt haf thy Bhaer
-
-He waved his hand, sock and all
-
-Dis is mine effalunt
-
-I sat down upon the floor and read and looked and ate
+O Jo, can't you?

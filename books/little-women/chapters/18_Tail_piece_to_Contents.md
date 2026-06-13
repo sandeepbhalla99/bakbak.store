@@ -1,9 +1,7 @@
 # Tail-piece to Contents
 
-Here are your flowers
+Laurie threw himself down on the turf
 
-Demi and Daisy
+A rough sketch of Laurie taming a horse
 
-Mornin' now
-
-My dear man, it's a bonnet
+The Valley of the Shadow

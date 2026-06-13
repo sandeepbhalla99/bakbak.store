@@ -7,120 +7,116 @@
   "description": "A classic masterpiece by Mary Shelley. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "Letter 1",
-      "file": "02_Letter_1.md"
+      "file": "01_Letter_1.md"
     },
     {
       "title": "Letter 2",
-      "file": "03_Letter_2.md"
+      "file": "02_Letter_2.md"
     },
     {
       "title": "Letter 3",
-      "file": "04_Letter_3.md"
+      "file": "03_Letter_3.md"
     },
     {
       "title": "Letter 4",
-      "file": "05_Letter_4.md"
+      "file": "04_Letter_4.md"
     },
     {
       "title": "Chapter 1",
-      "file": "06_Chapter_1.md"
+      "file": "05_Chapter_1.md"
     },
     {
       "title": "Chapter 2",
-      "file": "07_Chapter_2.md"
+      "file": "06_Chapter_2.md"
     },
     {
       "title": "Chapter 3",
-      "file": "08_Chapter_3.md"
+      "file": "07_Chapter_3.md"
     },
     {
       "title": "Chapter 4",
-      "file": "09_Chapter_4.md"
+      "file": "08_Chapter_4.md"
     },
     {
       "title": "Chapter 5",
-      "file": "10_Chapter_5.md"
+      "file": "09_Chapter_5.md"
     },
     {
       "title": "Chapter 6",
-      "file": "11_Chapter_6.md"
+      "file": "10_Chapter_6.md"
     },
     {
       "title": "Chapter 7",
-      "file": "12_Chapter_7.md"
+      "file": "11_Chapter_7.md"
     },
     {
       "title": "Chapter 8",
-      "file": "13_Chapter_8.md"
+      "file": "12_Chapter_8.md"
     },
     {
       "title": "Chapter 9",
-      "file": "14_Chapter_9.md"
+      "file": "13_Chapter_9.md"
     },
     {
       "title": "Chapter 10",
-      "file": "15_Chapter_10.md"
+      "file": "14_Chapter_10.md"
     },
     {
       "title": "Chapter 11",
-      "file": "16_Chapter_11.md"
+      "file": "15_Chapter_11.md"
     },
     {
       "title": "Chapter 12",
-      "file": "17_Chapter_12.md"
+      "file": "16_Chapter_12.md"
     },
     {
       "title": "Chapter 13",
-      "file": "18_Chapter_13.md"
+      "file": "17_Chapter_13.md"
     },
     {
       "title": "Chapter 14",
-      "file": "19_Chapter_14.md"
+      "file": "18_Chapter_14.md"
     },
     {
       "title": "Chapter 15",
-      "file": "20_Chapter_15.md"
+      "file": "19_Chapter_15.md"
     },
     {
       "title": "Chapter 16",
-      "file": "21_Chapter_16.md"
+      "file": "20_Chapter_16.md"
     },
     {
       "title": "Chapter 17",
-      "file": "22_Chapter_17.md"
+      "file": "21_Chapter_17.md"
     },
     {
       "title": "Chapter 18",
-      "file": "23_Chapter_18.md"
+      "file": "22_Chapter_18.md"
     },
     {
       "title": "Chapter 19",
-      "file": "24_Chapter_19.md"
+      "file": "23_Chapter_19.md"
     },
     {
       "title": "Chapter 20",
-      "file": "25_Chapter_20.md"
+      "file": "24_Chapter_20.md"
     },
     {
       "title": "Chapter 21",
-      "file": "26_Chapter_21.md"
+      "file": "25_Chapter_21.md"
     },
     {
       "title": "Chapter 22",
-      "file": "27_Chapter_22.md"
+      "file": "26_Chapter_22.md"
     },
     {
       "title": "Chapter 23",
-      "file": "28_Chapter_23.md"
+      "file": "27_Chapter_23.md"
     },
     {
       "title": "Chapter 24",
-      "file": "29_Chapter_24.md"
+      "file": "28_Chapter_24.md"
     }
   ]
 }

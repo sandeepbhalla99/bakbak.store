@@ -1,29 +1,25 @@
 # Book VIII. Mitya
 
-“Surely you don’t think me such an out and out scoundrel as that? You can’t be speaking in earnest?” he said, with indignation, looking the prosecutor straight in the face, and seeming unable to believe his ears.
+“Well, you see, all bear witness to it. And the word _all_ means something.”
 
-“I assure you I’m in earnest.... Why do you imagine I’m not serious?” It was the prosecutor’s turn to be surprised.
+“It means nothing. I talked rot, and every one began repeating it.”
 
-“Oh, how base that would have been! Gentlemen, do you know, you are torturing me! Let me tell you everything, so be it. I’ll confess all my infernal wickedness, but to put you to shame, and you’ll be surprised yourselves at the depth of ignominy to which a medley of human passions can sink. You must know that I already had that plan myself, that plan you spoke of, just now, prosecutor! Yes, gentlemen, I, too, have had that thought in my mind all this current month, so that I was on the point of deciding to go to Katya—I was mean enough for that. But to go to her, to tell her of my treachery, and for that very treachery, to carry it out, for the expenses of that treachery, to beg for money from her, Katya (to beg, do you hear, to beg), and go straight from her to run away with the other, the rival, who hated and insulted her—to think of it! You must be mad, prosecutor!”
+“But what need had you to ‘talk rot,’ as you call it?”
 
-“Mad I am not, but I did speak in haste, without thinking ... of that feminine jealousy ... if there could be jealousy in this case, as you assert ... yes, perhaps there is something of the kind,” said the prosecutor, smiling.
+“The devil knows. From bravado perhaps ... at having wasted so much money.... To try and forget that money I had sewn up, perhaps ... yes, that was why ... damn it ... how often will you ask me that question? Well, I told a fib, and that was the end of it, once I’d said it, I didn’t care to correct it. What does a man tell lies for sometimes?”
 
-“But that would have been so infamous!” Mitya brought his fist down on the table fiercely. “That would have been filthy beyond everything! Yes, do you know that she might have given me that money, yes, and she would have given it, too; she’d have been certain to give it, to be revenged on me, she’d have given it to satisfy her vengeance, to show her contempt for me, for hers is an infernal nature, too, and she’s a woman of great wrath. I’d have taken the money, too, oh, I should have taken it; I should have taken it, and then, for the rest of my life ... oh, God! Forgive me, gentlemen, I’m making such an outcry because I’ve had that thought in my mind so lately, only the day before yesterday, that night when I was having all that bother with Lyagavy, and afterwards yesterday, all day yesterday, I remember, till that happened ...”
+“That’s very difficult to decide, Dmitri Fyodorovitch, what makes a man tell lies,” observed the prosecutor impressively. “Tell me, though, was that ‘amulet,’ as you call it, on your neck, a big thing?”
 
-“Till what happened?” put in Nikolay Parfenovitch inquisitively, but Mitya did not hear it.
+“No, not big.”
 
-“I have made you an awful confession,” Mitya said gloomily in conclusion. “You must appreciate it, and what’s more, you must respect it, for if not, if that leaves your souls untouched, then you’ve simply no respect for me, gentlemen, I tell you that, and I shall die of shame at having confessed it to men like you! Oh, I shall shoot myself! Yes, I see, I see already that you don’t believe me. What, you want to write that down, too?” he cried in dismay.
+“How big, for instance?”
 
-“Yes, what you said just now,” said Nikolay Parfenovitch, looking at him in surprise, “that is, that up to the last hour you were still contemplating going to Katerina Ivanovna to beg that sum from her.... I assure you, that’s a very important piece of evidence for us, Dmitri Fyodorovitch, I mean for the whole case ... and particularly for you, particularly important for you.”
+“If you fold a hundred-rouble note in half, that would be the size.”
 
-“Have mercy, gentlemen!” Mitya flung up his hands. “Don’t write that, anyway; have some shame. Here I’ve torn my heart asunder before you, and you seize the opportunity and are fingering the wounds in both halves.... Oh, my God!”
+“You’d better show us the remains of it. You must have them somewhere.”
 
-In despair he hid his face in his hands.
+“Damnation, what nonsense! I don’t know where they are.”
 
-“Don’t worry yourself so, Dmitri Fyodorovitch,” observed the prosecutor, “everything that is written down will be read over to you afterwards, and what you don’t agree to we’ll alter as you like. But now I’ll ask you one little question for the second time. Has no one, absolutely no one, heard from you of that money you sewed up? That, I must tell you, is almost impossible to believe.”
+“But excuse me: where and when did you take it off your neck? According to your own evidence you didn’t go home.”
 
-“No one, no one, I told you so before, or you’ve not understood anything! Let me alone!”
-
-“Very well, this matter is bound to be explained, and there’s plenty of time for it, but meantime, consider; we have perhaps a dozen witnesses that you yourself spread it abroad, and even shouted almost everywhere about the three thousand you’d spent here; three thousand, not fifteen hundred. And now, too, when you got hold of the money you had yesterday, you gave many people to understand that you had brought three thousand with you.”
-
-“You’ve got not dozens, but hundreds of witnesses, two hundred witnesses, two hundred have heard it, thousands have heard it!” cried
+“When I was going from Fenya’s to Perhotin’s, on the way I tore it off my neck and took out the money.”

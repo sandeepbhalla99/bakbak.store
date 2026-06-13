@@ -7,148 +7,148 @@
   "description": "A classic masterpiece by Fyodor Dostoevsky. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "Part I",
-      "file": "02_Part_I.md"
+      "file": "01_Part_I.md"
     },
     {
       "title": "Book I. The History Of A Family",
-      "file": "03_Book_I__The_History_Of_A_Famil.md"
+      "file": "02_Book_I__The_History_Of_A_Famil.md"
     },
     {
       "title": "Part I",
-      "file": "04_Part_I.md"
+      "file": "03_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "05_Part_II.md"
+      "file": "04_Part_II.md"
     },
     {
       "title": "Part III",
-      "file": "06_Part_III.md"
+      "file": "05_Part_III.md"
     },
     {
       "title": "Part IV",
-      "file": "07_Part_IV.md"
+      "file": "06_Part_IV.md"
     },
     {
       "title": "Chapter V: Elders",
-      "file": "08_Chapter_V__Elders.md"
+      "file": "07_Chapter_V__Elders.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "09_Book_VII__Alyosha.md"
+      "file": "08_Book_VII__Alyosha.md"
     },
     {
       "title": "Book II. An Unfortunate Gathering",
-      "file": "10_Book_II__An_Unfortunate_Gather.md"
+      "file": "09_Book_II__An_Unfortunate_Gather.md"
     },
     {
       "title": "Part I",
-      "file": "11_Part_I.md"
+      "file": "10_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "12_Part_II.md"
+      "file": "11_Part_II.md"
     },
     {
       "title": "Part III",
-      "file": "13_Part_III.md"
+      "file": "12_Part_III.md"
     },
     {
       "title": "Part IV",
-      "file": "14_Part_IV.md"
+      "file": "13_Part_IV.md"
     },
     {
       "title": "Chapter V: So Be It! So Be It!",
-      "file": "15_Chapter_V__So_Be_It__So_Be_It.md"
+      "file": "14_Chapter_V__So_Be_It__So_Be_It.md"
     },
     {
       "title": "Chapter VI: Why Is Such A Man Alive?",
-      "file": "16_Chapter_VI__Why_Is_Such_A_Man.md"
+      "file": "15_Chapter_VI__Why_Is_Such_A_Man.md"
     },
     {
       "title": "Chapter I. Father Ferapont",
-      "file": "17_Chapter_I__Father_Ferapont.md"
+      "file": "16_Chapter_I__Father_Ferapont.md"
     },
     {
       "title": "Book XI. Ivan",
-      "file": "18_Book_XI__Ivan.md"
+      "file": "17_Book_XI__Ivan.md"
     },
     {
       "title": "Chapter VII: A Young Man Bent On A Career",
-      "file": "19_Chapter_VII__A_Young_Man_Bent.md"
+      "file": "18_Chapter_VII__A_Young_Man_Bent.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "20_Book_VII__Alyosha.md"
+      "file": "19_Book_VII__Alyosha.md"
     },
     {
       "title": "Chapter X. Both Together",
-      "file": "21_Chapter_X__Both_Together.md"
+      "file": "20_Chapter_X__Both_Together.md"
     },
     {
       "title": "Chapter VIII: The Scandalous Scene",
-      "file": "22_Chapter_VIII__The_Scandalous_S.md"
+      "file": "21_Chapter_VIII__The_Scandalous_S.md"
     },
     {
       "title": "Book III. The Sensualists",
-      "file": "23_Book_III__The_Sensualists.md"
+      "file": "22_Book_III__The_Sensualists.md"
     },
     {
       "title": "Part I",
-      "file": "24_Part_I.md"
+      "file": "23_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "25_Part_II.md"
+      "file": "24_Part_II.md"
     },
     {
       "title": "Part III",
-      "file": "26_Part_III.md"
+      "file": "25_Part_III.md"
     },
     {
       "title": "Part IV",
-      "file": "27_Part_IV.md"
+      "file": "26_Part_IV.md"
     },
     {
       "title": "Chapter V: The Confession Of A Passionate Heart\u2014\u201cHeels Up\u201d",
-      "file": "28_Chapter_V__The_Confession_Of_A.md"
+      "file": "27_Chapter_V__The_Confession_Of_A.md"
     },
     {
       "title": "Chapter VI: Smerdyakov",
-      "file": "29_Chapter_VI__Smerdyakov.md"
+      "file": "28_Chapter_VI__Smerdyakov.md"
     },
     {
       "title": "Chapter VII: The Controversy",
-      "file": "30_Chapter_VII__The_Controversy.md"
+      "file": "29_Chapter_VII__The_Controversy.md"
     },
     {
       "title": "Chapter VI. Smerdyakov",
-      "file": "31_Chapter_VI__Smerdyakov.md"
+      "file": "30_Chapter_VI__Smerdyakov.md"
     },
     {
       "title": "Chapter I. Fyodor Pavlovitch Karamazov",
-      "file": "32_Chapter_I__Fyodor_Pavlovitch_K.md"
+      "file": "31_Chapter_I__Fyodor_Pavlovitch_K.md"
     },
     {
       "title": "Chapter II. At His Father\u2019s",
-      "file": "33_Chapter_II__At_His_Father_s.md"
+      "file": "32_Chapter_II__At_His_Father_s.md"
     },
     {
       "title": "Chapter VIII: Over The Brandy",
-      "file": "34_Chapter_VIII__Over_The_Brandy.md"
+      "file": "33_Chapter_VIII__Over_The_Brandy.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "35_Book_VII__Alyosha.md"
+      "file": "34_Book_VII__Alyosha.md"
     },
     {
       "title": "Chapter IX: The Sensualists",
-      "file": "36_Chapter_IX__The_Sensualists.md"
+      "file": "35_Chapter_IX__The_Sensualists.md"
+    },
+    {
+      "title": "Book VII. Alyosha",
+      "file": "36_Book_VII__Alyosha.md"
     },
     {
       "title": "Book VII. Alyosha",
@@ -159,532 +159,528 @@
       "file": "38_Book_VII__Alyosha.md"
     },
     {
-      "title": "Book VII. Alyosha",
-      "file": "39_Book_VII__Alyosha.md"
-    },
-    {
       "title": "Chapter X: Both Together",
-      "file": "40_Chapter_X__Both_Together.md"
+      "file": "39_Chapter_X__Both_Together.md"
     },
     {
       "title": "Chapter XI: Another Reputation Ruined",
-      "file": "41_Chapter_XI__Another_Reputation.md"
+      "file": "40_Chapter_XI__Another_Reputation.md"
     },
     {
       "title": "Part II",
-      "file": "42_Part_II.md"
+      "file": "41_Part_II.md"
     },
     {
       "title": "Book IV. Lacerations",
-      "file": "43_Book_IV__Lacerations.md"
+      "file": "42_Book_IV__Lacerations.md"
     },
     {
       "title": "Part I",
-      "file": "44_Part_I.md"
+      "file": "43_Part_I.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "45_Book_VII__Alyosha.md"
+      "file": "44_Book_VII__Alyosha.md"
     },
     {
       "title": "Part II",
-      "file": "46_Part_II.md"
+      "file": "45_Part_II.md"
     },
     {
       "title": "Part III",
-      "file": "47_Part_III.md"
+      "file": "46_Part_III.md"
     },
     {
       "title": "Part IV",
-      "file": "48_Part_IV.md"
+      "file": "47_Part_IV.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "49_Book_VII__Alyosha.md"
+      "file": "48_Book_VII__Alyosha.md"
     },
     {
       "title": "Chapter V: A Laceration In The Drawing-Room",
-      "file": "50_Chapter_V__A_Laceration_In_The.md"
+      "file": "49_Chapter_V__A_Laceration_In_The.md"
     },
     {
       "title": "Book XI. Ivan",
-      "file": "51_Book_XI__Ivan.md"
+      "file": "50_Book_XI__Ivan.md"
     },
     {
       "title": "Chapter VI: A Laceration In The Cottage",
-      "file": "52_Chapter_VI__A_Laceration_In_Th.md"
+      "file": "51_Chapter_VI__A_Laceration_In_Th.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "53_Book_VII__Alyosha.md"
+      "file": "52_Book_VII__Alyosha.md"
     },
     {
       "title": "Chapter VII: And In The Open Air",
-      "file": "54_Chapter_VII__And_In_The_Open_A.md"
+      "file": "53_Chapter_VII__And_In_The_Open_A.md"
     },
     {
       "title": "Book V. Pro And Contra",
-      "file": "55_Book_V__Pro_And_Contra.md"
+      "file": "54_Book_V__Pro_And_Contra.md"
     },
     {
       "title": "Part I",
-      "file": "56_Part_I.md"
+      "file": "55_Part_I.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "57_Book_VII__Alyosha.md"
+      "file": "56_Book_VII__Alyosha.md"
     },
     {
       "title": "Part II",
-      "file": "58_Part_II.md"
+      "file": "57_Part_II.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "59_Book_VII__Alyosha.md"
+      "file": "58_Book_VII__Alyosha.md"
     },
     {
       "title": "Part III",
-      "file": "60_Part_III.md"
+      "file": "59_Part_III.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "61_Book_VII__Alyosha.md"
+      "file": "60_Book_VII__Alyosha.md"
     },
     {
       "title": "Part IV",
-      "file": "62_Part_IV.md"
+      "file": "61_Part_IV.md"
     },
     {
       "title": "Book XI. Ivan",
-      "file": "63_Book_XI__Ivan.md"
+      "file": "62_Book_XI__Ivan.md"
     },
     {
       "title": "Chapter V: The Grand Inquisitor",
-      "file": "64_Chapter_V__The_Grand_Inquisito.md"
+      "file": "63_Chapter_V__The_Grand_Inquisito.md"
     },
     {
       "title": "Book XI. Ivan",
-      "file": "65_Book_XI__Ivan.md"
+      "file": "64_Book_XI__Ivan.md"
     },
     {
       "title": "Chapter VI: For Awhile A Very Obscure One",
-      "file": "66_Chapter_VI__For_Awhile_A_Very.md"
+      "file": "65_Chapter_VI__For_Awhile_A_Very.md"
     },
     {
       "title": "Chapter VI. Smerdyakov",
-      "file": "67_Chapter_VI__Smerdyakov.md"
+      "file": "66_Chapter_VI__Smerdyakov.md"
     },
     {
       "title": "Chapter VII: \u201cIt\u2019s Always Worth While Speaking To A Clever Man\u201d",
-      "file": "68_Chapter_VII___It_s_Always_Wort.md"
+      "file": "67_Chapter_VII___It_s_Always_Wort.md"
     },
     {
       "title": "Book XI. Ivan",
-      "file": "69_Book_XI__Ivan.md"
+      "file": "68_Book_XI__Ivan.md"
     },
     {
       "title": "Book VI. The Russian Monk",
-      "file": "70_Book_VI__The_Russian_Monk.md"
+      "file": "69_Book_VI__The_Russian_Monk.md"
     },
     {
       "title": "Part I",
-      "file": "71_Part_I.md"
+      "file": "70_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "72_Part_II.md"
+      "file": "71_Part_II.md"
     },
     {
       "title": "Chapter II. The Duel",
-      "file": "73_Chapter_II__The_Duel.md"
+      "file": "72_Chapter_II__The_Duel.md"
+    },
+    {
+      "title": "Part III",
+      "file": "73_Part_III.md"
     },
     {
       "title": "Part III",
       "file": "74_Part_III.md"
     },
     {
-      "title": "Part III",
-      "file": "75_Part_III.md"
-    },
-    {
       "title": "Book VII. Alyosha",
-      "file": "76_Book_VII__Alyosha.md"
+      "file": "75_Book_VII__Alyosha.md"
     },
     {
       "title": "Part I",
-      "file": "77_Part_I.md"
+      "file": "76_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "78_Part_II.md"
+      "file": "77_Part_II.md"
     },
     {
       "title": "Part III",
-      "file": "79_Part_III.md"
+      "file": "78_Part_III.md"
     },
     {
       "title": "Part IV",
-      "file": "80_Part_IV.md"
+      "file": "79_Part_IV.md"
     },
     {
       "title": "Book VIII. Mitya",
-      "file": "81_Book_VIII__Mitya.md"
+      "file": "80_Book_VIII__Mitya.md"
     },
     {
       "title": "Part I",
-      "file": "82_Part_I.md"
+      "file": "81_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "83_Part_II.md"
+      "file": "82_Part_II.md"
     },
     {
       "title": "Part III",
-      "file": "84_Part_III.md"
+      "file": "83_Part_III.md"
     },
     {
       "title": "Part IV",
-      "file": "85_Part_IV.md"
+      "file": "84_Part_IV.md"
     },
     {
       "title": "Chapter V: A Sudden Resolution",
-      "file": "86_Chapter_V__A_Sudden_Resolution.md"
+      "file": "85_Chapter_V__A_Sudden_Resolution.md"
     },
     {
       "title": "Chapter VI: \u201cI Am Coming, Too!\u201d",
-      "file": "87_Chapter_VI___I_Am_Coming__Too.md"
+      "file": "86_Chapter_VI___I_Am_Coming__Too.md"
     },
     {
       "title": "Chapter VII: The First And Rightful Lover",
-      "file": "88_Chapter_VII__The_First_And_Rig.md"
+      "file": "87_Chapter_VII__The_First_And_Rig.md"
     },
     {
       "title": "Chapter VIII: Delirium",
-      "file": "89_Chapter_VIII__Delirium.md"
+      "file": "88_Chapter_VIII__Delirium.md"
     },
     {
       "title": "Book VIII. Mitya",
-      "file": "90_Book_VIII__Mitya.md"
+      "file": "89_Book_VIII__Mitya.md"
     },
     {
       "title": "Chapter VIII. Delirium",
-      "file": "91_Chapter_VIII__Delirium.md"
+      "file": "90_Chapter_VIII__Delirium.md"
     },
     {
       "title": "Book IX. The Preliminary Investigation",
-      "file": "92_Book_IX__The_Preliminary_Inves.md"
+      "file": "91_Book_IX__The_Preliminary_Inves.md"
     },
     {
       "title": "Part I",
-      "file": "93_Part_I.md"
+      "file": "92_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "94_Part_II.md"
+      "file": "93_Part_II.md"
     },
     {
       "title": "Book VIII. Mitya",
-      "file": "95_Book_VIII__Mitya.md"
+      "file": "94_Book_VIII__Mitya.md"
     },
     {
       "title": "Part III",
-      "file": "96_Part_III.md"
+      "file": "95_Part_III.md"
     },
     {
       "title": "Book VIII. Mitya",
-      "file": "97_Book_VIII__Mitya.md"
+      "file": "96_Book_VIII__Mitya.md"
     },
     {
       "title": "Part IV",
-      "file": "98_Part_IV.md"
+      "file": "97_Part_IV.md"
     },
     {
       "title": "Chapter V: The Third Ordeal",
-      "file": "99_Chapter_V__The_Third_Ordeal.md"
+      "file": "98_Chapter_V__The_Third_Ordeal.md"
     },
     {
       "title": "Book VIII. Mitya",
-      "file": "100_Book_VIII__Mitya.md"
+      "file": "99_Book_VIII__Mitya.md"
     },
     {
       "title": "Chapter VI: The Prosecutor Catches Mitya",
-      "file": "101_Chapter_VI__The_Prosecutor_Cat.md"
+      "file": "100_Chapter_VI__The_Prosecutor_Cat.md"
     },
     {
       "title": "Chapter VII: Mitya\u2019s Great Secret. Received With Hisses",
-      "file": "102_Chapter_VII__Mitya_s_Great_Sec.md"
+      "file": "101_Chapter_VII__Mitya_s_Great_Sec.md"
+    },
+    {
+      "title": "Book VIII. Mitya",
+      "file": "102_Book_VIII__Mitya.md"
     },
     {
       "title": "Book VIII. Mitya",
       "file": "103_Book_VIII__Mitya.md"
     },
     {
-      "title": "Book VIII. Mitya",
-      "file": "104_Book_VIII__Mitya.md"
-    },
-    {
       "title": "Chapter IV. In The Dark",
-      "file": "105_Chapter_IV__In_The_Dark.md"
+      "file": "104_Chapter_IV__In_The_Dark.md"
     },
     {
       "title": "Chapter VIII: The Evidence Of The Witnesses. The Babe",
-      "file": "106_Chapter_VIII__The_Evidence_Of.md"
+      "file": "105_Chapter_VIII__The_Evidence_Of.md"
     },
     {
       "title": "Chapter IX: They Carry Mitya Away",
-      "file": "107_Chapter_IX__They_Carry_Mitya_A.md"
+      "file": "106_Chapter_IX__They_Carry_Mitya_A.md"
     },
     {
       "title": "Part IV",
-      "file": "108_Part_IV.md"
+      "file": "107_Part_IV.md"
     },
     {
       "title": "Book X. The Boys",
-      "file": "109_Book_X__The_Boys.md"
+      "file": "108_Book_X__The_Boys.md"
     },
     {
       "title": "Part I",
-      "file": "110_Part_I.md"
+      "file": "109_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "111_Part_II.md"
+      "file": "110_Part_II.md"
     },
     {
       "title": "Part III",
-      "file": "112_Part_III.md"
+      "file": "111_Part_III.md"
     },
     {
       "title": "Book X. The Boys",
-      "file": "113_Book_X__The_Boys.md"
+      "file": "112_Book_X__The_Boys.md"
     },
     {
       "title": "Part IV",
-      "file": "114_Part_IV.md"
+      "file": "113_Part_IV.md"
     },
     {
       "title": "Chapter V: By Ilusha\u2019s Bedside",
-      "file": "115_Chapter_V__By_Ilusha_s_Bedside.md"
+      "file": "114_Chapter_V__By_Ilusha_s_Bedside.md"
+    },
+    {
+      "title": "Chapter VII. Ilusha",
+      "file": "115_Chapter_VII__Ilusha.md"
     },
     {
       "title": "Chapter VII. Ilusha",
       "file": "116_Chapter_VII__Ilusha.md"
     },
     {
-      "title": "Chapter VII. Ilusha",
-      "file": "117_Chapter_VII__Ilusha.md"
-    },
-    {
       "title": "Chapter VI: Precocity",
-      "file": "118_Chapter_VI__Precocity.md"
+      "file": "117_Chapter_VI__Precocity.md"
     },
     {
       "title": "Chapter VII: Ilusha",
-      "file": "119_Chapter_VII__Ilusha.md"
+      "file": "118_Chapter_VII__Ilusha.md"
     },
     {
       "title": "Book XI. Ivan",
-      "file": "120_Book_XI__Ivan.md"
+      "file": "119_Book_XI__Ivan.md"
     },
     {
       "title": "Part I",
-      "file": "121_Part_I.md"
+      "file": "120_Part_I.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "122_Book_VII__Alyosha.md"
+      "file": "121_Book_VII__Alyosha.md"
     },
     {
       "title": "Part II",
-      "file": "123_Part_II.md"
+      "file": "122_Part_II.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "124_Book_VII__Alyosha.md"
+      "file": "123_Book_VII__Alyosha.md"
     },
     {
       "title": "Part III",
-      "file": "125_Part_III.md"
+      "file": "124_Part_III.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "126_Book_VII__Alyosha.md"
+      "file": "125_Book_VII__Alyosha.md"
     },
     {
       "title": "Part IV",
-      "file": "127_Part_IV.md"
+      "file": "126_Part_IV.md"
     },
     {
       "title": "Chapter V: Not You, Not You!",
-      "file": "128_Chapter_V__Not_You__Not_You.md"
+      "file": "127_Chapter_V__Not_You__Not_You.md"
+    },
+    {
+      "title": "Book XI. Ivan",
+      "file": "128_Book_XI__Ivan.md"
     },
     {
       "title": "Book XI. Ivan",
       "file": "129_Book_XI__Ivan.md"
     },
     {
-      "title": "Book XI. Ivan",
-      "file": "130_Book_XI__Ivan.md"
-    },
-    {
       "title": "Chapter VI. Smerdyakov",
-      "file": "131_Chapter_VI__Smerdyakov.md"
+      "file": "130_Chapter_VI__Smerdyakov.md"
     },
     {
       "title": "Chapter VI: The First Interview With Smerdyakov",
-      "file": "132_Chapter_VI__The_First_Intervie.md"
+      "file": "131_Chapter_VI__The_First_Intervie.md"
     },
     {
       "title": "Chapter I. Father Ferapont",
-      "file": "133_Chapter_I__Father_Ferapont.md"
+      "file": "132_Chapter_I__Father_Ferapont.md"
+    },
+    {
+      "title": "Chapter VI. Smerdyakov",
+      "file": "133_Chapter_VI__Smerdyakov.md"
     },
     {
       "title": "Chapter VI. Smerdyakov",
       "file": "134_Chapter_VI__Smerdyakov.md"
     },
     {
-      "title": "Chapter VI. Smerdyakov",
-      "file": "135_Chapter_VI__Smerdyakov.md"
-    },
-    {
       "title": "Chapter VII: The Second Visit To Smerdyakov",
-      "file": "136_Chapter_VII__The_Second_Visit.md"
+      "file": "135_Chapter_VII__The_Second_Visit.md"
     },
     {
       "title": "Chapter VI. Smerdyakov",
-      "file": "137_Chapter_VI__Smerdyakov.md"
+      "file": "136_Chapter_VI__Smerdyakov.md"
     },
     {
       "title": "Chapter VIII: The Third And Last Interview With Smerdyakov",
-      "file": "138_Chapter_VIII__The_Third_And_La.md"
+      "file": "137_Chapter_VIII__The_Third_And_La.md"
     },
     {
       "title": "Chapter IX: The Devil. Ivan\u2019s Nightmare",
-      "file": "139_Chapter_IX__The_Devil__Ivan_s.md"
+      "file": "138_Chapter_IX__The_Devil__Ivan_s.md"
     },
     {
       "title": "Book XI. Ivan",
-      "file": "140_Book_XI__Ivan.md"
+      "file": "139_Book_XI__Ivan.md"
     },
     {
       "title": "Chapter X: \u201cIt Was He Who Said That\u201d",
-      "file": "141_Chapter_X___It_Was_He_Who_Said.md"
+      "file": "140_Chapter_X___It_Was_He_Who_Said.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "142_Book_VII__Alyosha.md"
+      "file": "141_Book_VII__Alyosha.md"
     },
     {
       "title": "Book XII. A Judicial Error",
-      "file": "143_Book_XII__A_Judicial_Error.md"
+      "file": "142_Book_XII__A_Judicial_Error.md"
     },
     {
       "title": "Part I",
-      "file": "144_Part_I.md"
+      "file": "143_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "145_Part_II.md"
+      "file": "144_Part_II.md"
     },
     {
       "title": "Part III",
-      "file": "146_Part_III.md"
+      "file": "145_Part_III.md"
     },
     {
       "title": "Book VIII. Mitya",
-      "file": "147_Book_VIII__Mitya.md"
+      "file": "146_Book_VIII__Mitya.md"
     },
     {
       "title": "Part IV",
-      "file": "148_Part_IV.md"
+      "file": "147_Part_IV.md"
     },
     {
       "title": "Chapter VI. Smerdyakov",
-      "file": "149_Chapter_VI__Smerdyakov.md"
+      "file": "148_Chapter_VI__Smerdyakov.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "150_Book_VII__Alyosha.md"
+      "file": "149_Book_VII__Alyosha.md"
     },
     {
       "title": "Chapter V: A Sudden Catastrophe",
-      "file": "151_Chapter_V__A_Sudden_Catastroph.md"
+      "file": "150_Chapter_V__A_Sudden_Catastroph.md"
     },
     {
       "title": "Chapter VI: The Prosecutor\u2019s Speech. Sketches Of Character",
-      "file": "152_Chapter_VI__The_Prosecutor_s_S.md"
+      "file": "151_Chapter_VI__The_Prosecutor_s_S.md"
     },
     {
       "title": "Chapter VII: An Historical Survey",
-      "file": "153_Chapter_VII__An_Historical_Sur.md"
+      "file": "152_Chapter_VII__An_Historical_Sur.md"
     },
     {
       "title": "Chapter VIII: A Treatise On Smerdyakov",
-      "file": "154_Chapter_VIII__A_Treatise_On_Sm.md"
+      "file": "153_Chapter_VIII__A_Treatise_On_Sm.md"
     },
     {
       "title": "Chapter IX: The Galloping Troika. The End Of The Prosecutor\u2019s Speech.",
-      "file": "155_Chapter_IX__The_Galloping_Troi.md"
+      "file": "154_Chapter_IX__The_Galloping_Troi.md"
     },
     {
       "title": "Chapter X: The Speech For The Defense. An Argument That Cuts Both Ways",
-      "file": "156_Chapter_X__The_Speech_For_The.md"
+      "file": "155_Chapter_X__The_Speech_For_The.md"
     },
     {
       "title": "Chapter VI. The Prosecutor Catches Mitya",
-      "file": "157_Chapter_VI__The_Prosecutor_Cat.md"
+      "file": "156_Chapter_VI__The_Prosecutor_Cat.md"
     },
     {
       "title": "Chapter XI: There Was No Money. There Was No Robbery",
-      "file": "158_Chapter_XI__There_Was_No_Money.md"
+      "file": "157_Chapter_XI__There_Was_No_Money.md"
     },
     {
       "title": "Chapter XII: And There Was No Murder Either",
-      "file": "159_Chapter_XII__And_There_Was_No.md"
+      "file": "158_Chapter_XII__And_There_Was_No.md"
     },
     {
       "title": "Chapter XIII: A Corrupter Of Thought",
-      "file": "160_Chapter_XIII__A_Corrupter_Of_T.md"
+      "file": "159_Chapter_XIII__A_Corrupter_Of_T.md"
     },
     {
       "title": "Chapter XIV: The Peasants Stand Firm",
-      "file": "161_Chapter_XIV__The_Peasants_Stan.md"
+      "file": "160_Chapter_XIV__The_Peasants_Stan.md"
     },
     {
       "title": "Epilogue",
-      "file": "162_Epilogue.md"
+      "file": "161_Epilogue.md"
     },
     {
       "title": "Part I",
-      "file": "163_Part_I.md"
+      "file": "162_Part_I.md"
     },
     {
       "title": "Part II",
-      "file": "164_Part_II.md"
+      "file": "163_Part_II.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "165_Book_VII__Alyosha.md"
+      "file": "164_Book_VII__Alyosha.md"
     },
     {
       "title": "Book VIII. Mitya",
-      "file": "166_Book_VIII__Mitya.md"
+      "file": "165_Book_VIII__Mitya.md"
     },
     {
       "title": "Part III",
-      "file": "167_Part_III.md"
+      "file": "166_Part_III.md"
     },
     {
       "title": "Book VII. Alyosha",
-      "file": "168_Book_VII__Alyosha.md"
+      "file": "167_Book_VII__Alyosha.md"
     },
     {
       "title": "Book X. The Boys",
-      "file": "169_Book_X__The_Boys.md"
+      "file": "168_Book_X__The_Boys.md"
     },
     {
       "title": "Footnotes",
-      "file": "170_Footnotes.md"
+      "file": "169_Footnotes.md"
     }
   ]
 }

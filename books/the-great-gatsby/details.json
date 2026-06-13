@@ -7,28 +7,24 @@
   "description": "A classic masterpiece by F. Scott Fitzgerald. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "Chapter I: II",
-      "file": "02_Chapter_I__II.md"
+      "file": "01_Chapter_I__II.md"
     },
     {
       "title": "Chapter III: IV",
-      "file": "03_Chapter_III__IV.md"
+      "file": "02_Chapter_III__IV.md"
     },
     {
       "title": "Chapter V: VI",
-      "file": "04_Chapter_V__VI.md"
+      "file": "03_Chapter_V__VI.md"
     },
     {
       "title": "Chapter VII: VIII",
-      "file": "05_Chapter_VII__VIII.md"
+      "file": "04_Chapter_VII__VIII.md"
     },
     {
       "title": "VIII",
-      "file": "06_VIII.md"
+      "file": "05_VIII.md"
     }
   ]
 }

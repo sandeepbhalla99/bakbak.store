@@ -1,67 +1,25 @@
 # Book VII. Alyosha
 
-“Of course I won’t let him be murdered as I didn’t just now. Stay here, Alyosha, I’ll go for a turn in the yard. My head’s begun to ache.”
+“I shall be at the Hohlakovs’ to-morrow,” answered Alyosha, “I may be at Katerina Ivanovna’s, too, if I don’t find her now.”
 
-Alyosha went to his father’s bedroom and sat by his bedside behind the screen for about an hour. The old man suddenly opened his eyes and gazed for a long while at Alyosha, evidently remembering and meditating. All at once his face betrayed extraordinary excitement.
+“But you’re going to her now, anyway? For that ‘compliments and farewell,’” said Ivan smiling. Alyosha was disconcerted.
 
-“Alyosha,” he whispered apprehensively, “where’s Ivan?”
+“I think I quite understand his exclamations just now, and part of what went before. Dmitri has asked you to go to her and say that he—well, in fact—takes his leave of her?”
 
-“In the yard. He’s got a headache. He’s on the watch.”
+“Brother, how will all this horror end between father and Dmitri?” exclaimed Alyosha.
 
-“Give me that looking-glass. It stands over there. Give it me.”
+“One can’t tell for certain. Perhaps in nothing: it may all fizzle out. That woman is a beast. In any case we must keep the old man indoors and not let Dmitri in the house.”
 
-Alyosha gave him a little round folding looking-glass which stood on the chest of drawers. The old man looked at himself in it; his nose was considerably swollen, and on the left side of his forehead there was a rather large crimson bruise.
+“Brother, let me ask one thing more: has any man a right to look at other men and decide which is worthy to live?”
 
-“What does Ivan say? Alyosha, my dear, my only son, I’m afraid of Ivan. I’m more afraid of Ivan than the other. You’re the only one I’m not afraid of....”
+“Why bring in the question of worth? The matter is most often decided in men’s hearts on other grounds much more natural. And as for rights—who has not the right to wish?”
 
-“Don’t be afraid of Ivan either. He is angry, but he’ll defend you.”
+“Not for another man’s death?”
 
-“Alyosha, and what of the other? He’s run to Grushenka. My angel, tell me the truth, was she here just now or not?”
+“What even if for another man’s death? Why lie to oneself since all men live so and perhaps cannot help living so. Are you referring to what I said just now—that one reptile will devour the other? In that case let me ask you, do you think me like Dmitri capable of shedding Æsop’s blood, murdering him, eh?”
 
-“No one has seen her. It was a mistake. She has not been here.”
+“What are you saying, Ivan? Such an idea never crossed my mind. I don’t think Dmitri is capable of it, either.”
 
-“You know Mitya wants to marry her, to marry her.”
+“Thanks, if only for that,” smiled Ivan. “Be sure, I should always defend him. But in my wishes I reserve myself full latitude in this case. Good-by till to-morrow. Don’t condemn me, and don’t look on me as a villain,” he added with a smile.
 
-“She won’t marry him.”
-
-“She won’t. She won’t. She won’t. She won’t on any account!”
-
-The old man fairly fluttered with joy, as though nothing more comforting could have been said to him. In his delight he seized Alyosha’s hand and pressed it warmly to his heart. Tears positively glittered in his eyes.
-
-“That image of the Mother of God of which I was telling you just now,” he said. “Take it home and keep it for yourself. And I’ll let you go back to the monastery.... I was joking this morning, don’t be angry with me. My head aches, Alyosha.... Alyosha, comfort my heart. Be an angel and tell me the truth!”
-
-“You’re still asking whether she has been here or not?” Alyosha said sorrowfully.
-
-“No, no, no. I believe you. I’ll tell you what it is: you go to Grushenka yourself, or see her somehow; make haste and ask her; see for yourself, which she means to choose, him or me. Eh? What? Can you?”
-
-“If I see her I’ll ask her,” Alyosha muttered, embarrassed.
-
-“No, she won’t tell you,” the old man interrupted, “she’s a rogue. She’ll begin kissing you and say that it’s you she wants. She’s a deceitful, shameless hussy. You mustn’t go to her, you mustn’t!”
-
-“No, father, and it wouldn’t be suitable, it wouldn’t be right at all.”
-
-“Where was he sending you just now? He shouted ‘Go’ as he ran away.”
-
-“To Katerina Ivanovna.”
-
-“For money? To ask her for money?”
-
-“No. Not for money.”
-
-“He’s no money; not a farthing. I’ll settle down for the night, and think things over, and you can go. Perhaps you’ll meet her.... Only be sure to come to me to-morrow in the morning. Be sure to. I have a word to say to you to-morrow. Will you come?”
-
-“Yes.”
-
-“When you come, pretend you’ve come of your own accord to ask after me. Don’t tell any one I told you to. Don’t say a word to Ivan.”
-
-“Very well.”
-
-“Good-by, my angel. You stood up for me, just now. I shall never forget it. I’ve a word to say to you to-morrow—but I must think about it.”
-
-“And how do you feel now?”
-
-“I shall get up to-morrow and go out, perfectly well, perfectly well!”
-
-Crossing the yard Alyosha found Ivan sitting on the bench at the gateway. He was sitting writing something in pencil in his note-book. Alyosha told Ivan that their father had waked up, was conscious, and had let him go back to sleep at the monastery.
-
-“Alyosha, I should be very glad to meet you to-morrow morning,” said Ivan cordially, standing up. His cordiality was a complete surprise to
+They shook hands warmly as they had never done before. Alyosha felt that his brother had taken the first step towards him, and that he had certainly done this with some definite motive.

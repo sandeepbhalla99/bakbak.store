@@ -78,6 +78,24 @@ export async function renderReaderContent() {
       const htmlContent = marked.parse(markdown, { breaks: true });
       textBody.innerHTML = htmlContent;
 
+      // Intercept link clicks for SPA chapter navigation
+      const links = textBody.querySelectorAll('a');
+      links.forEach(link => {
+        const href = link.getAttribute('href');
+        if (href && (href.endsWith('.md') || href.includes('chapters/'))) {
+          link.addEventListener('click', (e) => {
+            e.preventDefault();
+            // Extract filename from href
+            const filename = href.split('/').pop();
+            const chapIdx = activeBook.chapters.findIndex(c => c.file === filename);
+            if (chapIdx !== -1) {
+              activeChapterIndex = chapIdx;
+              renderReaderContent();
+            }
+          });
+        }
+      });
+
       // Update progress numbers
       const chapterNumEl = document.getElementById('reader-chapter-num');
       const progressPctEl = document.getElementById('reader-progress-pct');

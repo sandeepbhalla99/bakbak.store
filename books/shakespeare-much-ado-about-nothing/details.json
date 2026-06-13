@@ -7,184 +7,180 @@
   "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "ACT I",
-      "file": "02_ACT_I.md"
+      "file": "01_ACT_I.md"
     },
     {
       "title": "Scene II: A room in Leonato\u2019s house.",
-      "file": "03_Scene_II__A_room_in_Leonato_s.md"
+      "file": "02_Scene_II__A_room_in_Leonato_s.md"
     },
     {
       "title": "Scene III: Another room in Leonato\u2019s house.",
-      "file": "04_Scene_III__Another_room_in_Leo.md"
+      "file": "03_Scene_III__Another_room_in_Leo.md"
     },
     {
       "title": "ACT II",
-      "file": "05_ACT_II.md"
+      "file": "04_ACT_II.md"
     },
     {
       "title": "ACT I",
-      "file": "06_ACT_I.md"
+      "file": "05_ACT_I.md"
     },
     {
       "title": "Scene II: Another room in Leonato\u2019s house.",
-      "file": "07_Scene_II__Another_room_in_Leon.md"
+      "file": "06_Scene_II__Another_room_in_Leon.md"
     },
     {
       "title": "Scene III: Leonato\u2019s Garden.",
-      "file": "08_Scene_III__Leonato_s_Garden.md"
+      "file": "07_Scene_III__Leonato_s_Garden.md"
     },
     {
       "title": "ACT III",
-      "file": "09_ACT_III.md"
+      "file": "08_ACT_III.md"
     },
     {
       "title": "ACT I",
-      "file": "10_ACT_I.md"
+      "file": "09_ACT_I.md"
     },
     {
       "title": "Scene II: A Room in Leonato\u2019s House.",
-      "file": "11_Scene_II__A_Room_in_Leonato_s.md"
+      "file": "10_Scene_II__A_Room_in_Leonato_s.md"
     },
     {
       "title": "Scene III: A Street.",
-      "file": "12_Scene_III__A_Street.md"
+      "file": "11_Scene_III__A_Street.md"
     },
     {
       "title": "Scene IV: A Room in Leonato\u2019s House.",
-      "file": "13_Scene_IV__A_Room_in_Leonato_s.md"
+      "file": "12_Scene_IV__A_Room_in_Leonato_s.md"
     },
     {
       "title": "Scene V: Another Room in Leonato\u2019s House.",
-      "file": "14_Scene_V__Another_Room_in_Leona.md"
+      "file": "13_Scene_V__Another_Room_in_Leona.md"
     },
     {
       "title": "ACT IV",
-      "file": "15_ACT_IV.md"
+      "file": "14_ACT_IV.md"
     },
     {
       "title": "ACT I",
-      "file": "16_ACT_I.md"
+      "file": "15_ACT_I.md"
     },
     {
       "title": "Scene II: A Prison.",
-      "file": "17_Scene_II__A_Prison.md"
+      "file": "16_Scene_II__A_Prison.md"
     },
     {
       "title": "ACT V",
-      "file": "18_ACT_V.md"
+      "file": "17_ACT_V.md"
     },
     {
       "title": "ACT I",
-      "file": "19_ACT_I.md"
+      "file": "18_ACT_I.md"
     },
     {
       "title": "Scene II: Leonato\u2019s Garden.",
-      "file": "20_Scene_II__Leonato_s_Garden.md"
+      "file": "19_Scene_II__Leonato_s_Garden.md"
     },
     {
       "title": "Scene III: The Inside of a Church.",
-      "file": "21_Scene_III__The_Inside_of_a_Chu.md"
+      "file": "20_Scene_III__The_Inside_of_a_Chu.md"
     },
     {
       "title": "Scene IV: A Room in Leonato\u2019s House.",
-      "file": "22_Scene_IV__A_Room_in_Leonato_s.md"
+      "file": "21_Scene_IV__A_Room_in_Leonato_s.md"
     },
     {
       "title": "SCENE. Messina.",
-      "file": "23_SCENE__Messina.md"
+      "file": "22_SCENE__Messina.md"
     },
     {
       "title": "ACT I",
-      "file": "24_ACT_I.md"
+      "file": "23_ACT_I.md"
     },
     {
       "title": "SCENE I. Before Leonato\u2019s House.",
-      "file": "25_SCENE_I__Before_Leonato_s_Hous.md"
+      "file": "24_SCENE_I__Before_Leonato_s_Hous.md"
     },
     {
       "title": "SCENE II. A room in Leonato\u2019s house.",
-      "file": "26_SCENE_II__A_room_in_Leonato_s.md"
+      "file": "25_SCENE_II__A_room_in_Leonato_s.md"
     },
     {
       "title": "SCENE III. Another room in Leonato\u2019s house: Enter Don John and Conrade.",
-      "file": "27_SCENE_III__Another_room_in_Leo.md"
+      "file": "26_SCENE_III__Another_room_in_Leo.md"
     },
     {
       "title": "ACT II",
-      "file": "28_ACT_II.md"
+      "file": "27_ACT_II.md"
     },
     {
       "title": "SCENE I. A hall in Leonato\u2019s house.",
-      "file": "29_SCENE_I__A_hall_in_Leonato_s_h.md"
+      "file": "28_SCENE_I__A_hall_in_Leonato_s_h.md"
     },
     {
       "title": "SCENE II. Another room in Leonato\u2019s house: Enter Don John and Borachio.",
-      "file": "30_SCENE_II__Another_room_in_Leon.md"
+      "file": "29_SCENE_II__Another_room_in_Leon.md"
     },
     {
       "title": "SCENE III. Leonato\u2019s Garden: Enter Benedick.",
-      "file": "31_SCENE_III__Leonato_s_Garden__E.md"
+      "file": "30_SCENE_III__Leonato_s_Garden__E.md"
     },
     {
       "title": "ACT III",
-      "file": "32_ACT_III.md"
+      "file": "31_ACT_III.md"
     },
     {
       "title": "SCENE I. Leonato\u2019s Garden: Enter Hero, Margaret and Ursula.",
-      "file": "33_SCENE_I__Leonato_s_Garden__Ent.md"
+      "file": "32_SCENE_I__Leonato_s_Garden__Ent.md"
     },
     {
       "title": "SCENE II. A Room in Leonato\u2019s House: Enter Don Pedro, Claudio, Benedick and Leonato.",
-      "file": "34_SCENE_II__A_Room_in_Leonato_s.md"
+      "file": "33_SCENE_II__A_Room_in_Leonato_s.md"
     },
     {
       "title": "Scene III. A Street.",
-      "file": "35_Scene_III__A_Street.md"
+      "file": "34_Scene_III__A_Street.md"
     },
     {
       "title": "Scene IV. A Room in Leonato\u2019s House: Enter Hero, Margaret and Ursula.",
-      "file": "36_Scene_IV__A_Room_in_Leonato_s.md"
+      "file": "35_Scene_IV__A_Room_in_Leonato_s.md"
     },
     {
       "title": "Scene V. Another Room in Leonato\u2019s House.",
-      "file": "37_Scene_V__Another_Room_in_Leona.md"
+      "file": "36_Scene_V__Another_Room_in_Leona.md"
     },
     {
       "title": "ACT IV",
-      "file": "38_ACT_IV.md"
+      "file": "37_ACT_IV.md"
     },
     {
       "title": "SCENE I. The Inside of a Church.",
-      "file": "39_SCENE_I__The_Inside_of_a_Churc.md"
+      "file": "38_SCENE_I__The_Inside_of_a_Churc.md"
     },
     {
       "title": "Scene II. A Prison.",
-      "file": "40_Scene_II__A_Prison.md"
+      "file": "39_Scene_II__A_Prison.md"
     },
     {
       "title": "ACT V",
-      "file": "41_ACT_V.md"
+      "file": "40_ACT_V.md"
     },
     {
       "title": "SCENE I. Before Leonato\u2019s House: Enter Leonato and Antonio.",
-      "file": "42_SCENE_I__Before_Leonato_s_Hous.md"
+      "file": "41_SCENE_I__Before_Leonato_s_Hous.md"
     },
     {
       "title": "SCENE II. Leonato\u2019s Garden.",
-      "file": "43_SCENE_II__Leonato_s_Garden.md"
+      "file": "42_SCENE_II__Leonato_s_Garden.md"
     },
     {
       "title": "SCENE III. The Inside of a Church.",
-      "file": "44_SCENE_III__The_Inside_of_a_Chu.md"
+      "file": "43_SCENE_III__The_Inside_of_a_Chu.md"
     },
     {
       "title": "SCENE IV. A Room in Leonato\u2019s House.",
-      "file": "45_SCENE_IV__A_Room_in_Leonato_s.md"
+      "file": "44_SCENE_IV__A_Room_in_Leonato_s.md"
     }
   ]
 }

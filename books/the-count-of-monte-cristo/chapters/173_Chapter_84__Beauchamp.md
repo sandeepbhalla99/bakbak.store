@@ -1,63 +1,109 @@
 # Chapter 84. Beauchamp
 
-“Yes, indeed!” replied Debray. “That worthy prince. Deuce take those Italian princes!”
+“Come,” he said, “it is only a veiled lady, some foreign princess, perhaps the mother of Cavalcanti. But you were just speaking on a very interesting topic, Beauchamp.”
 
-“A man, too, who could boast of Dante for a genealogist, and could reckon back to the _Divina Comedia_.”
+“I?”
 
-“A nobility of the rope!” said Château-Renaud phlegmatically.
+“Yes; you were telling us about the extraordinary death of Valentine.”
 
-“He will be condemned, will he not?” asked Debray of Beauchamp.
+“Ah, yes, so I was. But how is it that Madame de Villefort is not here?”
 
-“My dear fellow, I think we should ask you that question; you know such news much better than we do. Did you see the president at the minister’s last night?”
+“Poor, dear woman,” said Debray, “she is no doubt occupied in distilling balm for the hospitals, or in making cosmetics for herself or friends. Do you know she spends two or three thousand crowns a year in this amusement? But I wonder she is not here. I should have been pleased to see her, for I like her very much.”
 
-“Yes.”
+“And I hate her,” said Château-Renaud.
 
-“What did he say?”
+“Why?”
 
-“Something which will surprise you.”
+“I do not know. Why do we love? Why do we hate? I detest her, from antipathy.”
 
-“Oh, make haste and tell me, then; it is a long time since that has happened.”
+“Or, rather, by instinct.”
 
-“Well, he told me that Benedetto, who is considered a serpent of subtlety and a giant of cunning, is really but a very commonplace, silly rascal, and altogether unworthy of the experiments that will be made on his phrenological organs after his death.”
+“Perhaps so. But to return to what you were saying, Beauchamp.”
 
-“Bah,” said Beauchamp, “he played the prince very well.”
+“Well, do you know why they die so multitudinously at M. de Villefort’s?”
 
-“Yes, for you who detest those unhappy princes, Beauchamp, and are always delighted to find fault with them; but not for me, who discover a gentleman by instinct, and who scent out an aristocratic family like a very bloodhound of heraldry.”
+“‘Multitudinously’ is good,” said Château-Renaud.
 
-“Then you never believed in the principality?”
+“My good fellow, you’ll find the word in Saint-Simon.”
 
-“Yes.—in the principality, but not in the prince.”
+“But the thing itself is at M. de Villefort’s; but let’s get back to the subject.”
 
-“Not so bad,” said Beauchamp; “still, I assure you, he passed very well with many people; I saw him at the ministers’ houses.”
+“Talking of that,” said Debray, “Madame was making inquiries about that house, which for the last three months has been hung with black.”
 
-“Ah, yes,” said Château-Renaud. “The idea of thinking ministers understand anything about princes!”
+“Who is Madame?” asked Château-Renaud.
 
-“There is something in what you have just said,” said Beauchamp, laughing.
+“The minister’s wife, _pardieu!_”
 
-“But,” said Debray to Beauchamp, “if I spoke to the president, _you_ must have been with the procureur.”
+“Oh, your pardon! I never visit ministers; I leave that to the princes.”
 
-“It was an impossibility; for the last week M. de Villefort has secluded himself. It is natural enough; this strange chain of domestic afflictions, followed by the no less strange death of his daughter——”
+“Really, you were only before sparkling, but now you are brilliant; take compassion on us, or, like Jupiter, you will wither us up.”
 
-“Strange? What do you mean, Beauchamp?”
+“I will not speak again,” said Château-Renaud; “pray have compassion upon me, and do not take up every word I say.”
 
-“Oh, yes; do you pretend that all this has been unobserved at the minister’s?” said Beauchamp, placing his eye-glass in his eye, where he tried to make it remain.
+“Come, let us endeavor to get to the end of our story, Beauchamp; I told you that yesterday Madame made inquiries of me upon the subject; enlighten me, and I will then communicate my information to her.”
 
-“My dear sir,” said Château-Renaud, “allow me to tell you that you do not understand that manœuvre with the eye-glass half so well as Debray. Give him a lesson, Debray.”
+“Well, gentlemen, the reason people die so multitudinously (I like the word) at M. de Villefort’s is that there is an assassin in the house!”
 
-“Stay,” said Beauchamp, “surely I am not deceived.”
+The two young men shuddered, for the same idea had more than once occurred to them.
 
-“What is it?”
+“And who is the assassin;” they asked together.
 
-“It is she!”
+“Young Edward!” A burst of laughter from the auditors did not in the least disconcert the speaker, who continued,—“Yes, gentlemen; Edward, the infant phenomenon, who is quite an adept in the art of killing.”
 
-“Whom do you mean?”
+“You are jesting.”
 
-“They said she had left.”
+“Not at all. I yesterday engaged a servant, who had just left M. de Villefort—I intend sending him away tomorrow, for he eats so enormously, to make up for the fast imposed upon him by his terror in that house. Well, now listen.”
 
-“Mademoiselle Eugénie?” said Château-Renaud; “has she returned?”
+“We are listening.”
 
-“No, but her mother.”
+“It appears the dear child has obtained possession of a bottle containing some drug, which he every now and then uses against those who have displeased him. First, M. and Madame de Saint-Méran incurred his displeasure, so he poured out three drops of his elixir—three drops were sufficient; then followed Barrois, the old servant of M. Noirtier, who sometimes rebuffed this little wretch—he therefore received the same quantity of the elixir; the same happened to Valentine, of whom he was jealous; he gave her the same dose as the others, and all was over for her as well as the rest.”
 
-“Madame Danglars? Nonsense! Impossible!” said Château-Renaud; “only ten days after the flight of her daughter, and three days from the bankruptcy of her husband?”
+“Why, what nonsense are you telling us?” said Château-Renaud.
 
-Debray colored slightly, and followed with his eyes the direction of
+“Yes, it is an extraordinary story,” said Beauchamp; “is it not?”
+
+“It is absurd,” said Debray.
+
+“Ah,” said Beauchamp, “you doubt me? Well, you can ask my servant, or rather him who will no longer be my servant tomorrow, it was the talk of the house.”
+
+“And this elixir, where is it? what is it?”
+
+“The child conceals it.”
+
+“But where did he find it?”
+
+“In his mother’s laboratory.”
+
+“Does his mother then, keep poisons in her laboratory?”
+
+“How can I tell? You are questioning me like a king’s attorney. I only repeat what I have been told, and like my informant I can do no more. The poor devil would eat nothing, from fear.”
+
+“It is incredible!”
+
+“No, my dear fellow, it is not at all incredible. You saw the child pass through the Rue Richelieu last year, who amused himself with killing his brothers and sisters by sticking pins in their ears while they slept. The generation who follow us are very precocious.”
+
+“Come, Beauchamp,” said Château-Renaud, “I will bet anything you do not believe a word of all you have been telling us. But I do not see the Count of Monte Cristo here.”
+
+“He is worn out,” said Debray; “besides, he could not well appear in public, since he has been the dupe of the Cavalcanti, who, it appears, presented themselves to him with false letters of credit, and cheated him out of 100,000 francs upon the hypothesis of this principality.”
+
+“By the way, M. de Château-Renaud,” asked Beauchamp, “how is Morrel?”
+
+“_Ma foi_, I have called three times without once seeing him. Still, his sister did not seem uneasy, and told me that though she had not seen him for two or three days, she was sure he was well.”
+
+“Ah, now I think of it, the Count of Monte Cristo cannot appear in the hall,” said Beauchamp.
+
+“Why not?”
+
+“Because he is an actor in the drama.”
+
+“Has he assassinated anyone, then?”
+
+“No, on the contrary, they wished to assassinate him. You know that it was in leaving his house that M. de Caderousse was murdered by his friend Benedetto. You know that the famous waistcoat was found in his house, containing the letter which stopped the signature of the marriage-contract. Do you see the waistcoat? There it is, all blood-stained, on the desk, as a testimony of the crime.”
+
+“Ah, very good.”
+
+“Hush, gentlemen, here is the court; let us go back to our places.”
+
+A noise was heard in the hall; the sergeant called his two patrons with an energetic “hem!” and the door-keeper appearing, called out with that shrill voice peculiar to his order, ever since the days of Beaumarchais:
+
+“The court, gentlemen!”

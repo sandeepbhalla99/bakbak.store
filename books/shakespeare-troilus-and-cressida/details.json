@@ -7,228 +7,224 @@
   "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "ACT I",
-      "file": "02_ACT_I.md"
+      "file": "01_ACT_I.md"
     },
     {
       "title": "Scene II.",
-      "file": "03_Scene_II.md"
+      "file": "02_Scene_II.md"
     },
     {
       "title": "Scene III: The Grecian camp. Before Agamemnon\u2019s tent.",
-      "file": "04_Scene_III__The_Grecian_camp__B.md"
+      "file": "03_Scene_III__The_Grecian_camp__B.md"
     },
     {
       "title": "ACT I",
-      "file": "05_ACT_I.md"
+      "file": "04_ACT_I.md"
     },
     {
       "title": "Scene II.",
-      "file": "06_Scene_II.md"
+      "file": "05_Scene_II.md"
     },
     {
       "title": "Scene III: The Grecian camp. Before the tent of Achilles.",
-      "file": "07_Scene_III__The_Grecian_camp__B.md"
+      "file": "06_Scene_III__The_Grecian_camp__B.md"
     },
     {
       "title": "ACT I",
-      "file": "08_ACT_I.md"
+      "file": "07_ACT_I.md"
     },
     {
       "title": "Scene II.",
-      "file": "09_Scene_II.md"
+      "file": "08_Scene_II.md"
     },
     {
       "title": "Scene III: The Greek camp.",
-      "file": "10_Scene_III__The_Greek_camp.md"
+      "file": "09_Scene_III__The_Greek_camp.md"
     },
     {
       "title": "ACT I",
-      "file": "11_ACT_I.md"
+      "file": "10_ACT_I.md"
     },
     {
       "title": "Scene II.",
-      "file": "12_Scene_II.md"
+      "file": "11_Scene_II.md"
     },
     {
       "title": "Scene III.",
-      "file": "13_Scene_III.md"
+      "file": "12_Scene_III.md"
     },
     {
       "title": "Scene IV.",
-      "file": "14_Scene_IV.md"
+      "file": "13_Scene_IV.md"
     },
     {
       "title": "Scene V: The Grecian camp. Lists set out.",
-      "file": "15_Scene_V__The_Grecian_camp__Lis.md"
+      "file": "14_Scene_V__The_Grecian_camp__Lis.md"
     },
     {
       "title": "ACT I",
-      "file": "16_ACT_I.md"
+      "file": "15_ACT_I.md"
     },
     {
       "title": "Scene II.",
-      "file": "17_Scene_II.md"
+      "file": "16_Scene_II.md"
     },
     {
       "title": "Scene III.",
-      "file": "18_Scene_III.md"
+      "file": "17_Scene_III.md"
     },
     {
       "title": "Scene IV.",
-      "file": "19_Scene_IV.md"
+      "file": "18_Scene_IV.md"
     },
     {
       "title": "Scene V.",
-      "file": "20_Scene_V.md"
+      "file": "19_Scene_V.md"
     },
     {
       "title": "Scene VI.",
-      "file": "21_Scene_VI.md"
+      "file": "20_Scene_VI.md"
     },
     {
       "title": "Scene VII.",
-      "file": "22_Scene_VII.md"
+      "file": "21_Scene_VII.md"
     },
     {
       "title": "Scene VIII.",
-      "file": "23_Scene_VIII.md"
+      "file": "22_Scene_VIII.md"
     },
     {
       "title": "Scene IX.",
-      "file": "24_Scene_IX.md"
+      "file": "23_Scene_IX.md"
     },
     {
       "title": "Scene X: Another part of the plain.",
-      "file": "25_Scene_X__Another_part_of_the_p.md"
+      "file": "24_Scene_X__Another_part_of_the_p.md"
     },
     {
       "title": "SCENE: Troy and the Greek camp before it",
-      "file": "26_SCENE__Troy_and_the_Greek_camp.md"
+      "file": "25_SCENE__Troy_and_the_Greek_camp.md"
     },
     {
       "title": "Prologue",
-      "file": "27_Prologue.md"
+      "file": "26_Prologue.md"
     },
     {
       "title": "ACT I",
-      "file": "28_ACT_I.md"
+      "file": "27_ACT_I.md"
     },
     {
       "title": "SCENE I. Troy. Before Priam\u2019s palace: Enter Troilus armed, and Pandarus.",
-      "file": "29_SCENE_I__Troy__Before_Priam_s.md"
+      "file": "28_SCENE_I__Troy__Before_Priam_s.md"
     },
     {
       "title": "SCENE II. Troy. A street: Enter Cressida and her man Alexander.",
-      "file": "30_SCENE_II__Troy__A_street__Ente.md"
+      "file": "29_SCENE_II__Troy__A_street__Ente.md"
     },
     {
       "title": "SCENE III. The Grecian camp. Before Agamemnon\u2019s tent.",
-      "file": "31_SCENE_III__The_Grecian_camp__B.md"
+      "file": "30_SCENE_III__The_Grecian_camp__B.md"
     },
     {
       "title": "ACT II",
-      "file": "32_ACT_II.md"
+      "file": "31_ACT_II.md"
     },
     {
       "title": "SCENE I. The Grecian camp: Enter Ajax and Thersites.",
-      "file": "33_SCENE_I__The_Grecian_camp__Ent.md"
+      "file": "32_SCENE_I__The_Grecian_camp__Ent.md"
     },
     {
       "title": "SCENE II. Troy. Priam\u2019s palace: Enter Priam, Hector, Troilus, Paris and Helenus.",
-      "file": "34_SCENE_II__Troy__Priam_s_palace.md"
+      "file": "33_SCENE_II__Troy__Priam_s_palace.md"
     },
     {
       "title": "SCENE III. The Grecian camp. Before the tent of Achilles: Enter Thersites, solus.",
-      "file": "35_SCENE_III__The_Grecian_camp__B.md"
+      "file": "34_SCENE_III__The_Grecian_camp__B.md"
     },
     {
       "title": "ACT III",
-      "file": "36_ACT_III.md"
+      "file": "35_ACT_III.md"
     },
     {
       "title": "SCENE I. Troy. Priam\u2019s palace: Music sounds within. Enter Pandarus and a Servant.",
-      "file": "37_SCENE_I__Troy__Priam_s_palace.md"
+      "file": "36_SCENE_I__Troy__Priam_s_palace.md"
     },
     {
       "title": "SCENE II. Troy. Pandarus\u2019 orchard: Enter Pandarus and Troilus\u2019 Boy, meeting.",
-      "file": "38_SCENE_II__Troy__Pandarus__orch.md"
+      "file": "37_SCENE_II__Troy__Pandarus__orch.md"
     },
     {
       "title": "SCENE III. The Greek camp.",
-      "file": "39_SCENE_III__The_Greek_camp.md"
+      "file": "38_SCENE_III__The_Greek_camp.md"
     },
     {
       "title": "ACT IV",
-      "file": "40_ACT_IV.md"
+      "file": "39_ACT_IV.md"
     },
     {
       "title": "SCENE I. Troy. A street.",
-      "file": "41_SCENE_I__Troy__A_street.md"
+      "file": "40_SCENE_I__Troy__A_street.md"
     },
     {
       "title": "SCENE II. Troy. The court of Pandarus\u2019 house: Enter Troilus and Cressida.",
-      "file": "42_SCENE_II__Troy__The_court_of_P.md"
+      "file": "41_SCENE_II__Troy__The_court_of_P.md"
     },
     {
       "title": "SCENE III. Troy. A street before Pandarus\u2019 house: Enter Paris, Troilus, Aeneas, Deiphobus, Antenor and Diomedes.",
-      "file": "43_SCENE_III__Troy__A_street_befo.md"
+      "file": "42_SCENE_III__Troy__A_street_befo.md"
     },
     {
       "title": "SCENE IV. Troy. Pandarus\u2019 house: Enter Pandarus and Cressida.",
-      "file": "44_SCENE_IV__Troy__Pandarus__hous.md"
+      "file": "43_SCENE_IV__Troy__Pandarus__hous.md"
     },
     {
       "title": "SCENE V. The Grecian camp. Lists set out.",
-      "file": "45_SCENE_V__The_Grecian_camp__Lis.md"
+      "file": "44_SCENE_V__The_Grecian_camp__Lis.md"
     },
     {
       "title": "ACT V",
-      "file": "46_ACT_V.md"
+      "file": "45_ACT_V.md"
     },
     {
       "title": "SCENE I. The Grecian camp. Before the tent of Achilles: Enter Achilles and Patroclus.",
-      "file": "47_SCENE_I__The_Grecian_camp__Bef.md"
+      "file": "46_SCENE_I__The_Grecian_camp__Bef.md"
     },
     {
       "title": "SCENE II. The Grecian camp. Before Calchas\u2019 tent: Enter Diomedes.",
-      "file": "48_SCENE_II__The_Grecian_camp__Be.md"
+      "file": "47_SCENE_II__The_Grecian_camp__Be.md"
     },
     {
       "title": "SCENE III. Troy. Before Priam\u2019s palace: Enter Hector and Andromache.",
-      "file": "49_SCENE_III__Troy__Before_Priam.md"
+      "file": "48_SCENE_III__Troy__Before_Priam.md"
     },
     {
       "title": "SCENE IV. The plain between Troy and the Grecian camp: Alarums. Excursions. Enter Thersites.",
-      "file": "50_SCENE_IV__The_plain_between_Tr.md"
+      "file": "49_SCENE_IV__The_plain_between_Tr.md"
     },
     {
       "title": "SCENE V. Another part of the plain: Enter Diomedes and a Servant.",
-      "file": "51_SCENE_V__Another_part_of_the_p.md"
+      "file": "50_SCENE_V__Another_part_of_the_p.md"
     },
     {
       "title": "SCENE VI. Another part of the plain: Enter Ajax.",
-      "file": "52_SCENE_VI__Another_part_of_the.md"
+      "file": "51_SCENE_VI__Another_part_of_the.md"
     },
     {
       "title": "SCENE VII. Another part of the plain: Enter Achilles with Myrmidons.",
-      "file": "53_SCENE_VII__Another_part_of_the.md"
+      "file": "52_SCENE_VII__Another_part_of_the.md"
     },
     {
       "title": "SCENE VIII. Another part of the plain: Enter Hector.",
-      "file": "54_SCENE_VIII__Another_part_of_th.md"
+      "file": "53_SCENE_VIII__Another_part_of_th.md"
     },
     {
       "title": "SCENE IX. Another part of the plain.",
-      "file": "55_SCENE_IX__Another_part_of_the.md"
+      "file": "54_SCENE_IX__Another_part_of_the.md"
     },
     {
       "title": "SCENE X. Another part of the plain: Enter Aeneas, Paris, Antenor and Deiphobus.",
-      "file": "56_SCENE_X__Another_part_of_the_p.md"
+      "file": "55_SCENE_X__Another_part_of_the_p.md"
     }
   ]
 }

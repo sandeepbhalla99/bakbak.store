@@ -7,380 +7,376 @@
   "description": "A classic masterpiece by Alexandre Dumas. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "Chapter XC. Conclusion.",
-      "file": "02_Chapter_XC__Conclusion.md"
+      "file": "01_Chapter_XC__Conclusion.md"
     },
     {
       "title": "Chapter I: The Shade of Cardinal Richelieu.",
-      "file": "03_Chapter_I__The_Shade_of_Cardin.md"
+      "file": "02_Chapter_I__The_Shade_of_Cardin.md"
     },
     {
       "title": "Chapter II: A Nightly Patrol.",
-      "file": "04_Chapter_II__A_Nightly_Patrol.md"
+      "file": "03_Chapter_II__A_Nightly_Patrol.md"
     },
     {
       "title": "Chapter III: Dead Animosities.",
-      "file": "05_Chapter_III__Dead_Animosities.md"
+      "file": "04_Chapter_III__Dead_Animosities.md"
     },
     {
       "title": "Chapter IV: Anne of Austria at the Age of Forty-six.",
-      "file": "06_Chapter_IV__Anne_of_Austria_at.md"
+      "file": "05_Chapter_IV__Anne_of_Austria_at.md"
     },
     {
       "title": "Chapter V: The Gascon and the Italian.",
-      "file": "07_Chapter_V__The_Gascon_and_the.md"
+      "file": "06_Chapter_V__The_Gascon_and_the.md"
     },
     {
       "title": "Chapter VI: D\u2019Artagnan in his Fortieth Year.",
-      "file": "08_Chapter_VI__D_Artagnan_in_his.md"
+      "file": "07_Chapter_VI__D_Artagnan_in_his.md"
     },
     {
       "title": "Chapter VII: Touches upon the Strange Effects a Half-pistole may have.",
-      "file": "09_Chapter_VII__Touches_upon_the.md"
+      "file": "08_Chapter_VII__Touches_upon_the.md"
     },
     {
       "title": "Chapter VIII: D\u2019Artagnan, Going to a Distance to discover Aramis.",
-      "file": "10_Chapter_VIII__D_Artagnan__Goin.md"
+      "file": "09_Chapter_VIII__D_Artagnan__Goin.md"
     },
     {
       "title": "Chapter IX: The Abb\u00e9 D\u2019Herblay.",
-      "file": "11_Chapter_IX__The_Abb__D_Herblay.md"
+      "file": "10_Chapter_IX__The_Abb__D_Herblay.md"
     },
     {
       "title": "Chapter X: Monsieur Porthos du Vallon de Bracieux de Pierrefonds.",
-      "file": "12_Chapter_X__Monsieur_Porthos_du.md"
+      "file": "11_Chapter_X__Monsieur_Porthos_du.md"
     },
     {
       "title": "Chapter XI: Wealth does not necessarily produce Happiness.",
-      "file": "13_Chapter_XI__Wealth_does_not_ne.md"
+      "file": "12_Chapter_XI__Wealth_does_not_ne.md"
     },
     {
       "title": "Chapter XII: Porthos was Discontented with his Condition.",
-      "file": "14_Chapter_XII__Porthos_was_Disco.md"
+      "file": "13_Chapter_XII__Porthos_was_Disco.md"
     },
     {
       "title": "Chapter XIII: Two Angelic Faces.",
-      "file": "15_Chapter_XIII__Two_Angelic_Face.md"
+      "file": "14_Chapter_XIII__Two_Angelic_Face.md"
     },
     {
       "title": "Chapter XIV: The Castle of Bragelonne.",
-      "file": "16_Chapter_XIV__The_Castle_of_Bra.md"
+      "file": "15_Chapter_XIV__The_Castle_of_Bra.md"
     },
     {
       "title": "Chapter XV: Athos as a Diplomatist.",
-      "file": "17_Chapter_XV__Athos_as_a_Diploma.md"
+      "file": "16_Chapter_XV__Athos_as_a_Diploma.md"
     },
     {
       "title": "Chapter XVI: The Duc de Beaufort.",
-      "file": "18_Chapter_XVI__The_Duc_de_Beaufo.md"
+      "file": "17_Chapter_XVI__The_Duc_de_Beaufo.md"
     },
     {
       "title": "Chapter XVII: Duc de Beaufort amused his Leisure Hours in the Donjon of Vincennes.",
-      "file": "19_Chapter_XVII__Duc_de_Beaufort.md"
+      "file": "18_Chapter_XVII__Duc_de_Beaufort.md"
     },
     {
       "title": "Chapter XVIII: Grimaud begins his Functions.",
-      "file": "20_Chapter_XVIII__Grimaud_begins.md"
+      "file": "19_Chapter_XVIII__Grimaud_begins.md"
     },
     {
       "title": "Chapter XIX: P\u00e2t\u00e9s made by the Successor of Father Marteau are described.",
-      "file": "21_Chapter_XIX__P_t_s_made_by_the.md"
+      "file": "20_Chapter_XIX__P_t_s_made_by_the.md"
     },
     {
       "title": "Chapter XX: One of Marie Michon\u2019s Adventures.",
-      "file": "22_Chapter_XX__One_of_Marie_Micho.md"
+      "file": "21_Chapter_XX__One_of_Marie_Micho.md"
     },
     {
       "title": "Chapter XXI: The Abb\u00e9 Scarron.",
-      "file": "23_Chapter_XXI__The_Abb__Scarron.md"
+      "file": "22_Chapter_XXI__The_Abb__Scarron.md"
     },
     {
       "title": "Chapter XXII: Saint Denis.",
-      "file": "24_Chapter_XXII__Saint_Denis.md"
+      "file": "23_Chapter_XXII__Saint_Denis.md"
     },
     {
       "title": "Chapter XXIII: One of the Forty Methods of Escape of the Duc de Beaufort.",
-      "file": "25_Chapter_XXIII__One_of_the_Fort.md"
+      "file": "24_Chapter_XXIII__One_of_the_Fort.md"
     },
     {
       "title": "Chapter XXIV: The timely Arrival of D\u2019Artagnan in Paris.",
-      "file": "26_Chapter_XXIV__The_timely_Arriv.md"
+      "file": "25_Chapter_XXIV__The_timely_Arriv.md"
     },
     {
       "title": "Chapter XXV: An Adventure on the High Road.",
-      "file": "27_Chapter_XXV__An_Adventure_on_t.md"
+      "file": "26_Chapter_XXV__An_Adventure_on_t.md"
     },
     {
       "title": "Chapter III. Dead Animosities",
-      "file": "28_Chapter_III__Dead_Animosities.md"
+      "file": "27_Chapter_III__Dead_Animosities.md"
     },
     {
       "title": "Chapter XXVI: The Rencontre.",
-      "file": "29_Chapter_XXVI__The_Rencontre.md"
+      "file": "28_Chapter_XXVI__The_Rencontre.md"
     },
     {
       "title": "Chapter XXVII: The four old Friends prepare to meet again.",
-      "file": "30_Chapter_XXVII__The_four_old_Fr.md"
+      "file": "29_Chapter_XXVII__The_four_old_Fr.md"
     },
     {
       "title": "Chapter XXVIII: The Place Royale.",
-      "file": "31_Chapter_XXVIII__The_Place_Roya.md"
+      "file": "30_Chapter_XXVIII__The_Place_Roya.md"
     },
     {
       "title": "Chapter XXIX: The Ferry across the Oise.",
-      "file": "32_Chapter_XXIX__The_Ferry_across.md"
+      "file": "31_Chapter_XXIX__The_Ferry_across.md"
     },
     {
       "title": "Chapter XXX: Skirmishing.",
-      "file": "33_Chapter_XXX__Skirmishing.md"
+      "file": "32_Chapter_XXX__Skirmishing.md"
     },
     {
       "title": "Chapter XXXI: The Monk.",
-      "file": "34_Chapter_XXXI__The_Monk.md"
+      "file": "33_Chapter_XXXI__The_Monk.md"
     },
     {
       "title": "Chapter XXXII: The Absolution.",
-      "file": "35_Chapter_XXXII__The_Absolution.md"
+      "file": "34_Chapter_XXXII__The_Absolution.md"
     },
     {
       "title": "Chapter XXXIII: Grimaud Speaks.",
-      "file": "36_Chapter_XXXIII__Grimaud_Speaks.md"
+      "file": "35_Chapter_XXXIII__Grimaud_Speaks.md"
     },
     {
       "title": "Chapter XXXIV: On the Eve of Battle.",
-      "file": "37_Chapter_XXXIV__On_the_Eve_of_B.md"
+      "file": "36_Chapter_XXXIV__On_the_Eve_of_B.md"
     },
     {
       "title": "Chapter XXXV: A Dinner in the Old Style.",
-      "file": "38_Chapter_XXXV__A_Dinner_in_the.md"
+      "file": "37_Chapter_XXXV__A_Dinner_in_the.md"
     },
     {
       "title": "Chapter XXXVI: A Letter from Charles the First.",
-      "file": "39_Chapter_XXXVI__A_Letter_from_C.md"
+      "file": "38_Chapter_XXXVI__A_Letter_from_C.md"
     },
     {
       "title": "Chapter XXXVII: Cromwell\u2019s Letter.",
-      "file": "40_Chapter_XXXVII__Cromwell_s_Let.md"
+      "file": "39_Chapter_XXXVII__Cromwell_s_Let.md"
     },
     {
       "title": "Chapter XXXVIII: Henrietta Maria and Mazarin.",
-      "file": "41_Chapter_XXXVIII__Henrietta_Mar.md"
+      "file": "40_Chapter_XXXVIII__Henrietta_Mar.md"
     },
     {
       "title": "Chapter XXXIX: How, sometimes, the Unhappy mistake Chance for Providence.",
-      "file": "42_Chapter_XXXIX__How__sometimes.md"
+      "file": "41_Chapter_XXXIX__How__sometimes.md"
     },
     {
       "title": "Chapter XL: Uncle and Nephew.",
-      "file": "43_Chapter_XL__Uncle_and_Nephew.md"
+      "file": "42_Chapter_XL__Uncle_and_Nephew.md"
     },
     {
       "title": "Chapter XLI: Paternal Affection.",
-      "file": "44_Chapter_XLI__Paternal_Affectio.md"
+      "file": "43_Chapter_XLI__Paternal_Affectio.md"
     },
     {
       "title": "Chapter XIII. Two Angelic Faces",
-      "file": "45_Chapter_XIII__Two_Angelic_Face.md"
+      "file": "44_Chapter_XIII__Two_Angelic_Face.md"
     },
     {
       "title": "Chapter XLII: Another Queen in Want of Help.",
-      "file": "46_Chapter_XLII__Another_Queen_in.md"
+      "file": "45_Chapter_XLII__Another_Queen_in.md"
     },
     {
       "title": "Chapter XLIII: In which it is proved that first Impulses are oftentimes the best.",
-      "file": "47_Chapter_XLIII__In_which_it_is.md"
+      "file": "46_Chapter_XLIII__In_which_it_is.md"
     },
     {
       "title": "Chapter XLIV: Te Deum for the Victory of Lens.",
-      "file": "48_Chapter_XLIV__Te_Deum_for_the.md"
+      "file": "47_Chapter_XLIV__Te_Deum_for_the.md"
     },
     {
       "title": "Chapter XLV: The Beggar of St. Eustache.",
-      "file": "49_Chapter_XLV__The_Beggar_of_St.md"
+      "file": "48_Chapter_XLV__The_Beggar_of_St.md"
     },
     {
       "title": "Chapter XLVI: The Tower of St. Jacques de la Boucherie.",
-      "file": "50_Chapter_XLVI__The_Tower_of_St.md"
+      "file": "49_Chapter_XLVI__The_Tower_of_St.md"
     },
     {
       "title": "Chapter XLVII: The Riot.",
-      "file": "51_Chapter_XLVII__The_Riot.md"
+      "file": "50_Chapter_XLVII__The_Riot.md"
     },
     {
       "title": "Chapter XLVIII: The Riot becomes a Revolution.",
-      "file": "52_Chapter_XLVIII__The_Riot_becom.md"
+      "file": "51_Chapter_XLVIII__The_Riot_becom.md"
     },
     {
       "title": "Chapter XLIX: Misfortune refreshes the Memory.",
-      "file": "53_Chapter_XLIX__Misfortune_refre.md"
+      "file": "52_Chapter_XLIX__Misfortune_refre.md"
     },
     {
       "title": "Chapter L: The Interview.",
-      "file": "54_Chapter_L__The_Interview.md"
+      "file": "53_Chapter_L__The_Interview.md"
     },
     {
       "title": "Chapter LI: The Flight.",
-      "file": "55_Chapter_LI__The_Flight.md"
+      "file": "54_Chapter_LI__The_Flight.md"
     },
     {
       "title": "Chapter LII: The Carriage of Monsieur le Coadjuteur.",
-      "file": "56_Chapter_LII__The_Carriage_of_M.md"
+      "file": "55_Chapter_LII__The_Carriage_of_M.md"
     },
     {
       "title": "Chapter LIII: How D\u2019Artagnan and Porthos earned by selling Straw.",
-      "file": "57_Chapter_LIII__How_D_Artagnan_a.md"
+      "file": "56_Chapter_LIII__How_D_Artagnan_a.md"
     },
     {
       "title": "Chapter LIV: In which we hear Tidings of Aramis.",
-      "file": "58_Chapter_LIV__In_which_we_hear.md"
+      "file": "57_Chapter_LIV__In_which_we_hear.md"
     },
     {
       "title": "Chapter LV: The Scotchman.",
-      "file": "59_Chapter_LV__The_Scotchman.md"
+      "file": "58_Chapter_LV__The_Scotchman.md"
     },
     {
       "title": "Chapter LVI: The Avenger.",
-      "file": "60_Chapter_LVI__The_Avenger.md"
+      "file": "59_Chapter_LVI__The_Avenger.md"
     },
     {
       "title": "Chapter LVII: Oliver Cromwell.",
-      "file": "61_Chapter_LVII__Oliver_Cromwell.md"
+      "file": "60_Chapter_LVII__Oliver_Cromwell.md"
     },
     {
       "title": "Chapter LVIII: Jesus Seigneur.",
-      "file": "62_Chapter_LVIII__Jesus_Seigneur.md"
+      "file": "61_Chapter_LVIII__Jesus_Seigneur.md"
     },
     {
       "title": "Chapter LIX: Noble Natures never lose Courage, nor good Stomachs their Appetites.",
-      "file": "63_Chapter_LIX__Noble_Natures_nev.md"
+      "file": "62_Chapter_LIX__Noble_Natures_nev.md"
     },
     {
       "title": "Chapter LX: Respect to Fallen Majesty.",
-      "file": "64_Chapter_LX__Respect_to_Fallen.md"
+      "file": "63_Chapter_LX__Respect_to_Fallen.md"
     },
     {
       "title": "Chapter LXI: D\u2019Artagnan hits on a Plan.",
-      "file": "65_Chapter_LXI__D_Artagnan_hits_o.md"
+      "file": "64_Chapter_LXI__D_Artagnan_hits_o.md"
     },
     {
       "title": "Chapter LXII: London.",
-      "file": "66_Chapter_LXII__London.md"
+      "file": "65_Chapter_LXII__London.md"
     },
     {
       "title": "Chapter LXIII: The Trial.",
-      "file": "67_Chapter_LXIII__The_Trial.md"
+      "file": "66_Chapter_LXIII__The_Trial.md"
     },
     {
       "title": "Chapter LXIV: Whitehall.",
-      "file": "68_Chapter_LXIV__Whitehall.md"
+      "file": "67_Chapter_LXIV__Whitehall.md"
     },
     {
       "title": "Chapter LXV: The Workmen.",
-      "file": "69_Chapter_LXV__The_Workmen.md"
+      "file": "68_Chapter_LXV__The_Workmen.md"
     },
     {
       "title": "Chapter LXVI: Remember!",
-      "file": "70_Chapter_LXVI__Remember.md"
+      "file": "69_Chapter_LXVI__Remember.md"
     },
     {
       "title": "Chapter LXVII: The Man in the Mask.",
-      "file": "71_Chapter_LXVII__The_Man_in_the.md"
+      "file": "70_Chapter_LXVII__The_Man_in_the.md"
     },
     {
       "title": "Chapter LXVIII: Cromwell\u2019s House.",
-      "file": "72_Chapter_LXVIII__Cromwell_s_Hou.md"
+      "file": "71_Chapter_LXVIII__Cromwell_s_Hou.md"
     },
     {
       "title": "Chapter LXIX: Conversational.",
-      "file": "73_Chapter_LXIX__Conversational.md"
+      "file": "72_Chapter_LXIX__Conversational.md"
     },
     {
       "title": "Chapter LXX: The Skiff \u201cLightning.\u201d",
-      "file": "74_Chapter_LXX__The_Skiff__Lightn.md"
+      "file": "73_Chapter_LXX__The_Skiff__Lightn.md"
     },
     {
       "title": "Chapter LXXI: Port Wine.",
-      "file": "75_Chapter_LXXI__Port_Wine.md"
+      "file": "74_Chapter_LXXI__Port_Wine.md"
     },
     {
       "title": "Chapter LXXII: End of the Port Wine Mystery.",
-      "file": "76_Chapter_LXXII__End_of_the_Port.md"
+      "file": "75_Chapter_LXXII__End_of_the_Port.md"
     },
     {
       "title": "Chapter LXIII: Fatality.",
-      "file": "77_Chapter_LXIII__Fatality.md"
+      "file": "76_Chapter_LXIII__Fatality.md"
     },
     {
       "title": "Chapter LXIV: How Mousqueton had a Narrow Escape of being eaten.",
-      "file": "78_Chapter_LXIV__How_Mousqueton_h.md"
+      "file": "77_Chapter_LXIV__How_Mousqueton_h.md"
     },
     {
       "title": "Chapter LXXV: The Return.",
-      "file": "79_Chapter_LXXV__The_Return.md"
+      "file": "78_Chapter_LXXV__The_Return.md"
     },
     {
       "title": "Chapter LXXVI: The Ambassadors.",
-      "file": "80_Chapter_LXXVI__The_Ambassadors.md"
+      "file": "79_Chapter_LXXVI__The_Ambassadors.md"
     },
     {
       "title": "Chapter LXXVII: The three Lieutenants of the Generalissimo.",
-      "file": "81_Chapter_LXXVII__The_three_Lieu.md"
+      "file": "80_Chapter_LXXVII__The_three_Lieu.md"
     },
     {
       "title": "Chapter LXXVIII: The Battle of Charenton.",
-      "file": "82_Chapter_LXXVIII__The_Battle_of.md"
+      "file": "81_Chapter_LXXVIII__The_Battle_of.md"
     },
     {
       "title": "Chapter LXXIX: The Road to Picardy.",
-      "file": "83_Chapter_LXXIX__The_Road_to_Pic.md"
+      "file": "82_Chapter_LXXIX__The_Road_to_Pic.md"
     },
     {
       "title": "Chapter LXXX: The Gratitude of Anne of Austria.",
-      "file": "84_Chapter_LXXX__The_Gratitude_of.md"
+      "file": "83_Chapter_LXXX__The_Gratitude_of.md"
     },
     {
       "title": "Chapter LXXXI: Cardinal Mazarin as King.",
-      "file": "85_Chapter_LXXXI__Cardinal_Mazari.md"
+      "file": "84_Chapter_LXXXI__Cardinal_Mazari.md"
     },
     {
       "title": "Chapter LXXXII: Precautions.",
-      "file": "86_Chapter_LXXXII__Precautions.md"
+      "file": "85_Chapter_LXXXII__Precautions.md"
     },
     {
       "title": "Chapter LXXXIII: Strength and Sagacity.",
-      "file": "87_Chapter_LXXXIII__Strength_and.md"
+      "file": "86_Chapter_LXXXIII__Strength_and.md"
     },
     {
       "title": "Chapter LXXXIV: Strength and Sagacity\u2014Continued.",
-      "file": "88_Chapter_LXXXIV__Strength_and_S.md"
+      "file": "87_Chapter_LXXXIV__Strength_and_S.md"
     },
     {
       "title": "Chapter LXXXV: The Oubliettes of Cardinal Mazarin.",
-      "file": "89_Chapter_LXXXV__The_Oubliettes.md"
+      "file": "88_Chapter_LXXXV__The_Oubliettes.md"
     },
     {
       "title": "Chapter LXXXVI: Conferences.",
-      "file": "90_Chapter_LXXXVI__Conferences.md"
+      "file": "89_Chapter_LXXXVI__Conferences.md"
     },
     {
       "title": "Chapter LXXXVII: Thinking that Porthos will be at last a Baron, and D\u2019Artagnan a Captain.",
-      "file": "91_Chapter_LXXXVII__Thinking_that.md"
+      "file": "90_Chapter_LXXXVII__Thinking_that.md"
     },
     {
       "title": "Chapter LXXXVIII: Shows how with Threat and Pen more is effected than by the Sword.",
-      "file": "92_Chapter_LXXXVIII__Shows_how_wi.md"
+      "file": "91_Chapter_LXXXVIII__Shows_how_wi.md"
     },
     {
       "title": "Chapter LXXXIX: Difficult for Kings to return to the Capitals of their Kingdoms.",
-      "file": "93_Chapter_LXXXIX__Difficult_for.md"
+      "file": "92_Chapter_LXXXIX__Difficult_for.md"
     },
     {
       "title": "Chapter XC: Conclusion.",
-      "file": "94_Chapter_XC__Conclusion.md"
+      "file": "93_Chapter_XC__Conclusion.md"
     }
   ]
 }

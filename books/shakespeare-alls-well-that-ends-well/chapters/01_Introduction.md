@@ -1,43 +1,50 @@
 # Introduction
 
-ALL’S WELL THAT ENDS WELL
+# Introduction
 
-Contents
+<div style="text-align: center; margin-bottom: 2.5rem; padding-top: 1rem;">
+  <h1 style="font-size: 2.25rem; margin-bottom: 0.5rem; font-weight: 800; color: var(--text-main); line-height: 1.2;">ALL’S WELL THAT ENDS WELL</h1>
+  <p style="font-size: 1.25rem; color: var(--text-muted); font-style: italic; margin-top: 0.5rem;">by William Shakespeare</p>
+</div>
 
-ACT I
-Scene I. Rossillon. A room in the Countess’s palace.
-Scene II. Paris. A room in the King’s palace.
-Scene III. Rossillon. A Room in the Palace.
+<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 2rem 0; opacity: 0.5;">
 
-ACT II
-Scene I. Paris. A room in the King’s palace.
-Scene II. Rossillon. A room in the Countess’s palace.
-Scene III. Paris. The King’s palace.
-Scene IV. Paris. The King’s palace.
-Scene V. Another room in the same.
+<div class="toc-container" style="max-width: 550px; margin: 0 auto; padding: 0 10px;">
+  <h3 style="text-align: center; margin-bottom: 1.5rem; letter-spacing: 0.08em; text-transform: uppercase; font-size: 1.1rem; font-weight: 700; color: var(--text-main);">Table of Contents</h3>
+  <ul style="list-style: none; padding: 0; margin: 0; line-height: 2;">
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="02_SCENE__Partly_in_France__and_p.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>SCENE: Partly in France, and partly in Tuscany.</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 1</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="03_ACT_I.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT I</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 2</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="04_Scene_I__Rossillon__A_room_in.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rossillon. A room in the Countess’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 3</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="05_Scene_II__Paris__A_room_in_the.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene II. Paris. A room in the King’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 4</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="06_Scene_III__Rossillon__A_Room_i.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. Rossillon. A Room in the Palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 5</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="07_ACT_II.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT II</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 6</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="08_Scene_II__Paris__A_room_in_the.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene II. Paris. A room in the King’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 7</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="09_Scene_I__Rossillon__A_room_in.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rossillon. A room in the Countess’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 8</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="10_Scene_III__Paris__The_King_s_p.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. Paris. The King’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 9</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="11_Scene_III__Paris__The_King_s_p.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. Paris. The King’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 10</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="12_Scene_V__Another_room_in_the_s.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene V. Another room in the same</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 11</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="13_ACT_III.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT III</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 12</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="14_Scene_I__Florence__A_room_in_t.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Florence. A room in the Duke’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 13</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="15_Scene_I__Rossillon__A_room_in.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rossillon. A room in the Countess’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 14</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="16_Scene_III__Florence__Before_th.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. Florence. Before the Duke’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 15</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="17_Scene_I__Rossillon__A_room_in.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rossillon. A room in the Countess’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 16</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="18_Scene_V__Without_the_walls_of.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene V. Without the walls of Florence</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 17</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="19_Scene_VI__Camp_before_Florence.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene VI. Camp before Florence</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 18</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="20_Scene_VII__Florence__A_room_in.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene VII. Florence. A room in the Widow’s house</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 19</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="21_ACT_IV.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT IV</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 20</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="22_Scene_I__Without_the_Florentin.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Without the Florentine camp</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 21</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="23_Scene_VII__Florence__A_room_in.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene VII. Florence. A room in the Widow’s house</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 22</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="24_Scene_III__The_Florentine_camp.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. The Florentine camp</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 23</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="25_Scene_VII__Florence__A_room_in.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene VII. Florence. A room in the Widow’s house</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 24</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="26_Scene_I__Rossillon__A_room_in.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Rossillon. A room in the Countess’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 25</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="27_ACT_V.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>ACT V</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 26</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="28_Scene_I__Marseilles__A_street.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene I. Marseilles. A street</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 27</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="29_Scene_II__Rossillon__The_inner.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene II. Rossillon. The inner court of the Countess’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 28</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="30_Scene_III__The_same__A_room_in.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>Scene III. The same. A room in the Countess’s palace</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 29</span></a></li>
+  </ul>
+</div>
 
-ACT III
-Scene I. Florence. A room in the Duke’s palace.
-Scene II. Rossillon. A room in the Countess’s palace.
-Scene III. Florence. Before the Duke’s palace.
-Scene IV. Rossillon. A room in the Countess’s palace.
-Scene V. Without the walls of Florence.
-Scene VI. Camp before Florence.
-Scene VII. Florence. A room in the Widow’s house.
-
-ACT IV
-Scene I. Without the Florentine camp.
-Scene II. Florence. A room in the Widow’s house.
-Scene III. The Florentine camp.
-Scene IV. Florence. A room in the Widow’s house.
-Scene V. Rossillon. A room in the Countess’s palace.
-
-ACT V
-Scene I. Marseilles. A street.
-Scene II. Rossillon. The inner court of the Countess’s palace.
-Scene III. The same. A room in the Countess’s palace.
-
-Dramatis Personæ
+<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 3rem 0; opacity: 0.5;">
 
 KING OF FRANCE.
 THE DUKE OF FLORENCE.

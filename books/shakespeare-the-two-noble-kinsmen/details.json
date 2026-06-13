@@ -7,156 +7,152 @@
   "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "EPILOGUE",
-      "file": "02_EPILOGUE.md"
+      "file": "01_EPILOGUE.md"
     },
     {
       "title": "PROLOGUE",
-      "file": "03_PROLOGUE.md"
+      "file": "02_PROLOGUE.md"
     },
     {
       "title": "EPILOGUE",
-      "file": "04_EPILOGUE.md"
+      "file": "03_EPILOGUE.md"
     },
     {
       "title": "SCENE: Athens and the Neighbourhood, except in part of the first Act,: where it is Thebes and the Neighbourhood",
-      "file": "05_SCENE__Athens_and_the_Neighbou.md"
+      "file": "04_SCENE__Athens_and_the_Neighbou.md"
+    },
+    {
+      "title": "PROLOGUE",
+      "file": "05_PROLOGUE.md"
     },
     {
       "title": "PROLOGUE",
       "file": "06_PROLOGUE.md"
     },
     {
-      "title": "PROLOGUE",
-      "file": "07_PROLOGUE.md"
-    },
-    {
       "title": "ACT I",
-      "file": "08_ACT_I.md"
+      "file": "07_ACT_I.md"
     },
     {
       "title": "Scene I. Athens. Before a temple",
-      "file": "09_Scene_I__Athens__Before_a_temp.md"
+      "file": "08_Scene_I__Athens__Before_a_temp.md"
     },
     {
       "title": "Scene II. Thebes. The Court of the Palace",
-      "file": "10_Scene_II__Thebes__The_Court_of.md"
+      "file": "09_Scene_II__Thebes__The_Court_of.md"
     },
     {
       "title": "Scene III. Before the gates of Athens",
-      "file": "11_Scene_III__Before_the_gates_of.md"
+      "file": "10_Scene_III__Before_the_gates_of.md"
     },
     {
       "title": "Scene IV. A field before Thebes",
-      "file": "12_Scene_IV__A_field_before_Thebe.md"
+      "file": "11_Scene_IV__A_field_before_Thebe.md"
     },
     {
       "title": "Scene V. Another part of the same, more remote from Thebes",
-      "file": "13_Scene_V__Another_part_of_the_s.md"
+      "file": "12_Scene_V__Another_part_of_the_s.md"
     },
     {
       "title": "ACT II",
-      "file": "14_ACT_II.md"
+      "file": "13_ACT_II.md"
     },
     {
       "title": "Scene I. Athens. A garden, with a castle in the background",
-      "file": "15_Scene_I__Athens__A_garden__wit.md"
+      "file": "14_Scene_I__Athens__A_garden__wit.md"
     },
     {
       "title": "Scene II. The prison",
-      "file": "16_Scene_II__The_prison.md"
+      "file": "15_Scene_II__The_prison.md"
     },
     {
       "title": "Scene III. The country near Athens",
-      "file": "17_Scene_III__The_country_near_At.md"
+      "file": "16_Scene_III__The_country_near_At.md"
     },
     {
       "title": "Scene IV. Athens. A room in the prison",
-      "file": "18_Scene_IV__Athens__A_room_in_th.md"
+      "file": "17_Scene_IV__Athens__A_room_in_th.md"
     },
     {
       "title": "Scene V. An open place in Athens",
-      "file": "19_Scene_V__An_open_place_in_Athe.md"
+      "file": "18_Scene_V__An_open_place_in_Athe.md"
     },
     {
       "title": "Scene VI. Athens. Before the prison",
-      "file": "20_Scene_VI__Athens__Before_the_p.md"
+      "file": "19_Scene_VI__Athens__Before_the_p.md"
     },
     {
       "title": "ACT III",
-      "file": "21_ACT_III.md"
+      "file": "20_ACT_III.md"
     },
     {
       "title": "Scene I. A forest near Athens",
-      "file": "22_Scene_I__A_forest_near_Athens.md"
+      "file": "21_Scene_I__A_forest_near_Athens.md"
     },
     {
       "title": "Scene II. Another part of the forest",
-      "file": "23_Scene_II__Another_part_of_the.md"
+      "file": "22_Scene_II__Another_part_of_the.md"
     },
     {
       "title": "Scene III. The same part of the forest as in scene I",
-      "file": "24_Scene_III__The_same_part_of_th.md"
+      "file": "23_Scene_III__The_same_part_of_th.md"
+    },
+    {
+      "title": "Scene II. Another part of the forest",
+      "file": "24_Scene_II__Another_part_of_the.md"
     },
     {
       "title": "Scene II. Another part of the forest",
       "file": "25_Scene_II__Another_part_of_the.md"
     },
     {
-      "title": "Scene II. Another part of the forest",
-      "file": "26_Scene_II__Another_part_of_the.md"
-    },
-    {
       "title": "Scene VI. The same part of the forest as in scene III",
-      "file": "27_Scene_VI__The_same_part_of_the.md"
+      "file": "26_Scene_VI__The_same_part_of_the.md"
     },
     {
       "title": "ACT IV",
-      "file": "28_ACT_IV.md"
+      "file": "27_ACT_IV.md"
     },
     {
       "title": "Scene IV. Athens. A room in the prison",
-      "file": "29_Scene_IV__Athens__A_room_in_th.md"
+      "file": "28_Scene_IV__Athens__A_room_in_th.md"
     },
     {
       "title": "Scene II. A Room in the Palace",
-      "file": "30_Scene_II__A_Room_in_the_Palace.md"
+      "file": "29_Scene_II__A_Room_in_the_Palace.md"
     },
     {
       "title": "Scene III. A room in the prison",
-      "file": "31_Scene_III__A_room_in_the_priso.md"
+      "file": "30_Scene_III__A_room_in_the_priso.md"
     },
     {
       "title": "ACT V",
-      "file": "32_ACT_V.md"
+      "file": "31_ACT_V.md"
     },
     {
       "title": "Scene I. Athens. Before the Temples of Mars, Venus, and Diana",
-      "file": "33_Scene_I__Athens__Before_the_Te.md"
+      "file": "32_Scene_I__Athens__Before_the_Te.md"
     },
     {
       "title": "Scene IV. Athens. A room in the prison",
-      "file": "34_Scene_IV__Athens__A_room_in_th.md"
+      "file": "33_Scene_IV__Athens__A_room_in_th.md"
     },
     {
       "title": "SCENE III. A part of the Forest near Athens, and near the Place: appointed for the Combat",
-      "file": "35_SCENE_III__A_part_of_the_Fores.md"
+      "file": "34_SCENE_III__A_part_of_the_Fores.md"
     },
     {
       "title": "SCENE IV. The same; a Block prepared: Enter Palamon and his Knights pinioned; Jailer, Executioner and Guard.",
-      "file": "36_SCENE_IV__The_same__a_Block_pr.md"
+      "file": "35_SCENE_IV__The_same__a_Block_pr.md"
     },
     {
       "title": "EPILOGUE: Enter Epilogue.",
-      "file": "37_EPILOGUE__Enter_Epilogue.md"
+      "file": "36_EPILOGUE__Enter_Epilogue.md"
     },
     {
       "title": "EPILOGUE",
-      "file": "38_EPILOGUE.md"
+      "file": "37_EPILOGUE.md"
     }
   ]
 }

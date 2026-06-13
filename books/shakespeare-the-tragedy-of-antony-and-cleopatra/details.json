@@ -7,368 +7,364 @@
   "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "ACT I",
-      "file": "02_ACT_I.md"
+      "file": "01_ACT_I.md"
     },
     {
       "title": "Scene II.",
-      "file": "03_Scene_II.md"
+      "file": "02_Scene_II.md"
     },
     {
       "title": "Scene III.",
-      "file": "04_Scene_III.md"
+      "file": "03_Scene_III.md"
     },
     {
       "title": "Scene IV.",
-      "file": "05_Scene_IV.md"
+      "file": "04_Scene_IV.md"
     },
     {
       "title": "Scene V: Alexandria. A Room in the Palace.",
-      "file": "06_Scene_V__Alexandria__A_Room_in.md"
+      "file": "05_Scene_V__Alexandria__A_Room_in.md"
     },
     {
       "title": "ACT I",
-      "file": "07_ACT_I.md"
+      "file": "06_ACT_I.md"
     },
     {
       "title": "Scene II.",
-      "file": "08_Scene_II.md"
+      "file": "07_Scene_II.md"
     },
     {
       "title": "Scene III.",
-      "file": "09_Scene_III.md"
+      "file": "08_Scene_III.md"
     },
     {
       "title": "Scene IV.",
-      "file": "10_Scene_IV.md"
+      "file": "09_Scene_IV.md"
     },
     {
       "title": "Scene V.",
-      "file": "11_Scene_V.md"
+      "file": "10_Scene_V.md"
     },
     {
       "title": "Scene VI.",
-      "file": "12_Scene_VI.md"
+      "file": "11_Scene_VI.md"
     },
     {
       "title": "Scene VII: On board Pompey\u2019s Galley, lying near Misenum.",
-      "file": "13_Scene_VII__On_board_Pompey_s_G.md"
+      "file": "12_Scene_VII__On_board_Pompey_s_G.md"
     },
     {
       "title": "ACT I",
-      "file": "14_ACT_I.md"
+      "file": "13_ACT_I.md"
     },
     {
       "title": "Scene II.",
-      "file": "15_Scene_II.md"
+      "file": "14_Scene_II.md"
     },
     {
       "title": "Scene III.",
-      "file": "16_Scene_III.md"
+      "file": "15_Scene_III.md"
     },
     {
       "title": "Scene IV.",
-      "file": "17_Scene_IV.md"
+      "file": "16_Scene_IV.md"
     },
     {
       "title": "Scene V.",
-      "file": "18_Scene_V.md"
+      "file": "17_Scene_V.md"
     },
     {
       "title": "Scene VI.",
-      "file": "19_Scene_VI.md"
+      "file": "18_Scene_VI.md"
     },
     {
       "title": "Scene VII.",
-      "file": "20_Scene_VII.md"
+      "file": "19_Scene_VII.md"
     },
     {
       "title": "Scene VIII.",
-      "file": "21_Scene_VIII.md"
+      "file": "20_Scene_VIII.md"
     },
     {
       "title": "Scene IX.",
-      "file": "22_Scene_IX.md"
+      "file": "21_Scene_IX.md"
     },
     {
       "title": "Scene X.",
-      "file": "23_Scene_X.md"
+      "file": "22_Scene_X.md"
     },
     {
       "title": "Scene XI.",
-      "file": "24_Scene_XI.md"
+      "file": "23_Scene_XI.md"
     },
     {
       "title": "Scene XII.",
-      "file": "25_Scene_XII.md"
+      "file": "24_Scene_XII.md"
     },
     {
       "title": "Scene XIII: Alexandria. A Room in the Palace.",
-      "file": "26_Scene_XIII__Alexandria__A_Room.md"
+      "file": "25_Scene_XIII__Alexandria__A_Room.md"
     },
     {
       "title": "ACT I",
-      "file": "27_ACT_I.md"
+      "file": "26_ACT_I.md"
     },
     {
       "title": "Scene II.",
-      "file": "28_Scene_II.md"
+      "file": "27_Scene_II.md"
     },
     {
       "title": "Scene III.",
-      "file": "29_Scene_III.md"
+      "file": "28_Scene_III.md"
     },
     {
       "title": "Scene IV.",
-      "file": "30_Scene_IV.md"
+      "file": "29_Scene_IV.md"
     },
     {
       "title": "Scene V.",
-      "file": "31_Scene_V.md"
+      "file": "30_Scene_V.md"
     },
     {
       "title": "Scene VI.",
-      "file": "32_Scene_VI.md"
+      "file": "31_Scene_VI.md"
     },
     {
       "title": "Scene VII.",
-      "file": "33_Scene_VII.md"
+      "file": "32_Scene_VII.md"
     },
     {
       "title": "Scene VIII.",
-      "file": "34_Scene_VIII.md"
+      "file": "33_Scene_VIII.md"
     },
     {
       "title": "Scene IX.",
-      "file": "35_Scene_IX.md"
+      "file": "34_Scene_IX.md"
     },
     {
       "title": "Scene X.",
-      "file": "36_Scene_X.md"
+      "file": "35_Scene_X.md"
     },
     {
       "title": "Scene XI.",
-      "file": "37_Scene_XI.md"
+      "file": "36_Scene_XI.md"
     },
     {
       "title": "Scene XII.",
-      "file": "38_Scene_XII.md"
+      "file": "37_Scene_XII.md"
     },
     {
       "title": "Scene XIII.",
-      "file": "39_Scene_XIII.md"
+      "file": "38_Scene_XIII.md"
     },
     {
       "title": "Scene XIV.",
-      "file": "40_Scene_XIV.md"
+      "file": "39_Scene_XIV.md"
     },
     {
       "title": "Scene XV: Alexandria. A monument.",
-      "file": "41_Scene_XV__Alexandria__A_monume.md"
+      "file": "40_Scene_XV__Alexandria__A_monume.md"
     },
     {
       "title": "ACT I",
-      "file": "42_ACT_I.md"
+      "file": "41_ACT_I.md"
     },
     {
       "title": "Scene II: Alexandria. A Room in the Monument.",
-      "file": "43_Scene_II__Alexandria__A_Room_i.md"
+      "file": "42_Scene_II__Alexandria__A_Room_i.md"
     },
     {
       "title": "SCENE: Dispersed, in several parts of the Roman Empire.",
-      "file": "44_SCENE__Dispersed__in_several_p.md"
+      "file": "43_SCENE__Dispersed__in_several_p.md"
     },
     {
       "title": "ACT I",
-      "file": "45_ACT_I.md"
+      "file": "44_ACT_I.md"
     },
     {
       "title": "SCENE I. Alexandria. A Room in Cleopatra\u2019s palace: Enter Demetrius and Philo.",
-      "file": "46_SCENE_I__Alexandria__A_Room_in.md"
+      "file": "45_SCENE_I__Alexandria__A_Room_in.md"
     },
     {
       "title": "SCENE II. Alexandria. Another Room in Cleopatra\u2019s palace: Enter Enobarbus, a Soothsayer, Charmian, Iras, Mardian and Alexas.",
-      "file": "47_SCENE_II__Alexandria__Another.md"
+      "file": "46_SCENE_II__Alexandria__Another.md"
     },
     {
       "title": "SCENE III. Alexandria. A Room in Cleopatra\u2019s palace: Enter Cleopatra, Charmian, Alexas and Iras.",
-      "file": "48_SCENE_III__Alexandria__A_Room.md"
+      "file": "47_SCENE_III__Alexandria__A_Room.md"
     },
     {
       "title": "SCENE IV. Rome. An Apartment in Caesar\u2019s House: Enter Octavius [Caesar], Lepidus and their train.",
-      "file": "49_SCENE_IV__Rome__An_Apartment_i.md"
+      "file": "48_SCENE_IV__Rome__An_Apartment_i.md"
     },
     {
       "title": "SCENE V. Alexandria. A Room in the Palace: Enter Cleopatra, Charmian, Iras and Mardian.",
-      "file": "50_SCENE_V__Alexandria__A_Room_in.md"
+      "file": "49_SCENE_V__Alexandria__A_Room_in.md"
     },
     {
       "title": "ACT II",
-      "file": "51_ACT_II.md"
+      "file": "50_ACT_II.md"
     },
     {
       "title": "SCENE I. Messina. A Room in Pompey\u2019s house: Enter Pompey, Menecrates and Menas in warlike manner.",
-      "file": "52_SCENE_I__Messina__A_Room_in_Po.md"
+      "file": "51_SCENE_I__Messina__A_Room_in_Po.md"
     },
     {
       "title": "SCENE II. Rome. A Room in the House of Lepidus: Enter Enobarbus and Lepidus.",
-      "file": "53_SCENE_II__Rome__A_Room_in_the.md"
+      "file": "52_SCENE_II__Rome__A_Room_in_the.md"
     },
     {
       "title": "SCENE III. Rome. A Room in Caesar\u2019s House: Enter Antony, Caesar, Octavia between them.",
-      "file": "54_SCENE_III__Rome__A_Room_in_Cae.md"
+      "file": "53_SCENE_III__Rome__A_Room_in_Cae.md"
     },
     {
       "title": "SCENE IV. Rome. A street: Enter Lepidus, Maecenas and Agrippa.",
-      "file": "55_SCENE_IV__Rome__A_street__Ente.md"
+      "file": "54_SCENE_IV__Rome__A_street__Ente.md"
     },
     {
       "title": "SCENE V. Alexandria. A Room in the Palace: Enter Cleopatra, Charmian, Iras, Alexas.",
-      "file": "56_SCENE_V__Alexandria__A_Room_in.md"
+      "file": "55_SCENE_V__Alexandria__A_Room_in.md"
     },
     {
       "title": "SCENE VI. Near Misenum.",
-      "file": "57_SCENE_VI__Near_Misenum.md"
+      "file": "56_SCENE_VI__Near_Misenum.md"
     },
     {
       "title": "SCENE VII. On board Pompey\u2019s Galley, lying near Misenum: Music. Enter two or three Servants with a banquet.",
-      "file": "58_SCENE_VII__On_board_Pompey_s_G.md"
+      "file": "57_SCENE_VII__On_board_Pompey_s_G.md"
     },
     {
       "title": "ACT III",
-      "file": "59_ACT_III.md"
+      "file": "58_ACT_III.md"
     },
     {
       "title": "SCENE I. A plain in Syria.",
-      "file": "60_SCENE_I__A_plain_in_Syria.md"
+      "file": "59_SCENE_I__A_plain_in_Syria.md"
     },
     {
       "title": "SCENE II. Rome. An Ante-chamber in Caesar\u2019s house: Enter Agrippa at one door, Enobarbus at another.",
-      "file": "61_SCENE_II__Rome__An_Ante_chambe.md"
+      "file": "60_SCENE_II__Rome__An_Ante_chambe.md"
     },
     {
       "title": "SCENE III. Alexandria. A Room in the Palace: Enter Cleopatra, Charmian, Iras and Alexas.",
-      "file": "62_SCENE_III__Alexandria__A_Room.md"
+      "file": "61_SCENE_III__Alexandria__A_Room.md"
     },
     {
       "title": "SCENE IV. Athens. A Room in Antony\u2019s House: Enter Antony and Octavia.",
-      "file": "63_SCENE_IV__Athens__A_Room_in_An.md"
+      "file": "62_SCENE_IV__Athens__A_Room_in_An.md"
     },
     {
       "title": "SCENE V. Athens. Another Room in Antony\u2019s House: Enter Enobarbus and Eros meeting.",
-      "file": "64_SCENE_V__Athens__Another_Room.md"
+      "file": "63_SCENE_V__Athens__Another_Room.md"
     },
     {
       "title": "SCENE VI. Rome. A Room in Caesar\u2019s House: Enter Agrippa, Maecenas and Caesar.",
-      "file": "65_SCENE_VI__Rome__A_Room_in_Caes.md"
+      "file": "64_SCENE_VI__Rome__A_Room_in_Caes.md"
     },
     {
       "title": "SCENE VII. Antony\u2019s Camp near the Promontory of Actium: Enter Cleopatra and Enobarbus.",
-      "file": "66_SCENE_VII__Antony_s_Camp_near.md"
+      "file": "65_SCENE_VII__Antony_s_Camp_near.md"
     },
     {
       "title": "SCENE VIII. A plain near Actium: Enter Caesar with his army and Taurus marching.",
-      "file": "67_SCENE_VIII__A_plain_near_Actiu.md"
+      "file": "66_SCENE_VIII__A_plain_near_Actiu.md"
     },
     {
       "title": "SCENE IX. Another part of the Plain: Enter Antony and Enobarbus.",
-      "file": "68_SCENE_IX__Another_part_of_the.md"
+      "file": "67_SCENE_IX__Another_part_of_the.md"
     },
     {
       "title": "SCENE X. Another part of the Plain.",
-      "file": "69_SCENE_X__Another_part_of_the_P.md"
+      "file": "68_SCENE_X__Another_part_of_the_P.md"
     },
     {
       "title": "SCENE XI. Alexandria. A Room in the Palace: Enter Antony with attendants.",
-      "file": "70_SCENE_XI__Alexandria__A_Room_i.md"
+      "file": "69_SCENE_XI__Alexandria__A_Room_i.md"
     },
     {
       "title": "SCENE XII. Caesar\u2019s camp in Egypt: Enter Caesar, Agrippa, Dolabella with others.",
-      "file": "71_SCENE_XII__Caesar_s_camp_in_Eg.md"
+      "file": "70_SCENE_XII__Caesar_s_camp_in_Eg.md"
     },
     {
       "title": "SCENE XIII. Alexandria. A Room in the Palace: Enter Cleopatra, Enobarbus, Charmian and Iras.",
-      "file": "72_SCENE_XIII__Alexandria__A_Room.md"
+      "file": "71_SCENE_XIII__Alexandria__A_Room.md"
     },
     {
       "title": "ACT IV",
-      "file": "73_ACT_IV.md"
+      "file": "72_ACT_IV.md"
     },
     {
       "title": "SCENE I. Caesar\u2019s Camp at Alexandria.",
-      "file": "74_SCENE_I__Caesar_s_Camp_at_Alex.md"
+      "file": "73_SCENE_I__Caesar_s_Camp_at_Alex.md"
     },
     {
       "title": "SCENE II. Alexandria. A Room in the Palace.",
-      "file": "75_SCENE_II__Alexandria__A_Room_i.md"
+      "file": "74_SCENE_II__Alexandria__A_Room_i.md"
     },
     {
       "title": "SCENE III. Alexandria. Before the Palace: Enter a Company of Soldiers.",
-      "file": "76_SCENE_III__Alexandria__Before.md"
+      "file": "75_SCENE_III__Alexandria__Before.md"
     },
     {
       "title": "SCENE IV. Alexandria. A Room in the Palace: Enter Antony and Cleopatra with others.",
-      "file": "77_SCENE_IV__Alexandria__A_Room_i.md"
+      "file": "76_SCENE_IV__Alexandria__A_Room_i.md"
     },
     {
       "title": "SCENE V. Antony\u2019s camp near Alexandria: Trumpets sound. Enter Antony and Eros, a Soldier meeting them.",
-      "file": "78_SCENE_V__Antony_s_camp_near_Al.md"
+      "file": "77_SCENE_V__Antony_s_camp_near_Al.md"
     },
     {
       "title": "SCENE VI. Alexandria. Caesar\u2019s camp: Flourish. Enter Agrippa, Caesar with Enobarbus and Dolabella.",
-      "file": "79_SCENE_VI__Alexandria__Caesar_s.md"
+      "file": "78_SCENE_VI__Alexandria__Caesar_s.md"
     },
     {
       "title": "SCENE VII. Field of battle between the Camps: Alarum. Drums and Trumpets. Enter Agrippa and others.",
-      "file": "80_SCENE_VII__Field_of_battle_bet.md"
+      "file": "79_SCENE_VII__Field_of_battle_bet.md"
     },
     {
       "title": "SCENE VIII. Under the Walls of Alexandria: Alarum. Enter Antony again in a march; Scarus with others.",
-      "file": "81_SCENE_VIII__Under_the_Walls_of.md"
+      "file": "80_SCENE_VIII__Under_the_Walls_of.md"
     },
     {
       "title": "SCENE IX. Caesar\u2019s camp: Enter a Sentry and his company. Enobarbus follows.",
-      "file": "82_SCENE_IX__Caesar_s_camp__Enter.md"
+      "file": "81_SCENE_IX__Caesar_s_camp__Enter.md"
     },
     {
       "title": "SCENE X. Ground between the two Camps: Enter Antony and Scarus with their army.",
-      "file": "83_SCENE_X__Ground_between_the_tw.md"
+      "file": "82_SCENE_X__Ground_between_the_tw.md"
     },
     {
       "title": "SCENE XI. Another part of the Ground: Enter Caesar and his army.",
-      "file": "84_SCENE_XI__Another_part_of_the.md"
+      "file": "83_SCENE_XI__Another_part_of_the.md"
     },
     {
       "title": "SCENE XII. Another part of the Ground: Alarum afar off, as at a sea fight. Enter Antony and Scarus.",
-      "file": "85_SCENE_XII__Another_part_of_the.md"
+      "file": "84_SCENE_XII__Another_part_of_the.md"
     },
     {
       "title": "SCENE XIII. Alexandria. A Room in the Palace: Enter Cleopatra, Charmian, Iras and Mardian.",
-      "file": "86_SCENE_XIII__Alexandria__A_Room.md"
+      "file": "85_SCENE_XIII__Alexandria__A_Room.md"
     },
     {
       "title": "SCENE XIV. Alexandria. Another Room: Enter Antony and Eros.",
-      "file": "87_SCENE_XIV__Alexandria__Another.md"
+      "file": "86_SCENE_XIV__Alexandria__Another.md"
     },
     {
       "title": "SCENE XV. Alexandria. A monument: Enter Cleopatra and her maids aloft, with Charmian and Iras.",
-      "file": "88_SCENE_XV__Alexandria__A_monume.md"
+      "file": "87_SCENE_XV__Alexandria__A_monume.md"
     },
     {
       "title": "ACT V",
-      "file": "89_ACT_V.md"
+      "file": "88_ACT_V.md"
     },
     {
       "title": "SCENE I. Caesar\u2019s Camp before Alexandria.",
-      "file": "90_SCENE_I__Caesar_s_Camp_before.md"
+      "file": "89_SCENE_I__Caesar_s_Camp_before.md"
     },
     {
       "title": "SCENE II. Alexandria. A Room in the Monument: Enter Cleopatra, Charmian and Iras.",
-      "file": "91_SCENE_II__Alexandria__A_Room_i.md"
+      "file": "90_SCENE_II__Alexandria__A_Room_i.md"
     }
   ]
 }

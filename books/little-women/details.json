@@ -7,8 +7,8 @@
   "description": "A classic masterpiece by Louisa May Alcott. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
+      "title": "Tail-piece to Contents",
+      "file": "01_Tail_piece_to_Contents.md"
     },
     {
       "title": "Tail-piece to Contents",
@@ -99,32 +99,28 @@
       "file": "23_Tail_piece_to_Contents.md"
     },
     {
-      "title": "Tail-piece to Contents",
-      "file": "24_Tail_piece_to_Contents.md"
-    },
-    {
       "title": "I used to be so frightened when it was my turn to sit in",
-      "file": "25_I_used_to_be_so_frightened_whe.md"
+      "file": "24_I_used_to_be_so_frightened_whe.md"
     },
     {
       "title": "Act third was the castle hall; and here Hagar appeared, having come to",
-      "file": "26_Act_third_was_the_castle_hall.md"
+      "file": "25_Act_third_was_the_castle_hall.md"
     },
     {
       "title": "Act fourth displayed the despairing Roderigo on the point of stabbing",
-      "file": "27_Act_fourth_displayed_the_despa.md"
+      "file": "26_Act_fourth_displayed_the_despa.md"
     },
     {
       "title": "Act fifth opened with a stormy scene between Zara and Don Pedro. He",
-      "file": "28_Act_fifth_opened_with_a_stormy.md"
+      "file": "27_Act_fifth_opened_with_a_stormy.md"
     },
     {
       "title": "Book as if it were a mathematical exercise, working out the problems",
-      "file": "29_Book_as_if_it_were_a_mathemati.md"
+      "file": "28_Book_as_if_it_were_a_mathemati.md"
     },
     {
       "title": "Chapter Ten of that novel.",
-      "file": "30_Chapter_Ten_of_that_novel.md"
+      "file": "29_Chapter_Ten_of_that_novel.md"
     }
   ]
 }

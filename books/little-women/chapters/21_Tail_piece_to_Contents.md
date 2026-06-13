@@ -1,5 +1,7 @@
 # Tail-piece to Contents
 
-What makes my legs go, dranpa?
+Looking up she saw Mr. Bhaer
 
-Dranpa, it's a We
+Does this suit you, Mr. Bhaer?
+
+Under the umbrella

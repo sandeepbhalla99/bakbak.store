@@ -7,108 +7,104 @@
   "description": "A classic masterpiece by E. M. Forster. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "Chapter VII. They Return",
-      "file": "02_Chapter_VII__They_Return.md"
+      "file": "01_Chapter_VII__They_Return.md"
     },
     {
       "title": "Chapter XX. The End of the Middle Ages",
-      "file": "03_Chapter_XX__The_End_of_the_Mid.md"
+      "file": "02_Chapter_XX__The_End_of_the_Mid.md"
     },
     {
       "title": "Part One",
-      "file": "04_Part_One.md"
+      "file": "03_Part_One.md"
     },
     {
       "title": "Chapter I: The Bertolini",
-      "file": "05_Chapter_I__The_Bertolini.md"
+      "file": "04_Chapter_I__The_Bertolini.md"
     },
     {
       "title": "Chapter II: In Santa Croce with No Baedeker",
-      "file": "06_Chapter_II__In_Santa_Croce_wit.md"
+      "file": "05_Chapter_II__In_Santa_Croce_wit.md"
     },
     {
       "title": "Chapter III: Music, Violets, and the Letter \u201cS\u201d",
-      "file": "07_Chapter_III__Music__Violets__a.md"
+      "file": "06_Chapter_III__Music__Violets__a.md"
     },
     {
       "title": "Chapter IV: Fourth Chapter",
-      "file": "08_Chapter_IV__Fourth_Chapter.md"
+      "file": "07_Chapter_IV__Fourth_Chapter.md"
     },
     {
       "title": "Chapter V: Possibilities of a Pleasant Outing",
-      "file": "09_Chapter_V__Possibilities_of_a.md"
+      "file": "08_Chapter_V__Possibilities_of_a.md"
     },
     {
       "title": "Chapter VI",
-      "file": "10_Chapter_VI.md"
+      "file": "09_Chapter_VI.md"
     },
     {
       "title": "Chapter VII: They Return",
-      "file": "11_Chapter_VII__They_Return.md"
+      "file": "10_Chapter_VII__They_Return.md"
     },
     {
       "title": "Chapter VIII: Medieval",
-      "file": "12_Chapter_VIII__Medieval.md"
+      "file": "11_Chapter_VIII__Medieval.md"
     },
     {
       "title": "Chapter IX: Lucy As a Work of Art",
-      "file": "13_Chapter_IX__Lucy_As_a_Work_of.md"
+      "file": "12_Chapter_IX__Lucy_As_a_Work_of.md"
     },
     {
       "title": "Chapter X: Cecil as a Humourist",
-      "file": "14_Chapter_X__Cecil_as_a_Humouris.md"
+      "file": "13_Chapter_X__Cecil_as_a_Humouris.md"
     },
     {
       "title": "Chapter XI: In Mrs. Vyse\u2019s Well-Appointed Flat",
-      "file": "15_Chapter_XI__In_Mrs__Vyse_s_Wel.md"
+      "file": "14_Chapter_XI__In_Mrs__Vyse_s_Wel.md"
     },
     {
       "title": "Chapter XII: Twelfth Chapter",
-      "file": "16_Chapter_XII__Twelfth_Chapter.md"
+      "file": "15_Chapter_XII__Twelfth_Chapter.md"
     },
     {
       "title": "Chapter XIII: How Miss Bartlett\u2019s Boiler Was So Tiresome",
-      "file": "17_Chapter_XIII__How_Miss_Bartlet.md"
+      "file": "16_Chapter_XIII__How_Miss_Bartlet.md"
     },
     {
       "title": "Chapter XIV: How Lucy Faced the External Situation Bravely",
-      "file": "18_Chapter_XIV__How_Lucy_Faced_th.md"
+      "file": "17_Chapter_XIV__How_Lucy_Faced_th.md"
     },
     {
       "title": "Chapter XV: The Disaster Within",
-      "file": "19_Chapter_XV__The_Disaster_Withi.md"
+      "file": "18_Chapter_XV__The_Disaster_Withi.md"
     },
     {
       "title": "Chapter two was found, and she glanced at its opening sentences: She thought she had gone mad.",
-      "file": "20_Chapter_two_was_found__and_she.md"
+      "file": "19_Chapter_two_was_found__and_she.md"
     },
     {
       "title": "Chapter XVI: Lying to George",
-      "file": "21_Chapter_XVI__Lying_to_George.md"
+      "file": "20_Chapter_XVI__Lying_to_George.md"
     },
     {
       "title": "Chapter XVII: Lying to Cecil",
-      "file": "22_Chapter_XVII__Lying_to_Cecil.md"
+      "file": "21_Chapter_XVII__Lying_to_Cecil.md"
     },
     {
       "title": "Chapter XVIII: Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and The Servants",
-      "file": "23_Chapter_XVIII__Lying_to_Mr__Be.md"
+      "file": "22_Chapter_XVIII__Lying_to_Mr__Be.md"
     },
     {
       "title": "Chapter XIX: Lying to Mr. Emerson",
-      "file": "24_Chapter_XIX__Lying_to_Mr__Emer.md"
+      "file": "23_Chapter_XIX__Lying_to_Mr__Emer.md"
     },
     {
       "title": "Part One",
-      "file": "25_Part_One.md"
+      "file": "24_Part_One.md"
     },
     {
       "title": "Chapter XX: The End of the Middle Ages",
-      "file": "26_Chapter_XX__The_End_of_the_Mid.md"
+      "file": "25_Chapter_XX__The_End_of_the_Mid.md"
     }
   ]
 }

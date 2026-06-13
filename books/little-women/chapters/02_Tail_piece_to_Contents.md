@@ -1,21 +1,9 @@
 # Tail-piece to Contents
 
-Jo undertook to pinch the papered locks
+Laurie opened the window
 
-Mrs. Gardiner greeted them
+Poll tweaked off his wig
 
-Face to face with the Laurence boy
+Putting his finger under her chin
 
-They sat down on the stairs
-
-Tell about the party
-
-The kitten stuck like a burr just out of reach
-
-Curling herself up in the big chair
-
-Reading that everlasting Belsham
-
-He took her by the ear! by the ear!
-
-Mr. Laurence hooked up a big fish
+Please give these to your mother

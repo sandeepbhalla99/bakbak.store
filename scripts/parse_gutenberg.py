@@ -369,7 +369,8 @@ def split_into_chapters(text):
             current_chapter_title = title_text
             current_chapter_content = []
         else:
-            current_chapter_content.append(line)
+            if current_chapter_title != "Introduction" or i >= toc_end_idx:
+                current_chapter_content.append(line)
             
     # Append final chapter
     if current_chapter_content:
@@ -435,7 +436,43 @@ def save_book(book_id, title, author, genre, chapters):
         safe_title = re.sub(r'[^a-zA-Z0-9]', '_', chap_title)[:30].strip('_')
         filename = f"{idx+1:02d}_{safe_title}.md"
         
-        reflowed_content = reflow_text(chap['content'])
+        # If it is the Introduction chapter, dynamically generate a beautiful TOC page
+        if idx == 0 and chap_title == "Introduction":
+            # Generate the premium HTML/Markdown header and TOC links
+            intro_markdown = f"""# Introduction
+
+<div style="text-align: center; margin-bottom: 2.5rem; padding-top: 1rem;">
+  <h1 style="font-size: 2.25rem; margin-bottom: 0.5rem; font-weight: 800; color: var(--text-main); line-height: 1.2;">{title}</h1>
+  <p style="font-size: 1.25rem; color: var(--text-muted); font-style: italic; margin-top: 0.5rem;">by {author}</p>
+</div>
+
+<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 2rem 0; opacity: 0.5;">
+
+<div class="toc-container" style="max-width: 550px; margin: 0 auto; padding: 0 10px;">
+  <h3 style="text-align: center; margin-bottom: 1.5rem; letter-spacing: 0.08em; text-transform: uppercase; font-size: 1.1rem; font-weight: 700; color: var(--text-main);">Table of Contents</h3>
+  <ul style="list-style: none; padding: 0; margin: 0; line-height: 2;">
+"""
+            # Build list items for each subsequent chapter
+            for c_idx, c_val in enumerate(chapters):
+                if c_idx == 0:
+                    continue
+                c_title = c_val["title"]
+                c_safe = re.sub(r'[^a-zA-Z0-9]', '_', c_title)[:30].strip('_')
+                c_file = f"{c_idx+1:02d}_{c_safe}.md"
+                intro_markdown += f'    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="{c_file}" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>{c_title}</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter {c_idx}</span></a></li>\n'
+                
+            intro_markdown += """  </ul>
+</div>
+
+"""
+            # If there was actual preface/intro text, append it below the TOC
+            preface_text = chap['content'].strip()
+            if preface_text:
+                intro_markdown += f'<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 3rem 0; opacity: 0.5;">\n\n{reflow_text(preface_text)}'
+                
+            reflowed_content = intro_markdown
+        else:
+            reflowed_content = reflow_text(chap['content'])
         
         # Write chapter markdown file
         with open(os.path.join(chapters_dir, filename), 'w', encoding='utf-8') as f:

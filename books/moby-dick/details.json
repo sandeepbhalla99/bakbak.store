@@ -7,912 +7,908 @@
   "description": "A classic masterpiece by Herman Melville. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "CHAPTER 72. The Monkey-Rope.",
-      "file": "02_CHAPTER_72__The_Monkey_Rope.md"
+      "file": "01_CHAPTER_72__The_Monkey_Rope.md"
     },
     {
       "title": "CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk: over Him.",
-      "file": "03_CHAPTER_73__Stubb_and_Flask_ki.md"
+      "file": "02_CHAPTER_73__Stubb_and_Flask_ki.md"
     },
     {
       "title": "CHAPTER 74. The Sperm Whale\u2019s Head\u2014Contrasted View.",
-      "file": "04_CHAPTER_74__The_Sperm_Whale_s.md"
+      "file": "03_CHAPTER_74__The_Sperm_Whale_s.md"
     },
     {
       "title": "CHAPTER 75. The Right Whale\u2019s Head\u2014Contrasted View.",
-      "file": "05_CHAPTER_75__The_Right_Whale_s.md"
+      "file": "04_CHAPTER_75__The_Right_Whale_s.md"
     },
     {
       "title": "CHAPTER 76. The Battering-Ram.",
-      "file": "06_CHAPTER_76__The_Battering_Ram.md"
+      "file": "05_CHAPTER_76__The_Battering_Ram.md"
     },
     {
       "title": "CHAPTER 77. The Great Heidelburgh Tun.",
-      "file": "07_CHAPTER_77__The_Great_Heidelbu.md"
+      "file": "06_CHAPTER_77__The_Great_Heidelbu.md"
     },
     {
       "title": "CHAPTER 78. Cistern and Buckets.",
-      "file": "08_CHAPTER_78__Cistern_and_Bucket.md"
+      "file": "07_CHAPTER_78__Cistern_and_Bucket.md"
     },
     {
       "title": "CHAPTER 79. The Prairie.",
-      "file": "09_CHAPTER_79__The_Prairie.md"
+      "file": "08_CHAPTER_79__The_Prairie.md"
     },
     {
       "title": "CHAPTER 80. The Nut.",
-      "file": "10_CHAPTER_80__The_Nut.md"
+      "file": "09_CHAPTER_80__The_Nut.md"
     },
     {
       "title": "CHAPTER 81. The Pequod Meets The Virgin.",
-      "file": "11_CHAPTER_81__The_Pequod_Meets_T.md"
+      "file": "10_CHAPTER_81__The_Pequod_Meets_T.md"
     },
     {
       "title": "CHAPTER 82. The Honor and Glory of Whaling.",
-      "file": "12_CHAPTER_82__The_Honor_and_Glor.md"
+      "file": "11_CHAPTER_82__The_Honor_and_Glor.md"
     },
     {
       "title": "CHAPTER 83. Jonah Historically Regarded.",
-      "file": "13_CHAPTER_83__Jonah_Historically.md"
+      "file": "12_CHAPTER_83__Jonah_Historically.md"
     },
     {
       "title": "CHAPTER 84. Pitchpoling.",
-      "file": "14_CHAPTER_84__Pitchpoling.md"
+      "file": "13_CHAPTER_84__Pitchpoling.md"
     },
     {
       "title": "CHAPTER 85. The Fountain.",
-      "file": "15_CHAPTER_85__The_Fountain.md"
+      "file": "14_CHAPTER_85__The_Fountain.md"
     },
     {
       "title": "CHAPTER 86. The Tail.",
-      "file": "16_CHAPTER_86__The_Tail.md"
+      "file": "15_CHAPTER_86__The_Tail.md"
     },
     {
       "title": "CHAPTER 87. The Grand Armada.",
-      "file": "17_CHAPTER_87__The_Grand_Armada.md"
+      "file": "16_CHAPTER_87__The_Grand_Armada.md"
     },
     {
       "title": "CHAPTER 88. Schools and Schoolmasters.",
-      "file": "18_CHAPTER_88__Schools_and_School.md"
+      "file": "17_CHAPTER_88__Schools_and_School.md"
     },
     {
       "title": "CHAPTER 89. Fast-Fish and Loose-Fish.",
-      "file": "19_CHAPTER_89__Fast_Fish_and_Loos.md"
+      "file": "18_CHAPTER_89__Fast_Fish_and_Loos.md"
     },
     {
       "title": "CHAPTER 90. Heads or Tails.",
-      "file": "20_CHAPTER_90__Heads_or_Tails.md"
+      "file": "19_CHAPTER_90__Heads_or_Tails.md"
     },
     {
       "title": "CHAPTER 91. The Pequod Meets The Rose-Bud.",
-      "file": "21_CHAPTER_91__The_Pequod_Meets_T.md"
+      "file": "20_CHAPTER_91__The_Pequod_Meets_T.md"
     },
     {
       "title": "CHAPTER 92. Ambergris.",
-      "file": "22_CHAPTER_92__Ambergris.md"
+      "file": "21_CHAPTER_92__Ambergris.md"
     },
     {
       "title": "CHAPTER 93. The Castaway.",
-      "file": "23_CHAPTER_93__The_Castaway.md"
+      "file": "22_CHAPTER_93__The_Castaway.md"
     },
     {
       "title": "CHAPTER 94. A Squeeze of the Hand.",
-      "file": "24_CHAPTER_94__A_Squeeze_of_the_H.md"
+      "file": "23_CHAPTER_94__A_Squeeze_of_the_H.md"
     },
     {
       "title": "CHAPTER 95. The Cassock.",
-      "file": "25_CHAPTER_95__The_Cassock.md"
+      "file": "24_CHAPTER_95__The_Cassock.md"
     },
     {
       "title": "CHAPTER 96. The Try-Works.",
-      "file": "26_CHAPTER_96__The_Try_Works.md"
+      "file": "25_CHAPTER_96__The_Try_Works.md"
     },
     {
       "title": "CHAPTER 97. The Lamp.",
-      "file": "27_CHAPTER_97__The_Lamp.md"
+      "file": "26_CHAPTER_97__The_Lamp.md"
     },
     {
       "title": "CHAPTER 98. Stowing Down and Clearing Up.",
-      "file": "28_CHAPTER_98__Stowing_Down_and_C.md"
+      "file": "27_CHAPTER_98__Stowing_Down_and_C.md"
     },
     {
       "title": "CHAPTER 99. The Doubloon.",
-      "file": "29_CHAPTER_99__The_Doubloon.md"
+      "file": "28_CHAPTER_99__The_Doubloon.md"
     },
     {
       "title": "CHAPTER 100. Leg and Arm.",
-      "file": "30_CHAPTER_100__Leg_and_Arm.md"
+      "file": "29_CHAPTER_100__Leg_and_Arm.md"
     },
     {
       "title": "CHAPTER 101. The Decanter.",
-      "file": "31_CHAPTER_101__The_Decanter.md"
+      "file": "30_CHAPTER_101__The_Decanter.md"
     },
     {
       "title": "CHAPTER 102. A Bower in the Arsacides.",
-      "file": "32_CHAPTER_102__A_Bower_in_the_Ar.md"
+      "file": "31_CHAPTER_102__A_Bower_in_the_Ar.md"
     },
     {
       "title": "CHAPTER 103. Measurement of The Whale\u2019s Skeleton.",
-      "file": "33_CHAPTER_103__Measurement_of_Th.md"
+      "file": "32_CHAPTER_103__Measurement_of_Th.md"
     },
     {
       "title": "CHAPTER 104. The Fossil Whale.",
-      "file": "34_CHAPTER_104__The_Fossil_Whale.md"
+      "file": "33_CHAPTER_104__The_Fossil_Whale.md"
     },
     {
       "title": "CHAPTER 105. Does the Whale\u2019s Magnitude Diminish?\u2014Will He Perish?",
-      "file": "35_CHAPTER_105__Does_the_Whale_s.md"
+      "file": "34_CHAPTER_105__Does_the_Whale_s.md"
     },
     {
       "title": "CHAPTER 28. Ahab",
-      "file": "36_CHAPTER_28__Ahab.md"
+      "file": "35_CHAPTER_28__Ahab.md"
     },
     {
       "title": "CHAPTER 107. The Carpenter.",
-      "file": "37_CHAPTER_107__The_Carpenter.md"
+      "file": "36_CHAPTER_107__The_Carpenter.md"
     },
     {
       "title": "CHAPTER 108. Ahab and the Carpenter.",
-      "file": "38_CHAPTER_108__Ahab_and_the_Carp.md"
+      "file": "37_CHAPTER_108__Ahab_and_the_Carp.md"
     },
     {
       "title": "CHAPTER 109. Ahab and Starbuck in the Cabin.",
-      "file": "39_CHAPTER_109__Ahab_and_Starbuck.md"
+      "file": "38_CHAPTER_109__Ahab_and_Starbuck.md"
     },
     {
       "title": "CHAPTER 110. Queequeg in His Coffin.",
-      "file": "40_CHAPTER_110__Queequeg_in_His_C.md"
+      "file": "39_CHAPTER_110__Queequeg_in_His_C.md"
     },
     {
       "title": "CHAPTER 111. The Pacific.",
-      "file": "41_CHAPTER_111__The_Pacific.md"
+      "file": "40_CHAPTER_111__The_Pacific.md"
     },
     {
       "title": "CHAPTER 112. The Blacksmith.",
-      "file": "42_CHAPTER_112__The_Blacksmith.md"
+      "file": "41_CHAPTER_112__The_Blacksmith.md"
     },
     {
       "title": "CHAPTER 113. The Forge.",
-      "file": "43_CHAPTER_113__The_Forge.md"
+      "file": "42_CHAPTER_113__The_Forge.md"
     },
     {
       "title": "CHAPTER 114. The Gilder.",
-      "file": "44_CHAPTER_114__The_Gilder.md"
+      "file": "43_CHAPTER_114__The_Gilder.md"
     },
     {
       "title": "CHAPTER 115. The Pequod Meets The Bachelor.",
-      "file": "45_CHAPTER_115__The_Pequod_Meets.md"
+      "file": "44_CHAPTER_115__The_Pequod_Meets.md"
     },
     {
       "title": "CHAPTER 116. The Dying Whale.",
-      "file": "46_CHAPTER_116__The_Dying_Whale.md"
+      "file": "45_CHAPTER_116__The_Dying_Whale.md"
     },
     {
       "title": "CHAPTER 117. The Whale Watch.",
-      "file": "47_CHAPTER_117__The_Whale_Watch.md"
+      "file": "46_CHAPTER_117__The_Whale_Watch.md"
     },
     {
       "title": "CHAPTER 118. The Quadrant.",
-      "file": "48_CHAPTER_118__The_Quadrant.md"
+      "file": "47_CHAPTER_118__The_Quadrant.md"
     },
     {
       "title": "CHAPTER 119. The Candles.",
-      "file": "49_CHAPTER_119__The_Candles.md"
+      "file": "48_CHAPTER_119__The_Candles.md"
     },
     {
       "title": "CHAPTER 120. The Deck Towards the End of the First Night Watch.",
-      "file": "50_CHAPTER_120__The_Deck_Towards.md"
+      "file": "49_CHAPTER_120__The_Deck_Towards.md"
     },
     {
       "title": "CHAPTER 121. Midnight.\u2014The Forecastle Bulwarks.",
-      "file": "51_CHAPTER_121__Midnight__The_For.md"
+      "file": "50_CHAPTER_121__Midnight__The_For.md"
     },
     {
       "title": "CHAPTER 122. Midnight Aloft.\u2014Thunder and Lightning.",
-      "file": "52_CHAPTER_122__Midnight_Aloft__T.md"
+      "file": "51_CHAPTER_122__Midnight_Aloft__T.md"
     },
     {
       "title": "CHAPTER 123. The Musket.",
-      "file": "53_CHAPTER_123__The_Musket.md"
+      "file": "52_CHAPTER_123__The_Musket.md"
     },
     {
       "title": "CHAPTER 124. The Needle.",
-      "file": "54_CHAPTER_124__The_Needle.md"
+      "file": "53_CHAPTER_124__The_Needle.md"
     },
     {
       "title": "CHAPTER 125. The Log and Line.",
-      "file": "55_CHAPTER_125__The_Log_and_Line.md"
+      "file": "54_CHAPTER_125__The_Log_and_Line.md"
     },
     {
       "title": "CHAPTER 126. The Life-Buoy.",
-      "file": "56_CHAPTER_126__The_Life_Buoy.md"
+      "file": "55_CHAPTER_126__The_Life_Buoy.md"
     },
     {
       "title": "CHAPTER 127. The Deck.",
-      "file": "57_CHAPTER_127__The_Deck.md"
+      "file": "56_CHAPTER_127__The_Deck.md"
     },
     {
       "title": "CHAPTER 128. The Pequod Meets The Rachel.",
-      "file": "58_CHAPTER_128__The_Pequod_Meets.md"
+      "file": "57_CHAPTER_128__The_Pequod_Meets.md"
     },
     {
       "title": "CHAPTER 34. The Cabin-Table",
-      "file": "59_CHAPTER_34__The_Cabin_Table.md"
+      "file": "58_CHAPTER_34__The_Cabin_Table.md"
     },
     {
       "title": "CHAPTER 130. The Hat.",
-      "file": "60_CHAPTER_130__The_Hat.md"
+      "file": "59_CHAPTER_130__The_Hat.md"
     },
     {
       "title": "CHAPTER 131. The Pequod Meets The Delight.",
-      "file": "61_CHAPTER_131__The_Pequod_Meets.md"
+      "file": "60_CHAPTER_131__The_Pequod_Meets.md"
     },
     {
       "title": "CHAPTER 132. The Symphony.",
-      "file": "62_CHAPTER_132__The_Symphony.md"
+      "file": "61_CHAPTER_132__The_Symphony.md"
     },
     {
       "title": "CHAPTER 133. The Chase\u2014First Day.",
-      "file": "63_CHAPTER_133__The_Chase_First_D.md"
+      "file": "62_CHAPTER_133__The_Chase_First_D.md"
     },
     {
       "title": "CHAPTER 134. The Chase\u2014Second Day.",
-      "file": "64_CHAPTER_134__The_Chase_Second.md"
+      "file": "63_CHAPTER_134__The_Chase_Second.md"
     },
     {
       "title": "CHAPTER 135. The Chase.\u2014Third Day: Epilogue",
-      "file": "65_CHAPTER_135__The_Chase__Third.md"
+      "file": "64_CHAPTER_135__The_Chase__Third.md"
     },
     {
       "title": "ETYMOLOGY",
-      "file": "66_ETYMOLOGY.md"
+      "file": "65_ETYMOLOGY.md"
     },
     {
       "title": "EXTRACTS (Supplied by a Sub-Sub-Librarian)",
-      "file": "67_EXTRACTS__Supplied_by_a_Sub_Su.md"
+      "file": "66_EXTRACTS__Supplied_by_a_Sub_Su.md"
     },
     {
       "title": "CHAPTER 14. Nantucket",
-      "file": "68_CHAPTER_14__Nantucket.md"
+      "file": "67_CHAPTER_14__Nantucket.md"
     },
     {
       "title": "CHAPTER 1. Loomings",
-      "file": "69_CHAPTER_1__Loomings.md"
+      "file": "68_CHAPTER_1__Loomings.md"
     },
     {
       "title": "CHAPTER 2. The Carpet-Bag",
-      "file": "70_CHAPTER_2__The_Carpet_Bag.md"
+      "file": "69_CHAPTER_2__The_Carpet_Bag.md"
     },
     {
       "title": "CHAPTER 3. The Spouter-Inn",
-      "file": "71_CHAPTER_3__The_Spouter_Inn.md"
+      "file": "70_CHAPTER_3__The_Spouter_Inn.md"
     },
     {
       "title": "CHAPTER 4. The Counterpane",
-      "file": "72_CHAPTER_4__The_Counterpane.md"
+      "file": "71_CHAPTER_4__The_Counterpane.md"
     },
     {
       "title": "CHAPTER 5. Breakfast",
-      "file": "73_CHAPTER_5__Breakfast.md"
+      "file": "72_CHAPTER_5__Breakfast.md"
     },
     {
       "title": "CHAPTER 6. The Street",
-      "file": "74_CHAPTER_6__The_Street.md"
+      "file": "73_CHAPTER_6__The_Street.md"
     },
     {
       "title": "CHAPTER 7. The Chapel",
-      "file": "75_CHAPTER_7__The_Chapel.md"
+      "file": "74_CHAPTER_7__The_Chapel.md"
     },
     {
       "title": "CHAPTER 8. The Pulpit",
-      "file": "76_CHAPTER_8__The_Pulpit.md"
+      "file": "75_CHAPTER_8__The_Pulpit.md"
     },
     {
       "title": "CHAPTER 9. The Sermon",
-      "file": "77_CHAPTER_9__The_Sermon.md"
+      "file": "76_CHAPTER_9__The_Sermon.md"
     },
     {
       "title": "CHAPTER 10. A Bosom Friend",
-      "file": "78_CHAPTER_10__A_Bosom_Friend.md"
+      "file": "77_CHAPTER_10__A_Bosom_Friend.md"
     },
     {
       "title": "CHAPTER 11. Nightgown",
-      "file": "79_CHAPTER_11__Nightgown.md"
+      "file": "78_CHAPTER_11__Nightgown.md"
     },
     {
       "title": "CHAPTER 12. Biographical",
-      "file": "80_CHAPTER_12__Biographical.md"
+      "file": "79_CHAPTER_12__Biographical.md"
     },
     {
       "title": "CHAPTER 13. Wheelbarrow",
-      "file": "81_CHAPTER_13__Wheelbarrow.md"
+      "file": "80_CHAPTER_13__Wheelbarrow.md"
     },
     {
       "title": "CHAPTER 14. Nantucket",
-      "file": "82_CHAPTER_14__Nantucket.md"
+      "file": "81_CHAPTER_14__Nantucket.md"
     },
     {
       "title": "CHAPTER 15. Chowder",
-      "file": "83_CHAPTER_15__Chowder.md"
+      "file": "82_CHAPTER_15__Chowder.md"
     },
     {
       "title": "CHAPTER 16. The Ship",
-      "file": "84_CHAPTER_16__The_Ship.md"
+      "file": "83_CHAPTER_16__The_Ship.md"
     },
     {
       "title": "CHAPTER 17. The Ramadan",
-      "file": "85_CHAPTER_17__The_Ramadan.md"
+      "file": "84_CHAPTER_17__The_Ramadan.md"
     },
     {
       "title": "CHAPTER 18. His Mark",
-      "file": "86_CHAPTER_18__His_Mark.md"
+      "file": "85_CHAPTER_18__His_Mark.md"
     },
     {
       "title": "CHAPTER 19. The Prophet",
-      "file": "87_CHAPTER_19__The_Prophet.md"
+      "file": "86_CHAPTER_19__The_Prophet.md"
     },
     {
       "title": "CHAPTER 20. All Astir",
-      "file": "88_CHAPTER_20__All_Astir.md"
+      "file": "87_CHAPTER_20__All_Astir.md"
+    },
+    {
+      "title": "CHAPTER 21. Going Aboard",
+      "file": "88_CHAPTER_21__Going_Aboard.md"
     },
     {
       "title": "CHAPTER 21. Going Aboard",
       "file": "89_CHAPTER_21__Going_Aboard.md"
     },
     {
-      "title": "CHAPTER 21. Going Aboard",
-      "file": "90_CHAPTER_21__Going_Aboard.md"
-    },
-    {
       "title": "CHAPTER 22. Merry Christmas",
-      "file": "91_CHAPTER_22__Merry_Christmas.md"
+      "file": "90_CHAPTER_22__Merry_Christmas.md"
     },
     {
       "title": "CHAPTER 23. The Lee Shore",
-      "file": "92_CHAPTER_23__The_Lee_Shore.md"
+      "file": "91_CHAPTER_23__The_Lee_Shore.md"
     },
     {
       "title": "CHAPTER 24. The Advocate",
-      "file": "93_CHAPTER_24__The_Advocate.md"
+      "file": "92_CHAPTER_24__The_Advocate.md"
     },
     {
       "title": "CHAPTER 25. Postscript",
-      "file": "94_CHAPTER_25__Postscript.md"
+      "file": "93_CHAPTER_25__Postscript.md"
+    },
+    {
+      "title": "CHAPTER 26. Knights and Squires",
+      "file": "94_CHAPTER_26__Knights_and_Squire.md"
     },
     {
       "title": "CHAPTER 26. Knights and Squires",
       "file": "95_CHAPTER_26__Knights_and_Squire.md"
     },
     {
-      "title": "CHAPTER 26. Knights and Squires",
-      "file": "96_CHAPTER_26__Knights_and_Squire.md"
-    },
-    {
       "title": "CHAPTER 28. Ahab",
-      "file": "97_CHAPTER_28__Ahab.md"
+      "file": "96_CHAPTER_28__Ahab.md"
     },
     {
       "title": "CHAPTER 29. Enter Ahab; to Him, Stubb",
-      "file": "98_CHAPTER_29__Enter_Ahab__to_Him.md"
+      "file": "97_CHAPTER_29__Enter_Ahab__to_Him.md"
     },
     {
       "title": "CHAPTER 28. Ahab",
-      "file": "99_CHAPTER_28__Ahab.md"
+      "file": "98_CHAPTER_28__Ahab.md"
     },
     {
       "title": "CHAPTER 30. The Pipe",
-      "file": "100_CHAPTER_30__The_Pipe.md"
+      "file": "99_CHAPTER_30__The_Pipe.md"
     },
     {
       "title": "CHAPTER 31. Queen Mab",
-      "file": "101_CHAPTER_31__Queen_Mab.md"
+      "file": "100_CHAPTER_31__Queen_Mab.md"
     },
     {
       "title": "CHAPTER 32. Cetology",
-      "file": "102_CHAPTER_32__Cetology.md"
+      "file": "101_CHAPTER_32__Cetology.md"
     },
     {
       "title": "BOOK I. (_Folio_), CHAPTER I. (_Sperm Whale_).\u2014This whale, among the",
-      "file": "103_BOOK_I____Folio____CHAPTER_I.md"
+      "file": "102_BOOK_I____Folio____CHAPTER_I.md"
     },
     {
       "title": "BOOK I. (_Folio_), CHAPTER II. (_Right Whale_).\u2014In one respect this is",
-      "file": "104_BOOK_I____Folio____CHAPTER_II.md"
+      "file": "103_BOOK_I____Folio____CHAPTER_II.md"
     },
     {
       "title": "BOOK I. (_Folio_), CHAPTER III. (_Fin-Back_).\u2014Under this head I reckon",
-      "file": "105_BOOK_I____Folio____CHAPTER_III.md"
+      "file": "104_BOOK_I____Folio____CHAPTER_III.md"
     },
     {
       "title": "BOOK I. (_Folio_) CHAPTER IV. (_Hump Back_).\u2014This whale is often seen",
-      "file": "106_BOOK_I____Folio___CHAPTER_IV.md"
+      "file": "105_BOOK_I____Folio___CHAPTER_IV.md"
     },
     {
       "title": "BOOK I. (_Folio_), CHAPTER V. (_Razor Back_).\u2014Of this whale little is",
-      "file": "107_BOOK_I____Folio____CHAPTER_V.md"
+      "file": "106_BOOK_I____Folio____CHAPTER_V.md"
     },
     {
       "title": "BOOK I. (_Folio_), CHAPTER VI. (_Sulphur Bottom_).\u2014Another retiring",
-      "file": "108_BOOK_I____Folio____CHAPTER_VI.md"
+      "file": "107_BOOK_I____Folio____CHAPTER_VI.md"
     },
     {
       "title": "BOOK II. (_Octavo_), CHAPTER I. (_Grampus_).\u2014Though this fish, whose",
-      "file": "109_BOOK_II____Octavo____CHAPTER_I.md"
+      "file": "108_BOOK_II____Octavo____CHAPTER_I.md"
     },
     {
       "title": "BOOK II. (_Octavo_), CHAPTER II. (_Black Fish_).\u2014I give the popular",
-      "file": "110_BOOK_II____Octavo____CHAPTER_I.md"
+      "file": "109_BOOK_II____Octavo____CHAPTER_I.md"
     },
     {
       "title": "BOOK II. (_Octavo_), CHAPTER III. (_Narwhale_), that is, _Nostril",
-      "file": "111_BOOK_II____Octavo____CHAPTER_I.md"
+      "file": "110_BOOK_II____Octavo____CHAPTER_I.md"
     },
     {
       "title": "BOOK II. (_Octavo_), CHAPTER IV. (_Killer_).\u2014Of this whale little is",
-      "file": "112_BOOK_II____Octavo____CHAPTER_I.md"
+      "file": "111_BOOK_II____Octavo____CHAPTER_I.md"
     },
     {
       "title": "BOOK II. (_Octavo_), CHAPTER V. (_Thrasher_).\u2014This gentleman is famous",
-      "file": "113_BOOK_II____Octavo____CHAPTER_V.md"
+      "file": "112_BOOK_II____Octavo____CHAPTER_V.md"
     },
     {
       "title": "BOOK III. (_Duodecimo_), CHAPTER 1. (_Huzza Porpoise_).\u2014This is the",
-      "file": "114_BOOK_III____Duodecimo____CHAPT.md"
+      "file": "113_BOOK_III____Duodecimo____CHAPT.md"
     },
     {
       "title": "BOOK III. (_Duodecimo_), CHAPTER II. (_Algerine Porpoise_).\u2014A pirate.",
-      "file": "115_BOOK_III____Duodecimo____CHAPT.md"
+      "file": "114_BOOK_III____Duodecimo____CHAPT.md"
     },
     {
       "title": "BOOK III. (_Duodecimo_), CHAPTER III. (_Mealy-mouthed Porpoise_).\u2014The",
-      "file": "116_BOOK_III____Duodecimo____CHAPT.md"
+      "file": "115_BOOK_III____Duodecimo____CHAPT.md"
     },
     {
       "title": "CHAPTER 33. The Specksnyder",
-      "file": "117_CHAPTER_33__The_Specksnyder.md"
+      "file": "116_CHAPTER_33__The_Specksnyder.md"
     },
     {
       "title": "CHAPTER 34. The Cabin-Table",
-      "file": "118_CHAPTER_34__The_Cabin_Table.md"
+      "file": "117_CHAPTER_34__The_Cabin_Table.md"
     },
     {
       "title": "CHAPTER 35. The Mast-Head",
-      "file": "119_CHAPTER_35__The_Mast_Head.md"
+      "file": "118_CHAPTER_35__The_Mast_Head.md"
     },
     {
       "title": "CHAPTER 36. The Quarter-Deck",
-      "file": "120_CHAPTER_36__The_Quarter_Deck.md"
+      "file": "119_CHAPTER_36__The_Quarter_Deck.md"
     },
     {
       "title": "CHAPTER 41. Moby Dick",
-      "file": "121_CHAPTER_41__Moby_Dick.md"
+      "file": "120_CHAPTER_41__Moby_Dick.md"
     },
     {
       "title": "CHAPTER 37. Sunset",
-      "file": "122_CHAPTER_37__Sunset.md"
+      "file": "121_CHAPTER_37__Sunset.md"
     },
     {
       "title": "CHAPTER 38. Dusk",
-      "file": "123_CHAPTER_38__Dusk.md"
+      "file": "122_CHAPTER_38__Dusk.md"
     },
     {
       "title": "CHAPTER 39. First Night-Watch",
-      "file": "124_CHAPTER_39__First_Night_Watch.md"
+      "file": "123_CHAPTER_39__First_Night_Watch.md"
     },
     {
       "title": "CHAPTER 40. Midnight, Forecastle",
-      "file": "125_CHAPTER_40__Midnight__Forecast.md"
+      "file": "124_CHAPTER_40__Midnight__Forecast.md"
     },
     {
       "title": "CHAPTER 41. Moby Dick",
-      "file": "126_CHAPTER_41__Moby_Dick.md"
+      "file": "125_CHAPTER_41__Moby_Dick.md"
     },
     {
       "title": "CHAPTER 42. The Whiteness of the Whale",
-      "file": "127_CHAPTER_42__The_Whiteness_of_t.md"
+      "file": "126_CHAPTER_42__The_Whiteness_of_t.md"
     },
     {
       "title": "CHAPTER 43. Hark!",
-      "file": "128_CHAPTER_43__Hark.md"
+      "file": "127_CHAPTER_43__Hark.md"
     },
     {
       "title": "CHAPTER 44. The Chart",
-      "file": "129_CHAPTER_44__The_Chart.md"
+      "file": "128_CHAPTER_44__The_Chart.md"
     },
     {
       "title": "CHAPTER 45. The Affidavit",
-      "file": "130_CHAPTER_45__The_Affidavit.md"
+      "file": "129_CHAPTER_45__The_Affidavit.md"
     },
     {
       "title": "CHAPTER 46. Surmises",
-      "file": "131_CHAPTER_46__Surmises.md"
+      "file": "130_CHAPTER_46__Surmises.md"
     },
     {
       "title": "CHAPTER 47. The Mat-Maker",
-      "file": "132_CHAPTER_47__The_Mat_Maker.md"
+      "file": "131_CHAPTER_47__The_Mat_Maker.md"
     },
     {
       "title": "CHAPTER 48. The First Lowering",
-      "file": "133_CHAPTER_48__The_First_Lowering.md"
+      "file": "132_CHAPTER_48__The_First_Lowering.md"
     },
     {
       "title": "CHAPTER 49. The Hyena",
-      "file": "134_CHAPTER_49__The_Hyena.md"
+      "file": "133_CHAPTER_49__The_Hyena.md"
     },
     {
       "title": "CHAPTER 50. Ahab\u2019s Boat and Crew. Fedallah",
-      "file": "135_CHAPTER_50__Ahab_s_Boat_and_Cr.md"
+      "file": "134_CHAPTER_50__Ahab_s_Boat_and_Cr.md"
     },
     {
       "title": "CHAPTER 51. The Spirit-Spout",
-      "file": "136_CHAPTER_51__The_Spirit_Spout.md"
+      "file": "135_CHAPTER_51__The_Spirit_Spout.md"
     },
     {
       "title": "CHAPTER 52. The Albatross",
-      "file": "137_CHAPTER_52__The_Albatross.md"
+      "file": "136_CHAPTER_52__The_Albatross.md"
     },
     {
       "title": "CHAPTER 53. The Gam",
-      "file": "138_CHAPTER_53__The_Gam.md"
+      "file": "137_CHAPTER_53__The_Gam.md"
     },
     {
       "title": "CHAPTER 54. The Town-Ho\u2019s Story",
-      "file": "139_CHAPTER_54__The_Town_Ho_s_Stor.md"
+      "file": "138_CHAPTER_54__The_Town_Ho_s_Stor.md"
     },
     {
       "title": "CHAPTER 55. Of the Monstrous Pictures of Whales",
-      "file": "140_CHAPTER_55__Of_the_Monstrous_P.md"
+      "file": "139_CHAPTER_55__Of_the_Monstrous_P.md"
     },
     {
       "title": "CHAPTER 56. Of the Less Erroneous Pictures of Whales, and the True",
-      "file": "141_CHAPTER_56__Of_the_Less_Errone.md"
+      "file": "140_CHAPTER_56__Of_the_Less_Errone.md"
     },
     {
       "title": "CHAPTER 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in",
-      "file": "142_CHAPTER_57__Of_Whales_in_Paint.md"
+      "file": "141_CHAPTER_57__Of_Whales_in_Paint.md"
     },
     {
       "title": "CHAPTER 58. Brit",
-      "file": "143_CHAPTER_58__Brit.md"
+      "file": "142_CHAPTER_58__Brit.md"
     },
     {
       "title": "CHAPTER 59. Squid",
-      "file": "144_CHAPTER_59__Squid.md"
+      "file": "143_CHAPTER_59__Squid.md"
     },
     {
       "title": "CHAPTER 60. The Line",
-      "file": "145_CHAPTER_60__The_Line.md"
+      "file": "144_CHAPTER_60__The_Line.md"
     },
     {
       "title": "CHAPTER 61. Stubb Kills a Whale",
-      "file": "146_CHAPTER_61__Stubb_Kills_a_Whal.md"
+      "file": "145_CHAPTER_61__Stubb_Kills_a_Whal.md"
     },
     {
       "title": "CHAPTER 62. The Dart",
-      "file": "147_CHAPTER_62__The_Dart.md"
+      "file": "146_CHAPTER_62__The_Dart.md"
     },
     {
       "title": "CHAPTER 63. The Crotch",
-      "file": "148_CHAPTER_63__The_Crotch.md"
+      "file": "147_CHAPTER_63__The_Crotch.md"
     },
     {
       "title": "CHAPTER 64. Stubb\u2019s Supper",
-      "file": "149_CHAPTER_64__Stubb_s_Supper.md"
+      "file": "148_CHAPTER_64__Stubb_s_Supper.md"
     },
     {
       "title": "CHAPTER 65. The Whale as a Dish",
-      "file": "150_CHAPTER_65__The_Whale_as_a_Dis.md"
+      "file": "149_CHAPTER_65__The_Whale_as_a_Dis.md"
     },
     {
       "title": "CHAPTER 66. The Shark Massacre",
-      "file": "151_CHAPTER_66__The_Shark_Massacre.md"
+      "file": "150_CHAPTER_66__The_Shark_Massacre.md"
     },
     {
       "title": "CHAPTER 67. Cutting In",
-      "file": "152_CHAPTER_67__Cutting_In.md"
+      "file": "151_CHAPTER_67__Cutting_In.md"
     },
     {
       "title": "CHAPTER 68. The Blanket",
-      "file": "153_CHAPTER_68__The_Blanket.md"
+      "file": "152_CHAPTER_68__The_Blanket.md"
     },
     {
       "title": "CHAPTER 69. The Funeral",
-      "file": "154_CHAPTER_69__The_Funeral.md"
+      "file": "153_CHAPTER_69__The_Funeral.md"
     },
     {
       "title": "CHAPTER 70. The Sphynx",
-      "file": "155_CHAPTER_70__The_Sphynx.md"
+      "file": "154_CHAPTER_70__The_Sphynx.md"
     },
     {
       "title": "CHAPTER 71. The Jeroboam\u2019s Story",
-      "file": "156_CHAPTER_71__The_Jeroboam_s_Sto.md"
+      "file": "155_CHAPTER_71__The_Jeroboam_s_Sto.md"
     },
     {
       "title": "CHAPTER 72. The Monkey-Rope.",
-      "file": "157_CHAPTER_72__The_Monkey_Rope.md"
+      "file": "156_CHAPTER_72__The_Monkey_Rope.md"
     },
     {
       "title": "CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk: over Him.",
-      "file": "158_CHAPTER_73__Stubb_and_Flask_ki.md"
+      "file": "157_CHAPTER_73__Stubb_and_Flask_ki.md"
     },
     {
       "title": "CHAPTER 74. The Sperm Whale\u2019s Head\u2014Contrasted View.",
-      "file": "159_CHAPTER_74__The_Sperm_Whale_s.md"
+      "file": "158_CHAPTER_74__The_Sperm_Whale_s.md"
     },
     {
       "title": "CHAPTER 75. The Right Whale\u2019s Head\u2014Contrasted View.",
-      "file": "160_CHAPTER_75__The_Right_Whale_s.md"
+      "file": "159_CHAPTER_75__The_Right_Whale_s.md"
     },
     {
       "title": "CHAPTER 76. The Battering-Ram.",
-      "file": "161_CHAPTER_76__The_Battering_Ram.md"
+      "file": "160_CHAPTER_76__The_Battering_Ram.md"
     },
     {
       "title": "CHAPTER 77. The Great Heidelburgh Tun.",
-      "file": "162_CHAPTER_77__The_Great_Heidelbu.md"
+      "file": "161_CHAPTER_77__The_Great_Heidelbu.md"
     },
     {
       "title": "CHAPTER 78. Cistern and Buckets.",
-      "file": "163_CHAPTER_78__Cistern_and_Bucket.md"
+      "file": "162_CHAPTER_78__Cistern_and_Bucket.md"
     },
     {
       "title": "CHAPTER 79. The Prairie.",
-      "file": "164_CHAPTER_79__The_Prairie.md"
+      "file": "163_CHAPTER_79__The_Prairie.md"
     },
     {
       "title": "CHAPTER 80. The Nut.",
-      "file": "165_CHAPTER_80__The_Nut.md"
+      "file": "164_CHAPTER_80__The_Nut.md"
     },
     {
       "title": "CHAPTER 81. The Pequod Meets The Virgin.",
-      "file": "166_CHAPTER_81__The_Pequod_Meets_T.md"
+      "file": "165_CHAPTER_81__The_Pequod_Meets_T.md"
     },
     {
       "title": "CHAPTER 82. The Honor and Glory of Whaling.",
-      "file": "167_CHAPTER_82__The_Honor_and_Glor.md"
+      "file": "166_CHAPTER_82__The_Honor_and_Glor.md"
     },
     {
       "title": "CHAPTER 83. Jonah Historically Regarded.",
-      "file": "168_CHAPTER_83__Jonah_Historically.md"
+      "file": "167_CHAPTER_83__Jonah_Historically.md"
     },
     {
       "title": "CHAPTER 84. Pitchpoling.",
-      "file": "169_CHAPTER_84__Pitchpoling.md"
+      "file": "168_CHAPTER_84__Pitchpoling.md"
     },
     {
       "title": "CHAPTER 85. The Fountain.",
-      "file": "170_CHAPTER_85__The_Fountain.md"
+      "file": "169_CHAPTER_85__The_Fountain.md"
     },
     {
       "title": "CHAPTER 86. The Tail.",
-      "file": "171_CHAPTER_86__The_Tail.md"
+      "file": "170_CHAPTER_86__The_Tail.md"
     },
     {
       "title": "CHAPTER 87. The Grand Armada.",
-      "file": "172_CHAPTER_87__The_Grand_Armada.md"
+      "file": "171_CHAPTER_87__The_Grand_Armada.md"
     },
     {
       "title": "CHAPTER 88. Schools and Schoolmasters.",
-      "file": "173_CHAPTER_88__Schools_and_School.md"
+      "file": "172_CHAPTER_88__Schools_and_School.md"
     },
     {
       "title": "CHAPTER 89. Fast-Fish and Loose-Fish.",
-      "file": "174_CHAPTER_89__Fast_Fish_and_Loos.md"
+      "file": "173_CHAPTER_89__Fast_Fish_and_Loos.md"
     },
     {
       "title": "CHAPTER 90. Heads or Tails.",
-      "file": "175_CHAPTER_90__Heads_or_Tails.md"
+      "file": "174_CHAPTER_90__Heads_or_Tails.md"
     },
     {
       "title": "CHAPTER 91. The Pequod Meets The Rose-Bud.",
-      "file": "176_CHAPTER_91__The_Pequod_Meets_T.md"
+      "file": "175_CHAPTER_91__The_Pequod_Meets_T.md"
     },
     {
       "title": "CHAPTER 92. Ambergris.",
-      "file": "177_CHAPTER_92__Ambergris.md"
+      "file": "176_CHAPTER_92__Ambergris.md"
     },
     {
       "title": "CHAPTER 93. The Castaway.",
-      "file": "178_CHAPTER_93__The_Castaway.md"
+      "file": "177_CHAPTER_93__The_Castaway.md"
     },
     {
       "title": "CHAPTER 94. A Squeeze of the Hand.",
-      "file": "179_CHAPTER_94__A_Squeeze_of_the_H.md"
+      "file": "178_CHAPTER_94__A_Squeeze_of_the_H.md"
     },
     {
       "title": "CHAPTER 95. The Cassock.",
-      "file": "180_CHAPTER_95__The_Cassock.md"
+      "file": "179_CHAPTER_95__The_Cassock.md"
     },
     {
       "title": "CHAPTER 96. The Try-Works.",
-      "file": "181_CHAPTER_96__The_Try_Works.md"
+      "file": "180_CHAPTER_96__The_Try_Works.md"
     },
     {
       "title": "CHAPTER 97. The Lamp.",
-      "file": "182_CHAPTER_97__The_Lamp.md"
+      "file": "181_CHAPTER_97__The_Lamp.md"
     },
     {
       "title": "CHAPTER 98. Stowing Down and Clearing Up.",
-      "file": "183_CHAPTER_98__Stowing_Down_and_C.md"
+      "file": "182_CHAPTER_98__Stowing_Down_and_C.md"
     },
     {
       "title": "CHAPTER 99. The Doubloon.",
-      "file": "184_CHAPTER_99__The_Doubloon.md"
+      "file": "183_CHAPTER_99__The_Doubloon.md"
     },
     {
       "title": "CHAPTER 43. Hark!",
-      "file": "185_CHAPTER_43__Hark.md"
+      "file": "184_CHAPTER_43__Hark.md"
     },
     {
       "title": "CHAPTER 100. Leg and Arm: The Pequod, of Nantucket, Meets the Samuel Enderby, of London.",
-      "file": "186_CHAPTER_100__Leg_and_Arm__The.md"
+      "file": "185_CHAPTER_100__Leg_and_Arm__The.md"
     },
     {
       "title": "CHAPTER 101. The Decanter.",
-      "file": "187_CHAPTER_101__The_Decanter.md"
+      "file": "186_CHAPTER_101__The_Decanter.md"
     },
     {
       "title": "CHAPTER 102. A Bower in the Arsacides.",
-      "file": "188_CHAPTER_102__A_Bower_in_the_Ar.md"
+      "file": "187_CHAPTER_102__A_Bower_in_the_Ar.md"
     },
     {
       "title": "CHAPTER 103. Measurement of The Whale\u2019s Skeleton.",
-      "file": "189_CHAPTER_103__Measurement_of_Th.md"
+      "file": "188_CHAPTER_103__Measurement_of_Th.md"
     },
     {
       "title": "CHAPTER 104. The Fossil Whale.",
-      "file": "190_CHAPTER_104__The_Fossil_Whale.md"
+      "file": "189_CHAPTER_104__The_Fossil_Whale.md"
     },
     {
       "title": "CHAPTER 105. Does the Whale\u2019s Magnitude Diminish?\u2014Will He Perish?",
-      "file": "191_CHAPTER_105__Does_the_Whale_s.md"
+      "file": "190_CHAPTER_105__Does_the_Whale_s.md"
     },
     {
       "title": "CHAPTER 28. Ahab",
-      "file": "192_CHAPTER_28__Ahab.md"
+      "file": "191_CHAPTER_28__Ahab.md"
     },
     {
       "title": "CHAPTER 107. The Carpenter.",
-      "file": "193_CHAPTER_107__The_Carpenter.md"
+      "file": "192_CHAPTER_107__The_Carpenter.md"
     },
     {
       "title": "CHAPTER 108. Ahab and the Carpenter: The Deck\u2014First Night Watch.",
-      "file": "194_CHAPTER_108__Ahab_and_the_Carp.md"
+      "file": "193_CHAPTER_108__Ahab_and_the_Carp.md"
     },
     {
       "title": "CHAPTER 109. Ahab and Starbuck in the Cabin.",
-      "file": "195_CHAPTER_109__Ahab_and_Starbuck.md"
+      "file": "194_CHAPTER_109__Ahab_and_Starbuck.md"
     },
     {
       "title": "CHAPTER 110. Queequeg in His Coffin.",
-      "file": "196_CHAPTER_110__Queequeg_in_His_C.md"
+      "file": "195_CHAPTER_110__Queequeg_in_His_C.md"
     },
     {
       "title": "CHAPTER 111. The Pacific.",
-      "file": "197_CHAPTER_111__The_Pacific.md"
+      "file": "196_CHAPTER_111__The_Pacific.md"
     },
     {
       "title": "CHAPTER 112. The Blacksmith.",
-      "file": "198_CHAPTER_112__The_Blacksmith.md"
+      "file": "197_CHAPTER_112__The_Blacksmith.md"
     },
     {
       "title": "CHAPTER 113. The Forge.",
-      "file": "199_CHAPTER_113__The_Forge.md"
+      "file": "198_CHAPTER_113__The_Forge.md"
     },
     {
       "title": "CHAPTER 114. The Gilder.",
-      "file": "200_CHAPTER_114__The_Gilder.md"
+      "file": "199_CHAPTER_114__The_Gilder.md"
     },
     {
       "title": "CHAPTER 115. The Pequod Meets The Bachelor.",
-      "file": "201_CHAPTER_115__The_Pequod_Meets.md"
+      "file": "200_CHAPTER_115__The_Pequod_Meets.md"
     },
     {
       "title": "CHAPTER 116. The Dying Whale.",
-      "file": "202_CHAPTER_116__The_Dying_Whale.md"
+      "file": "201_CHAPTER_116__The_Dying_Whale.md"
     },
     {
       "title": "CHAPTER 117. The Whale Watch.",
-      "file": "203_CHAPTER_117__The_Whale_Watch.md"
+      "file": "202_CHAPTER_117__The_Whale_Watch.md"
     },
     {
       "title": "CHAPTER 118. The Quadrant.",
-      "file": "204_CHAPTER_118__The_Quadrant.md"
+      "file": "203_CHAPTER_118__The_Quadrant.md"
     },
     {
       "title": "CHAPTER 119. The Candles.",
-      "file": "205_CHAPTER_119__The_Candles.md"
+      "file": "204_CHAPTER_119__The_Candles.md"
     },
     {
       "title": "CHAPTER 20. All Astir",
-      "file": "206_CHAPTER_20__All_Astir.md"
+      "file": "205_CHAPTER_20__All_Astir.md"
     },
     {
       "title": "CHAPTER 120. The Deck Towards the End of the First Night Watch: _Ahab standing by the helm. Starbuck approaching him._",
-      "file": "207_CHAPTER_120__The_Deck_Towards.md"
+      "file": "206_CHAPTER_120__The_Deck_Towards.md"
     },
     {
       "title": "CHAPTER 121. Midnight.\u2014The Forecastle Bulwarks.",
-      "file": "208_CHAPTER_121__Midnight__The_For.md"
+      "file": "207_CHAPTER_121__Midnight__The_For.md"
     },
     {
       "title": "CHAPTER 122. Midnight Aloft.\u2014Thunder and Lightning: _The main-top-sail yard_.\u2014_Tashtego passing new lashings around it_.",
-      "file": "209_CHAPTER_122__Midnight_Aloft__T.md"
+      "file": "208_CHAPTER_122__Midnight_Aloft__T.md"
     },
     {
       "title": "CHAPTER 123. The Musket.",
-      "file": "210_CHAPTER_123__The_Musket.md"
+      "file": "209_CHAPTER_123__The_Musket.md"
     },
     {
       "title": "CHAPTER 124. The Needle.",
-      "file": "211_CHAPTER_124__The_Needle.md"
+      "file": "210_CHAPTER_124__The_Needle.md"
     },
     {
       "title": "CHAPTER 125. The Log and Line.",
-      "file": "212_CHAPTER_125__The_Log_and_Line.md"
+      "file": "211_CHAPTER_125__The_Log_and_Line.md"
     },
     {
       "title": "CHAPTER 126. The Life-Buoy.",
-      "file": "213_CHAPTER_126__The_Life_Buoy.md"
+      "file": "212_CHAPTER_126__The_Life_Buoy.md"
     },
     {
       "title": "CHAPTER 127. The Deck.",
-      "file": "214_CHAPTER_127__The_Deck.md"
+      "file": "213_CHAPTER_127__The_Deck.md"
     },
     {
       "title": "CHAPTER 28. Ahab",
-      "file": "215_CHAPTER_28__Ahab.md"
+      "file": "214_CHAPTER_28__Ahab.md"
     },
     {
       "title": "CHAPTER 128. The Pequod Meets The Rachel.",
-      "file": "216_CHAPTER_128__The_Pequod_Meets.md"
+      "file": "215_CHAPTER_128__The_Pequod_Meets.md"
     },
     {
       "title": "CHAPTER 2. The Carpet-Bag",
-      "file": "217_CHAPTER_2__The_Carpet_Bag.md"
+      "file": "216_CHAPTER_2__The_Carpet_Bag.md"
     },
     {
       "title": "CHAPTER 34. The Cabin-Table",
-      "file": "218_CHAPTER_34__The_Cabin_Table.md"
+      "file": "217_CHAPTER_34__The_Cabin_Table.md"
     },
     {
       "title": "CHAPTER 130. The Hat.",
-      "file": "219_CHAPTER_130__The_Hat.md"
+      "file": "218_CHAPTER_130__The_Hat.md"
     },
     {
       "title": "CHAPTER 131. The Pequod Meets The Delight.",
-      "file": "220_CHAPTER_131__The_Pequod_Meets.md"
+      "file": "219_CHAPTER_131__The_Pequod_Meets.md"
     },
     {
       "title": "CHAPTER 132. The Symphony.",
-      "file": "221_CHAPTER_132__The_Symphony.md"
+      "file": "220_CHAPTER_132__The_Symphony.md"
     },
     {
       "title": "CHAPTER 28. Ahab",
-      "file": "222_CHAPTER_28__Ahab.md"
+      "file": "221_CHAPTER_28__Ahab.md"
     },
     {
       "title": "CHAPTER 133. The Chase\u2014First Day.",
-      "file": "223_CHAPTER_133__The_Chase_First_D.md"
+      "file": "222_CHAPTER_133__The_Chase_First_D.md"
     },
     {
       "title": "CHAPTER 41. Moby Dick",
-      "file": "224_CHAPTER_41__Moby_Dick.md"
+      "file": "223_CHAPTER_41__Moby_Dick.md"
     },
     {
       "title": "CHAPTER 134. The Chase\u2014Second Day: At day-break, the three mast-heads were punctually manned afresh.",
-      "file": "225_CHAPTER_134__The_Chase_Second.md"
+      "file": "224_CHAPTER_134__The_Chase_Second.md"
     },
     {
       "title": "CHAPTER 135. The Chase.\u2014Third Day.",
-      "file": "226_CHAPTER_135__The_Chase__Third.md"
+      "file": "225_CHAPTER_135__The_Chase__Third.md"
     },
     {
       "title": "CHAPTER 28. Ahab",
-      "file": "227_CHAPTER_28__Ahab.md"
+      "file": "226_CHAPTER_28__Ahab.md"
     }
   ]
 }

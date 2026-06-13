@@ -1,3 +1,9 @@
 # Tail-piece to Contents
 
-With her head in Jo's lap, while the wind blew healthfully over her
+Here are your flowers
+
+Demi and Daisy
+
+Mornin' now
+
+My dear man, it's a bonnet

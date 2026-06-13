@@ -1,75 +1,58 @@
 # Introduction
 
-THE ADVENTURES OF TOM SAWYER
+# Introduction
 
-By Mark Twain
+<div style="text-align: center; margin-bottom: 2.5rem; padding-top: 1rem;">
+  <h1 style="font-size: 2.25rem; margin-bottom: 0.5rem; font-weight: 800; color: var(--text-main); line-height: 1.2;">The Adventures of Tom Sawyer</h1>
+  <p style="font-size: 1.25rem; color: var(--text-muted); font-style: italic; margin-top: 0.5rem;">by Mark Twain</p>
+</div>
 
-(Samuel Langhorne Clemens)
+<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 2rem 0; opacity: 0.5;">
 
-CONTENTS
+<div class="toc-container" style="max-width: 550px; margin: 0 auto; padding: 0 10px;">
+  <h3 style="text-align: center; margin-bottom: 1.5rem; letter-spacing: 0.08em; text-transform: uppercase; font-size: 1.1rem; font-weight: 700; color: var(--text-main);">Table of Contents</h3>
+  <ul style="list-style: none; padding: 0; margin: 0; line-height: 2;">
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="02_CHAPTER_XXXIV__Springing_a_Sec.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXXIV. Springing a Secret—Mr. Jones’ Surprise a Failure</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 1</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="03_CHAPTER_XXXV__A_New_Order_of_T.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXXV. A New Order of Things—Poor Huck—New Adventures Planned</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 2</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="04_PREFACE.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>PREFACE</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 3</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="05_CHAPTER_I___Tom.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER I: “Tom!”</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 4</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="06_CHAPTER_II.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER II</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 5</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="07_CHAPTER_III.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER III</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 6</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="08_CHAPTER_IV.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER IV</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 7</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="09_CHAPTER_V.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER V</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 8</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="10_CHAPTER_VI.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER VI</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 9</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="11_CHAPTER_VII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER VII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 10</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="12_CHAPTER_VIII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER VIII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 11</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="13_CHAPTER_IX.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER IX</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 12</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="14_CHAPTER_X.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER X</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 13</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="15_CHAPTER_XI.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XI</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 14</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="16_CHAPTER_XII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 15</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="17_CHAPTER_XIII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XIII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 16</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="18_CHAPTER_XIV.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XIV</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 17</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="19_CHAPTER_XV.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XV</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 18</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="20_CHAPTER_XVI.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XVI</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 19</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="21_CHAPTER_XVII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XVII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 20</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="22_CHAPTER_XVIII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XVIII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 21</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="23_CHAPTER_XIX.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XIX</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 22</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="24_CHAPTER_XX.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XX</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 23</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="25_CHAPTER_XXI.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXI</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 24</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="26_CHAPTER_XXII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 25</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="27_CHAPTER_XXIII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXIII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 26</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="28_CHAPTER_XXIV.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXIV</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 27</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="29_CHAPTER_XXV.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXV</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 28</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="30_CHAPTER_XXVI.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXVI</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 29</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="31_CHAPTER_XXVII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXVII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 30</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="32_CHAPTER_XXVIII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXVIII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 31</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="33_CHAPTER_XXIX.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXIX</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 32</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="34_CHAPTER_XXX.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXX</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 33</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="35_CHAPTER_XXXI.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXXI</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 34</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="36_CHAPTER_XXXII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXXII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 35</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="37_CHAPTER_XXXIII.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXXIII</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 36</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="38_CHAPTER_XXXIV.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXXIV</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 37</span></a></li>
+    <li style="margin-bottom: 0.85rem; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.35rem;"><a href="39_CHAPTER_XXXV.md" style="color: var(--accent); text-decoration: none; font-weight: 500; display: flex; justify-content: space-between; align-items: baseline;"><span>CHAPTER XXXV</span> <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 400; padding-left: 10px; text-align: right;">Chapter 38</span></a></li>
+  </ul>
+</div>
 
-CHAPTER I. Y-o-u-u Tom—Aunt Polly Decides Upon her Duty—Tom Practices Music—The Challenge—A Private Entrance
+<hr style="border: 0; border-top: 1px solid var(--border-color); margin: 3rem 0; opacity: 0.5;">
 
-CHAPTER II. Strong Temptations—Strategic Movements—The Innocents Beguiled
-
-CHAPTER III. Tom as a General—Triumph and Reward—Dismal Felicity—Commission and Omission
-
-CHAPTER IV. Mental Acrobatics—Attending Sunday—School—The Superintendent—“Showing off”—Tom Lionized
-
-CHAPTER V. A Useful Minister—In Church—The Climax
-
-CHAPTER VI. Self-Examination—Dentistry—The Midnight Charm—Witches and Devils—Cautious Approaches—Happy Hours
-
-CHAPTER VII. A Treaty Entered Into—Early Lessons—A Mistake Made
-
-CHAPTER VIII. Tom Decides on his Course—Old Scenes Re-enacted
-
-CHAPTER IX. A Solemn Situation—Grave Subjects Introduced—Injun Joe Explains
-
-CHAPTER X. The Solemn Oath—Terror Brings Repentance—Mental Punishment
-
-CHAPTER XI. Muff Potter Comes Himself—Tom’s Conscience at Work
-
-CHAPTER XII. Tom Shows his Generosity—Aunt Polly Weakens
-
-CHAPTER XIII. The Young Pirates—Going to the Rendezvous—The Camp—Fire Talk
-
-CHAPTER XIV. Camp-Life—A Sensation—Tom Steals Away from Camp
-
-CHAPTER XV. Tom Reconnoiters—Learns the Situation—Reports at Camp
-
-CHAPTER XVI. A Day’s Amusements—Tom Reveals a Secret—The Pirates take a Lesson—A Night Surprise—An Indian War
-
-CHAPTER XVII. Memories of the Lost Heroes—The Point in Tom’s Secret
-
-CHAPTER XVIII. Tom’s Feelings Investigated—Wonderful Dream—Becky Thatcher Overshadowed—Tom Becomes Jealous—Black Revenge
-
-CHAPTER XIX. Tom Tells the Truth
-
-CHAPTER XX. Becky in a Dilemma—Tom’s Nobility Asserts Itself
-
-CHAPTER XXI. Youthful Eloquence—Compositions by the Young Ladies—A Lengthy Vision—The Boy’s Vengeance Satisfied
-
-CHAPTER XXII. Tom’s Confidence Betrayed—Expects Signal Punishment
-
-CHAPTER XXIII. Old Muff’s Friends—Muff Potter in Court—Muff Potter Saved
-
-CHAPTER XXIV. Tom as the Village Hero—Days of Splendor and Nights of Horror—Pursuit of Injun Joe
-
-CHAPTER XXV. About Kings and Diamonds—Search for the Treasure—Dead People and Ghosts
-
-CHAPTER XXVI. The Haunted House—Sleepy Ghosts—A Box of Gold—Bitter Luck
-
-CHAPTER XXVII. Doubts to be Settled—The Young Detectives
-
-CHAPTER XXVIII. An Attempt at No. Two—Huck Mounts Guard
-
-CHAPTER XXIX. The Pic-nic—Huck on Injun Joe’s Track—The “Revenge” Job—Aid for the Widow
-
-CHAPTER XXX. The Welshman Reports—Huck Under Fire—The Story Circulated —A New Sensation—Hope Giving Way to Despair
-
-CHAPTER XXXI. An Exploring Expedition—Trouble Commences—Lost in the Cave—Total Darkness—Found but not Saved
-
-CHAPTER XXXII. Tom tells the Story of their Escape—Tom’s Enemy in Safe Quarters
-
-CHAPTER XXXIII. The Fate of Injun Joe—Huck and Tom Compare Notes —An Expedition to the Cave—Protection Against Ghosts—“An Awful Snug Place”—A Reception at the Widow Douglas’s
+—An Expedition to the Cave—Protection Against Ghosts—“An Awful Snug Place”—A Reception at the Widow Douglas’s

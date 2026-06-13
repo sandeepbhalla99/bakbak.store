@@ -1,111 +1,73 @@
-# Chapter 4  Sir Henry Baskerville
+# Chapter 4: Sir Henry Baskerville
 
-“And then you will say nothing to him at all until I have made up my mind about the matter.”
+Our breakfast table was cleared early, and Holmes waited in his dressing-gown for the promised interview. Our clients were punctual to their appointment, for the clock had just struck ten when Dr. Mortimer was shown up, followed by the young baronet. The latter was a small, alert, dark-eyed man about thirty years of age, very sturdily built, with thick black eyebrows and a strong, pugnacious face. He wore a ruddy-tinted tweed suit and had the weather-beaten appearance of one who has spent most of his time in the open air, and yet there was something in his steady eye and the quiet assurance of his bearing which indicated the gentleman.
 
-“How long will it take you to make up your mind?”
+“This is Sir Henry Baskerville,” said Dr. Mortimer.
 
-“Twenty-four hours. At ten o’clock tomorrow, Dr. Mortimer, I will be much obliged to you if you will call upon me here, and it will be of help to me in my plans for the future if you will bring Sir Henry Baskerville with you.”
+“Why, yes,” said he, “and the strange thing is, Mr. Sherlock Holmes, that if my friend here had not proposed coming round to you this morning I should have come on my own account. I understand that you think out little puzzles, and I’ve had one this morning which wants more thinking out than I am able to give it.”
 
-“I will do so, Mr. Holmes.” He scribbled the appointment on his shirt-cuff and hurried off in his strange, peering, absent-minded fashion. Holmes stopped him at the head of the stair.
+“Pray take a seat, Sir Henry. Do I understand you to say that you have yourself had some remarkable experience since you arrived in London?”
 
-“Only one more question, Dr. Mortimer. You say that before Sir Charles Baskerville’s death several people saw this apparition upon the moor?”
+“Nothing of much importance, Mr. Holmes. Only a joke, as like as not. It was this letter, if you can call it a letter, which reached me this morning.”
 
-“Three people did.”
+He laid an envelope upon the table, and we all bent over it. It was of common quality, greyish in colour. The address, “Sir Henry Baskerville, Northumberland Hotel,” was printed in rough characters; the post-mark “Charing Cross,” and the date of posting the preceding evening.
 
-“Did any see it after?”
+“Who knew that you were going to the Northumberland Hotel?” asked Holmes, glancing keenly across at our visitor.
 
-“I have not heard of any.”
+“No one could have known. We only decided after I met Dr. Mortimer.”
 
-“Thank you. Good-morning.”
+“But Dr. Mortimer was no doubt already stopping there?”
 
-Holmes returned to his seat with that quiet look of inward satisfaction which meant that he had a congenial task before him.
+“No, I had been staying with a friend,” said the doctor.
 
-“Going out, Watson?”
+“There was no possible indication that we intended to go to this hotel.”
 
-“Unless I can help you.”
+“Hum! Someone seems to be very deeply interested in your movements.” Out of the envelope he took a half-sheet of foolscap paper folded into four. This he opened and spread flat upon the table. Across the middle of it a single sentence had been formed by the expedient of pasting printed words upon it. It ran:
 
-“No, my dear fellow, it is at the hour of action that I turn to you for aid. But this is splendid, really unique from some points of view. When you pass Bradley’s, would you ask him to send up a pound of the strongest shag tobacco? Thank you. It would be as well if you could make it convenient not to return before evening. Then I should be very glad to compare impressions as to this most interesting problem which has been submitted to us this morning.”
+As you value your life or your reason keep away from the moor.
 
-I knew that seclusion and solitude were very necessary for my friend in those hours of intense mental concentration during which he weighed every particle of evidence, constructed alternative theories, balanced one against the other, and made up his mind as to which points were essential and which immaterial. I therefore spent the day at my club and did not return to Baker Street until evening. It was nearly nine o’clock when I found myself in the sitting-room once more.
+The word “moor” only was printed in ink.
 
-My first impression as I opened the door was that a fire had broken out, for the room was so filled with smoke that the light of the lamp upon the table was blurred by it. As I entered, however, my fears were set at rest, for it was the acrid fumes of strong coarse tobacco which took me by the throat and set me coughing. Through the haze I had a vague vision of Holmes in his dressing-gown coiled up in an armchair with his black clay pipe between his lips. Several rolls of paper lay around him.
+“Now,” said Sir Henry Baskerville, “perhaps you will tell me, Mr. Holmes, what in thunder is the meaning of that, and who it is that takes so much interest in my affairs?”
 
-“Caught cold, Watson?” said he.
+“What do you make of it, Dr. Mortimer? You must allow that there is nothing supernatural about this, at any rate?”
 
-“No, it’s this poisonous atmosphere.”
+“No, sir, but it might very well come from someone who was convinced that the business is supernatural.”
 
-“I suppose it _is_ pretty thick, now that you mention it.”
+“What business?” asked Sir Henry sharply. “It seems to me that all you gentlemen know a great deal more than I do about my own affairs.”
 
-“Thick! It is intolerable.”
+“You shall share our knowledge before you leave this room, Sir Henry. I promise you that,” said Sherlock Holmes. “We will confine ourselves for the present with your permission to this very interesting document, which must have been put together and posted yesterday evening. Have you yesterday’s _Times_, Watson?”
 
-“Open the window, then! You have been at your club all day, I perceive.”
+“It is here in the corner.”
 
-“My dear Holmes!”
+“Might I trouble you for it—the inside page, please, with the leading articles?” He glanced swiftly over it, running his eyes up and down the columns. “Capital article this on free trade. Permit me to give you an extract from it.
 
-“Am I right?”
+‘You may be cajoled into imagining that your own special trade or your own industry will be encouraged by a protective tariff, but it stands to reason that such legislation must in the long run keep away wealth from the country, diminish the value of our imports, and lower the general conditions of life in this island.’
 
-“Certainly, but how?”
+“What do you think of that, Watson?” cried Holmes in high glee, rubbing his hands together with satisfaction. “Don’t you think that is an admirable sentiment?”
 
-He laughed at my bewildered expression. “There is a delightful freshness about you, Watson, which makes it a pleasure to exercise any small powers which I possess at your expense. A gentleman goes forth on a showery and miry day. He returns immaculate in the evening with the gloss still on his hat and his boots. He has been a fixture therefore all day. He is not a man with intimate friends. Where, then, could he have been? Is it not obvious?”
+Dr. Mortimer looked at Holmes with an air of professional interest, and Sir Henry Baskerville turned a pair of puzzled dark eyes upon me.
 
-“Well, it is rather obvious.”
+“I don’t know much about the tariff and things of that kind,” said he, “but it seems to me we’ve got a bit off the trail so far as that note is concerned.”
 
-“The world is full of obvious things which nobody by any chance ever observes. Where do you think that I have been?”
+“On the contrary, I think we are particularly hot upon the trail, Sir Henry. Watson here knows more about my methods than you do, but I fear that even he has not quite grasped the significance of this sentence.”
 
-“A fixture also.”
+“No, I confess that I see no connection.”
 
-“On the contrary, I have been to Devonshire.”
+“And yet, my dear Watson, there is so very close a connection that the one is extracted out of the other. ‘You,’ ‘your,’ ‘your,’ ‘life,’ ‘reason,’ ‘value,’ ‘keep away,’ ‘from the.’ Don’t you see now whence these words have been taken?”
 
-“In spirit?”
+“By thunder, you’re right! Well, if that isn’t smart!” cried Sir Henry.
 
-“Exactly. My body has remained in this armchair and has, I regret to observe, consumed in my absence two large pots of coffee and an incredible amount of tobacco. After you left I sent down to Stamford’s for the Ordnance map of this portion of the moor, and my spirit has hovered over it all day. I flatter myself that I could find my way about.”
+“If any possible doubt remained it is settled by the fact that ‘keep away’ and ‘from the’ are cut out in one piece.”
 
-“A large-scale map, I presume?”
+“Well, now—so it is!”
 
-“Very large.”
+“Really, Mr. Holmes, this exceeds anything which I could have imagined,” said Dr. Mortimer, gazing at my friend in amazement. “I could understand anyone saying that the words were from a newspaper; but that you should name which, and add that it came from the leading article, is really one of the most remarkable things which I have ever known. How did you do it?”
 
-He unrolled one section and held it over his knee. “Here you have the particular district which concerns us. That is Baskerville Hall in the middle.”
+“I presume, Doctor, that you could tell the skull of a negro from that of an Esquimau?”
 
-“With a wood round it?”
+“Most certainly.”
 
-“Exactly. I fancy the yew alley, though not marked under that name, must stretch along this line, with the moor, as you perceive, upon the right of it. This small clump of buildings here is the hamlet of Grimpen, where our friend Dr. Mortimer has his headquarters. Within a radius of five miles there are, as you see, only a very few scattered dwellings. Here is Lafter Hall, which was mentioned in the narrative. There is a house indicated here which may be the residence of the naturalist—Stapleton, if I remember right, was his name. Here are two moorland farmhouses, High Tor and Foulmire. Then fourteen miles away the great convict prison of Princetown. Between and around these scattered points extends the desolate, lifeless moor. This, then, is the stage upon which tragedy has been played, and upon which we may help to play it again.”
+“But how?”
 
-“It must be a wild place.”
-
-“Yes, the setting is a worthy one. If the devil did desire to have a hand in the affairs of men—”
-
-“Then you are yourself inclining to the supernatural explanation.”
-
-“The devil’s agents may be of flesh and blood, may they not? There are two questions waiting for us at the outset. The one is whether any crime has been committed at all; the second is, what is the crime and how was it committed? Of course, if Dr. Mortimer’s surmise should be correct, and we are dealing with forces outside the ordinary laws of Nature, there is an end of our investigation. But we are bound to exhaust all other hypotheses before falling back upon this one. I think we’ll shut that window again, if you don’t mind. It is a singular thing, but I find that a concentrated atmosphere helps a concentration of thought. I have not pushed it to the length of getting into a box to think, but that is the logical outcome of my convictions. Have you turned the case over in your mind?”
-
-“Yes, I have thought a good deal of it in the course of the day.”
-
-“What do you make of it?”
-
-“It is very bewildering.”
-
-“It has certainly a character of its own. There are points of distinction about it. That change in the footprints, for example. What do you make of that?”
-
-“Mortimer said that the man had walked on tiptoe down that portion of the alley.”
-
-“He only repeated what some fool had said at the inquest. Why should a man walk on tiptoe down the alley?”
-
-“What then?”
-
-“He was running, Watson—running desperately, running for his life, running until he burst his heart—and fell dead upon his face.”
-
-“Running from what?”
-
-“There lies our problem. There are indications that the man was crazed with fear before ever he began to run.”
-
-“How can you say that?”
-
-“I am presuming that the cause of his fears came to him across the moor. If that were so, and it seems most probable, only a man who had lost his wits would have run _from_ the house instead of towards it. If the gipsy’s evidence may be taken as true, he ran with cries for help in the direction where help was least likely to be. Then, again, whom was he waiting for that night, and why was he waiting for him in the yew alley rather than in his own house?”
-
-“You think that he was waiting for someone?”
-
-“The man was elderly and infirm. We can understand his taking an evening stroll, but the ground was damp and the night inclement. Is it natural that he should stand for five or ten minutes, as Dr. Mortimer, with more practical sense than I should have given him credit for, deduced from the cigar ash?”
-
-“But he went out every evening.”
-
-“I think it unlikely that he waited at the moor-gate every evening. On the contrary, the evidence is that he avoided the moor. That night he waited there. It was the night before he made his departure for London. The thing takes shape, Watson. It becomes coherent. Might I ask you to hand me my violin, and we will postpone all further thought upon this business until we have had the advantage of meeting Dr. Mortimer and Sir Henry Baskerville in the morning.”
+“Because that is my special hobby. The differences are obvious. The supra-orbital crest, the facial angle, the maxillary curve,

@@ -1,15 +1,7 @@
 # Tail-piece to Contents
 
-Hurrah for Miss March
+She rolled away
 
-Jo darted away
+I wind the clock
 
-Jo laid herself on the sofa and affected to read
-
-November is the most disagreeable month in the year
-
-One of them horrid telegraph things
-
-She came suddenly upon Mr. Brooke
-
-The man clipped
+Yours Respectful, Hannah Mullet

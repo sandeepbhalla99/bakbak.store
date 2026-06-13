@@ -7,112 +7,108 @@
   "description": "A classic masterpiece by William Shakespeare. Read this Project Gutenberg edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
-    },
-    {
       "title": "ACT I",
-      "file": "02_ACT_I.md"
+      "file": "01_ACT_I.md"
     },
     {
       "title": "Scene II: The Same. A Room in a Cottage",
-      "file": "03_Scene_II__The_Same__A_Room_in.md"
+      "file": "02_Scene_II__The_Same__A_Room_in.md"
     },
     {
       "title": "ACT I",
-      "file": "04_ACT_I.md"
+      "file": "03_ACT_I.md"
     },
     {
       "title": "Scene II: Another part of the wood",
-      "file": "05_Scene_II__Another_part_of_the.md"
+      "file": "04_Scene_II__Another_part_of_the.md"
     },
     {
       "title": "ACT I",
-      "file": "06_ACT_I.md"
+      "file": "05_ACT_I.md"
     },
     {
       "title": "Scene II: Another part of the wood",
-      "file": "07_Scene_II__Another_part_of_the.md"
+      "file": "06_Scene_II__Another_part_of_the.md"
     },
     {
       "title": "ACT I",
-      "file": "08_ACT_I.md"
+      "file": "07_ACT_I.md"
     },
     {
       "title": "Scene II: Athens. A Room in Quince\u2019s House",
-      "file": "09_Scene_II__Athens__A_Room_in_Qu.md"
+      "file": "08_Scene_II__Athens__A_Room_in_Qu.md"
     },
     {
       "title": "ACT I",
-      "file": "10_ACT_I.md"
+      "file": "09_ACT_I.md"
     },
     {
       "title": "SCENE: Athens, and a wood not far from it",
-      "file": "11_SCENE__Athens__and_a_wood_not.md"
+      "file": "10_SCENE__Athens__and_a_wood_not.md"
     },
     {
       "title": "ACT I",
-      "file": "12_ACT_I.md"
+      "file": "11_ACT_I.md"
     },
     {
       "title": "SCENE I. Athens. A room in the Palace of Theseus: Enter Theseus, Hippolyta, Philostrate and Attendants.",
-      "file": "13_SCENE_I__Athens__A_room_in_the.md"
+      "file": "12_SCENE_I__Athens__A_room_in_the.md"
     },
     {
       "title": "SCENE II. The Same. A Room in a Cottage: Enter Quince, Snug, Bottom, Flute, Snout  and Starveling.",
-      "file": "14_SCENE_II__The_Same__A_Room_in.md"
+      "file": "13_SCENE_II__The_Same__A_Room_in.md"
     },
     {
       "title": "ACT II",
-      "file": "15_ACT_II.md"
+      "file": "14_ACT_II.md"
     },
     {
       "title": "SCENE I. A wood near Athens: Enter a Fairy at one door, and Puck at another.",
-      "file": "16_SCENE_I__A_wood_near_Athens__E.md"
+      "file": "15_SCENE_I__A_wood_near_Athens__E.md"
     },
     {
       "title": "SCENE II. Another part of the wood: Enter Titania with her Train.",
-      "file": "17_SCENE_II__Another_part_of_the.md"
+      "file": "16_SCENE_II__Another_part_of_the.md"
     },
     {
       "title": "ACT III",
-      "file": "18_ACT_III.md"
+      "file": "17_ACT_III.md"
     },
     {
       "title": "SCENE I. The Wood: The Queen of Fairies still lying asleep.",
-      "file": "19_SCENE_I__The_Wood__The_Queen_o.md"
+      "file": "18_SCENE_I__The_Wood__The_Queen_o.md"
     },
     {
       "title": "SCENE II. Another part of the wood: Enter Oberon.",
-      "file": "20_SCENE_II__Another_part_of_the.md"
+      "file": "19_SCENE_II__Another_part_of_the.md"
     },
     {
       "title": "ACT IV",
-      "file": "21_ACT_IV.md"
+      "file": "20_ACT_IV.md"
     },
     {
       "title": "SCENE I. The Wood: Lysander, Demetrius, Helena and Hermia still asleep.",
-      "file": "22_SCENE_I__The_Wood__Lysander__D.md"
+      "file": "21_SCENE_I__The_Wood__Lysander__D.md"
     },
     {
       "title": "SCENE II. Athens. A Room in Quince\u2019s House: Enter Quince, Flute, Snout and Starveling.",
-      "file": "23_SCENE_II__Athens__A_Room_in_Qu.md"
+      "file": "22_SCENE_II__Athens__A_Room_in_Qu.md"
     },
     {
       "title": "ACT V",
-      "file": "24_ACT_V.md"
+      "file": "23_ACT_V.md"
     },
     {
       "title": "SCENE I. Athens. An Apartment in the Palace of Theseus: Enter Theseus, Hippolyta, Philostrate, Lords and Attendants.",
-      "file": "25_SCENE_I__Athens__An_Apartment.md"
+      "file": "24_SCENE_I__Athens__An_Apartment.md"
+    },
+    {
+      "title": "PROLOGUE",
+      "file": "25_PROLOGUE.md"
     },
     {
       "title": "PROLOGUE",
       "file": "26_PROLOGUE.md"
-    },
-    {
-      "title": "PROLOGUE",
-      "file": "27_PROLOGUE.md"
     }
   ]
 }
