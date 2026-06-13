@@ -1543,3 +1543,22 @@ main {
   flex: 1;
 }
 
+.reader-container .btn-secondary {
+  color: var(--reader-text);
+  border-color: rgba(0, 0, 0, 0.15);
+  background: rgba(0, 0, 0, 0.04);
+}
+
+.reader-container .btn-secondary:hover {
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.reader-container.theme-dark .btn-secondary {
+  border-color: rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.reader-container.theme-dark .btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
