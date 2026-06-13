@@ -12,6 +12,7 @@ import {
   initReader, 
   prevChapter, 
   nextChapter, 
+  goToIndex,
   changeTheme, 
   adjustFontSize,
   saveNoteForActiveChapter,
@@ -625,6 +626,12 @@ function setupReaderUI() {
   document.getElementById('reader-close-btn').addEventListener('click', () => {
     switchView('catalog');
   });
+
+  // Jump to Index button
+  document.getElementById('reader-index-btn').addEventListener('click', () => {
+    goToIndex();
+  });
+
 
   // Font size adjustments
   document.getElementById('reader-font-minus').addEventListener('click', () => adjustFontSize(-0.1));

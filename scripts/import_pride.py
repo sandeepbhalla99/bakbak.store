@@ -62,11 +62,11 @@ def main():
             "dest_file": dest_filename
         })
 
-    # 2. Generate Introduction.md
-    intro_filename = "01_Introduction.md"
-    intro_title = "Introduction"
+    # 2. Generate Index.md
+    intro_filename = "01_Index.md"
+    intro_title = "Index"
     
-    intro_markdown = f"""# Introduction
+    intro_markdown = f"""# Index
 
 <div style="text-align: center; margin-bottom: 2.5rem; padding-top: 1rem;">
   <h1 style="font-size: 2.25rem; margin-bottom: 0.5rem; font-weight: 800; color: var(--text-main); line-height: 1.2;">Pride and Prejudice</h1>
@@ -92,7 +92,7 @@ def main():
 
 """
 
-    # Write Introduction chapter file
+    # Write Index chapter file
     intro_path = os.path.join(chapters_dir, intro_filename)
     with open(intro_path, "w", encoding="utf-8") as f:
         f.write(intro_markdown)
@@ -101,6 +101,7 @@ def main():
         "title": intro_title,
         "file": intro_filename
     })
+
 
     # 3. Copy other chapters
     for chap in processed_chapters:
@@ -129,6 +130,7 @@ def main():
       "author": "Jane Austen",
       "genre": "Classics",
       "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+      "coverImage": "books/pride-and-prejudice/cover.jpg",
       "description": "A classic masterpiece by Jane Austen. Read this cleaned edition on Bakbak.store.",
       "chapters": chapters_list
     }
@@ -137,7 +139,15 @@ def main():
     with open(details_path, "w", encoding="utf-8") as f:
         json.dump(details, f, indent=2)
 
+    # Copy cover.jpg if exists in source
+    src_cover = os.path.join(SOURCE_DIR, "cover.jpg")
+    dest_cover = os.path.join(DEST_DIR, "cover.jpg")
+    if os.path.exists(src_cover):
+        shutil.copy(src_cover, dest_cover)
+        print("Copied cover.jpg to destination.")
+
     print("Successfully imported Pride and Prejudice with clean chapters!")
 
 if __name__ == "__main__":
     main()
+

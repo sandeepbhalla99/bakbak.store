@@ -1,4 +1,4 @@
-# Introduction
+# Index
 
 <div style="text-align: center; margin-bottom: 2.5rem; padding-top: 1rem;">
   <h1 style="font-size: 2.25rem; margin-bottom: 0.5rem; font-weight: 800; color: var(--text-main); line-height: 1.2;">Pride and Prejudice</h1>

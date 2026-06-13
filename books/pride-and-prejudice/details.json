@@ -8,8 +8,8 @@
   "description": "A classic masterpiece by Jane Austen. Read this cleaned edition on Bakbak.store.",
   "chapters": [
     {
-      "title": "Introduction",
-      "file": "01_Introduction.md"
+      "title": "Index",
+      "file": "01_Index.md"
     },
     {
       "title": "Preface",

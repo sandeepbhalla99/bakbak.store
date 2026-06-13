@@ -134,7 +134,7 @@ export function updateReadingProgress(bookId, chapterIndex, paragraphIndex, prog
     const shelfItem = user.bookshelf[bookId];
     shelfItem.lastChapter = chapterIndex;
     shelfItem.lastParagraph = paragraphIndex;
-    shelfItem.progressPct = Math.max(shelfItem.progressPct, progressPct);
+    shelfItem.progressPct = progressPct;
     
     // Automatically flag completed if progress is 100%
     if (progressPct >= 100) {

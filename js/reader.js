@@ -22,9 +22,14 @@ export async function initReader(bookId, startingChapter = 0) {
     activeChapterIndex = startingChapter;
   }
 
+  if (activeChapterIndex >= activeBook.chapters.length) {
+    activeChapterIndex = 0;
+  }
+
   applyReaderSettings();
   await renderReaderContent();
 }
+
 
 function applyReaderSettings() {
   const container = document.getElementById('reader-view-container');
@@ -125,6 +130,16 @@ export async function renderReaderContent() {
       // Save progress
       updateReadingProgress(activeBook.id, activeChapterIndex, 0, progressPct);
       
+      // Hide index button if we are on the index page (chapter 0)
+      const indexBtn = document.getElementById('reader-index-btn');
+      if (indexBtn) {
+        if (activeChapterIndex === 0) {
+          indexBtn.style.display = 'none';
+        } else {
+          indexBtn.style.display = 'inline-block';
+        }
+      }
+      
       // Scroll reader body back to top
       const wrapper = container.querySelector('.reader-body-wrapper');
       if (wrapper) wrapper.scrollTop = 0;
@@ -160,6 +175,12 @@ export async function nextChapter() {
     await renderReaderContent();
   }
 }
+
+export async function goToIndex() {
+  activeChapterIndex = 0;
+  await renderReaderContent();
+}
+
 
 // ADJUST SETTINGS
 export function changeTheme(newTheme) {
