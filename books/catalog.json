@@ -49,7 +49,7 @@
     "author": "Arthur Conan Doyle",
     "genre": "Mystery",
     "coverColor": "linear-gradient(135deg, #4b5563 0%, #1f2937 100%)",
-    "coverImage": null,
+    "coverImage": "books/the-adventures-of-sherlock-holmes/cover.jpg",
     "description": "A collection of twelve detective stories featuring Arthur Conan Doyle's famous consulting detective Sherlock Holmes.",
     "rating": 4.5,
     "reviewsCount": 12

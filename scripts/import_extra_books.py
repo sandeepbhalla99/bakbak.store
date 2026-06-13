@@ -160,6 +160,7 @@ def main():
             "author": "Arthur Conan Doyle",
             "genre": "Mystery",
             "cover_color": "linear-gradient(135deg, #4b5563 0%, #1f2937 100%)",
+            "cover_image_src": "../../html/cove-adventures-sherlockr.jpg",
             "description": "A collection of twelve detective stories featuring Arthur Conan Doyle's famous consulting detective Sherlock Holmes.",
             "is_wiki_index": False
         },
