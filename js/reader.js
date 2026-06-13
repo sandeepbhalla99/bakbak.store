@@ -74,8 +74,8 @@ export async function renderReaderContent() {
       if (!response.ok) throw new Error("Could not load chapter file");
       
       const markdown = await response.text();
-      // Parse markdown to HTML using marked.js
-      const htmlContent = marked.parse(markdown);
+      // Parse markdown to HTML using marked.js with breaks enabled to preserve poetry/TOC formats
+      const htmlContent = marked.parse(markdown, { breaks: true });
       textBody.innerHTML = htmlContent;
 
       // Update progress numbers
