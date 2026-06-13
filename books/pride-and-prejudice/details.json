@@ -4,259 +4,223 @@
   "author": "Jane Austen",
   "genre": "Classics",
   "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
-  "description": "A classic masterpiece by Jane Austen. Read this Project Gutenberg edition on Bakbak.store.",
+  "description": "A classic masterpiece by Jane Austen. Read this cleaned edition on Bakbak.store.",
   "chapters": [
     {
       "title": "Introduction",
       "file": "01_Introduction.md"
     },
     {
-      "title": "PREFACE: [Illustration]",
-      "file": "02_PREFACE___Illustration.md"
+      "title": "Preface",
+      "file": "02_preface.md"
     },
     {
-      "title": "Chapter I.]",
-      "file": "03_Chapter_I.md"
+      "title": "Chapter I",
+      "file": "03_chapter_01.md"
     },
     {
-      "title": "CHAPTER II: [Illustration]",
-      "file": "04_CHAPTER_II___Illustration.md"
+      "title": "Chapter II",
+      "file": "04_chapter_02.md"
     },
     {
-      "title": "CHAPTER III: [Illustration]",
-      "file": "05_CHAPTER_III___Illustration.md"
+      "title": "Chapter III",
+      "file": "05_chapter_03.md"
     },
     {
-      "title": "CHAPTER IV: [Illustration]",
-      "file": "06_CHAPTER_IV___Illustration.md"
+      "title": "Chapter IV",
+      "file": "06_chapter_04.md"
     },
     {
-      "title": "CHAPTER V: [Illustration]",
-      "file": "07_CHAPTER_V___Illustration.md"
+      "title": "Chapter V",
+      "file": "07_chapter_05.md"
     },
     {
-      "title": "CHAPTER VI: [Illustration]",
-      "file": "08_CHAPTER_VI___Illustration.md"
+      "title": "Chapter VI",
+      "file": "08_chapter_06.md"
     },
     {
-      "title": "CHAPTER VII: [Illustration]",
-      "file": "09_CHAPTER_VII___Illustration.md"
+      "title": "Chapter VII",
+      "file": "09_chapter_07.md"
     },
     {
-      "title": "CHAPTER VIII: [Illustration]",
-      "file": "10_CHAPTER_VIII___Illustration.md"
+      "title": "Chapter VIII",
+      "file": "10_chapter_08.md"
     },
     {
-      "title": "CHAPTER IX: [Illustration]",
-      "file": "11_CHAPTER_IX___Illustration.md"
+      "title": "Chapter IX",
+      "file": "11_chapter_09.md"
     },
     {
-      "title": "CHAPTER X: [Illustration]",
-      "file": "12_CHAPTER_X___Illustration.md"
+      "title": "Chapter X",
+      "file": "12_chapter_10.md"
     },
     {
-      "title": "CHAPTER XI: [Illustration]",
-      "file": "13_CHAPTER_XI___Illustration.md"
+      "title": "Chapter XI",
+      "file": "13_chapter_11.md"
     },
     {
-      "title": "CHAPTER XII: [Illustration]",
-      "file": "14_CHAPTER_XII___Illustration.md"
+      "title": "Chapter XII",
+      "file": "14_chapter_12.md"
     },
     {
-      "title": "CHAPTER XIII: [Illustration]",
-      "file": "15_CHAPTER_XIII___Illustration.md"
+      "title": "Chapter XIII",
+      "file": "15_chapter_13.md"
     },
     {
-      "title": "CHAPTER XIV: [Illustration]",
-      "file": "16_CHAPTER_XIV___Illustration.md"
+      "title": "Chapter XIV",
+      "file": "16_chapter_14.md"
     },
     {
-      "title": "CHAPTER XV: [Illustration]",
-      "file": "17_CHAPTER_XV___Illustration.md"
+      "title": "Chapter XV",
+      "file": "17_chapter_15.md"
     },
     {
-      "title": "CHAPTER XVI: [Illustration]",
-      "file": "18_CHAPTER_XVI___Illustration.md"
+      "title": "Chapter XVI",
+      "file": "18_chapter_16.md"
     },
     {
-      "title": "CHAPTER XVII: [Illustration]",
-      "file": "19_CHAPTER_XVII___Illustration.md"
+      "title": "Chapter XVII",
+      "file": "19_chapter_17.md"
     },
     {
-      "title": "CHAPTER XVIII: [Illustration]",
-      "file": "20_CHAPTER_XVIII___Illustration.md"
+      "title": "Chapter XVIII",
+      "file": "20_chapter_18.md"
     },
     {
-      "title": "CHAPTER XIX: [Illustration]",
-      "file": "21_CHAPTER_XIX___Illustration.md"
+      "title": "Chapter XIX",
+      "file": "21_chapter_19.md"
     },
     {
-      "title": "CHAPTER XX: [Illustration]",
-      "file": "22_CHAPTER_XX___Illustration.md"
+      "title": "Chapter XX",
+      "file": "22_chapter_20.md"
     },
     {
-      "title": "CHAPTER XXI: [Illustration]",
-      "file": "23_CHAPTER_XXI___Illustration.md"
+      "title": "Chapter XXI",
+      "file": "23_chapter_21.md"
     },
     {
-      "title": "CHAPTER XXII: [Illustration]",
-      "file": "24_CHAPTER_XXII___Illustration.md"
+      "title": "Chapter XXII",
+      "file": "24_chapter_22.md"
     },
     {
-      "title": "CHAPTER XXIII: [Illustration]",
-      "file": "25_CHAPTER_XXIII___Illustration.md"
+      "title": "Chapter XXIII",
+      "file": "25_chapter_23.md"
     },
     {
-      "title": "CHAPTER XXIV: [Illustration]",
-      "file": "26_CHAPTER_XXIV___Illustration.md"
+      "title": "Chapter XXIV",
+      "file": "26_chapter_24.md"
     },
     {
-      "title": "CHAPTER XXV: [Illustration]",
-      "file": "27_CHAPTER_XXV___Illustration.md"
+      "title": "Chapter XXV",
+      "file": "27_chapter_25.md"
     },
     {
-      "title": "CHAPTER XXVI: [Illustration]",
-      "file": "28_CHAPTER_XXVI___Illustration.md"
+      "title": "Chapter XXVI",
+      "file": "28_chapter_26.md"
     },
     {
-      "title": "CHAPTER XXVII: [Illustration]",
-      "file": "29_CHAPTER_XXVII___Illustration.md"
+      "title": "Chapter XXVII",
+      "file": "29_chapter_27.md"
     },
     {
-      "title": "CHAPTER XXVIII: [Illustration]",
-      "file": "30_CHAPTER_XXVIII___Illustration.md"
+      "title": "Chapter XXVIII",
+      "file": "30_chapter_28.md"
     },
     {
-      "title": "CHAPTER XXIX: [Illustration]",
-      "file": "31_CHAPTER_XXIX___Illustration.md"
+      "title": "Chapter XXIX",
+      "file": "31_chapter_29.md"
     },
     {
-      "title": "CHAPTER XXX: [Illustration]",
-      "file": "32_CHAPTER_XXX___Illustration.md"
+      "title": "Chapter XXX",
+      "file": "32_chapter_30.md"
     },
     {
-      "title": "CHAPTER XXXI: [Illustration]",
-      "file": "33_CHAPTER_XXXI___Illustration.md"
+      "title": "Chapter XXXI",
+      "file": "33_chapter_31.md"
     },
     {
-      "title": "CHAPTER XXXII: [Illustration]",
-      "file": "34_CHAPTER_XXXII___Illustration.md"
+      "title": "Chapter XXXII",
+      "file": "34_chapter_32.md"
     },
     {
-      "title": "CHAPTER XXXIII: [Illustration]",
-      "file": "35_CHAPTER_XXXIII___Illustration.md"
+      "title": "Chapter XXXIII",
+      "file": "35_chapter_33.md"
     },
     {
-      "title": "CHAPTER XXXIV: [Illustration]",
-      "file": "36_CHAPTER_XXXIV___Illustration.md"
+      "title": "Chapter XXXIV",
+      "file": "36_chapter_34.md"
     },
     {
-      "title": "CHAPTER XXXV: [Illustration]",
-      "file": "37_CHAPTER_XXXV___Illustration.md"
+      "title": "Chapter XXXV",
+      "file": "37_chapter_35.md"
     },
     {
-      "title": "CHAPTER XXXVI: [Illustration]",
-      "file": "38_CHAPTER_XXXVI___Illustration.md"
+      "title": "Chapter XXXVI",
+      "file": "38_chapter_36.md"
     },
     {
-      "title": "CHAPTER XXXVII: [Illustration]",
-      "file": "39_CHAPTER_XXXVII___Illustration.md"
+      "title": "Chapter XXXVII",
+      "file": "39_chapter_37.md"
     },
     {
-      "title": "CHAPTER XXXVIII: [Illustration]",
-      "file": "40_CHAPTER_XXXVIII___Illustration.md"
+      "title": "Chapter XXXVIII",
+      "file": "40_chapter_38.md"
     },
     {
-      "title": "CHAPTER XXXIX: [Illustration]",
-      "file": "41_CHAPTER_XXXIX___Illustration.md"
+      "title": "Chapter XXXIX",
+      "file": "41_chapter_39.md"
     },
     {
-      "title": "CHAPTER XL: [Illustration]",
-      "file": "42_CHAPTER_XL___Illustration.md"
+      "title": "Chapter XL",
+      "file": "42_chapter_40.md"
     },
     {
-      "title": "CHAPTER XLI: [Illustration]",
-      "file": "43_CHAPTER_XLI___Illustration.md"
+      "title": "Chapter XLI",
+      "file": "43_chapter_41.md"
     },
     {
-      "title": "CHAPTER XLII: [Illustration]",
-      "file": "44_CHAPTER_XLII___Illustration.md"
+      "title": "Chapter XLII",
+      "file": "44_chapter_42.md"
     },
     {
-      "title": "CHAPTER XLIII: [Illustration]",
-      "file": "45_CHAPTER_XLIII___Illustration.md"
+      "title": "Chapter XLIII",
+      "file": "45_chapter_43.md"
     },
     {
-      "title": "CHAPTER XLIV: [Illustration]",
-      "file": "46_CHAPTER_XLIV___Illustration.md"
+      "title": "Chapter XLIV",
+      "file": "46_chapter_44.md"
     },
     {
-      "title": "CHAPTER XLV: [Illustration]",
-      "file": "47_CHAPTER_XLV___Illustration.md"
+      "title": "Chapter XLV",
+      "file": "47_chapter_45.md"
     },
     {
-      "title": "Chapter XLVI: [Illustration]",
-      "file": "48_Chapter_XLVI___Illustration.md"
+      "title": "Chapter XLVI",
+      "file": "48_chapter_46.md"
     },
     {
-      "title": "CHAPTER XLVII: [Illustration]",
-      "file": "49_CHAPTER_XLVII___Illustration.md"
+      "title": "Chapter XLVII",
+      "file": "49_chapter_47.md"
     },
     {
-      "title": "CHAPTER XLVIII: [Illustration]",
-      "file": "50_CHAPTER_XLVIII___Illustration.md"
+      "title": "Chapter XLVIII",
+      "file": "50_chapter_48.md"
     },
     {
-      "title": "CHAPTER XLIX: [Illustration]",
-      "file": "51_CHAPTER_XLIX___Illustration.md"
+      "title": "Chapter XLIX",
+      "file": "51_chapter_49.md"
     },
     {
-      "title": "CHAPTER L: [Illustration]",
-      "file": "52_CHAPTER_L___Illustration.md"
+      "title": "Chapter L",
+      "file": "52_chapter_50.md"
     },
     {
-      "title": "CHAPTER LI: [Illustration]",
-      "file": "53_CHAPTER_LI___Illustration.md"
+      "title": "Chapter LI",
+      "file": "53_chapter_51.md"
     },
     {
-      "title": "CHAPTER LII: [Illustration]",
-      "file": "54_CHAPTER_LII___Illustration.md"
-    },
-    {
-      "title": "CHAPTER LIII: [Illustration]",
-      "file": "55_CHAPTER_LIII___Illustration.md"
-    },
-    {
-      "title": "CHAPTER LIV: [Illustration]",
-      "file": "56_CHAPTER_LIV___Illustration.md"
-    },
-    {
-      "title": "CHAPTER LV: [Illustration]",
-      "file": "57_CHAPTER_LV___Illustration.md"
-    },
-    {
-      "title": "CHAPTER LVI: [Illustration]",
-      "file": "58_CHAPTER_LVI___Illustration.md"
-    },
-    {
-      "title": "CHAPTER LVII: [Illustration]",
-      "file": "59_CHAPTER_LVII___Illustration.md"
-    },
-    {
-      "title": "CHAPTER LVIII: [Illustration]",
-      "file": "60_CHAPTER_LVIII___Illustration.md"
-    },
-    {
-      "title": "CHAPTER LIX: [Illustration]",
-      "file": "61_CHAPTER_LIX___Illustration.md"
-    },
-    {
-      "title": "CHAPTER LX: [Illustration]",
-      "file": "62_CHAPTER_LX___Illustration.md"
-    },
-    {
-      "title": "CHAPTER LXI: [Illustration]",
-      "file": "63_CHAPTER_LXI___Illustration.md"
+      "title": "Chapter LII",
+      "file": "54_chapter_52.md"
     }
   ]
 }
