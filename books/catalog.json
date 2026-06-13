@@ -20,5 +20,38 @@
     "description": "The classic tragedy of star-crossed lovers Romeo and Juliet by William Shakespeare.",
     "rating": 4.5,
     "reviewsCount": 12
+  },
+  {
+    "id": "complete-works-of-william-shakespeare",
+    "title": "The Complete Works of William Shakespeare",
+    "author": "William Shakespeare",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
+    "coverImage": "books/complete-works-of-william-shakespeare/cover.jpg",
+    "description": "The complete works of William Shakespeare, including all his plays, sonnets, and poems.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "evolution-of-the-constitution",
+    "title": "The Evolution of the Constitution",
+    "author": "K.P. Tewari",
+    "genre": "History",
+    "coverColor": "linear-gradient(135deg, #0d9488 0%, #0f766e 100%)",
+    "coverImage": null,
+    "description": "An in-depth study of the historical evolution of constitutional development and law.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-adventures-of-sherlock-holmes",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "coverColor": "linear-gradient(135deg, #4b5563 0%, #1f2937 100%)",
+    "coverImage": null,
+    "description": "A collection of twelve detective stories featuring Arthur Conan Doyle's famous consulting detective Sherlock Holmes.",
+    "rating": 4.5,
+    "reviewsCount": 12
   }
 ]

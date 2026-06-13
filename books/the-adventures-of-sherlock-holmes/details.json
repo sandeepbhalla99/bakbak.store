@@ -1,0 +1,62 @@
+{
+  "id": "the-adventures-of-sherlock-holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "genre": "Mystery",
+  "coverColor": "linear-gradient(135deg, #4b5563 0%, #1f2937 100%)",
+  "description": "A collection of twelve detective stories featuring Arthur Conan Doyle's famous consulting detective Sherlock Holmes.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "I. A Scandal in Bohemia",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "II. The Red-Headed League",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "III. A Case of Identity",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "IV. The Boscombe Valley Mystery",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "V. The Five Orange Pips",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "VI. The Man with the Twisted Lip",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "VII. The Adventure of the Blue Carbuncle",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "VIII. The Adventure of the Speckled Band",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "IX. The Adventure of the Engineer\u2019s Thumb",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "X. The Adventure of the Noble Bachelor",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "XI. The Adventure of the Beryl Coronet",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "XII. The Adventure of the Copper Beeches",
+      "file": "13_chapter_12.md"
+    }
+  ]
+}

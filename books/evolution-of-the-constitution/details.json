@@ -1,0 +1,50 @@
+{
+  "id": "evolution-of-the-constitution",
+  "title": "The Evolution of the Constitution",
+  "author": "K.P. Tewari",
+  "genre": "History",
+  "coverColor": "linear-gradient(135deg, #0d9488 0%, #0f766e 100%)",
+  "description": "An in-depth study of the historical evolution of constitutional development and law.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Introduction Section",
+      "file": "02_Introduction_Section.md"
+    },
+    {
+      "title": "Preface",
+      "file": "03_Preface.md"
+    },
+    {
+      "title": "Preface to First Edition",
+      "file": "04_Preface_to_First_Edition.md"
+    },
+    {
+      "title": "Chapter 1",
+      "file": "05_Chapter_1.md"
+    },
+    {
+      "title": "Chapter 2",
+      "file": "06_Chapter_2.md"
+    },
+    {
+      "title": "Chapter 3",
+      "file": "07_Chapter_3.md"
+    },
+    {
+      "title": "Chapter 4",
+      "file": "08_Chapter_4.md"
+    },
+    {
+      "title": "Chapter 5",
+      "file": "09_Chapter_5.md"
+    },
+    {
+      "title": "Chapter 6",
+      "file": "10_Chapter_6.md"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "complete-works-of-william-shakespeare",
+  "title": "The Complete Works of William Shakespeare",
+  "author": "William Shakespeare",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
+  "description": "The complete works of William Shakespeare, including all his plays, sonnets, and poems.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "The Sonnets",
+      "file": "02_the_sonnets.md"
+    },
+    {
+      "title": "All\u2019s Well That Ends Well",
+      "file": "03_alls_well_that_ends_well.md"
+    },
+    {
+      "title": "The Tragedy of Antony and Cleopatra",
+      "file": "04_the_tragedy_of_antony_and_cleopatra.md"
+    },
+    {
+      "title": "As You Like It",
+      "file": "05_as_you_like_it.md"
+    },
+    {
+      "title": "The Comedy of Errors",
+      "file": "06_the_comedy_of_errors.md"
+    },
+    {
+      "title": "The Tragedy of Coriolanus",
+      "file": "07_the_tragedy_of_coriolanus.md"
+    },
+    {
+      "title": "Cymbeline",
+      "file": "08_cymbeline.md"
+    },
+    {
+      "title": "The Tragedy of Hamlet, Prince of Denmark",
+      "file": "09_the_tragedy_of_hamlet_prince_of_denmark.md"
+    },
+    {
+      "title": "The First Part of King Henry the Fourth",
+      "file": "10_the_first_part_of_king_henry_the_fourth.md"
+    },
+    {
+      "title": "The Second Part of King Henry the Fourth",
+      "file": "11_the_second_part_of_king_henry_the_fourth.md"
+    },
+    {
+      "title": "The Life of King Henry the Fifth",
+      "file": "12_the_life_of_king_henry_the_fifth.md"
+    },
+    {
+      "title": "The First Part of Henry the Sixth",
+      "file": "13_the_first_part_of_henry_the_sixth.md"
+    },
+    {
+      "title": "The Second Part of King Henry the Sixth",
+      "file": "14_the_second_part_of_king_henry_the_sixth.md"
+    },
+    {
+      "title": "The Third Part of King Henry the Sixth",
+      "file": "15_the_third_part_of_king_henry_the_sixth.md"
+    },
+    {
+      "title": "King Henry the Eighth",
+      "file": "16_king_henry_the_eighth.md"
+    },
+    {
+      "title": "The Life and Death of King John",
+      "file": "17_the_life_and_death_of_king_john.md"
+    },
+    {
+      "title": "The Tragedy of Julius Caesar",
+      "file": "18_the_tragedy_of_julius_caesar.md"
+    },
+    {
+      "title": "The Tragedy of King Lear",
+      "file": "19_the_tragedy_of_king_lear.md"
+    },
+    {
+      "title": "Love\u2019s Labour\u2019s Lost",
+      "file": "20_loves_labours_lost.md"
+    },
+    {
+      "title": "The Tragedy of Macbeth",
+      "file": "21_the_tragedy_of_macbeth.md"
+    },
+    {
+      "title": "Measure for Measure",
+      "file": "22_measure_for_measure.md"
+    },
+    {
+      "title": "The Merchant of Venice",
+      "file": "23_the_merchant_of_venice.md"
+    },
+    {
+      "title": "The Merry Wives of Windsor",
+      "file": "24_the_merry_wives_of_windsor.md"
+    },
+    {
+      "title": "A Midsummer Night\u2019s Dream",
+      "file": "25_a_midsummer_nights_dream.md"
+    },
+    {
+      "title": "Much Ado About Nothing",
+      "file": "26_much_ado_about_nothing.md"
+    },
+    {
+      "title": "The Tragedy of Othello, the Moor of Venice",
+      "file": "27_the_tragedy_of_othello_the_moor_of_venice.md"
+    },
+    {
+      "title": "Pericles, Prince of Tyre",
+      "file": "28_pericles_prince_of_tyre.md"
+    },
+    {
+      "title": "The Life and Death of King Richard the Second",
+      "file": "29_the_life_and_death_of_king_richard_the_second.md"
+    },
+    {
+      "title": "King Richard the Third",
+      "file": "30_king_richard_the_third.md"
+    },
+    {
+      "title": "The Tragedy of Romeo and Juliet",
+      "file": "31_the_tragedy_of_romeo_and_juliet.md"
+    },
+    {
+      "title": "The Taming of the Shrew",
+      "file": "32_the_taming_of_the_shrew.md"
+    },
+    {
+      "title": "The Tempest",
+      "file": "33_the_tempest.md"
+    },
+    {
+      "title": "The Life of Timon of Athens",
+      "file": "34_the_life_of_timon_of_athens.md"
+    },
+    {
+      "title": "The Tragedy of Titus Andronicus",
+      "file": "35_the_tragedy_of_titus_andronicus.md"
+    },
+    {
+      "title": "Troilus and Cressida",
+      "file": "36_troilus_and_cressida.md"
+    },
+    {
+      "title": "Twelfth Night; or, What You Will",
+      "file": "37_twelfth_night_or_what_you_will.md"
+    },
+    {
+      "title": "The Two Gentlemen of Verona",
+      "file": "38_the_two_gentlemen_of_verona.md"
+    },
+    {
+      "title": "The Two Noble Kinsmen",
+      "file": "39_the_two_noble_kinsmen.md"
+    },
+    {
+      "title": "The Winter\u2019s Tale",
+      "file": "40_the_winters_tale.md"
+    },
+    {
+      "title": "A Lover\u2019s Complaint",
+      "file": "41_a_lovers_complaint.md"
+    },
+    {
+      "title": "The Passionate Pilgrim",
+      "file": "42_the_passionate_pilgrim.md"
+    },
+    {
+      "title": "The Phoenix and the Turtle",
+      "file": "43_the_phoenix_and_the_turtle.md"
+    },
+    {
+      "title": "The Rape of Lucrece",
+      "file": "44_the_rape_of_lucrece.md"
+    },
+    {
+      "title": "Venus and Adonis",
+      "file": "45_venus_and_adonis.md"
+    }
+  ],
+  "coverImage": "books/complete-works-of-william-shakespeare/cover.jpg"
+}
