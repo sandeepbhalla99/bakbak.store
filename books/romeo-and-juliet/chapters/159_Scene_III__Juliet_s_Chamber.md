@@ -1,7 +1,0 @@
-# Scene III. Juliet’s Chamber
-
-LADY CAPULET.
-Marry, my child, early next Thursday morn
-The gallant, young, and noble gentleman,
-The County Paris, at Saint Peter’s Church,
-Shall happily make thee there a joyful bride.

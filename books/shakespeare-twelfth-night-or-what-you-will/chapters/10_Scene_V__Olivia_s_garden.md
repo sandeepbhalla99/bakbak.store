@@ -1,5 +1,0 @@
-# Scene V. Olivia’s garden
-
-Go to, y’are a dry fool; I’ll no more of you. Besides, you grow dishonest.
-
-CLOWN. Two faults, madonna, that drink and good counsel will amend: for give the dry fool drink, then is the fool not dry; bid the dishonest man mend himself, if he mend, he is no longer dishonest; if he cannot, let the botcher mend him. Anything that’s mended is but patched; virtue that transgresses is but patched with sin, and sin that amends is but patched with virtue. If that this simple syllogism will serve, so; if it will not, what remedy? As there is no true cuckold but calamity, so beauty’s a flower. The lady bade take away the fool, therefore, I say again, take her away.

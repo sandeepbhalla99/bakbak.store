@@ -1,3 +1,0 @@
-# Book VIII. Mitya
-
-In any case the anecdote made a certain favorable impression on the public. But the chief sensation in Mitya’s favor was created by the evidence of Katerina Ivanovna, which I will describe directly. Indeed, when the witnesses _à décharge_, that is, called by the defense, began giving evidence, fortune seemed all at once markedly more favorable to Mitya, and what was particularly striking, this was a surprise even to the counsel for the defense. But before Katerina Ivanovna was called, Alyosha was examined, and he recalled a fact which seemed to furnish positive evidence against one important point made by the prosecution.

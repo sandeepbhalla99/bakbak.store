@@ -1,3 +1,0 @@
-# CHAPTER XXV.
-
-Is It Them?—Singing the “Doxologer.”—Awful Square—Funeral Orgies.—A Bad Investment .

@@ -1,2 +1,0 @@
-# Scene II. A Street
-

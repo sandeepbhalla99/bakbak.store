@@ -1,2 +1,0 @@
-# Scene I.   Westminster Hall.
-

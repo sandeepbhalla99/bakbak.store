@@ -1,3 +1,0 @@
-# Chapter IX. The Preachers of Death.
-
-This is an analysis of the psychology of all those who have the “evil eye” and are pessimists by virtue of their constitutions.

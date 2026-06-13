@@ -1,2 +1,0 @@
-# CHAPTER 83. Jonah Historically Regarded.
-

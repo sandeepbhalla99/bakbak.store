@@ -1,2 +1,0 @@
-# CHAPTER 116. The Dying Whale.
-

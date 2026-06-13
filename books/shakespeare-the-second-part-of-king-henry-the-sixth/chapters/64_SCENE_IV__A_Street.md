@@ -1,2 +1,0 @@
-# SCENE IV. A Street
-

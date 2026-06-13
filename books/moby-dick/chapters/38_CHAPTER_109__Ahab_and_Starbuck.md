@@ -1,2 +1,0 @@
-# CHAPTER 109. Ahab and Starbuck in the Cabin.
-

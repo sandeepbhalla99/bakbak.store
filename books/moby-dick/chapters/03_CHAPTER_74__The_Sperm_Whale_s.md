@@ -1,2 +1,0 @@
-# CHAPTER 74. The Sperm Whale’s Head—Contrasted View.
-

@@ -1,3 +1,0 @@
-# CHAPTER VIII.
-
-Sleeping in the Woods.—Raising the Dead.—Exploring the Island.—Finding Jim.—Jim’s Escape.—Signs.—Balum.

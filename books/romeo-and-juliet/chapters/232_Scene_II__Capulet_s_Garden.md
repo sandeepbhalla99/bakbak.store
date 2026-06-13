@@ -1,9 +1,0 @@
-# Scene II. Capulet’s Garden
-
-All things that we ordained festival
-Turn from their office to black funeral:
-Our instruments to melancholy bells,
-Our wedding cheer to a sad burial feast;
-Our solemn hymns to sullen dirges change;
-Our bridal flowers serve for a buried corse,
-And all things change them to the contrary.

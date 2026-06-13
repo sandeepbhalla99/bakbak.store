@@ -1,3 +1,0 @@
-# Scene V. Olivia’s garden
-
-MALVOLIO. Not yet old enough for a man, nor young enough for a boy; as a squash is before ’tis a peascod, or a codling, when ’tis almost an apple. ’Tis with him in standing water, between boy and man. He is very well-favoured, and he speaks very shrewishly. One would think his mother’s milk were scarce out of him.

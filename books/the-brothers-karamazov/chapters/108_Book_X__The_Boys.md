@@ -1,2 +1,0 @@
-# Book X. The Boys
-

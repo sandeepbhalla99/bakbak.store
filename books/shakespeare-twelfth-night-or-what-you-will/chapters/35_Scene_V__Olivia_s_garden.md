@@ -1,3 +1,0 @@
-# Scene V. Olivia’s garden
-
-VIOLA. Most radiant, exquisite, and unmatchable beauty,—I pray you, tell me if this be the lady of the house, for I never saw her. I would be loath to cast away my speech; for besides that it is excellently well penned, I have taken great pains to con it. Good beauties, let me sustain no scorn; I am very comptible, even to the least sinister usage.

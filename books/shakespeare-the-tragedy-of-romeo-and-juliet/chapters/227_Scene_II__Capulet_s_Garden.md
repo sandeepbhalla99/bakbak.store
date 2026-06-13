@@ -1,5 +1,0 @@
-# Scene II. Capulet’s Garden
-
-Death, that hath ta’en her hence to make me wail, Ties up my tongue and will not let me speak.
-
-Enter Friar Lawrence and Paris with Musicians.

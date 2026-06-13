@@ -1,3 +1,0 @@
-# EPILOGUE
-
-Dramatis Personæ

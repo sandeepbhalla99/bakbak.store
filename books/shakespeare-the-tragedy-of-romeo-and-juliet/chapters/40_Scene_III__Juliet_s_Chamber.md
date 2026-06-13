@@ -1,9 +1,0 @@
-# Scene III. Juliet’s Chamber
-
-My only love sprung from my only hate!
-Too early seen unknown, and known too late!
-Prodigious birth of love it is to me,
-That I must love a loathed enemy.
-
-NURSE.
-What’s this? What’s this?

@@ -1,2 +1,0 @@
-# CHAPTER III: A Good Going-over.—Grace Triumphant.—“One of Tom Sawyers’s Lies”.
-

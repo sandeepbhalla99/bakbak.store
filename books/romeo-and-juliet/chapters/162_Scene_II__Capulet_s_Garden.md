@@ -1,3 +1,0 @@
-# Scene II. Capulet’s Garden
-
-Soft. Take me with you, take me with you, wife. How, will she none? Doth she not give us thanks? Is she not proud? Doth she not count her blest, Unworthy as she is, that we have wrought So worthy a gentleman to be her bridegroom?

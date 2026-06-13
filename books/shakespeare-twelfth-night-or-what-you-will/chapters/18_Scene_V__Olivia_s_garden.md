@@ -1,3 +1,0 @@
-# Scene V. Olivia’s garden
-
-MALVOLIO. I marvel your ladyship takes delight in such a barren rascal; I saw him put down the other day with an ordinary fool, that has no more brain than a stone. Look you now, he’s out of his guard already; unless you laugh and minister occasion to him, he is gagged. I protest I take these wise men, that crow so at these set kind of fools, no better than the fools’ zanies.

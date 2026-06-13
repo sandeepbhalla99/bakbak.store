@@ -1,3 +1,0 @@
-# CHAPTER XXVIII.
-
-The Trip to England.—“The Brute!”—Mary Jane Decides to Leave.—Huck Parting with Mary Jane.—Mumps.—The Opposition Line.

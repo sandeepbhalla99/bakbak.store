@@ -1,2 +1,0 @@
-# CHAPTER 107. The Carpenter.
-

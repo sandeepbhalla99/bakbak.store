@@ -1,2 +1,0 @@
-# Scene III: A Street.
-

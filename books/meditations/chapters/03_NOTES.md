@@ -1,7 +1,0 @@
-# NOTES
-
-This being neither a critical edition of the text nor an emended edition of Casaubon's translation, it has not been thought necessary to add full notes. Casaubon's own notes have been omitted, because for the most part they are discursive, and not necessary to an understanding of what is written. In those which here follow, certain emendations of his are mentioned, which he proposes in his notes, and follows in the translation. In addition, one or two corrections are made where he has mistaken the Greek, and the translation might be misleading. Those which do not come under these two heads will explain themselves.
-
-The text itself has been prepared by a comparison of the editions of 1634 and 1635. It should be borne in mind that Casaubon's is often rather a paraphrase than a close translation; and it did not seem worth while to notice every variation or amplification of the original. In the original editions all that Casaubon conceives as understood, but not expressed, is enclosed in square brackets. These brackets are here omitted, as they interfere with the comfort of the reader; and so have some of the alternative renderings suggested by the translator. In a few cases, Latin words in the text have been replaced by English.
-
-Numbers in brackets refer to the Teubner text of Stich, but the divisions of the text are left unaltered. For some of the references identified I am indebted to Mr. G. H. Rendall's _Marcus Aurelius_.

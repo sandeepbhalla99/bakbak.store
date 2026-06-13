@@ -360,8 +360,8 @@ def split_into_chapters(text):
                     title_text = f"{base_title}: {subtitle}"
                 lines[subtitle_idx] = ""
 
-            # Save previous chapter if it had content
-            if current_chapter_content:
+            # Save previous chapter if it had content (or if it is the Introduction)
+            if current_chapter_content or current_chapter_title == "Introduction":
                 chapters.append({
                     "title": current_chapter_title,
                     "content": "\n".join(current_chapter_content).strip()

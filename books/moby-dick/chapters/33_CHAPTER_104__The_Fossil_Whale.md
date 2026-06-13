@@ -1,2 +1,0 @@
-# CHAPTER 104. The Fossil Whale.
-

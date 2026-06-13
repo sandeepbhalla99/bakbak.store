@@ -1,3 +1,0 @@
-# CHAPTER XVII.
-
-An Evening Call.—The Farm in Arkansaw.—Interior Decorations.—Stephen Dowling Bots.—Poetical Effusions.

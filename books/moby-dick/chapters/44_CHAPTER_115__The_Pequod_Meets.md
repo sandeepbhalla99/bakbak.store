@@ -1,2 +1,0 @@
-# CHAPTER 115. The Pequod Meets The Bachelor.
-

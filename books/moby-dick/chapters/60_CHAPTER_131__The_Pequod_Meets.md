@@ -1,2 +1,0 @@
-# CHAPTER 131. The Pequod Meets The Delight.
-

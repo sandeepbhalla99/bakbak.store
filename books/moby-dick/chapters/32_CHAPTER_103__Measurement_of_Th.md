@@ -1,2 +1,0 @@
-# CHAPTER 103. Measurement of The Whale’s Skeleton.
-

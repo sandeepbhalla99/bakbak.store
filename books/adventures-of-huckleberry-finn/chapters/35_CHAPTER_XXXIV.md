@@ -1,3 +1,0 @@
-# CHAPTER XXXIV.
-
-The Hut by the Ash Hopper.—Outrageous.—Climbing the Lightning Rod.—Troubled with Witches.

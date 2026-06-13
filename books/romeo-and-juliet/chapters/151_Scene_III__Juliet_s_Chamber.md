@@ -1,8 +1,0 @@
-# Scene III. Juliet’s Chamber
-
-LADY CAPULET.
-Evermore weeping for your cousin’s death?
-What, wilt thou wash him from his grave with tears?
-And if thou couldst, thou couldst not make him live.
-Therefore have done: some grief shows much of love,
-But much of grief shows still some want of wit.

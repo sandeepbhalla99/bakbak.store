@@ -1,3 +1,0 @@
-# Chapter XLVII. Involuntary Bliss.
-
-This, like “The Wanderer”, is one of the many introspective passages in the work, and is full of innuendos and hints as to the Nietzschean outlook on life.

@@ -1,2 +1,0 @@
-# CHAPTER 108. Ahab and the Carpenter.
-

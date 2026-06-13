@@ -1,2 +1,0 @@
-# CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk: over Him.
-
