@@ -28,6 +28,7 @@ def main():
                 "author": data["author"],
                 "genre": data["genre"],
                 "coverColor": data["coverColor"],
+                "coverImage": data.get("coverImage"),
                 "description": data["description"],
                 "rating": 4.5, # default mock rating
                 "reviewsCount": 12 # default mock reviews count

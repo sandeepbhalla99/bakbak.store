@@ -5,6 +5,7 @@
     "author": "Jane Austen",
     "genre": "Classics",
     "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "coverImage": "books/pride-and-prejudice/cover.jpg",
     "description": "A classic masterpiece by Jane Austen. Read this cleaned edition on Bakbak.store.",
     "rating": 4.5,
     "reviewsCount": 12

@@ -300,13 +300,16 @@ function renderCatalog(booksList) {
 
   container.innerHTML = booksList.map(book => {
     const ratingHTML = Array(Math.round(book.rating)).fill('★').join('') + Array(5 - Math.round(book.rating)).fill('☆').join('');
+    const coverHTML = book.coverImage
+      ? `<div class="book-card-cover" style="background-image: url('${book.coverImage}'); background-size: cover; background-position: center; height: 100%; width: 100%;"></div>`
+      : `<div class="book-card-cover" style="background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-sizing: border-box;">
+            <div style="font-weight: 700; font-size: 1.1rem; text-shadow: 0 4px 8px rgba(0,0,0,0.5);">${book.title}</div>
+            <div style="font-size: 0.8rem; margin-top: 10px; opacity: 0.8;">${book.author}</div>
+          </div>`;
     return `
       <div class="book-card glass glass-hover" data-book-id="${book.id}">
         <div class="book-cover-wrapper">
-          <div class="book-card-cover" style="background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-sizing: border-box;">
-            <div style="font-weight: 700; font-size: 1.1rem; text-shadow: 0 4px 8px rgba(0,0,0,0.5);">${book.title}</div>
-            <div style="font-size: 0.8rem; margin-top: 10px; opacity: 0.8;">${book.author}</div>
-          </div>
+          ${coverHTML}
           <div class="book-overlay">
             <p>${book.description}</p>
             <span class="badge">${book.genre}</span>
@@ -324,6 +327,7 @@ function renderCatalog(booksList) {
     `;
   }).join('');
 
+
   // Bind clicks
   container.querySelectorAll('.book-card').forEach(card => {
     card.addEventListener('click', () => {
@@ -340,13 +344,16 @@ function renderFeaturedBooks() {
   const featured = BOOKS.slice(0, 4);
   container.innerHTML = featured.map(book => {
     const ratingHTML = Array(Math.round(book.rating)).fill('★').join('') + Array(5 - Math.round(book.rating)).fill('☆').join('');
+    const coverHTML = book.coverImage
+      ? `<div class="book-card-cover" style="background-image: url('${book.coverImage}'); background-size: cover; background-position: center; height: 100%; width: 100%;"></div>`
+      : `<div class="book-card-cover" style="background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-sizing: border-box;">
+            <div style="font-weight: 700; font-size: 1.1rem; text-shadow: 0 4px 8px rgba(0,0,0,0.5);">${book.title}</div>
+            <div style="font-size: 0.8rem; margin-top: 10px; opacity: 0.8;">${book.author}</div>
+          </div>`;
     return `
       <div class="book-card glass glass-hover" data-book-id="${book.id}">
         <div class="book-cover-wrapper">
-          <div class="book-card-cover" style="background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-sizing: border-box;">
-            <div style="font-weight: 700; font-size: 1.1rem; text-shadow: 0 4px 8px rgba(0,0,0,0.5);">${book.title}</div>
-            <div style="font-size: 0.8rem; margin-top: 10px; opacity: 0.8;">${book.author}</div>
-          </div>
+          ${coverHTML}
           <div class="book-overlay">
             <p>${book.description}</p>
             <span class="badge">${book.genre}</span>
@@ -363,6 +370,7 @@ function renderFeaturedBooks() {
       </div>
     `;
   }).join('');
+
 
   container.querySelectorAll('.book-card').forEach(card => {
     card.addEventListener('click', () => {
@@ -402,12 +410,16 @@ async function openBookDetailPreview(bookId) {
 
   const ratingHTML = Array(Math.round(book.rating || 4.5)).fill('★').join('') + Array(5 - Math.round(book.rating || 4.5)).fill('☆').join('');
 
+  const previewCoverHTML = book.coverImage
+    ? `<div style="background-image: url('${book.coverImage}'); background-size: cover; background-position: center; border-radius: 12px; height: 280px; border: 1px solid var(--border-color); box-shadow: 0 10px 20px rgba(0,0,0,0.4);"></div>`
+    : `<div style="background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; border-radius: 12px; height: 280px; text-align: center; border: 1px solid var(--border-color); box-shadow: 0 10px 20px rgba(0,0,0,0.4);">
+        <div style="font-weight: 800; font-size: 1.4rem; padding: 20px; line-height: 1.3; text-shadow: 0 4px 10px rgba(0,0,0,0.6);">${book.title}</div>
+        <div style="font-size: 0.95rem; opacity: 0.8;">${book.author}</div>
+      </div>`;
+
   const modalLayout = document.getElementById('book-preview-layout');
   modalLayout.innerHTML = `
-    <div style="background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; border-radius: 12px; height: 280px; text-align: center; border: 1px solid var(--border-color); box-shadow: 0 10px 20px rgba(0,0,0,0.4);">
-      <div style="font-weight: 800; font-size: 1.4rem; padding: 20px; line-height: 1.3; text-shadow: 0 4px 10px rgba(0,0,0,0.6);">${book.title}</div>
-      <div style="font-size: 0.95rem; opacity: 0.8;">${book.author}</div>
-    </div>
+    ${previewCoverHTML}
     <div class="book-details-info">
       <h2>${book.title}</h2>
       <div class="book-details-author">by ${book.author}</div>
@@ -430,6 +442,7 @@ async function openBookDetailPreview(bookId) {
       </div>
     </div>
   `;
+
 
   showModal('book-preview-modal');
 
@@ -525,11 +538,15 @@ function renderBookshelf() {
     if (shelfItem.status === 'reading') statusText = 'Reading';
     else if (shelfItem.status === 'completed') statusText = 'Completed';
 
+    const shelfCoverHTML = book.coverImage
+      ? `<div style="background-image: url('${book.coverImage}'); background-size: cover; background-position: center; border-radius: 6px; height: 110px; border: 1px solid var(--border-color);"></div>`
+      : `<div style="background: ${book.coverColor}; border-radius: 6px; height: 110px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 10px; text-align: center; font-size: 0.75rem; border: 1px solid var(--border-color);">
+          <div style="font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">${book.title}</div>
+        </div>`;
+
     return `
       <div class="shelf-item glass" data-book-id="${book.id}">
-        <div style="background: ${book.coverColor}; border-radius: 6px; height: 110px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 10px; text-align: center; font-size: 0.75rem; border: 1px solid var(--border-color);">
-          <div style="font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">${book.title}</div>
-        </div>
+        ${shelfCoverHTML}
         <div class="shelf-item-details">
           <div class="shelf-item-title">${book.title}</div>
           <div class="shelf-item-author">${book.author}</div>
@@ -547,6 +564,7 @@ function renderBookshelf() {
       </div>
     `;
   }).join('');
+
 
   // Bind Shelf Card clicks
   container.querySelectorAll('.shelf-resume-btn').forEach(btn => {
