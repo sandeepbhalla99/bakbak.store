@@ -78,23 +78,32 @@ export async function renderReaderContent() {
       const htmlContent = marked.parse(markdown, { breaks: true });
       textBody.innerHTML = htmlContent;
 
-      // Intercept link clicks for SPA chapter navigation
-      const links = textBody.querySelectorAll('a');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && (href.endsWith('.md') || href.includes('chapters/'))) {
-          link.addEventListener('click', (e) => {
-            e.preventDefault();
-            // Extract filename from href
-            const filename = href.split('/').pop();
-            const chapIdx = activeBook.chapters.findIndex(c => c.file === filename);
-            if (chapIdx !== -1) {
-              activeChapterIndex = chapIdx;
-              renderReaderContent();
+      // Intercept link clicks for SPA chapter navigation using event delegation
+      if (textBody.dataset.spaLinksAttached !== 'true') {
+        textBody.addEventListener('click', (e) => {
+          const link = e.target.closest('a');
+          if (link) {
+            const href = link.getAttribute('href');
+            if (href) {
+              const filename = href.split('/').pop().split('?')[0].split('#')[0];
+              if (filename.toLowerCase().endsWith('.md') || href.includes('chapters/')) {
+                e.preventDefault();
+                const decodedFilename = decodeURIComponent(filename).toLowerCase();
+                const chapIdx = activeBook.chapters.findIndex(c => {
+                  return decodeURIComponent(c.file).toLowerCase() === decodedFilename;
+                });
+                if (chapIdx !== -1) {
+                  activeChapterIndex = chapIdx;
+                  renderReaderContent();
+                } else {
+                  console.warn("SPA Navigation failed: could not find chapter file matching", decodedFilename);
+                }
+              }
             }
-          });
-        }
-      });
+          }
+        });
+        textBody.dataset.spaLinksAttached = 'true';
+      }
 
       // Update progress numbers
       const chapterNumEl = document.getElementById('reader-chapter-num');
