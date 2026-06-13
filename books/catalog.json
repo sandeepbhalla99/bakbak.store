@@ -9,5 +9,16 @@
     "description": "A classic masterpiece by Jane Austen. Read this cleaned edition on Bakbak.store.",
     "rating": 4.5,
     "reviewsCount": 12
+  },
+  {
+    "id": "romeo-and-juliet",
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+    "coverImage": null,
+    "description": "The classic tragedy of star-crossed lovers Romeo and Juliet by William Shakespeare.",
+    "rating": 4.5,
+    "reviewsCount": 12
   }
 ]

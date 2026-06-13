@@ -1,0 +1,122 @@
+{
+  "id": "romeo-and-juliet",
+  "title": "Romeo and Juliet",
+  "author": "William Shakespeare",
+  "genre": "Drama",
+  "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+  "description": "The classic tragedy of star-crossed lovers Romeo and Juliet by William Shakespeare.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Dramatis Personae",
+      "file": "02_dramatis_personae.md"
+    },
+    {
+      "title": "The Prologue",
+      "file": "03_the_prologue.md"
+    },
+    {
+      "title": "Act I, Scene 1",
+      "file": "04_act_i_scene_1.md"
+    },
+    {
+      "title": "Act I, Scene 2 - SCENE II. A Street.",
+      "file": "05_act_i_scene_2.md"
+    },
+    {
+      "title": "Act I, Scene 3 - SCENE III. Room in Capulet\u2019s House.",
+      "file": "06_act_i_scene_3.md"
+    },
+    {
+      "title": "Act I, Scene 4 - SCENE IV. A Street.",
+      "file": "07_act_i_scene_4.md"
+    },
+    {
+      "title": "Act I, Scene 5 - SCENE V. A Hall in Capulet\u2019s House.",
+      "file": "08_act_i_scene_5.md"
+    },
+    {
+      "title": "Act II - Chorus",
+      "file": "09_act_ii_chorus.md"
+    },
+    {
+      "title": "Act II, Scene 1 - SCENE I. An open place adjoining Capulet\u2019s Garden.",
+      "file": "10_act_ii_scene_1.md"
+    },
+    {
+      "title": "Act II, Scene 2 - SCENE II. Capulet\u2019s Garden.",
+      "file": "11_act_ii_scene_2.md"
+    },
+    {
+      "title": "Act II, Scene 3 - SCENE III. Friar Lawrence\u2019s Cell.",
+      "file": "12_act_ii_scene_3.md"
+    },
+    {
+      "title": "Act II, Scene 4 - SCENE IV. A Street.",
+      "file": "13_act_ii_scene_4.md"
+    },
+    {
+      "title": "Act II, Scene 5 - SCENE V. Capulet\u2019s Garden.",
+      "file": "14_act_ii_scene_5.md"
+    },
+    {
+      "title": "Act II, Scene 6 - SCENE VI. Friar Lawrence\u2019s Cell.",
+      "file": "15_act_ii_scene_6.md"
+    },
+    {
+      "title": "Act III, Scene 1",
+      "file": "16_act_iii_scene_1.md"
+    },
+    {
+      "title": "Act III, Scene 2 - SCENE II. A Room in Capulet\u2019s House.",
+      "file": "17_act_iii_scene_2.md"
+    },
+    {
+      "title": "Act III, Scene 3 - SCENE III. Friar Lawrence\u2019s cell.",
+      "file": "18_act_iii_scene_3.md"
+    },
+    {
+      "title": "Act III, Scene 4 - SCENE IV. A Room in Capulet\u2019s House.",
+      "file": "19_act_iii_scene_4.md"
+    },
+    {
+      "title": "Act III, Scene 5 - SCENE V. An open Gallery to Juliet\u2019s Chamber, overlooking the Garden.",
+      "file": "20_act_iii_scene_5.md"
+    },
+    {
+      "title": "Act IV, Scene 1",
+      "file": "21_act_iv_scene_1.md"
+    },
+    {
+      "title": "Act IV, Scene 2 - SCENE II. Hall in Capulet\u2019s House.",
+      "file": "22_act_iv_scene_2.md"
+    },
+    {
+      "title": "Act IV, Scene 3 - SCENE III. Juliet\u2019s Chamber.",
+      "file": "23_act_iv_scene_3.md"
+    },
+    {
+      "title": "Act IV, Scene 4 - SCENE IV. Hall in Capulet\u2019s House.",
+      "file": "24_act_iv_scene_4.md"
+    },
+    {
+      "title": "Act IV, Scene 5 - SCENE V. Juliet\u2019s Chamber; Juliet on the bed.",
+      "file": "25_act_iv_scene_5.md"
+    },
+    {
+      "title": "Act V, Scene 1",
+      "file": "26_act_v_scene_1.md"
+    },
+    {
+      "title": "Act V, Scene 2 - SCENE II. Friar Lawrence\u2019s Cell.",
+      "file": "27_act_v_scene_2.md"
+    },
+    {
+      "title": "Act V, Scene 3 - SCENE III. A churchyard; in it a Monument belonging to the Capulets.",
+      "file": "28_act_v_scene_3.md"
+    }
+  ]
+}
