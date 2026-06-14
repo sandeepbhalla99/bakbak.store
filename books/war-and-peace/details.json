@@ -1,0 +1,1475 @@
+{
+  "id": "war-and-peace",
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #b45309 0%, #78350f 100%)",
+  "description": "The epic masterpiece detailing the French invasion of Russia and the impact of the Napoleonic era.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterI",
+      "file": "02_chapter_001.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterII",
+      "file": "03_chapter_002.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterIII",
+      "file": "04_chapter_003.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterIV",
+      "file": "05_chapter_004.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterV",
+      "file": "06_chapter_005.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterVI",
+      "file": "07_chapter_006.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterVII",
+      "file": "08_chapter_007.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterVIII",
+      "file": "09_chapter_008.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterIX",
+      "file": "10_chapter_009.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterX",
+      "file": "11_chapter_010.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXI",
+      "file": "12_chapter_011.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXII",
+      "file": "13_chapter_012.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXIII",
+      "file": "14_chapter_013.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXIV",
+      "file": "15_chapter_014.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXV",
+      "file": "16_chapter_015.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXVI",
+      "file": "17_chapter_016.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXVII",
+      "file": "18_chapter_017.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXVIII",
+      "file": "19_chapter_018.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXIX",
+      "file": "20_chapter_019.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXX",
+      "file": "21_chapter_020.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXXI",
+      "file": "22_chapter_021.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXXII",
+      "file": "23_chapter_022.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXXIII",
+      "file": "24_chapter_023.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXXIV",
+      "file": "25_chapter_024.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXXV",
+      "file": "26_chapter_025.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXXVI",
+      "file": "27_chapter_026.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXXVII",
+      "file": "28_chapter_027.md"
+    },
+    {
+      "title": "Book One: 1805 - ChapterXXVIII",
+      "file": "29_chapter_028.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterI",
+      "file": "30_chapter_029.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterII",
+      "file": "31_chapter_030.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterIII",
+      "file": "32_chapter_031.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterIV",
+      "file": "33_chapter_032.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterV",
+      "file": "34_chapter_033.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterVI",
+      "file": "35_chapter_034.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterVII",
+      "file": "36_chapter_035.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterVIII",
+      "file": "37_chapter_036.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterIX",
+      "file": "38_chapter_037.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterX",
+      "file": "39_chapter_038.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXI",
+      "file": "40_chapter_039.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXII",
+      "file": "41_chapter_040.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXIII",
+      "file": "42_chapter_041.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXIV",
+      "file": "43_chapter_042.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXV",
+      "file": "44_chapter_043.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXVI",
+      "file": "45_chapter_044.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXVII",
+      "file": "46_chapter_045.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXVIII",
+      "file": "47_chapter_046.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXIX",
+      "file": "48_chapter_047.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXX",
+      "file": "49_chapter_048.md"
+    },
+    {
+      "title": "Book Two: 1805 - ChapterXXI",
+      "file": "50_chapter_049.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterI",
+      "file": "51_chapter_050.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterII",
+      "file": "52_chapter_051.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterIII",
+      "file": "53_chapter_052.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterIV",
+      "file": "54_chapter_053.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterV",
+      "file": "55_chapter_054.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterVI",
+      "file": "56_chapter_055.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterVII",
+      "file": "57_chapter_056.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterVIII",
+      "file": "58_chapter_057.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterIX",
+      "file": "59_chapter_058.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterX",
+      "file": "60_chapter_059.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterXI",
+      "file": "61_chapter_060.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterXII",
+      "file": "62_chapter_061.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterXIII",
+      "file": "63_chapter_062.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterXIV",
+      "file": "64_chapter_063.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterXV",
+      "file": "65_chapter_064.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterXVI",
+      "file": "66_chapter_065.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterXVII",
+      "file": "67_chapter_066.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterXVIII",
+      "file": "68_chapter_067.md"
+    },
+    {
+      "title": "Book Three: 1805 - ChapterXIX",
+      "file": "69_chapter_068.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterI",
+      "file": "70_chapter_069.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterII",
+      "file": "71_chapter_070.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterIII",
+      "file": "72_chapter_071.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterIV",
+      "file": "73_chapter_072.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterV",
+      "file": "74_chapter_073.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterVI",
+      "file": "75_chapter_074.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterVII",
+      "file": "76_chapter_075.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterVIII",
+      "file": "77_chapter_076.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterIX",
+      "file": "78_chapter_077.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterX",
+      "file": "79_chapter_078.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterXI",
+      "file": "80_chapter_079.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterXII",
+      "file": "81_chapter_080.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterXIII",
+      "file": "82_chapter_081.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterXIV",
+      "file": "83_chapter_082.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterXV",
+      "file": "84_chapter_083.md"
+    },
+    {
+      "title": "Book Four: 1806 - ChapterXVI",
+      "file": "85_chapter_084.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterI",
+      "file": "86_chapter_085.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterII",
+      "file": "87_chapter_086.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterIII",
+      "file": "88_chapter_087.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterIV",
+      "file": "89_chapter_088.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterV",
+      "file": "90_chapter_089.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterVI",
+      "file": "91_chapter_090.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterVII",
+      "file": "92_chapter_091.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterVIII",
+      "file": "93_chapter_092.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterIX",
+      "file": "94_chapter_093.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterX",
+      "file": "95_chapter_094.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXI",
+      "file": "96_chapter_095.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXII",
+      "file": "97_chapter_096.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXIII",
+      "file": "98_chapter_097.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXIV",
+      "file": "99_chapter_098.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXV",
+      "file": "100_chapter_099.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXVI",
+      "file": "101_chapter_100.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXVII",
+      "file": "102_chapter_101.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXVIII",
+      "file": "103_chapter_102.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXIX",
+      "file": "104_chapter_103.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXX",
+      "file": "105_chapter_104.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXXI",
+      "file": "106_chapter_105.md"
+    },
+    {
+      "title": "Book Five: 1806 - 07 - ChapterXXII",
+      "file": "107_chapter_106.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterI",
+      "file": "108_chapter_107.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterII",
+      "file": "109_chapter_108.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterIII",
+      "file": "110_chapter_109.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterIV",
+      "file": "111_chapter_110.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterV",
+      "file": "112_chapter_111.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterVI",
+      "file": "113_chapter_112.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterVII",
+      "file": "114_chapter_113.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterVIII",
+      "file": "115_chapter_114.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterIX",
+      "file": "116_chapter_115.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterX",
+      "file": "117_chapter_116.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXI",
+      "file": "118_chapter_117.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXII",
+      "file": "119_chapter_118.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXIII",
+      "file": "120_chapter_119.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXIV",
+      "file": "121_chapter_120.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXV",
+      "file": "122_chapter_121.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXVI",
+      "file": "123_chapter_122.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXVII",
+      "file": "124_chapter_123.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXVIII",
+      "file": "125_chapter_124.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXIX",
+      "file": "126_chapter_125.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXX",
+      "file": "127_chapter_126.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXXI",
+      "file": "128_chapter_127.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXXII",
+      "file": "129_chapter_128.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXXIII",
+      "file": "130_chapter_129.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXXIV",
+      "file": "131_chapter_130.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXXV",
+      "file": "132_chapter_131.md"
+    },
+    {
+      "title": "Book Six: 1808 - 10 - ChapterXXVI",
+      "file": "133_chapter_132.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterI",
+      "file": "134_chapter_133.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterII",
+      "file": "135_chapter_134.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterIII",
+      "file": "136_chapter_135.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterIV",
+      "file": "137_chapter_136.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterV",
+      "file": "138_chapter_137.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterVI",
+      "file": "139_chapter_138.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterVII",
+      "file": "140_chapter_139.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterVIII",
+      "file": "141_chapter_140.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterIX",
+      "file": "142_chapter_141.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterX",
+      "file": "143_chapter_142.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterXI",
+      "file": "144_chapter_143.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterXII",
+      "file": "145_chapter_144.md"
+    },
+    {
+      "title": "Book Seven: 1810 - 11 - ChapterXIII",
+      "file": "146_chapter_145.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterI",
+      "file": "147_chapter_146.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterII",
+      "file": "148_chapter_147.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterIII",
+      "file": "149_chapter_148.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterIV",
+      "file": "150_chapter_149.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterV",
+      "file": "151_chapter_150.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterVI",
+      "file": "152_chapter_151.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterVII",
+      "file": "153_chapter_152.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterVIII",
+      "file": "154_chapter_153.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterIX",
+      "file": "155_chapter_154.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterX",
+      "file": "156_chapter_155.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXI",
+      "file": "157_chapter_156.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXII",
+      "file": "158_chapter_157.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXIII",
+      "file": "159_chapter_158.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXIV",
+      "file": "160_chapter_159.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXV",
+      "file": "161_chapter_160.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXVI",
+      "file": "162_chapter_161.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXVII",
+      "file": "163_chapter_162.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXVIII",
+      "file": "164_chapter_163.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXIX",
+      "file": "165_chapter_164.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXX",
+      "file": "166_chapter_165.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXXI",
+      "file": "167_chapter_166.md"
+    },
+    {
+      "title": "Book Eight: 1811 - 12 - ChapterXXII",
+      "file": "168_chapter_167.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterI",
+      "file": "169_chapter_168.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterII",
+      "file": "170_chapter_169.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterIII",
+      "file": "171_chapter_170.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterIV",
+      "file": "172_chapter_171.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterV",
+      "file": "173_chapter_172.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterVI",
+      "file": "174_chapter_173.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterVII",
+      "file": "175_chapter_174.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterVIII",
+      "file": "176_chapter_175.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterIX",
+      "file": "177_chapter_176.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterX",
+      "file": "178_chapter_177.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXI",
+      "file": "179_chapter_178.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXII",
+      "file": "180_chapter_179.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXIII",
+      "file": "181_chapter_180.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXIV",
+      "file": "182_chapter_181.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXV",
+      "file": "183_chapter_182.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXVI",
+      "file": "184_chapter_183.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXVII",
+      "file": "185_chapter_184.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXVIII",
+      "file": "186_chapter_185.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXIX",
+      "file": "187_chapter_186.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXX",
+      "file": "188_chapter_187.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXXI",
+      "file": "189_chapter_188.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXXII",
+      "file": "190_chapter_189.md"
+    },
+    {
+      "title": "Book Nine: 1812 - ChapterXXIII",
+      "file": "191_chapter_190.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterI",
+      "file": "192_chapter_191.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterII",
+      "file": "193_chapter_192.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterIII",
+      "file": "194_chapter_193.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterIV",
+      "file": "195_chapter_194.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterV",
+      "file": "196_chapter_195.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterVI",
+      "file": "197_chapter_196.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterVII",
+      "file": "198_chapter_197.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterVIII",
+      "file": "199_chapter_198.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterIX",
+      "file": "200_chapter_199.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterX",
+      "file": "201_chapter_200.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXI",
+      "file": "202_chapter_201.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXII",
+      "file": "203_chapter_202.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXIII",
+      "file": "204_chapter_203.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXIV",
+      "file": "205_chapter_204.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXV",
+      "file": "206_chapter_205.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXVI",
+      "file": "207_chapter_206.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXVII",
+      "file": "208_chapter_207.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXVIII",
+      "file": "209_chapter_208.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXIX",
+      "file": "210_chapter_209.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXX",
+      "file": "211_chapter_210.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXI",
+      "file": "212_chapter_211.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXII",
+      "file": "213_chapter_212.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXIII",
+      "file": "214_chapter_213.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXIV",
+      "file": "215_chapter_214.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXV",
+      "file": "216_chapter_215.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXVI",
+      "file": "217_chapter_216.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXVII",
+      "file": "218_chapter_217.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXVIII",
+      "file": "219_chapter_218.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXIX",
+      "file": "220_chapter_219.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXX",
+      "file": "221_chapter_220.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXXI",
+      "file": "222_chapter_221.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXXII",
+      "file": "223_chapter_222.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXXIII",
+      "file": "224_chapter_223.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXXIV",
+      "file": "225_chapter_224.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXXV",
+      "file": "226_chapter_225.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXXVI",
+      "file": "227_chapter_226.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXXVII",
+      "file": "228_chapter_227.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXXVIII",
+      "file": "229_chapter_228.md"
+    },
+    {
+      "title": "Book Ten: 1812 - ChapterXXXIX",
+      "file": "230_chapter_229.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterI",
+      "file": "231_chapter_230.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterII",
+      "file": "232_chapter_231.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterIII",
+      "file": "233_chapter_232.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterIV",
+      "file": "234_chapter_233.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterV",
+      "file": "235_chapter_234.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterVI",
+      "file": "236_chapter_235.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterVII",
+      "file": "237_chapter_236.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterVIII",
+      "file": "238_chapter_237.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterIX",
+      "file": "239_chapter_238.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterX",
+      "file": "240_chapter_239.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXI",
+      "file": "241_chapter_240.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXII",
+      "file": "242_chapter_241.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXIII",
+      "file": "243_chapter_242.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXIV",
+      "file": "244_chapter_243.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXV",
+      "file": "245_chapter_244.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXVI",
+      "file": "246_chapter_245.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXVII",
+      "file": "247_chapter_246.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXVIII",
+      "file": "248_chapter_247.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXIX",
+      "file": "249_chapter_248.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXX",
+      "file": "250_chapter_249.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXI",
+      "file": "251_chapter_250.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXII",
+      "file": "252_chapter_251.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXIII",
+      "file": "253_chapter_252.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXIV",
+      "file": "254_chapter_253.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXV",
+      "file": "255_chapter_254.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXVI",
+      "file": "256_chapter_255.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXVII",
+      "file": "257_chapter_256.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXVIII",
+      "file": "258_chapter_257.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXIX",
+      "file": "259_chapter_258.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXX",
+      "file": "260_chapter_259.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXXI",
+      "file": "261_chapter_260.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXXII",
+      "file": "262_chapter_261.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXXIII",
+      "file": "263_chapter_262.md"
+    },
+    {
+      "title": "Book Eleven: 1812 - ChapterXXXIV",
+      "file": "264_chapter_263.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterI",
+      "file": "265_chapter_264.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterII",
+      "file": "266_chapter_265.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterIII",
+      "file": "267_chapter_266.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterIV",
+      "file": "268_chapter_267.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterV",
+      "file": "269_chapter_268.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterVI",
+      "file": "270_chapter_269.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterVII",
+      "file": "271_chapter_270.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterVIII",
+      "file": "272_chapter_271.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterIX",
+      "file": "273_chapter_272.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterX",
+      "file": "274_chapter_273.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterXI",
+      "file": "275_chapter_274.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterXII",
+      "file": "276_chapter_275.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterXIII",
+      "file": "277_chapter_276.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterXIV",
+      "file": "278_chapter_277.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterXV",
+      "file": "279_chapter_278.md"
+    },
+    {
+      "title": "Book Twelve: 1812 - ChapterXVI",
+      "file": "280_chapter_279.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterI",
+      "file": "281_chapter_280.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterII",
+      "file": "282_chapter_281.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterIII",
+      "file": "283_chapter_282.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterIV",
+      "file": "284_chapter_283.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterV",
+      "file": "285_chapter_284.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterVI",
+      "file": "286_chapter_285.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterVII",
+      "file": "287_chapter_286.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterVIII",
+      "file": "288_chapter_287.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterIX",
+      "file": "289_chapter_288.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterX",
+      "file": "290_chapter_289.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterXI",
+      "file": "291_chapter_290.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterXII",
+      "file": "292_chapter_291.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterXIII",
+      "file": "293_chapter_292.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterXIV",
+      "file": "294_chapter_293.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterXV",
+      "file": "295_chapter_294.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterXVI",
+      "file": "296_chapter_295.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterXVII",
+      "file": "297_chapter_296.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterXVIII",
+      "file": "298_chapter_297.md"
+    },
+    {
+      "title": "Book Thirteen: 1812 - ChapterXIX",
+      "file": "299_chapter_298.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterI",
+      "file": "300_chapter_299.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterII",
+      "file": "301_chapter_300.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterIII",
+      "file": "302_chapter_301.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterIV",
+      "file": "303_chapter_302.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterV",
+      "file": "304_chapter_303.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterVI",
+      "file": "305_chapter_304.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterVII",
+      "file": "306_chapter_305.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterVIII",
+      "file": "307_chapter_306.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterIX",
+      "file": "308_chapter_307.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterX",
+      "file": "309_chapter_308.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterXI",
+      "file": "310_chapter_309.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterXII",
+      "file": "311_chapter_310.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterXIII",
+      "file": "312_chapter_311.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterXIV",
+      "file": "313_chapter_312.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterXV",
+      "file": "314_chapter_313.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterXVI",
+      "file": "315_chapter_314.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterXVII",
+      "file": "316_chapter_315.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterXVIII",
+      "file": "317_chapter_316.md"
+    },
+    {
+      "title": "Book Fourteen: 1812 - ChapterXIX",
+      "file": "318_chapter_317.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterI",
+      "file": "319_chapter_318.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterII",
+      "file": "320_chapter_319.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterIII",
+      "file": "321_chapter_320.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterIV",
+      "file": "322_chapter_321.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterV",
+      "file": "323_chapter_322.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterVI",
+      "file": "324_chapter_323.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterVII",
+      "file": "325_chapter_324.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterVIII",
+      "file": "326_chapter_325.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterIX",
+      "file": "327_chapter_326.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterX",
+      "file": "328_chapter_327.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXI",
+      "file": "329_chapter_328.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXII",
+      "file": "330_chapter_329.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXIII",
+      "file": "331_chapter_330.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXIV",
+      "file": "332_chapter_331.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXV",
+      "file": "333_chapter_332.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXVI",
+      "file": "334_chapter_333.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXVII",
+      "file": "335_chapter_334.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXVIII",
+      "file": "336_chapter_335.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXIX",
+      "file": "337_chapter_336.md"
+    },
+    {
+      "title": "Book Fifteen: 1812 - 13 - ChapterXX",
+      "file": "338_chapter_337.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterI",
+      "file": "339_chapter_338.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterII",
+      "file": "340_chapter_339.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterIII",
+      "file": "341_chapter_340.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterIV",
+      "file": "342_chapter_341.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterV",
+      "file": "343_chapter_342.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterVI",
+      "file": "344_chapter_343.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterVII",
+      "file": "345_chapter_344.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterVIII",
+      "file": "346_chapter_345.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterIX",
+      "file": "347_chapter_346.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterX",
+      "file": "348_chapter_347.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterXI",
+      "file": "349_chapter_348.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterXII",
+      "file": "350_chapter_349.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterXIII",
+      "file": "351_chapter_350.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterXIV",
+      "file": "352_chapter_351.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterXV",
+      "file": "353_chapter_352.md"
+    },
+    {
+      "title": "First Epilogue: 1813 - 20 - ChapterXVI",
+      "file": "354_chapter_353.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterI",
+      "file": "355_chapter_354.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterII",
+      "file": "356_chapter_355.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterIII",
+      "file": "357_chapter_356.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterIV",
+      "file": "358_chapter_357.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterV",
+      "file": "359_chapter_358.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterVI",
+      "file": "360_chapter_359.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterVII",
+      "file": "361_chapter_360.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterVIII",
+      "file": "362_chapter_361.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterIX",
+      "file": "363_chapter_362.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterX",
+      "file": "364_chapter_363.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterXI",
+      "file": "365_chapter_364.md"
+    },
+    {
+      "title": "Second Epilogue - ChapterXII",
+      "file": "366_chapter_365.md"
+    }
+  ],
+  "coverImage": "books/war-and-peace/cover.jpg"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "history-of-the-negro-race-in-america",
+  "title": "History of the Negro Race in America",
+  "author": "George W. Williams",
+  "genre": "History",
+  "coverColor": "linear-gradient(135deg, #78350f 0%, #451a03 100%)",
+  "description": "The landmark historical study of Negro history in America, detailing their struggles and accomplishments.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Note",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterI: Restriction and Extension. 1800-1825",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterII: Negro Troops in the War of 1812",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIII: Negroes in the Navy",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterIV: Retrospection and Reflection. 1825-1850",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterV: Anti-Slavery Methods",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVI: Anti-Slavery Efforts of Free Negroes",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVII: Negro Insurrections",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterVIII: The \"Amistad\" Captives",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterIX: Northern Sympathy and Southern Subterfuges. 1850-1860",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterX: The \"Black Laws\" of \"Border States.\"",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXI: The Northern Negroes",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXII: Negro School Laws. 1619-1860",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIII: John Brown\u2014Hero and Martyr",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXIV: Definition of the War Issue",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXV: \"A White Man's War.\"",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXVI: The Negro on Fatigue Duty",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVII: The Emancipation Proclamations",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "ChapterXVIII: Employment of Negroes As Soldiers",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXIX: Negroes As Soldiers",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "ChapterXX: Capture and Treatment of Negro Soldiers",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXXI: RECONSTRUCTION[116]\u2014Misconstruction. 1865-1875",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXII: The Results of Emancipation",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXIII: Representative Colored Men",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "ChapterXXIV: The African Methodist Episcopal Church",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXV: The Methodist Episcopal Church",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXVI: The Colored Baptists of America",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "ChapterXXVII: Reaction, Peril, and Pacification. 1875-1880",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "ChapterXXVIII: The Exodus\u2014Cause and Effect",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "ChapterXXIX: Retrospection and Prospection",
+      "file": "31_chapter_30.md"
+    }
+  ]
+}

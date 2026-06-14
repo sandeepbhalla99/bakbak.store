@@ -1,0 +1,127 @@
+{
+  "id": "dracula",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "genre": "Horror",
+  "coverColor": "linear-gradient(135deg, #1e1b4b 0%, #030712 100%)",
+  "description": "The gothic horror masterpiece telling the story of Count Dracula's attempt to move from Transylvania to England.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "ChapterI: Jonathan Harker\u2019s Journal",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterII: Jonathan Harker\u2019s Journal\u2014Continued",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterIII: Jonathan Harker\u2019s Journal\u2014Continued",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIV: Jonathan Harker\u2019s Journal\u2014Continued",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterV",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterVI: Mina Murray\u2019s Journal",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVII: Cutting from \u201cthe Dailygraph,\u201d 8 August",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVIII: Mina Murray\u2019s Journal",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterIX",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterX",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterXI",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXII: Dr. Seward\u2019s Diary",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXIII: Dr. Seward\u2019s Diary\u2014Continued",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIV: Mina Harker\u2019s Journal",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXV: Dr. Seward\u2019s Diary\u2014Continued",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXVI: Dr. Seward\u2019s Diary\u2014Continued",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXVII: Dr. Seward\u2019s Diary\u2014Continued",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVIII: Dr. Seward\u2019s Diary",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "ChapterXIX: Jonathan Harker\u2019s Journal",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXX: Jonathan Harker\u2019s Journal",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "ChapterXXI: Dr. Seward\u2019s Diary",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXXII: Jonathan Harker\u2019s Journal",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXIII: Dr. Seward\u2019s Diary",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXIV: Dr. Seward\u2019s Phonograph Diary, Spoken by Van Helsing",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "ChapterXXV: Dr. Seward\u2019s Diary",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXVI: Dr. Seward\u2019s Diary",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXVII: Mina Harker\u2019s Journal",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Note",
+      "file": "29_chapter_28.md"
+    }
+  ],
+  "coverImage": "books/dracula/cover.jpg"
+}

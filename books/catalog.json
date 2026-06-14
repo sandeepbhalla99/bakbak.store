@@ -1,5 +1,27 @@
 [
   {
+    "id": "life-on-the-mississippi",
+    "title": "Life on the Mississippi",
+    "author": "Mark Twain",
+    "genre": "Memoir",
+    "coverColor": "linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%)",
+    "coverImage": "books/life-on-the-mississippi/cover.jpg",
+    "description": "Mark Twain's memoir of his time as a steamboat pilot on the Mississippi River.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "war-and-peace",
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #b45309 0%, #78350f 100%)",
+    "coverImage": "books/war-and-peace/cover.jpg",
+    "description": "The epic masterpiece detailing the French invasion of Russia and the impact of the Napoleonic era.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "pride-and-prejudice",
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
@@ -7,6 +29,17 @@
     "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
     "coverImage": "books/pride-and-prejudice/cover.jpg",
     "description": "A classic masterpiece by Jane Austen. Read this cleaned edition on Bakbak.store.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "alices-adventures-in-wonderland",
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #f43f5e 0%, #be123c 100%)",
+    "coverImage": "books/alices-adventures-in-wonderland/cover.jpg",
+    "description": "The classic story of Alice's journey down a rabbit hole into a fantasy world populated by peculiar creatures.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -22,6 +55,28 @@
     "reviewsCount": 12
   },
   {
+    "id": "ancient-states-and-empires",
+    "title": "Ancient States and Empires",
+    "author": "John Lord",
+    "genre": "History",
+    "coverColor": "linear-gradient(135deg, #84cc16 0%, #4f7f02 100%)",
+    "coverImage": null,
+    "description": "An educational overview of the history of ancient states and empires.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "history-of-the-negro-race-in-america",
+    "title": "History of the Negro Race in America",
+    "author": "George W. Williams",
+    "genre": "History",
+    "coverColor": "linear-gradient(135deg, #78350f 0%, #451a03 100%)",
+    "coverImage": null,
+    "description": "The landmark historical study of Negro history in America, detailing their struggles and accomplishments.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "complete-works-of-william-shakespeare",
     "title": "The Complete Works of William Shakespeare",
     "author": "William Shakespeare",
@@ -29,6 +84,17 @@
     "coverColor": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
     "coverImage": "books/complete-works-of-william-shakespeare/cover.jpg",
     "description": "The complete works of William Shakespeare, including all his plays, sonnets, and poems.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-murder-of-roger-ackroyd",
+    "title": "The Murder of Roger Ackroyd",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "coverColor": "linear-gradient(135deg, #1f2937 0%, #111827 100%)",
+    "coverImage": "books/the-murder-of-roger-ackroyd/cover.jpg",
+    "description": "Agatha Christie's famous detective novel featuring Hercule Poirot investigating the murder of Roger Ackroyd.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -51,6 +117,39 @@
     "coverColor": "linear-gradient(135deg, #4b5563 0%, #1f2937 100%)",
     "coverImage": "books/the-adventures-of-sherlock-holmes/cover.jpg",
     "description": "A collection of twelve detective stories featuring Arthur Conan Doyle's famous consulting detective Sherlock Holmes.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "dracula",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "coverColor": "linear-gradient(135deg, #1e1b4b 0%, #030712 100%)",
+    "coverImage": "books/dracula/cover.jpg",
+    "description": "The gothic horror masterpiece telling the story of Count Dracula's attempt to move from Transylvania to England.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "napoleon",
+    "title": "Napoleon",
+    "author": "T.P. Tresling",
+    "genre": "Biography",
+    "coverColor": "linear-gradient(135deg, #e11d48 0%, #9f1239 100%)",
+    "coverImage": null,
+    "description": "De biografie van Napoleon Bonaparte door T.P. Tresling (Dutch edition).",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-life-of-charles-dickens",
+    "title": "The Life of Charles Dickens",
+    "author": "John Forster",
+    "genre": "Biography",
+    "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+    "coverImage": "books/the-life-of-charles-dickens/cover.jpg",
+    "description": "A comprehensive biography of Charles Dickens written by John Forster.",
     "rating": 4.5,
     "reviewsCount": 12
   }

@@ -1,0 +1,255 @@
+{
+  "id": "life-on-the-mississippi",
+  "title": "Life on the Mississippi",
+  "author": "Mark Twain",
+  "genre": "Memoir",
+  "coverColor": "linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%)",
+  "description": "Mark Twain's memoir of his time as a steamboat pilot on the Mississippi River.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Chapter 1",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Chapter 2",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Chapter 3",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Chapter 4",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Chapter 5",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Chapter 6",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Chapter 7",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Chapter 8",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Chapter 9",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Chapter 10",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Chapter 11",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Chapter 12",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Chapter 13",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Chapter 14",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Chapter 15",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Chapter 16",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Chapter 17",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Chapter 18",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Chapter 19",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Chapter 20",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Chapter 21",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Chapter 22",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Chapter 23",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Chapter 24",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Chapter 25",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Chapter 26",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Chapter 27",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Chapter 28",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "Chapter 29",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "Chapter 30",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "Chapter 31",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "Chapter 32",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "Chapter 33",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "Chapter 34",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "Chapter 35",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "Chapter 36",
+      "file": "37_chapter_36.md"
+    },
+    {
+      "title": "Chapter 37",
+      "file": "38_chapter_37.md"
+    },
+    {
+      "title": "Chapter 38",
+      "file": "39_chapter_38.md"
+    },
+    {
+      "title": "Chapter 39",
+      "file": "40_chapter_39.md"
+    },
+    {
+      "title": "Chapter 40",
+      "file": "41_chapter_40.md"
+    },
+    {
+      "title": "Chapter 41",
+      "file": "42_chapter_41.md"
+    },
+    {
+      "title": "Chapter 42",
+      "file": "43_chapter_42.md"
+    },
+    {
+      "title": "Chapter 43",
+      "file": "44_chapter_43.md"
+    },
+    {
+      "title": "Chapter 44",
+      "file": "45_chapter_44.md"
+    },
+    {
+      "title": "Chapter 45",
+      "file": "46_chapter_45.md"
+    },
+    {
+      "title": "Chapter 46",
+      "file": "47_chapter_46.md"
+    },
+    {
+      "title": "Chapter 47",
+      "file": "48_chapter_47.md"
+    },
+    {
+      "title": "Chapter 48",
+      "file": "49_chapter_48.md"
+    },
+    {
+      "title": "Chapter 49",
+      "file": "50_chapter_49.md"
+    },
+    {
+      "title": "Chapter 50",
+      "file": "51_chapter_50.md"
+    },
+    {
+      "title": "Chapter 51",
+      "file": "52_chapter_51.md"
+    },
+    {
+      "title": "Chapter 52",
+      "file": "53_chapter_52.md"
+    },
+    {
+      "title": "Chapter 53",
+      "file": "54_chapter_53.md"
+    },
+    {
+      "title": "Chapter 54",
+      "file": "55_chapter_54.md"
+    },
+    {
+      "title": "Chapter 55",
+      "file": "56_chapter_55.md"
+    },
+    {
+      "title": "Chapter 56",
+      "file": "57_chapter_56.md"
+    },
+    {
+      "title": "Chapter 57",
+      "file": "58_chapter_57.md"
+    },
+    {
+      "title": "Chapter 58",
+      "file": "59_chapter_58.md"
+    },
+    {
+      "title": "Chapter 59",
+      "file": "60_chapter_59.md"
+    },
+    {
+      "title": "Chapter 60",
+      "file": "61_chapter_60.md"
+    }
+  ],
+  "coverImage": "books/life-on-the-mississippi/cover.jpg"
+}

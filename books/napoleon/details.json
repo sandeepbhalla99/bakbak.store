@@ -1,0 +1,138 @@
+{
+  "id": "napoleon",
+  "title": "Napoleon",
+  "author": "T.P. Tresling",
+  "genre": "Biography",
+  "coverColor": "linear-gradient(135deg, #e11d48 0%, #9f1239 100%)",
+  "description": "De biografie van Napoleon Bonaparte door T.P. Tresling (Dutch edition).",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Voorbericht: Van Den Tweeden Omgewerkten Druk",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Hoofdstuk I: Afkomst.\u2014Geboorte.\u2014Jeugd",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Hoofdstuk II: Een Blik Op De Fransche Omwenteling",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Hoofdstuk III: Bij Toulon En Te Parijs",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Hoofdstuk IV: 13 Vend\u00e9miaire. Jos\u00e9phine",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Hoofdstuk V: De Veldtocht in Itali\u00eb. 1796",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Hoofdstuk VI: Bij Rivoli, Op Mombello. De Vrede",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Hoofdstuk VII: Naar Egypte",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Hoofdstuk VIII: Bonaparte Wordt Eerste Consul",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Hoofdstuk IX: Vredesvoorstellen, Marengo",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Hoofdstuk X: Vrede Met Oostenrijk",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Hoofdstuk XI: Engeland En De Vrede Van Amiens",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Hoofdstuk XII: Consul Voor Het Leven",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Hoofdstuk XIII: Oorlog Met Engeland. Een Nieuwe Samenzwering",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Hoofdstuk XIV: De Keizerskroon",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Hoofdstuk XV: Oorlog in Duitschland",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Hoofdstuk XVI: Austerlitz. Vrede Van Presburg",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Hoofdstuk XVII: Jena. Berlijn. Eylau",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Hoofdstuk XVIII: Friedland. Tilsit. Fontainebleau",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Hoofdstuk XIX: Het Drama in Spanje",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Hoofdstuk XX: Naar Weenen.\u2014Essling.\u2014Wagram",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Hoofdstuk XXI: Echtscheiding. Tweede huwelijk.1",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Hoofdstuk XXII: De Veldtocht Tegen Rusland",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Hoofdstuk XXIII: Bij Borodino. in Moskou",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Hoofdstuk XXIV: De Berezina",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Hoofdstuk XXV: Lutzen, Bautzen, Leipzig",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Hoofdstuk XXVI: Parijs Valt. De Keizer Abdiceert",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Hoofdstuk XXVII: Op Elba. in Frankrijk Terug",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "Hoofdstuk XXVIII: Waterloo",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "Hoofdstuk XXIX: De Keizer Verbannen",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "Hoofdstuk XXX: St. Helena",
+      "file": "32_chapter_31.md"
+    }
+  ]
+}

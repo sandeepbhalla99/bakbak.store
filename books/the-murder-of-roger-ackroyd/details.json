@@ -1,0 +1,123 @@
+{
+  "id": "the-murder-of-roger-ackroyd",
+  "title": "The Murder of Roger Ackroyd",
+  "author": "Agatha Christie",
+  "genre": "Mystery",
+  "coverColor": "linear-gradient(135deg, #1f2937 0%, #111827 100%)",
+  "description": "Agatha Christie's famous detective novel featuring Hercule Poirot investigating the murder of Roger Ackroyd.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "ChapterI: Dr. Sheppard at the Breakfast Table",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterII: Who\u2019s Who in King\u2019s Abbot",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterIII: The Man Who Grew Vegetable Marrows",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIV: Dinner at Fernly",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterV: Murder",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterVI: The Tunisian Dagger",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVII: I Learn My Neighbor\u2019s Profession",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVIII: Inspector Raglan Is Confident",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterIX: The Goldfish Pond",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterX: The Parlormaid",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterXI: Poirot Pays a Call",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXII: Round the Table",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXIII: The Goose Quill",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIV: Mrs. Ackroyd",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXV: Geoffrey Raymond",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXVI: An Evening at Mah Jong",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXVII: Parker",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVIII: Charles Kent",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "ChapterXIX: Flora Ackroyd",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXX: Miss Russell",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "ChapterXXI: The Paragraph in the Paper",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXXII: Ursula\u2019s Story",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXIII: Poirot\u2019s Little Reunion",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXIV: Ralph Paton\u2019s Story",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "ChapterXXV: The Whole Truth",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXVI: And Nothing but the Truth",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXVII: Apologia",
+      "file": "28_chapter_27.md"
+    }
+  ],
+  "coverImage": "books/the-murder-of-roger-ackroyd/cover.jpg"
+}

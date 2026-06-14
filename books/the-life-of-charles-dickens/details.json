@@ -1,0 +1,275 @@
+{
+  "id": "the-life-of-charles-dickens",
+  "title": "The Life of Charles Dickens",
+  "author": "John Forster",
+  "genre": "Biography",
+  "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+  "description": "A comprehensive biography of Charles Dickens written by John Forster.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Vol. I - Note to the Present Edition",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Vol. I - ChapterI: Childhood (1812-1822)",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Vol. I - ChapterII: Hard Experiences in Boyhood (1822-1824)",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Vol. I - ChapterIII: School-Days and Start in Life (1824-1830)",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Vol. I - ChapterIV: Reporters' Gallery and Newspaper Literature (1831-1835)",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Vol. I - ChapterV: First Book, and Origin of Pickwick (1836)",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Vol. I - ChapterVI: Writing the Pickwick Papers (1837)",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Vol. I - ChapterVII: Between Pickwick and Nickleby (1837-1838)",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Vol. I - ChapterVIII: Oliver Twist (1838)",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Vol. I - ChapterIX: Nicholas Nickleby (1838-1839)",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Vol. I - ChapterX: During and After Nickleby (1838-1839)",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Vol. I - ChapterXI: New Literary Project (1839)",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Vol. I - ChapterXII: The Old Curiosity Shop (1840-1841)",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Vol. I - ChapterXIII: Devonshire Terrace and Broadstairs (1840)",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Vol. I - ChapterXIV: Barnaby Rudge (1841)",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Vol. I - ChapterXV: Public Dinner in Edinburgh (1841)",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Vol. I - ChapterXVI: Adventures in the Highlands (1841)",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Vol. I - ChapterXVII: Again at Broadstairs (1841)",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Vol. I - ChapterXVIII: Eve of the Visit to America (1841)",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Vol. I - ChapterXIX: First Impressions of America (1842)",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Vol. I - ChapterXX: Second Impressions of America (1842)",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Vol. I - ChapterXXI: Philadelphia, Washington, and the South (1842)",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Vol. I - ChapterXXII: Canal-Boat Journeys: Bound Far West (1842)",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Vol. I - ChapterXXIII: The Far West: To Niagara Falls (1842)",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Vol. I - ChapterXXIV: Niagara and Montreal (1842)",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterI: American Notes (1842)",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterII: First Year of Martin Chuzzlewit (1843)",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterIII: Chuzzlewit Disappointments and Christmas Carol (1843-1844)",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterIV: Year of Departure for Italy (1844)",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterV: Idleness at Albaro: Villa Bagnerello (1844)",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterVI: Work in Genoa: Palazzo Peschiere (1844)",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterVII: Italian Travel (1844)",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterVIII: Last Months in Italy (1845)",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterIX: Again in England. 1845-1846",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterX: A Home in Switzerland (1846)",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterXI: Swiss People and Scenery (1846)",
+      "file": "37_chapter_36.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterXII: Sketches Chiefly Personal (1846)",
+      "file": "38_chapter_37.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterXIII: Literary Labour at Lausanne (1846)",
+      "file": "39_chapter_38.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterXIV: Revolution at Geneva, Christmas Book, and Last Days in Switzerland (1846)",
+      "file": "40_chapter_39.md"
+    },
+    {
+      "title": "Corrections Made in the Later Editions of the First Volume - ChapterXV: Three Months in Paris (1846-1847)",
+      "file": "41_chapter_40.md"
+    },
+    {
+      "title": "Vol. II - ChapterXVI: Dombey and Son (1846-1848)",
+      "file": "42_chapter_41.md"
+    },
+    {
+      "title": "Vol. II - ChapterXVII: Splendid Strolling (1847-1852)",
+      "file": "43_chapter_42.md"
+    },
+    {
+      "title": "Vol. II - ChapterXVIII: Seaside Holidays (1848-1851)",
+      "file": "44_chapter_43.md"
+    },
+    {
+      "title": "Vol. II - ChapterXIX: Haunted Man and Household Words (1848-1850)",
+      "file": "45_chapter_44.md"
+    },
+    {
+      "title": "Vol. II - ChapterXX: Last Years in Devonshire Terrace (1848-1851)",
+      "file": "46_chapter_45.md"
+    },
+    {
+      "title": "Vol. II - ChapterI: David Copperfield and Bleak House (1850-1853)",
+      "file": "47_chapter_46.md"
+    },
+    {
+      "title": "Vol. II - ChapterII: Home Incidents and Hard Times (1853-1854-1855)",
+      "file": "48_chapter_47.md"
+    },
+    {
+      "title": "Vol. II - ChapterIII: Switzerland and Italy Revisited (1853)",
+      "file": "49_chapter_48.md"
+    },
+    {
+      "title": "Vol. II - ChapterIV: Three Summers at Boulogne (1853, 1854, and 1856)",
+      "file": "50_chapter_49.md"
+    },
+    {
+      "title": "Vol. II - ChapterV: Residence in Paris (1855-1856)",
+      "file": "51_chapter_50.md"
+    },
+    {
+      "title": "Vol. II - ChapterVI: Little Dorrit, and a Lazy Tour (1855-1857)",
+      "file": "52_chapter_51.md"
+    },
+    {
+      "title": "Vol. II - ChapterVII: What Happened at This Time (1857-1858)",
+      "file": "53_chapter_52.md"
+    },
+    {
+      "title": "Vol. II - ChapterVIII: Gadshill Place (1856-1870)",
+      "file": "54_chapter_53.md"
+    },
+    {
+      "title": "Vol. II - ChapterIX: First Paid Readings (1858-1859)",
+      "file": "55_chapter_54.md"
+    },
+    {
+      "title": "Vol. II - ChapterX: All the Year Round and the Uncommercial Traveller (1859-1861)",
+      "file": "56_chapter_55.md"
+    },
+    {
+      "title": "Vol. II - ChapterXI: Second Series of Readings (1861-1863)",
+      "file": "57_chapter_56.md"
+    },
+    {
+      "title": "Vol. II - ChapterXII: Hints for Books Written and Unwritten (1855-1865)",
+      "file": "58_chapter_57.md"
+    },
+    {
+      "title": "Vol. II - ChapterXIII: Third Series of Readings (1864-1867)",
+      "file": "59_chapter_58.md"
+    },
+    {
+      "title": "Vol. II - ChapterXIV: Dickens As a Novelist (1836-1870)",
+      "file": "60_chapter_59.md"
+    },
+    {
+      "title": "Vol. II - ChapterXV: America Revisited: November and December 1867 (1867)",
+      "file": "61_chapter_60.md"
+    },
+    {
+      "title": "Vol. II - ChapterXVI: America Revisited: January to April 1868 (1868)",
+      "file": "62_chapter_61.md"
+    },
+    {
+      "title": "Vol. II - ChapterXVII: Last Readings (1868-1870)",
+      "file": "63_chapter_62.md"
+    },
+    {
+      "title": "Vol. II - ChapterXVIII: Last Book (1869-1870)",
+      "file": "64_chapter_63.md"
+    },
+    {
+      "title": "Vol. II - ChapterXIX: Personal Characteristics (1836-1870)",
+      "file": "65_chapter_64.md"
+    },
+    {
+      "title": "Vol. II - ChapterXX: The End (1869-1870)",
+      "file": "66_chapter_65.md"
+    }
+  ],
+  "coverImage": "books/the-life-of-charles-dickens/cover.jpg"
+}

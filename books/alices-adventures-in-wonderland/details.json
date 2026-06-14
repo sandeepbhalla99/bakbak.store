@@ -1,0 +1,63 @@
+{
+  "id": "alices-adventures-in-wonderland",
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f43f5e 0%, #be123c 100%)",
+  "description": "The classic story of Alice's journey down a rabbit hole into a fantasy world populated by peculiar creatures.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "ChapterI: Down the Rabbit-Hole",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterII: The Pool of Tears",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterIII: A Caucus-Race and a Long Tale",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIV: The Rabbit Sends in a Little Bill",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterV: Advice from a Caterpillar",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterVI: Pig and Pepper",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVII: A Mad Tea-Party",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVIII: The Queen\u2019s Croquet-Ground",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterIX: The Mock Turtle\u2019s Story",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterX: The Lobster Quadrille",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterXI: Who Stole the Tarts?",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXII: Alice\u2019s Evidence",
+      "file": "13_chapter_12.md"
+    }
+  ],
+  "coverImage": "books/alices-adventures-in-wonderland/cover.jpg"
+}

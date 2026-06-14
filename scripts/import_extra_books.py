@@ -186,6 +186,111 @@ def main():
             "cover_color": "linear-gradient(135deg, #0d9488 0%, #0f766e 100%)",
             "description": "An in-depth study of the historical evolution of constitutional development and law.",
             "is_wiki_index": True
+        },
+        {
+            "id": "alices-adventures-in-wonderland",
+            "folder": "Alices_Adventures_in_Wonderland",
+            "index_file": "index.md",
+            "title": "Alice's Adventures in Wonderland",
+            "author": "Lewis Carroll",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #f43f5e 0%, #be123c 100%)",
+            "cover_image_src": "../../html/cover-alice.jpg",
+            "description": "The classic story of Alice's journey down a rabbit hole into a fantasy world populated by peculiar creatures.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "ancient-states-and-empires",
+            "folder": "Ancient_States_and_Empires",
+            "index_file": "index.md",
+            "title": "Ancient States and Empires",
+            "author": "John Lord",
+            "genre": "History",
+            "cover_color": "linear-gradient(135deg, #84cc16 0%, #4f7f02 100%)",
+            "description": "An educational overview of the history of ancient states and empires.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "the-life-of-charles-dickens",
+            "folder": "Charles_Dickens",
+            "index_file": "index.md",
+            "title": "The Life of Charles Dickens",
+            "author": "John Forster",
+            "genre": "Biography",
+            "cover_color": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+            "cover_image_src": "../../html/cover-dickens.jpg",
+            "description": "A comprehensive biography of Charles Dickens written by John Forster.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "dracula",
+            "folder": "Dracula",
+            "index_file": "index.md",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "genre": "Horror",
+            "cover_color": "linear-gradient(135deg, #1e1b4b 0%, #030712 100%)",
+            "cover_image_src": "../../html/cover-dracula.jpg",
+            "description": "The gothic horror masterpiece telling the story of Count Dracula's attempt to move from Transylvania to England.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "history-of-the-negro-race-in-america",
+            "folder": "History_of_the_Negro_Race_in_America",
+            "index_file": "index.md",
+            "title": "History of the Negro Race in America",
+            "author": "George W. Williams",
+            "genre": "History",
+            "cover_color": "linear-gradient(135deg, #78350f 0%, #451a03 100%)",
+            "description": "The landmark historical study of Negro history in America, detailing their struggles and accomplishments.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "life-on-the-mississippi",
+            "folder": "Life_on_the_Mississippi",
+            "index_file": "index.md",
+            "title": "Life on the Mississippi",
+            "author": "Mark Twain",
+            "genre": "Memoir",
+            "cover_color": "linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%)",
+            "cover_image_src": "../../html/cover-misisippi-twain.jpg",
+            "description": "Mark Twain's memoir of his time as a steamboat pilot on the Mississippi River.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "napoleon",
+            "folder": "Napoleon",
+            "index_file": "index.md",
+            "title": "Napoleon",
+            "author": "T.P. Tresling",
+            "genre": "Biography",
+            "cover_color": "linear-gradient(135deg, #e11d48 0%, #9f1239 100%)",
+            "description": "De biografie van Napoleon Bonaparte door T.P. Tresling (Dutch edition).",
+            "is_wiki_index": False
+        },
+        {
+            "id": "the-murder-of-roger-ackroyd",
+            "folder": "The_Murder_of_Roger_Ackroyd",
+            "index_file": "index.md",
+            "title": "The Murder of Roger Ackroyd",
+            "author": "Agatha Christie",
+            "genre": "Mystery",
+            "cover_color": "linear-gradient(135deg, #1f2937 0%, #111827 100%)",
+            "cover_image_src": "../../html/cover-roger-ackroyd.png",
+            "description": "Agatha Christie's famous detective novel featuring Hercule Poirot investigating the murder of Roger Ackroyd.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "war-and-peace",
+            "folder": "War_and_Peace",
+            "index_file": "index.md",
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #b45309 0%, #78350f 100%)",
+            "cover_image_src": "../../html/cover-war-peace.jpg",
+            "description": "The epic masterpiece detailing the French invasion of Russia and the impact of the Napoleonic era.",
+            "is_wiki_index": False
         }
     ]
     
