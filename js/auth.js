@@ -19,7 +19,7 @@ export function getCurrentUser() {
   return getStorageItem('bakbak_current_user', null);
 }
 
-export function registerUser(name, email, password) {
+export function registerUser(name, email, password, phone) {
   const users = getStorageItem('bakbak_users', []);
   
   if (users.find(u => u.email === email)) {
@@ -31,6 +31,7 @@ export function registerUser(name, email, password) {
     name,
     email,
     password, // note: stored as plain text for mock demo purposes
+    phone,
     joinedDate: new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' }),
     bookshelf: {}, // map of bookId -> { status: 'want_to_read' | 'reading' | 'completed', lastChapter: 0, lastParagraph: 0, progressPct: 0 }
     stats: {

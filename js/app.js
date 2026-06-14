@@ -16,7 +16,8 @@ import {
   changeTheme, 
   adjustFontSize,
   saveNoteForActiveChapter,
-  renderNotesForActiveChapter
+  renderNotesForActiveChapter,
+  getActiveBook
 } from './reader.js';
 import { 
   CHANNELS, 
@@ -148,6 +149,13 @@ function setupAuth() {
 
   closeAuthBtn.addEventListener('click', () => hideModal('auth-modal'));
   
+  // Expose registration modal trigger globally
+  window.showRegistrationModal = () => {
+    loginForm.style.display = 'none';
+    registerForm.style.display = 'flex';
+    showModal('auth-modal');
+  };
+
   switchToRegister.addEventListener('click', () => {
     loginForm.style.display = 'none';
     registerForm.style.display = 'flex';
@@ -169,7 +177,16 @@ function setupAuth() {
       loginUser(email, password);
       updateAuthUI();
       hideModal('auth-modal');
-      switchView('shelf');
+      if (activeView === 'reader') {
+        const activeBook = getActiveBook();
+        if (activeBook) {
+          initReader(activeBook.id);
+        } else {
+          switchView('shelf');
+        }
+      } else {
+        switchView('shelf');
+      }
       errorEl.style.display = 'none';
       loginForm.reset();
     } catch (err) {
@@ -183,13 +200,23 @@ function setupAuth() {
     const name = document.getElementById('register-name').value;
     const email = document.getElementById('register-email').value;
     const password = document.getElementById('register-password').value;
+    const phone = document.getElementById('register-phone').value;
     const errorEl = document.getElementById('register-error-msg');
 
     try {
-      registerUser(name, email, password);
+      registerUser(name, email, password, phone);
       updateAuthUI();
       hideModal('auth-modal');
-      switchView('shelf');
+      if (activeView === 'reader') {
+        const activeBook = getActiveBook();
+        if (activeBook) {
+          initReader(activeBook.id);
+        } else {
+          switchView('shelf');
+        }
+      } else {
+        switchView('shelf');
+      }
       errorEl.style.display = 'none';
       registerForm.reset();
     } catch (err) {

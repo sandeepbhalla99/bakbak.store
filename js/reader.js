@@ -72,6 +72,59 @@ export async function renderReaderContent() {
   const textBody = container.querySelector('.reader-text-body');
   
   if (chapter && textBody) {
+    // Check 10% progress limit for unregistered users
+    const user = getCurrentUser();
+    const progressPct = Math.round(((activeChapterIndex + 1) / activeBook.chapters.length) * 100);
+    
+    if (!user && activeChapterIndex > 0 && progressPct > 10) {
+      textBody.innerHTML = `
+        <div class="glass" style="margin: 40px auto; max-width: 600px; padding: 40px; text-align: center; border-radius: 12px; border: 1px solid var(--border-color); box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+          <div style="font-size: 3rem; margin-bottom: 20px;">🔒</div>
+          <h2 style="color: var(--text-main); font-size: 1.75rem; margin-bottom: 12px; font-weight: 700;">Preview Limit Reached (10%)</h2>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6; margin-bottom: 24px;">
+            You have read <strong>${progressPct}%</strong> of this book. Unregistered guests are limited to a 10% preview. 
+            Join the Bakbak Readers' Club for free to continue reading and unlock notes, shelves, and chat.
+          </p>
+          <button class="btn btn-primary" id="reader-limit-register-btn" style="padding: 12px 24px; font-weight: 600;">Join the Club & Continue Reading</button>
+        </div>
+      `;
+      
+      const regBtn = document.getElementById('reader-limit-register-btn');
+      if (regBtn) {
+        regBtn.addEventListener('click', () => {
+          if (window.showRegistrationModal) {
+            window.showRegistrationModal();
+          }
+        });
+      }
+      
+      // Automatically prompt registration popup too
+      if (window.showRegistrationModal) {
+        window.showRegistrationModal();
+      }
+      
+      // Hide navigation arrows to prevent reading further
+      const prevBtn = document.getElementById('reader-prev-btn');
+      const nextBtn = document.getElementById('reader-next-btn');
+      if (prevBtn) prevBtn.style.visibility = 'hidden';
+      if (nextBtn) nextBtn.style.visibility = 'hidden';
+      
+      // Set progress elements to show the blocked state
+      const chapterNumEl = document.getElementById('reader-chapter-num');
+      const progressPctEl = document.getElementById('reader-progress-pct');
+      const progressFill = document.getElementById('reader-progress-fill');
+      if (chapterNumEl) {
+        chapterNumEl.textContent = `Preview Blocked`;
+      }
+      if (progressPctEl) {
+        progressPctEl.textContent = `${progressPct}% Read`;
+      }
+      if (progressFill) {
+        progressFill.style.width = `${progressPct}%`;
+      }
+      return;
+    }
+
     textBody.innerHTML = `<p style="text-align: center; color: var(--text-muted); padding: 40px;">Loading Chapter Text...</p>`;
     
     try {
