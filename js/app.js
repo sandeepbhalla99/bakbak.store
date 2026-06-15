@@ -270,6 +270,18 @@ function setupCatalog() {
   // Load complete catalog
   renderCatalog(BOOKS);
 
+  // Dynamically generate genre filters based on unique genres in BOOKS
+  const genreContainer = document.getElementById('genre-filter-container');
+  if (genreContainer) {
+    const genres = Array.from(new Set(BOOKS.map(book => book.genre).filter(Boolean))).sort();
+    let genreHTML = `<h4>Categories</h4>`;
+    genreHTML += `<button class="genre-filter-btn active" data-genre="all">All Genres</button>`;
+    genres.forEach(genre => {
+      genreHTML += `<button class="genre-filter-btn" data-genre="${genre}">${genre}</button>`;
+    });
+    genreContainer.innerHTML = genreHTML;
+  }
+
   // Filters
   document.querySelectorAll('.genre-filter-btn').forEach(btn => {
     btn.addEventListener('click', (e) => {
