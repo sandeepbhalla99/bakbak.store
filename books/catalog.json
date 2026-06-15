@@ -5,7 +5,7 @@
     "author": "Homer",
     "genre": "Classics",
     "coverColor": "linear-gradient(135deg, #0891b2 0%, #0e7490 100%)",
-    "coverImage": null,
+    "coverImage": "books/the-odyssey/cover.png",
     "description": "The ancient epic poem detailing Odysseus' ten-year journey home after the fall of Troy.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -27,7 +27,7 @@
     "author": "Robert Louis Stevenson",
     "genre": "Classics",
     "coverColor": "linear-gradient(135deg, #475569 0%, #334155 100%)",
-    "coverImage": null,
+    "coverImage": "books/dr-jekyll-and-mr-hyde/cover.png",
     "description": "The strange case of Dr. Jekyll and his alter ego, Mr. Hyde, investigating the duality of human nature.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -38,7 +38,7 @@
     "author": "George Griffith",
     "genre": "Sci-Fi",
     "coverColor": "linear-gradient(135deg, #0284c7 0%, #0369a1 100%)",
-    "coverImage": null,
+    "coverImage": "books/a-honeymoon-in-space/cover.png",
     "description": "A classic science fiction novel featuring a journey through the solar system in a space ship called the Astronef.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -82,7 +82,7 @@
     "author": "William Shakespeare",
     "genre": "Drama",
     "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
-    "coverImage": null,
+    "coverImage": "books/romeo-and-juliet/cover.png",
     "description": "The classic tragedy of star-crossed lovers Romeo and Juliet by William Shakespeare.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -93,7 +93,7 @@
     "author": "John Lord",
     "genre": "History",
     "coverColor": "linear-gradient(135deg, #84cc16 0%, #4f7f02 100%)",
-    "coverImage": null,
+    "coverImage": "books/ancient-states-and-empires/cover.png",
     "description": "An educational overview of the history of ancient states and empires.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -104,7 +104,7 @@
     "author": "Harry Harrison",
     "genre": "Sci-Fi",
     "coverColor": "linear-gradient(135deg, #b45309 0%, #78350f 100%)",
-    "coverImage": null,
+    "coverImage": "books/the-misplaced-battleship/cover.png",
     "description": "A classic science fiction adventure following the Stainless Steel Rat as he searches for a stolen battleship.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -115,7 +115,7 @@
     "author": "George W. Williams",
     "genre": "History",
     "coverColor": "linear-gradient(135deg, #78350f 0%, #451a03 100%)",
-    "coverImage": null,
+    "coverImage": "books/history-of-the-negro-race-in-america/cover.png",
     "description": "The landmark historical study of Negro history in America, detailing their struggles and accomplishments.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -148,7 +148,7 @@
     "author": "K.P. Tewari",
     "genre": "History",
     "coverColor": "linear-gradient(135deg, #0d9488 0%, #0f766e 100%)",
-    "coverImage": null,
+    "coverImage": "books/evolution-of-the-constitution/cover.png",
     "description": "An in-depth study of the historical evolution of constitutional development and law.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -170,7 +170,7 @@
     "author": "Edgar Rice Burroughs",
     "genre": "Sci-Fi",
     "coverColor": "linear-gradient(135deg, #ea580c 0%, #9a3412 100%)",
-    "coverImage": null,
+    "coverImage": "books/thuvia-maid-of-mars/cover.png",
     "description": "A classic science fantasy novel, the fourth of the Barsoom series by Edgar Rice Burroughs.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -192,7 +192,7 @@
     "author": "M. G. Lewis",
     "genre": "Horror",
     "coverColor": "linear-gradient(135deg, #1e1b4b 0%, #0f172a 100%)",
-    "coverImage": null,
+    "coverImage": "books/the-monk/cover.png",
     "description": "A gothic horror romance novel by Matthew Gregory Lewis, depicting the downfall of the monk Ambrosio.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -203,7 +203,7 @@
     "author": "T.P. Tresling",
     "genre": "Biography",
     "coverColor": "linear-gradient(135deg, #e11d48 0%, #9f1239 100%)",
-    "coverImage": null,
+    "coverImage": "books/napoleon/cover.png",
     "description": "De biografie van Napoleon Bonaparte door T.P. Tresling (Dutch edition).",
     "rating": 4.5,
     "reviewsCount": 12
