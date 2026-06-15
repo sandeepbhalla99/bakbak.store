@@ -1,217 +1,192 @@
-# First Epilogue: 1813 - 20 - ChapterXVI
+# Book Fifteen: 1812 - 13 - ChapterXV
 
-Natásha and Pierre, left alone, also began to talk as only a husband and
-      wife can talk, that is, with extraordinary clearness and rapidity,
-      understanding and expressing each other’s thoughts in ways contrary to all
-      rules of logic, without premises, deductions, or conclusions, and in a
-      quite peculiar way. Natásha was so used to this kind of talk with her
-      husband that for her it was the surest sign of something being wrong
-      between them if Pierre followed a line of logical reasoning. When he began
-      proving anything, or talking argumentatively and calmly and she, led on by
-      his example, began to do the same, she knew that they were on the verge of
-      a quarrel.
+The conversation at supper was not about politics or societies, but turned
+      on the subject Nicholas liked best—recollections of 1812. Denísov
+      started these and Pierre was particularly agreeable and amusing about
+      them. The family separated on the most friendly terms.
 
-      From the moment they were alone and Natásha came up to him with wide-open
-      happy eyes, and quickly seizing his head pressed it to her bosom, saying:
-      “Now you are all mine, mine! You won’t escape!”—from that moment
-      this conversation began, contrary to all the laws of logic and contrary to
-      them because quite different subjects were talked about at one and the
-      same time. This simultaneous discussion of many topics did not prevent a
-      clear understanding but on the contrary was the surest sign that they
-      fully understood one another.
+      After supper Nicholas, having undressed in his study and given
+      instructions to the steward who had been waiting for him, went to the
+      bedroom in his dressing gown, where he found his wife still at her table,
+      writing.
 
-      Just as in a dream when all is uncertain, unreasoning, and contradictory,
-      except the feeling that guides the dream, so in this intercourse contrary
-      to all laws of reason, the words themselves were not consecutive and clear
-      but only the feeling that prompted them.
+      “What are you writing, Mary?” Nicholas asked.
 
-      Natásha spoke to Pierre about her brother’s life and doings, of how she
-      had suffered and lacked life during his own absence, and of how she was
-      fonder than ever of Mary, and how Mary was in every way better than
-      herself. In saying this Natásha was sincere in acknowledging Mary’s
-      superiority, but at the same time by saying it she made a demand on Pierre
-      that he should, all the same, prefer her to Mary and to all other women,
-      and that now, especially after having seen many women in Petersburg, he
-      should tell her so afresh.
+      Countess Mary blushed. She was afraid that what she was writing would not
+      be understood or approved by her husband.
 
-      Pierre, answering Natásha’s words, told her how intolerable it had been
-      for him to meet ladies at dinners and balls in Petersburg.
+      She had wanted to conceal what she was writing from him, but at the same
+      time was glad he had surprised her at it and that she would now have to
+      tell him.
 
-      “I have quite lost the knack of talking to ladies,” he said. “It was
-      simply dull. Besides, I was very busy.”
+      “A diary, Nicholas,” she replied, handing him a blue exercise book filled
+      with her firm, bold writing.
 
-      Natásha looked intently at him and went on:
+      “A diary?” Nicholas repeated with a shade of irony, and he took up the
+      book.
 
-      “Mary is so splendid,” she said. “How she understands children! It is as
-      if she saw straight into their souls. Yesterday, for instance, Mítya was
-      naughty...”
+      It was in French.
 
-      “How like his father he is,” Pierre interjected.
+      December 4. Today when Andrúsha (her eldest boy) woke up he did not wish
+      to dress and Mademoiselle Louise sent for me. He was naughty and
+      obstinate. I tried threats, but he only grew angrier. Then I took the
+      matter in hand: I left him alone and began with nurse’s help to get the
+      other children up, telling him that I did not love him. For a long time he
+      was silent, as if astonished, then he jumped out of bed, ran to me in his
+      shirt, and sobbed so that I could not calm him for a long time. It was
+      plain that what troubled him most was that he had grieved me. Afterwards
+      in the evening when I gave him his ticket, he again began crying piteously
+      and kissing me. One can do anything with him by tenderness.
 
-      Natásha knew why he mentioned Mítya’s likeness to Nicholas: the
-      recollection of his dispute with his brother-in-law was unpleasant and he
-      wanted to know what Natásha thought of it.
+      “What is a ‘ticket’?” Nicholas inquired.
 
-      “Nicholas has the weakness of never agreeing with anything not generally
-      accepted. But I understand that you value what opens up a fresh line,”
-       said she, repeating words Pierre had once uttered.
+      “I have begun giving the elder ones marks every evening, showing how they
+      have behaved.”
 
-      “No, the chief point is that to Nicholas ideas and discussions are an
-      amusement—almost a pastime,” said Pierre. “For instance, he is
-      collecting a library and has made it a rule not to buy a new book till he
-      has read what he had already bought—Sismondi and Rousseau and
-      Montesquieu,” he added with a smile. “You know how much I...” he began to
-      soften down what he had said; but Natásha interrupted him to show that
-      this was unnecessary.
+      Nicholas looked into the radiant eyes that were gazing at him, and
+      continued to turn over the pages and read. In the diary was set down
+      everything in the children’s lives that seemed noteworthy to their mother
+      as showing their characters or suggesting general reflections on
+      educational methods. They were for the most part quite insignificant
+      trifles, but did not seem so to the mother or to the father either, now
+      that he read this diary about his children for the first time.
 
-      “So you say ideas are an amusement to him....”
+      Under the date “5” was entered:
 
-      “Yes, and for me nothing else is serious. All the time in Petersburg I saw
-      everyone as in a dream. When I am taken up by a thought, all else is mere
-      amusement.”
+      Mítya was naughty at table. Papa said he was to have no pudding. He had
+      none, but looked so unhappily and greedily at the others while they were
+      eating! I think that punishment by depriving children of sweets only
+      develops their greediness. Must tell Nicholas this.
 
-      “Ah, I’m so sorry I wasn’t there when you met the children,” said Natásha.
-      “Which was most delighted? Lisa, I’m sure.”
+      Nicholas put down the book and looked at his wife. The radiant eyes gazed
+      at him questioningly: would he approve or disapprove of her diary? There
+      could be no doubt not only of his approval but also of his admiration for
+      his wife.
 
-      “Yes,” Pierre replied, and went on with what was in his mind. “Nicholas
-      says we ought not to think. But I can’t help it. Besides, when I was in
-      Petersburg I felt (I can say this to you) that the whole affair would go
-      to pieces without me—everyone was pulling his own way. But I
-      succeeded in uniting them all; and then my idea is so clear and simple.
-      You see, I don’t say that we ought to oppose this and that. We may be
-      mistaken. What I say is: ‘Join hands, you who love the right, and let
-      there be but one banner—that of active virtue.’ Prince Sergéy is a
-      fine fellow and clever.”
+      Perhaps it need not be done so pedantically, thought Nicholas, or even
+      done at all, but this untiring, continual spiritual effort of which the
+      sole aim was the children’s moral welfare delighted him. Had Nicholas been
+      able to analyze his feelings he would have found that his steady, tender,
+      and proud love of his wife rested on his feeling of wonder at her
+      spirituality and at the lofty moral world, almost beyond his reach, in
+      which she had her being.
 
-      Natásha would have had no doubt as to the greatness of Pierre’s idea, but
-      one thing disconcerted her. “Can a man so important and necessary to
-      society be also my husband? How did this happen?” She wished to express
-      this doubt to him. “Now who could decide whether he is really cleverer
-      than all the others?” she asked herself, and passed in review all those
-      whom Pierre most respected. Judging by what he had said there was no one
-      he had respected so highly as Platón Karatáev.
+      He was proud of her intelligence and goodness, recognized his own
+      insignificance beside her in the spiritual world, and rejoiced all the
+      more that she with such a soul not only belonged to him but was part of
+      himself.
 
-      “Do you know what I am thinking about?” she asked. “About Platón Karatáev.
-      Would he have approved of you now, do you think?”
+      “I quite, quite approve, my dearest!” said he with a significant look, and
+      after a short pause he added: “And I behaved badly today. You weren’t in
+      the study. We began disputing—Pierre and I—and I lost my
+      temper. But he is impossible: such a child! I don’t know what would become
+      of him if Natásha didn’t keep him in hand.... Have you any idea why he
+      went to Petersburg? They have formed...”
 
-      Pierre was not at all surprised at this question. He understood his wife’s
-      line of thought.
+      “Yes, I know,” said Countess Mary. “Natásha told me.”
 
-      “Platón Karatáev?” he repeated, and pondered, evidently sincerely trying
-      to imagine Karatáev’s opinion on the subject. “He would not have
-      understood... yet perhaps he would.”
+      “Well, then, you know,” Nicholas went on, growing hot at the mere
+      recollection of their discussion, “he wanted to convince me that it is
+      every honest man’s duty to go against the government, and that the oath of
+      allegiance and duty... I am sorry you weren’t there. They all fell on me—Denísov
+      and Natásha... Natásha is absurd. How she rules over him! And yet there
+      need only be a discussion and she has no words of her own but only repeats
+      his sayings...” added Nicholas, yielding to that irresistible inclination
+      which tempts us to judge those nearest and dearest to us. He forgot that
+      what he was saying about Natásha could have been applied word for word to
+      himself in relation to his wife.
 
-      “I love you awfully!” Natásha suddenly said. “Awfully, awfully!”
+      “Yes, I have noticed that,” said Countess Mary.
 
-      “No, he would not have approved,” said Pierre, after reflection. “What he
-      would have approved of is our family life. He was always so anxious to
-      find seemliness, happiness, and peace in everything, and I should have
-      been proud to let him see us. There now—you talk of my absence, but
-      you wouldn’t believe what a special feeling I have for you after a
-      separation....”
+      “When I told him that duty and the oath were above everything, he started
+      proving goodness knows what! A pity you were not there—what would
+      you have said?”
 
-      “Yes, I should think...” Natásha began.
+      “As I see it you were quite right, and I told Natásha so. Pierre says
+      everybody is suffering, tortured, and being corrupted, and that it is our
+      duty to help our neighbor. Of course he is right there,” said Countess
+      Mary, “but he forgets that we have other duties nearer to us, duties
+      indicated to us by God Himself, and that though we might expose ourselves
+      to risks we must not risk our children.”
 
-      “No, it’s not that. I never leave off loving you. And one
-      couldn’t love more, but this is something special.... Yes, of
-      course—” he did not finish because their eyes meeting said the rest.
+      “Yes, that’s it! That’s just what I said to him,” put in Nicholas, who
+      fancied he really had said it. “But they insisted on their own view: love
+      of one’s neighbor and Christianity—and all this in the presence of
+      young Nicholas, who had gone into my study and broke all my things.”
 
-      “What nonsense it is,” Natásha suddenly exclaimed, “about honeymoons, and
-      that the greatest happiness is at first! On the contrary, now is the best
-      of all. If only you did not go away! Do you remember how we quarreled? And
-      it was always my fault. Always mine. And what we quarreled about—I
-      don’t even remember!”
+      “Ah, Nicholas, do you know I am often troubled about little Nicholas,”
+       said Countess Mary. “He is such an exceptional boy. I am afraid I neglect
+      him in favor of my own: we all have children and relations while he has no
+      one. He is constantly alone with his thoughts.”
 
-      “Always about the same thing,” said Pierre with a smile. “Jealo...”
+      “Well, I don’t think you need reproach yourself on his account. All that
+      the fondest mother could do for her son you have done and are doing for
+      him, and of course I am glad of it. He is a fine lad, a fine lad! This
+      evening he listened to Pierre in a sort of trance, and fancy—as we
+      were going in to supper I looked and he had broken everything on my table
+      to bits, and he told me of it himself at once! I never knew him to tell an
+      untruth. A fine lad, a fine lad!” repeated Nicholas, who at heart was not
+      fond of Nicholas Bolkónski but was always anxious to recognize that he was
+      a fine lad.
 
-      “Don’t say it! I can’t bear it!” Natásha cried, and her eyes glittered
-      coldly and vindictively. “Did you see her?” she added, after a pause.
+      “Still, I am not the same as his own mother,” said Countess Mary. “I feel
+      I am not the same and it troubles me. A wonderful boy, but I am dreadfully
+      afraid for him. It would be good for him to have companions.”
 
-      “No, and if I had I shouldn’t have recognized her.”
+      “Well it won’t be for long. Next summer I’ll take him to Petersburg,” said
+      Nicholas. “Yes, Pierre always was a dreamer and always will be,” he
+      continued, returning to the talk in the study which had evidently
+      disturbed him. “Well, what business is it of mine what goes on there—whether
+      Arakchéev is bad, and all that? What business was it of mine when I
+      married and was so deep in debt that I was threatened with prison, and had
+      a mother who could not see or understand it? And then there are you and
+      the children and our affairs. Is it for my own pleasure that I am at the
+      farm or in the office from morning to night? No, but I know I must work to
+      comfort my mother, to repay you, and not to leave the children such
+      beggars as I was.”
 
-      They were silent for a while.
+      Countess Mary wanted to tell him that man does not live by bread alone and
+      that he attached too much importance to these matters. But she knew she
+      must not say this and that it would be useless to do so. She only took his
+      hand and kissed it. He took this as a sign of approval and a confirmation
+      of his thoughts, and after a few minutes’ reflection continued to think
+      aloud.
 
-      “Oh, do you know? While you were talking in the study I was looking at
-      you,” Natásha began, evidently anxious to disperse the cloud that had come
-      over them. “You are as like him as two peas—like the boy.” (She
-      meant her little son.) “Oh, it’s time to go to him.... The milk’s come....
-      But I’m sorry to leave you.”
+      “You know, Mary, today Elias Mitrofánych” (this was his overseer)
+      “came back from the Tambóv estate and told me they are already
+      offering eighty thousand rubles for the forest.”
 
-      They were silent for a few seconds. Then suddenly turning to one another
-      at the same time they both began to speak. Pierre began with
-      self-satisfaction and enthusiasm, Natásha with a quiet, happy smile.
-      Having interrupted one another they both stopped to let the other
-      continue.
+      And with an eager face Nicholas began to speak of the possibility of
+      repurchasing Otrádnoe before long, and added: “Another ten years of life
+      and I shall leave the children... in an excellent position.”
 
-      “No. What did you say? Go on, go on.”
+      Countess Mary listened to her husband and understood all that he told her.
+      She knew that when he thought aloud in this way he would sometimes ask her
+      what he had been saying, and be vexed if he noticed that she had been
+      thinking about something else. But she had to force herself to attend, for
+      what he was saying did not interest her at all. She looked at him and did
+      not think, but felt, about something different. She felt a submissive
+      tender love for this man who would never understand all that she
+      understood, and this seemed to make her love for him still stronger and
+      added a touch of passionate tenderness. Besides this feeling which
+      absorbed her altogether and hindered her from following the details of her
+      husband’s plans, thoughts that had no connection with what he was saying
+      flitted through her mind. She thought of her nephew. Her husband’s account
+      of the boy’s agitation while Pierre was speaking struck her forcibly, and
+      various traits of his gentle, sensitive character recurred to her mind;
+      and while thinking of her nephew she thought also of her own children. She
+      did not compare them with him, but compared her feeling for them with her
+      feeling for him, and felt with regret that there was something lacking in
+      her feeling for young Nicholas.
 
-      “No, you go on, I was talking nonsense,” said Natásha.
-
-      Pierre finished what he had begun. It was the sequel to his complacent
-      reflections on his success in Petersburg. At that moment it seemed to him
-      that he was chosen to give a new direction to the whole of Russian society
-      and to the whole world.
-
-      “I only wished to say that ideas that have great results are always simple
-      ones. My whole idea is that if vicious people are united and constitute a
-      power, then honest folk must do the same. Now that’s simple enough.”
-
-      “Yes.”
-
-      “And what were you going to say?”
-
-      “I? Only nonsense.”
-
-      “But all the same?”
-
-      “Oh nothing, only a trifle,” said Natásha, smiling still more brightly.
-      “I only wanted to tell you about Pétya: today nurse was coming to take him
-      from me, and he laughed, shut his eyes, and clung to me. I’m sure he
-      thought he was hiding. Awfully sweet! There, now he’s crying. Well,
-      good-by!” and she left the room.
-
-      Meanwhile downstairs in young Nicholas Bolkónski’s bedroom a little lamp
-      was burning as usual. (The boy was afraid of the dark and they could not
-      cure him of it.) Dessalles slept propped up on four pillows and his Roman
-      nose emitted sounds of rhythmic snoring. Little Nicholas, who had just
-      waked up in a cold perspiration, sat up in bed and gazed before him with
-      wide-open eyes. He had awaked from a terrible dream. He had dreamed that
-      he and Uncle Pierre, wearing helmets such as were depicted in his
-      Plutarch, were leading a huge army. The army was made up of white slanting
-      lines that filled the air like the cobwebs that float about in autumn and
-      which Dessalles called *les fils de la Vièrge*. In front was Glory, which
-      was similar to those threads but rather thicker. He and Pierre were borne
-      along lightly and joyously, nearer and nearer to their goal. Suddenly the
-      threads that moved them began to slacken and become entangled and it grew
-      difficult to move. And Uncle Nicholas stood before them in a stern and
-      threatening attitude.
-
-      “Have you done this?” he said, pointing to some broken sealing wax and
-      pens. “I loved you, but I have orders from Arakchéev and will kill the
-      first of you who moves forward.” Little Nicholas turned to look at Pierre
-      but Pierre was no longer there. In his place was his father—Prince
-      Andrew—and his father had neither shape nor form, but he existed,
-      and when little Nicholas perceived him he grew faint with love: he felt
-      himself powerless, limp, and formless. His father caressed and pitied him.
-      But Uncle Nicholas came nearer and nearer to them. Terror seized young
-      Nicholas and he awoke.
-
-      “My father!” he thought. (Though there were two good portraits of Prince
-      Andrew in the house, Nicholas never imagined him in human form.) “My
-      father has been with me and caressed me. He approved of me and of Uncle
-      Pierre. Whatever he may tell me, I will do it. Mucius Scaevola burned his
-      hand. Why should not the same sort of thing happen to me? I know they want
-      me to learn. And I will learn. But someday I shall have finished learning,
-      and then I will do something. I only pray God that something may happen to
-      me such as happened to Plutarch’s men, and I will act as they did. I will
-      do better. Everyone shall know me, love me, and be delighted with me!” And
-      suddenly his bosom heaved with sobs and he began to cry.
-
-      “Are you ill?” he heard Dessalles’ voice asking.
-
-      “No,” answered Nicholas, and lay back on his pillow.
-
-      “He is good and kind and I am fond of him!” he thought of Dessalles. “But
-      Uncle Pierre! Oh, what a wonderful man he is! And my father? Oh, Father,
-      Father! Yes, I will do something with which even *he* would be
-      satisfied....”
+      Sometimes it seemed to her that this difference arose from the difference
+      in their ages, but she felt herself to blame toward him and promised in
+      her heart to do better and to accomplish the impossible—in this life
+      to love her husband, her children, little Nicholas, and all her neighbors,
+      as Christ loved mankind. Countess Mary’s soul always strove toward the
+      infinite, the eternal, and the absolute, and could therefore never be at
+      peace. A stern expression of the lofty, secret suffering of a soul
+      burdened by the body appeared on her face. Nicholas gazed at her. “O God!
+      What will become of us if she dies, as I always fear when her face is like
+      that?” thought he, and placing himself before the icon he began to say his
+      evening prayers.

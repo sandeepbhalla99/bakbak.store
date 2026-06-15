@@ -1,205 +1,180 @@
-# Second Epilogue - ChapterX
+# Book Fifteen: 1812 - 13 - ChapterVIII
 
-Thus our conception of free will and inevitability gradually diminishes or
-      increases according to the greater or lesser connection with the external
-      world, the greater or lesser remoteness of time, and the greater or lesser
-      dependence on the causes in relation to which we contemplate a man’s life.
+If history dealt only with external phenomena, the establishment of this
+      simple and obvious law would suffice and we should have finished our
+      argument. But the law of history relates to man. A particle of matter
+      cannot tell us that it does not feel the law of attraction or repulsion
+      and that that law is untrue, but man, who is the subject of history, says
+      plainly: I am free and am therefore not subject to the law.
 
-      So that if we examine the case of a man whose connection with the external
-      world is well known, where the time between the action and its examination
-      is great, and where the causes of the action are most accessible, we get
-      the conception of a maximum of inevitability and a minimum of free will.
-      If we examine a man little dependent on external conditions, whose action
-      was performed very recently, and the causes of whose action are beyond our
-      ken, we get the conception of a minimum of inevitability and a maximum of
-      freedom.
+      The presence of the problem of man’s free will, though unexpressed, is
+      felt at every step of history.
 
-      In neither case—however we may change our point of view, however
-      plain we may make to ourselves the connection between the man and the
-      external world, however inaccessible it may be to us, however long or
-      short the period of time, however intelligible or incomprehensible the
-      causes of the action may be—can we ever conceive either complete
-      freedom or complete necessity.
+      All seriously thinking historians have involuntarily encountered this
+      question. All the contradictions and obscurities of history and the false
+      path historical science has followed are due solely to the lack of a
+      solution of that question.
 
-      (1) To whatever degree we may imagine a man to be exempt from the
-      influence of the external world, we never get a conception of freedom in
-      space. Every human action is inevitably conditioned by what surrounds him
-      and by his own body. I lift my arm and let it fall. My action seems to me
-      free; but asking myself whether I could raise my arm in every direction, I
-      see that I raised it in the direction in which there was least obstruction
-      to that action either from things around me or from the construction of my
-      own body. I chose one out of all the possible directions because in it
-      there were fewest obstacles. For my action to be free it was necessary
-      that it should encounter no obstacles. To conceive of a man being free we
-      must imagine him outside space, which is evidently impossible.
+      If the will of every man were free, that is, if each man could act as he
+      pleased, all history would be a series of disconnected incidents.
 
-      (2) However much we approximate the time of judgment to the time of the
-      deed, we never get a conception of freedom in time. For if I examine an
-      action committed a second ago I must still recognize it as not being free,
-      for it is irrevocably linked to the moment at which it was committed. Can
-      I lift my arm? I lift it, but ask myself: could I have abstained from
-      lifting my arm at the moment that has already passed? To convince myself
-      of this I do not lift it the next moment. But I am not now abstaining from
-      doing so at the first moment when I asked the question. Time has gone by
-      which I could not detain, the arm I then lifted is no longer the same as
-      the arm I now refrain from lifting, nor is the air in which I lifted it
-      the same that now surrounds me. The moment in which the first movement was
-      made is irrevocable, and at that moment I could make only one movement,
-      and whatever movement I made would be the only one. That I did not lift my
-      arm a moment later does not prove that I could have abstained from lifting
-      it then. And since I could make only one movement at that single moment of
-      time, it could not have been any other. To imagine it as free, it is
-      necessary to imagine it in the present, on the boundary between the past
-      and the future—that is, outside time, which is impossible.
+      If in a thousand years even one man in a million could act freely, that
+      is, as he chose, it is evident that one single free act of that man’s in
+      violation of the laws governing human action would destroy the possibility
+      of the existence of any laws for the whole of humanity.
 
-      (3) However much the difficulty of understanding the causes may be
-      increased, we never reach a conception of complete freedom, that is, an
-      absence of cause. However inaccessible to us may be the cause of the
-      expression of will in any action, our own or another’s, the first demand
-      of reason is the assumption of and search for a cause, for without a cause
-      no phenomenon is conceivable. I raise my arm to perform an action
-      independently of any cause, but my wish to perform an action without a
-      cause is the cause of my action.
+      If there be a single law governing the actions of men, free will cannot
+      exist, for then man’s will is subject to that law.
 
-      But even if—imagining a man quite exempt from all influences,
-      examining only his momentary action in the present, unevoked by any cause—we
-      were to admit so infinitely small a remainder of inevitability as equaled
-      zero, we should even then not have arrived at the conception of complete
-      freedom in man, for a being uninfluenced by the external world, standing
-      outside of time and independent of cause, is no longer a man.
+      In this contradiction lies the problem of free will, which from most
+      ancient times has occupied the best human minds and from most ancient
+      times has been presented in its whole tremendous significance.
 
-      In the same way we can never imagine the action of a man quite devoid of
-      freedom and entirely subject to the law of inevitability.
+      The problem is that regarding man as a subject of observation from
+      whatever point of view—theological, historical, ethical, or
+      philosophic—we find a general law of necessity to which he (like all
+      that exists) is subject. But regarding him from within ourselves as what
+      we are conscious of, we feel ourselves to be free.
 
-      (1) However we may increase our knowledge of the conditions of space in
-      which man is situated, that knowledge can never be complete, for the
-      number of those conditions is as infinite as the infinity of space. And
-      therefore so long as not *all* the conditions influencing men are defined,
-      there is no complete inevitability but a certain measure of freedom
-      remains.
+      This consciousness is a source of self-cognition quite apart from and
+      independent of reason. Through his reason man observes himself, but only
+      through consciousness does he know himself.
 
-      (2) However we may prolong the period of time between the action we are
-      examining and the judgment upon it, that period will be finite, while time
-      is infinite, and so in this respect too there can never be absolute
-      inevitability.
+      Apart from consciousness of self no observation or application of reason
+      is conceivable.
 
-      (3) However accessible may be the chain of causation of any action, we
-      shall never know the whole chain since it is endless, and so again we
-      never reach absolute inevitability.
+      To understand, observe, and draw conclusions, man must first of all be
+      conscious of himself as living. A man is only conscious of himself as a
+      living being by the fact that he wills, that is, is conscious of his
+      volition. But his will—which forms the essence of his life—man
+      recognizes (and can but recognize) as free.
 
-      But besides this, even if, admitting the remaining minimum of freedom to
-      equal zero, we assumed in some given case—as for instance in that of
-      a dying man, an unborn babe, or an idiot—complete absence of
-      freedom, by so doing we should destroy the very conception of man in the
-      case we are examining, for as soon as there is no freedom there is also no
-      man. And so the conception of the action of a man subject solely to the
-      law of inevitability without any element of freedom is just as impossible
-      as the conception of a man’s completely free action.
+      If, observing himself, man sees that his will is always directed by one
+      and the same law (whether he observes the necessity of taking food, using
+      his brain, or anything else) he cannot recognize this never-varying
+      direction of his will otherwise than as a limitation of it. Were it not
+      free it could not be limited. A man’s will seems to him to be limited just
+      because he is not conscious of it except as free.
 
-      And so to imagine the action of a man entirely subject to the law of
-      inevitability without any freedom, we must assume the knowledge of an
-      *infinite* number of space relations, an *infinitely* long
-      period of time, and an *infinite* series of causes.
+      You say: I am not free. But I have lifted my hand and let it fall.
+      Everyone understands that this illogical reply is an irrefutable
+      demonstration of freedom.
 
-      To imagine a man perfectly free and not subject to the law of
-      inevitability, we must imagine him all alone, *beyond space, beyond time,*
-      and *free from dependence on cause.*
+      That reply is the expression of a consciousness that is not subject to
+      reason.
 
-      In the first case, if inevitability were possible without freedom we
-      should have reached a definition of inevitability by the laws of
-      inevitability itself, that is, a mere form without content.
+      If the consciousness of freedom were not a separate and independent source
+      of self-consciousness it would be subject to reasoning and to experience,
+      but in fact such subjection does not exist and is inconceivable.
 
-      In the second case, if freedom were possible without inevitability we
-      should have arrived at unconditioned freedom beyond space, time, and
-      cause, which by the fact of its being unconditioned and unlimited would be
-      nothing, or mere content without form.
+      A series of experiments and arguments proves to every man that he, as an
+      object of observation, is subject to certain laws, and man submits to them
+      and never resists the laws of gravity or impermeability once he has become
+      acquainted with them. But the same series of experiments and arguments
+      proves to him that the complete freedom of which he is conscious in
+      himself is impossible, and that his every action depends on his
+      organization, his character, and the motives acting upon him; yet man
+      never submits to the deductions of these experiments and arguments. Having
+      learned from experiment and argument that a stone falls downwards, a man
+      indubitably believes this and always expects the law that he has learned
+      to be fulfilled.
 
-      We should in fact have reached those two fundamentals of which man’s whole
-      outlook on the universe is constructed—the incomprehensible essence
-      of life, and the laws defining that essence.
+      But learning just as certainly that his will is subject to laws, he does
+      not and cannot believe this.
 
-      Reason says: (1) space with all the forms of matter that give it
-      visibility is infinite, and cannot be imagined otherwise. (2) Time is
-      infinite motion without a moment of rest and is unthinkable otherwise. (3)
-      The connection between cause and effect has no beginning and can have no
-      end.
+      However often experiment and reasoning may show a man that under the same
+      conditions and with the same character he will do the same thing as
+      before, yet when under the same conditions and with the same character he
+      approaches for the thousandth time the action that always ends in the same
+      way, he feels as certainly convinced as before the experiment that he can
+      act as he pleases. Every man, savage or sage, however incontestably reason
+      and experiment may prove to him that it is impossible to imagine two
+      different courses of action in precisely the same conditions, feels that
+      without this irrational conception (which constitutes the essence of
+      freedom) he cannot imagine life. He feels that however impossible it may
+      be, it is so, for without this conception of freedom not only would he be
+      unable to understand life, but he would be unable to live for a single
+      moment.
 
-      Consciousness says: (1) I alone am, and all that exists is but me,
-      consequently I include space. (2) I measure flowing time by the fixed
-      moment of the present in which alone I am conscious of myself as living,
-      consequently I am outside time. (3) I am beyond cause, for I feel myself
-      to be the cause of every manifestation of my life.
+      He could not live, because all man’s efforts, all his impulses to life,
+      are only efforts to increase freedom. Wealth and poverty, fame and
+      obscurity, power and subordination, strength and weakness, health and
+      disease, culture and ignorance, work and leisure, repletion and hunger,
+      virtue and vice, are only greater or lesser degrees of freedom.
 
-      Reason gives expression to the laws of inevitability. Consciousness gives
-      expression to the essence of freedom.
+      A man having no freedom cannot be conceived of except as deprived of life.
 
-      Freedom not limited by anything is the essence of life, in man’s
-      consciousness. Inevitability without content is man’s reason in its three
-      forms.
+      If the conception of freedom appears to reason to be a senseless
+      contradiction like the possibility of performing two actions at one and
+      the same instant of time, or of an effect without a cause, that only
+      proves that consciousness is not subject to reason.
 
-      Freedom is the thing examined. Inevitability is what examines. Freedom is
-      the content. Inevitability is the form.
+      This unshakable, irrefutable consciousness of freedom, uncontrolled by
+      experiment or argument, recognized by all thinkers and felt by everyone
+      without exception, this consciousness without which no conception of man
+      is possible constitutes the other side of the question.
 
-      Only by separating the two sources of cognition, related to one another as
-      form to content, do we get the mutually exclusive and separately
-      incomprehensible conceptions of freedom and inevitability.
+      Man is the creation of an all-powerful, all-good, and all-seeing God. What
+      is sin, the conception of which arises from the consciousness of man’s
+      freedom? That is a question for theology.
 
-      Only by uniting them do we get a clear conception of man’s life.
+      The actions of men are subject to general immutable laws expressed in
+      statistics. What is man’s responsibility to society, the conception of
+      which results from the conception of freedom? That is a question for
+      jurisprudence.
 
-      Apart from these two concepts which in their union mutually define one
-      another as form and content, no conception of life is possible.
+      Man’s actions proceed from his innate character and the motives acting
+      upon him. What is conscience and the perception of right and wrong in
+      actions that follows from the consciousness of freedom? That is a question
+      for ethics.
 
-      All that we know of the life of man is merely a certain relation of free
-      will to inevitability, that is, of consciousness to the laws of reason.
+      Man in connection with the general life of humanity appears subject to
+      laws which determine that life. But the same man apart from that
+      connection appears to be free. How should the past life of nations and of
+      humanity be regarded—as the result of the free, or as the result of
+      the constrained, activity of man? That is a question for history.
 
-      All that we know of the external world of nature is only a certain
-      relation of the forces of nature to inevitability, or of the essence of
-      life to the laws of reason.
+      Only in our self-confident day of the popularization of knowledge—thanks
+      to that most powerful engine of ignorance, the diffusion of printed matter—has
+      the question of the freedom of will been put on a level on which the
+      question itself cannot exist. In our time the majority of so-called
+      advanced people—that is, the crowd of ignoramuses—have taken
+      the work of the naturalists who deal with one side of the question for a
+      solution of the whole problem.
 
-      The great natural forces lie outside us and we are not conscious of them;
-      we call those forces gravitation, inertia, electricity, animal force, and
-      so on, but we are conscious of the force of life in man and we call that
-      freedom.
+      They say and write and print that the soul and freedom do not exist, for
+      the life of man is expressed by muscular movements and muscular movements
+      are conditioned by the activity of the nerves; the soul and free will do
+      not exist because at an unknown period of time we sprang from the apes.
+      They say this, not at all suspecting that thousands of years ago that same
+      law of necessity which with such ardor they are now trying to prove by
+      physiology and comparative zoology was not merely acknowledged by all the
+      religions and all the thinkers, but has never been denied. They do not see
+      that the role of the natural sciences in this matter is merely to serve as
+      an instrument for the illumination of one side of it. For the fact that,
+      from the point of view of observation, reason and the will are merely
+      secretions of the brain, and that man following the general law may have
+      developed from lower animals at some unknown period of time, only explains
+      from a fresh side the truth admitted thousands of years ago by all the
+      religious and philosophic theories—that from the point of view of
+      reason man is subject to the law of necessity; but it does not advance by
+      a hair’s breadth the solution of the question, which has another,
+      opposite, side, based on the consciousness of freedom.
 
-      But just as the force of gravitation, incomprehensible in itself but felt
-      by every man, is understood by us only to the extent to which we know the
-      laws of inevitability to which it is subject (from the first knowledge
-      that all bodies have weight, up to Newton’s law), so too the force of free
-      will, incomprehensible in itself but of which everyone is conscious, is
-      intelligible to us only in as far as we know the laws of inevitability to
-      which it is subject (from the fact that every man dies, up to the
-      knowledge of the most complex economic and historic laws).
+      If men descended from the apes at an unknown period of time, that is as
+      comprehensible as that they were made from a handful of earth at a certain
+      period of time (in the first case the unknown quantity is the time, in the
+      second case it is the origin); and the question of how man’s consciousness
+      of freedom is to be reconciled with the law of necessity to which he is
+      subject cannot be solved by comparative physiology and zoology, for in a
+      frog, a rabbit, or an ape, we can observe only the muscular nervous
+      activity, but in man we observe consciousness as well as the muscular and
+      nervous activity.
 
-      All knowledge is merely a bringing of this essence of life under the laws
-      of reason.
-
-      Man’s free will differs from every other force in that man is directly
-      conscious of it, but in the eyes of reason it in no way differs from any
-      other force. The forces of gravitation, electricity, or chemical affinity
-      are only distinguished from one another in that they are differently
-      defined by reason. Just so the force of man’s free will is distinguished
-      by reason from the other forces of nature only by the definition reason
-      gives it. Freedom, apart from necessity, that is, apart from the laws of
-      reason that define it, differs in no way from gravitation, or heat, or the
-      force that makes things grow; for reason, it is only a momentary
-      undefinable sensation of life.
-
-      And as the undefinable essence of the force moving the heavenly bodies,
-      the undefinable essence of the forces of heat and electricity, or of
-      chemical affinity, or of the vital force, forms the content of astronomy,
-      physics, chemistry, botany, zoology, and so on, just in the same way does
-      the force of free will form the content of history. But just as the
-      subject of every science is the manifestation of this unknown essence of
-      life while that essence itself can only be the subject of metaphysics,
-      even the manifestation of the force of free will in human beings in space,
-      in time, and in dependence on cause forms the subject of history, while
-      free will itself is the subject of metaphysics.
-
-      In the experimental sciences what we know we call the laws of
-      inevitability, what is unknown to us we call vital force. Vital force is
-      only an expression for the unknown remainder over and above what we know
-      of the essence of life.
-
-      So also in history what is known to us we call laws of inevitability, what
-      is unknown we call free will. Free will is for history only an expression
-      for the unknown remainder of what we know about the laws of human life.
+      The naturalists and their followers, thinking they can solve this
+      question, are like plasterers set to plaster one side of the walls of a
+      church who, availing themselves of the absence of the chief superintendent
+      of the work, should in an access of zeal plaster over the windows, icons,
+      woodwork, and still unbuttressed walls, and should be delighted that from
+      their point of view as plasterers, everything is now so smooth and
+      regular.

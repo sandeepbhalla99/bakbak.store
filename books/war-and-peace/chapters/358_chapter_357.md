@@ -1,242 +1,157 @@
-# Second Epilogue - ChapterIV
+# Book Fifteen: 1812 - 13 - ChapterII
 
-Having abandoned the conception of the ancients as to the divine
-      subjection of the will of a nation to some chosen man and the subjection
-      of that man’s will to the Deity, history cannot without contradictions
-      take a single step till it has chosen one of two things: either a return
-      to the former belief in the direct intervention of the Deity in human
-      affairs or a definite explanation of the meaning of the force producing
-      historical events and termed “power.”
+What force moves the nations?
 
-      A return to the first is impossible, the belief has been destroyed; and so
-      it is essential to explain what is meant by power.
+      Biographical historians and historians of separate nations understand this
+      force as a power inherent in heroes and rulers. In their narration events
+      occur solely by the will of a Napoleon, and Alexander, or in general of
+      the persons they describe. The answers given by this kind of historian to
+      the question of what force causes events to happen are satisfactory only
+      as long as there is but one historian to each event. As soon as historians
+      of different nationalities and tendencies begin to describe the same
+      event, the replies they give immediately lose all meaning, for this force
+      is understood by them all not only differently but often in quite
+      contradictory ways. One historian says that an event was produced by
+      Napoleon’s power, another that it was produced by Alexander’s, a third
+      that it was due to the power of some other person. Besides this,
+      historians of that kind contradict each other even in their statement as
+      to the force on which the authority of some particular person was based.
+      Thiers, a Bonapartist, says that Napoleon’s power was based on his virtue
+      and genius. Lanfrey, a Republican, says it was based on his trickery and
+      deception of the people. So the historians of this class, by mutually
+      destroying one another’s positions, destroy the understanding of the force
+      which produces events, and furnish no reply to history’s essential
+      question.
 
-      Napoleon ordered an army to be raised and go to war. We are so accustomed
-      to that idea and have become so used to it that the question: why did six
-      hundred thousand men go to fight when Napoleon uttered certain words,
-      seems to us senseless. He had the power and so what he ordered was done.
+      Writers of universal history who deal with all the nations seem to
+      recognize how erroneous is the specialist historians’ view of the force
+      which produces events. They do not recognize it as a power inherent in
+      heroes and rulers, but as the resultant of a multiplicity of variously
+      directed forces. In describing a war or the subjugation of a people, a
+      general historian looks for the cause of the event not in the power of one
+      man, but in the interaction of many persons connected with the event.
 
-      This reply is quite satisfactory if we believe that the power was given
-      him by God. But as soon as we do not admit that, it becomes essential to
-      determine what is this power of one man over others.
+      According to this view the power of historical personages, represented as
+      the product of many forces, can no longer, it would seem, be regarded as a
+      force that itself produces events. Yet in most cases universal historians
+      still employ the conception of power as a force that itself produces
+      events, and treat it as their cause. In their exposition, an historic
+      character is first the product of his time, and his power only the
+      resultant of various forces, and then his power is itself a force
+      producing events. Gervinus, Schlosser, and others, for instance, at one
+      time prove Napoleon to be a product of the Revolution, of the ideas of
+      1789 and so forth, and at another plainly say that the campaign of 1812
+      and other things they do not like were simply the product of Napoleon’s
+      misdirected will, and that the very ideas of 1789 were arrested in their
+      development by Napoleon’s caprice. The ideas of the Revolution and the
+      general temper of the age produced Napoleon’s power. But Napoleon’s power
+      suppressed the ideas of the Revolution and the general temper of the age.
 
-      It cannot be the direct physical power of a strong man over a weak one—a
-      domination based on the application or threat of physical force, like the
-      power of Hercules; nor can it be based on the effect of moral force, as in
-      their simplicity some historians think who say that the leading figures in
-      history are heroes, that is, men gifted with a special strength of soul
-      and mind called genius. This power cannot be based on the predominance of
-      moral strength, for, not to mention heroes such as Napoleon about whose
-      moral qualities opinions differ widely, history shows us that neither a
-      Louis XI nor a Metternich, who ruled over millions of people, had any
-      particular moral qualities, but on the contrary were generally morally
-      weaker than any of the millions they ruled over.
+      This curious contradiction is not accidental. Not only does it occur at
+      every step, but the universal historians’ accounts are all made up of a
+      chain of such contradictions. This contradiction occurs because after
+      entering the field of analysis the universal historians stop halfway.
 
-      If the source of power lies neither in the physical nor in the moral
-      qualities of him who possesses it, it must evidently be looked for
-      elsewhere—in the relation to the people of the man who wields the
-      power.
+      To find component forces equal to the composite or resultant force, the
+      sum of the components must equal the resultant. This condition is never
+      observed by the universal historians, and so to explain the resultant
+      forces they are obliged to admit, in addition to the insufficient
+      components, another unexplained force affecting the resultant action.
 
-      And that is how power is understood by the science of jurisprudence, that
-      exchange bank of history which offers to exchange history’s understanding
-      of power for true gold.
+      Specialist historians describing the campaign of 1813 or the restoration
+      of the Bourbons plainly assert that these events were produced by the will
+      of Alexander. But the universal historian Gervinus, refuting this opinion
+      of the specialist historian, tries to prove that the campaign of 1813 and
+      the restoration of the Bourbons were due to other things beside
+      Alexander’s will—such as the activity of Stein, Metternich, Madame
+      de Staël, Talleyrand, Fichte, Chateaubriand, and others. The historian
+      evidently decomposes Alexander’s power into the components: Talleyrand,
+      Chateaubriand, and the rest—but the sum of the components, that is,
+      the interactions of Chateaubriand, Talleyrand, Madame de Staël, and the
+      others, evidently does not equal the resultant, namely the phenomenon of
+      millions of Frenchmen submitting to the Bourbons. That Chateaubriand,
+      Madame de Staël, and others spoke certain words to one another only
+      affected their mutual relations but does not account for the submission of
+      millions. And therefore to explain how from these relations of theirs the
+      submission of millions of people resulted—that is, how component
+      forces equal to one *A* gave a resultant equal to a thousand times
+      *A*—the historian is again obliged to fall back on power—the
+      force he had denied—and to recognize it as the resultant of the forces,
+      that is, he has to admit an unexplained force acting on the resultant. And
+      that is just what the universal historians do, and consequently they not only
+      contradict the specialist historians but contradict themselves.
 
-      Power is the collective will of the people transferred, by expressed or
-      tacit consent, to their chosen rulers.
+      Peasants having no clear idea of the cause of rain, say, according to
+      whether they want rain or fine weather: “The wind has blown the clouds
+      away,” or, “The wind has brought up the clouds.” And in the same way the
+      universal historians sometimes, when it pleases them and fits in with
+      their theory, say that power is the result of events, and sometimes, when
+      they want to prove something else, say that power produces events.
 
-      In the domain of jurisprudence, which consists of discussions of how a
-      state and power might be arranged were it possible for all that to be
-      arranged, it is all very clear; but when applied to history that
-      definition of power needs explanation.
+      A third class of historians—the so-called historians of culture—following
+      the path laid down by the universal historians who sometimes accept
+      writers and ladies as forces producing events—again take that force
+      to be something quite different. They see it in what is called culture—in
+      mental activity.
 
-      The science of jurisprudence regards the state and power as the ancients
-      regarded fire—namely, as something existing absolutely. But for
-      history, the state and power are merely phenomena, just as for modern
-      physics fire is not an element but a phenomenon.
+      The historians of culture are quite consistent in regard to their
+      progenitors, the writers of universal histories, for if historical events
+      may be explained by the fact that certain persons treated one another in
+      such and such ways, why not explain them by the fact that such and such
+      people wrote such and such books? Of the immense number of indications
+      accompanying every vital phenomenon, these historians select the
+      indication of intellectual activity and say that this indication is the
+      cause. But despite their endeavors to prove that the cause of events lies
+      in intellectual activity, only by a great stretch can one admit that there
+      is any connection between intellectual activity and the movement of
+      peoples, and in no case can one admit that intellectual activity controls
+      people’s actions, for that view is not confirmed by such facts as the very
+      cruel murders of the French Revolution resulting from the doctrine of the
+      equality of man, or the very cruel wars and executions resulting from the
+      preaching of love.
 
-      From this fundamental difference between the view held by history and that
-      held by jurisprudence, it follows that jurisprudence can tell minutely how
-      in its opinion power should be constituted and what power—existing
-      immutably outside time—is, but to history’s questions about the
-      meaning of the mutations of power *in* time it can answer nothing.
+      But even admitting as correct all the cunningly devised arguments with
+      which these histories are filled—admitting that nations are governed
+      by some undefined force called an *idea*—history’s essential question
+      still remains unanswered, and to the former power of monarchs and to the
+      influence of advisers and other people introduced by the universal
+      historians, another, newer force—the *idea*—is added, the
+      connection of which with the masses needs explanation. It is possible to
+      understand that Napoleon had power and so events occurred; with some
+      effort one may even conceive that Napoleon together with other influences
+      was the cause of an event; but how a book, *Le Contrat Social*, had the
+      effect of making Frenchmen begin to drown one another cannot be understood
+      without an explanation of the causal nexus of this new force with the
+      event.
 
-      If power be the collective will of the people transferred to their ruler,
-      was Pugachëv a representative of the will of the people? If not, then why
-      was Napoleon I? Why was Napoleon III a criminal when he was taken prisoner
-      at Boulogne, and why, later on, were those criminals whom he arrested?
+      Undoubtedly some relation exists between all who live contemporaneously,
+      and so it is possible to find some connection between the intellectual
+      activity of men and their historical movements, just as such a connection
+      may be found between the movements of humanity and commerce, handicraft,
+      gardening, or anything else you please. But why intellectual activity is
+      considered by the historians of culture to be the cause or expression of
+      the whole historical movement is hard to understand. Only the following
+      considerations can have led the historians to such a conclusion: (1) that
+      history is written by learned men, and so it is natural and agreeable for
+      them to think that the activity of their class supplies the basis of the
+      movement of all humanity, just as a similar belief is natural and
+      agreeable to traders, agriculturists, and soldiers (if they do not express
+      it, that is merely because traders and soldiers do not write history), and
+      (2) that spiritual activity, enlightenment, civilization, culture, ideas,
+      are all indistinct, indefinite conceptions under whose banner it is very
+      easy to use words having a still less definite meaning, and which can
+      therefore be readily introduced into any theory.
 
-      Do palace revolutions—in which sometimes only two or three people
-      take part—transfer the will of the people to a new ruler? In
-      international relations, is the will of the people also transferred to
-      their conqueror? Was the will of the Confederation of the Rhine
-      transferred to Napoleon in 1806? Was the will of the Russian people
-      transferred to Napoleon in 1809, when our army in alliance with the French
-      went to fight the Austrians?
-
-      To these questions three answers are possible:
-
-      Either to assume (1) that the will of the people is always unconditionally
-      transferred to the ruler or rulers they have chosen, and that therefore
-      every emergence of a new power, every struggle against the power once
-      appointed, should be absolutely regarded as an infringement of the real
-      power; or (2) that the will of the people is transferred to the rulers
-      conditionally, under definite and known conditions, and to show that all
-      limitations, conflicts, and even destructions of power result from a
-      nonobservance by the rulers of the conditions under which their power was
-      entrusted to them; or (3) that the will of the people is delegated to the
-      rulers conditionally, but that the conditions are unknown and indefinite,
-      and that the appearance of several authorities, their struggles and their
-      falls, result solely from the greater or lesser fulfillment by the rulers
-      of these unknown conditions on which the will of the people is transferred
-      from some people to others.
-
-      And these are the three ways in which the historians do explain the
-      relation of the people to their rulers.
-
-      Some historians—those biographical and specialist historians already
-      referred to—in their simplicity failing to understand the question
-      of the meaning of power, seem to consider that the collective will of the
-      people is unconditionally transferred to historical persons, and therefore
-      when describing some single state they assume that particular power to be
-      the one absolute and real power, and that any other force opposing this is
-      not a power but a violation of power—mere violence.
-
-      Their theory, suitable for primitive and peaceful periods of history, has
-      the inconvenience—in application to complex and stormy periods in
-      the life of nations during which various powers arise simultaneously and
-      struggle with one another—that a Legitimist historian will prove
-      that the National Convention, the Directory, and Bonaparte were mere
-      infringers of the true power, while a Republican and a Bonapartist will
-      prove: the one that the Convention and the other that the Empire was the
-      real power, and that all the others were violations of power. Evidently
-      the explanations furnished by these historians being mutually
-      contradictory can only satisfy young children.
-
-      Recognizing the falsity of this view of history, another set of historians
-      say that power rests on a conditional delegation of the will of the people
-      to their rulers, and that historical leaders have power only conditionally
-      on carrying out the program that the will of the people has by tacit
-      agreement prescribed to them. But what this program consists in these
-      historians do not say, or if they do they continually contradict one
-      another.
-
-      Each historian, according to his view of what constitutes a nation’s
-      progress, looks for these conditions in the greatness, wealth, freedom, or
-      enlightenment of citizens of France or some other country. But not to
-      mention the historians’ contradictions as to the nature of this program—or
-      even admitting that some one general program of these conditions exists—the
-      facts of history almost always contradict that theory. If the conditions
-      under which power is entrusted consist in the wealth, freedom, and
-      enlightenment of the people, how is it that Louis XIV and Iván the
-      Terrible end their reigns tranquilly, while Louis XVI and Charles I are
-      executed by their people? To this question historians reply that Louis
-      XIV’s activity, contrary to the program, reacted on Louis XVI. But why did
-      it not react on Louis XIV or on Louis XV—why should it react just on
-      Louis XVI? And what is the time limit for such reactions? To these
-      questions there are and can be no answers. Equally little does this view
-      explain why for several centuries the collective will is not withdrawn
-      from certain rulers and their heirs, and then suddenly during a period of
-      fifty years is transferred to the Convention, to the Directory, to
-      Napoleon, to Alexander, to Louis XVIII, to Napoleon again, to Charles X,
-      to Louis Philippe, to a Republican government, and to Napoleon III. When
-      explaining these rapid transfers of the people’s will from one individual
-      to another, especially in view of international relations, conquests, and
-      alliances, the historians are obliged to admit that some of these
-      transfers are not normal delegations of the people’s will but are
-      accidents dependent on cunning, on mistakes, on craft, or on the weakness
-      of a diplomatist, a ruler, or a party leader. So that the greater part of
-      the events of history—civil wars, revolutions, and conquests—are
-      presented by these historians not as the results of free transferences of
-      the people’s will, but as results of the ill-directed will of one or more
-      individuals, that is, once again, as usurpations of power. And so these
-      historians also see and admit historical events which are exceptions to
-      the theory.
-
-      These historians resemble a botanist who, having noticed that some plants
-      grow from seeds producing two cotyledons, should insist that all that
-      grows does so by sprouting into two leaves, and that the palm, the
-      mushroom, and even the oak, which blossom into full growth and no longer
-      resemble two leaves, are deviations from the theory.
-
-      Historians of the third class assume that the will of the people is
-      transferred to historic personages conditionally, but that the conditions
-      are unknown to us. They say that historical personages have power only
-      because they fulfill the will of the people which has been delegated to
-      them.
-
-      But in that case, if the force that moves nations lies not in the historic
-      leaders but in the nations themselves, what significance have those
-      leaders?
-
-      The leaders, these historians tell us, express the will of the people: the
-      activity of the leaders represents the activity of the people.
-
-      But in that case the question arises whether all the activity of the
-      leaders serves as an expression of the people’s will or only some part of
-      it. If the whole activity of the leaders serves as the expression of the
-      people’s will, as some historians suppose, then all the details of the
-      court scandals contained in the biographies of a Napoleon or a Catherine
-      serve to express the life of the nation, which is evident nonsense; but if
-      it is only some particular side of the activity of an historical leader
-      which serves to express the people’s life, as other so-called
-      “philosophical” historians believe, then to determine which side of the
-      activity of a leader expresses the nation’s life, we have first of all to
-      know in what the nation’s life consists.
-
-      Met by this difficulty historians of that class devise some most obscure,
-      impalpable, and general abstraction which can cover all conceivable
-      occurrences, and declare this abstraction to be the aim of humanity’s
-      movement. The most usual generalizations adopted by almost all the
-      historians are: freedom, equality, enlightenment, progress, civilization,
-      and culture. Postulating some generalization as the goal of the movement
-      of humanity, the historians study the men of whom the greatest number of
-      monuments have remained: kings, ministers, generals, authors, reformers,
-      popes, and journalists, to the extent to which in their opinion these
-      persons have promoted or hindered that abstraction. But as it is in no way
-      proved that the aim of humanity does consist in freedom, equality,
-      enlightenment, or civilization, and as the connection of the people with
-      the rulers and enlighteners of humanity is only based on the arbitrary
-      assumption that the collective will of the people is always transferred to
-      the men whom we have noticed, it happens that the activity of the millions
-      who migrate, burn houses, abandon agriculture, and destroy one another
-      never is expressed in the account of the activity of some dozen people who
-      did not burn houses, practice agriculture, or slay their fellow creatures.
-
-      History proves this at every turn. Is the ferment of the peoples of the
-      west at the end of the eighteenth century and their drive eastward
-      explained by the activity of Louis XIV, XV, and XVI, their mistresses and
-      ministers, and by the lives of Napoleon, Rousseau, Diderot, Beaumarchais,
-      and others?
-
-      Is the movement of the Russian people eastward to Kazán and Siberia
-      expressed by details of the morbid character of Iván the Terrible and by
-      his correspondence with Kúrbski?
-
-      Is the movement of the peoples at the time of the Crusades explained by
-      the life and activity of the Godfreys and the Louis-es and their ladies?
-      For us that movement of the peoples from west to east, without leaders,
-      with a crowd of vagrants, and with Peter the Hermit, remains
-      incomprehensible. And yet more incomprehensible is the cessation of that
-      movement when a rational and sacred aim for the Crusade—the
-      deliverance of Jerusalem—had been clearly defined by historic
-      leaders. Popes, kings, and knights incited the peoples to free the Holy
-      Land; but the people did not go, for the unknown cause which had
-      previously impelled them to go no longer existed. The history of the
-      Godfreys and the Minnesingers can evidently not cover the life of the
-      peoples. And the history of the Godfreys and the Minnesingers has remained
-      the history of Godfreys and Minnesingers, but the history of the life of
-      the peoples and their impulses has remained unknown.
-
-      Still less does the history of authors and reformers explain to us the
-      life of the peoples.
-
-      The history of culture explains to us the impulses and conditions of life
-      and thought of a writer or a reformer. We learn that Luther had a hot
-      temper and said such and such things; we learn that Rousseau was
-      suspicious and wrote such and such books; but we do not learn why after
-      the Reformation the peoples massacred one another, nor why during the
-      French Revolution they guillotined one another.
-
-      If we unite both these kinds of history, as is done by the newest
-      historians, we shall have the history of monarchs and writers, but not the
-      history of the life of the peoples.
+      But not to speak of the intrinsic quality of histories of this kind (which
+      may possibly even be of use to someone for something) the histories of
+      culture, to which all general histories tend more and more to approximate,
+      are significant from the fact that after seriously and minutely examining
+      various religious, philosophic, and political doctrines as causes of
+      events, as soon as they have to describe an actual historic event such as
+      the campaign of 1812 for instance, they involuntarily describe it as
+      resulting from an exercise of power—and say plainly that that was
+      the result of Napoleon’s will. Speaking so, the historians of culture
+      involuntarily contradict themselves, and show that the new force they have
+      devised does not account for what happens in history, and that history can
+      only be explained by introducing a power which they apparently do not
+      recognize.

@@ -1,145 +1,121 @@
-# First Epilogue: 1813 - 20 - ChapterVIII
+# Book Fifteen: 1812 - 13 - ChapterVII
 
-One matter connected with his management sometimes worried Nicholas, and
-      that was his quick temper together with his old hussar habit of making
-      free use of his fists. At first he saw nothing reprehensible in this, but
-      in the second year of his marriage his view of that form of punishment
-      suddenly changed.
+In the winter of 1813 Nicholas married Princess Mary and moved to Bald
+      Hills with his wife, his mother, and Sónya.
 
-      Once in summer he had sent for the village elder from Boguchárovo, a man
-      who had succeeded to the post when Dron died and who was accused of
-      dishonesty and various irregularities. Nicholas went out into the porch to
-      question him, and immediately after the elder had given a few replies the
-      sound of cries and blows were heard. On returning to lunch Nicholas went
-      up to his wife, who sat with her head bent low over her embroidery frame,
-      and as usual began to tell her what he had been doing that morning. Among
-      other things he spoke of the Boguchárovo elder. Countess Mary turned red
-      and then pale, but continued to sit with head bowed and lips compressed
-      and gave her husband no reply.
+      Within four years he had paid off all his remaining debts without selling
+      any of his wife’s property, and having received a small inheritance on the
+      death of a cousin he paid his debt to Pierre as well.
 
-      “Such an insolent scoundrel!” he cried, growing hot again at the mere
-      recollection of him. “If he had told me he was drunk and did not see...
-      But what is the matter with you, Mary?” he suddenly asked.
+      In another three years, by 1820, he had so managed his affairs that he was
+      able to buy a small estate adjoining Bald Hills and was negotiating to buy
+      back Otrádnoe—that being his pet dream.
 
-      Countess Mary raised her head and tried to speak, but hastily looked down
-      again and her lips puckered.
+      Having started farming from necessity, he soon grew so devoted to it that
+      it became his favorite and almost his sole occupation. Nicholas was a
+      plain farmer: he did not like innovations, especially the English ones
+      then coming into vogue. He laughed at theoretical treatises on estate
+      management, disliked factories, the raising of expensive products, and the
+      buying of expensive seed corn, and did not make a hobby of any particular
+      part of the work on his estate. He always had before his mind’s eye *the
+      estate* as a whole and not any particular part of it. The chief thing in
+      his eyes was not the nitrogen in the soil, nor the oxygen in the air, nor
+      manures, nor special plows, but that most important agent by which
+      nitrogen, oxygen, manure, and plow were made effective—the peasant
+      laborer. When Nicholas first began farming and began to understand its
+      different branches, it was the serf who especially attracted his
+      attention. The peasant seemed to him not merely a tool, but also a judge
+      of farming and an end in himself. At first he watched the serfs, trying to
+      understand their aims and what they considered good and bad, and only
+      pretended to direct them and give orders while in reality learning from
+      them their methods, their manner of speech, and their judgment of what was
+      good and bad. Only when he had understood the peasants’ tastes and
+      aspirations, had learned to talk their language, to grasp the hidden
+      meaning of their words, and felt akin to them did he begin boldly to
+      manage his serfs, that is, to perform toward them the duties demanded of
+      him. And Nicholas’ management produced very brilliant results.
 
-      “Why, whatever is the matter, my dearest?”
+      Guided by some gift of insight, on taking up the management of the estates
+      he at once unerringly appointed as bailiff, village elder, and delegate,
+      the very men the serfs would themselves have chosen had they had the right
+      to choose, and these posts never changed hands. Before analyzing the
+      properties of manure, before entering into the *debit* and *credit*
+      (as he ironically called it), he found out how many cattle the peasants had and
+      increased the number by all possible means. He kept the peasant families
+      together in the largest groups possible, not allowing the family groups to
+      divide into separate households. He was hard alike on the lazy, the
+      depraved, and the weak, and tried to get them expelled from the commune.
 
-      The looks of the plain Countess Mary always improved when she was in
-      tears. She never cried from pain or vexation, but always from sorrow or
-      pity, and when she wept her radiant eyes acquired an irresistible charm.
+      He was as careful of the sowing and reaping of the peasants’ hay and corn
+      as of his own, and few landowners had their crops sown and harvested so
+      early and so well, or got so good a return, as did Nicholas.
 
-      The moment Nicholas took her hand she could no longer restrain herself and
-      began to cry.
+      He disliked having anything to do with the domestic serfs—the
+      “drones” as he called them—and everyone said he spoiled them by his
+      laxity. When a decision had to be taken regarding a domestic serf,
+      especially if one had to be punished, he always felt undecided and
+      consulted everybody in the house; but when it was possible to have a
+      domestic serf conscripted instead of a land worker he did so without the
+      least hesitation. He never felt any hesitation in dealing with the
+      peasants. He knew that his every decision would be approved by them all
+      with very few exceptions.
 
-      “Nicholas, I saw it... he was to blame, but why do you... Nicholas!” and
-      she covered her face with her hands.
+      He did not allow himself either to be hard on or punish a man, or to make
+      things easy for or reward anyone, merely because he felt inclined to do
+      so. He could not have said by what standard he judged what he should or
+      should not do, but the standard was quite firm and definite in his own
+      mind.
 
-      Nicholas said nothing. He flushed crimson, left her side, and paced up and
-      down the room. He understood what she was weeping about, but could not in
-      his heart at once agree with her that what he had regarded from childhood
-      as quite an everyday event was wrong. “Is it just sentimentality, old
-      wives’ tales, or is she right?” he asked himself. Before he had solved
-      that point he glanced again at her face filled with love and pain, and he
-      suddenly realized that she was right and that he had long been sinning
-      against himself.
+      Often, speaking with vexation of some failure or irregularity, he would
+      say: “What can one do with our Russian peasants?” and imagined that he
+      could not bear them.
 
-      “Mary,” he said softly, going up to her, “it will never happen again; I
-      give you my word. Never,” he repeated in a trembling voice like a boy
-      asking for forgiveness.
+      Yet he loved “our Russian peasants” and their way of life with his whole
+      soul, and for that very reason had understood and assimilated the one way
+      and manner of farming which produced good results.
 
-      The tears flowed faster still from the countess’ eyes. She took his hand
-      and kissed it.
+      Countess Mary was jealous of this passion of her husband’s and regretted
+      that she could not share it; but she could not understand the joys and
+      vexations he derived from that world, to her so remote and alien. She
+      could not understand why he was so particularly animated and happy when,
+      after getting up at daybreak and spending the whole morning in the fields
+      or on the threshing floor, he returned from the sowing or mowing or
+      reaping to have tea with her. She did not understand why he spoke with
+      such admiration and delight of the farming of the thrifty and well-to-do
+      peasant Matthew Ermíshin, who with his family had carted corn all night;
+      or of the fact that his (Nicholas’) sheaves were already stacked before
+      anyone else had his harvest in. She did not understand why he stepped out
+      from the window to the veranda and smiled under his mustache and winked so
+      joyfully, when warm steady rain began to fall on the dry and thirsty
+      shoots of the young oats, or why when the wind carried away a threatening
+      cloud during the hay harvest he would return from the barn, flushed,
+      sunburned, and perspiring, with a smell of wormwood and gentian in his
+      hair and, gleefully rubbing his hands, would say: “Well, one more day and
+      my grain and the peasants’ will all be under cover.”
 
-      “Nicholas, when did you break your cameo?” she asked to change the
-      subject, looking at his finger on which he wore a ring with a cameo of
-      Laocoön’s head.
+      Still less did she understand why he, kindhearted and always ready to
+      anticipate her wishes, should become almost desperate when she brought him
+      a petition from some peasant men or women who had appealed to her to be
+      excused some work; why he, that kind Nicholas, should obstinately refuse
+      her, angrily asking her not to interfere in what was not her business. She
+      felt he had a world apart, which he loved passionately and which had laws
+      she had not fathomed.
 
-      “Today—it was the same affair. Oh, Mary, don’t remind me of it!” and
-      again he flushed. “I give you my word of honor it shan’t occur again, and
-      let this always be a reminder to me,” and he pointed to the broken ring.
+      Sometimes when, trying to understand him, she spoke of the good work he
+      was doing for his serfs, he would be vexed and reply: “Not in the least;
+      it never entered my head and I wouldn’t do *that* for their good!
+      That’s all poetry and old wives’ talk—all that doing good to
+      one’s neighbor! What I want is that our children should not have to go
+      begging. I must put our affairs in order while I am alive, that’s all.
+      And to do that, order and strictness are essential.... That’s all about
+      it!” said he, clenching his vigorous fist. “And fairness, of
+      course,” he added, “for if the peasant is naked and hungry and has
+      only one miserable horse, he can do no good either for himself or for me.”
 
-      After that, when in discussions with his village elders or stewards the
-      blood rushed to his face and his fists began to clench, Nicholas would
-      turn the broken ring on his finger and would drop his eyes before the man
-      who was making him angry. But he did forget himself once or twice within a
-      twelvemonth, and then he would go and confess to his wife, and would again
-      promise that this should really be the very last time.
-
-      “Mary, you must despise me!” he would say. “I deserve it.”
-
-      “You should go, go away at once, if you don’t feel strong enough to
-      control yourself,” she would reply sadly, trying to comfort her husband.
-
-      Among the gentry of the province Nicholas was respected but not liked. He
-      did not concern himself with the interests of his own class, and
-      consequently some thought him proud and others thought him stupid. The
-      whole summer, from spring sowing to harvest, he was busy with the work on
-      his farm. In autumn he gave himself up to hunting with the same
-      business-like seriousness—leaving home for a month, or even two,
-      with his hunt. In winter he visited his other villages or spent his time
-      reading. The books he read were chiefly historical, and on these he spent
-      a certain sum every year. He was collecting, as he said, a serious
-      library, and he made it a rule to read through all the books he bought. He
-      would sit in his study with a grave air, reading—a task he first
-      imposed upon himself as a duty, but which afterwards became a habit
-      affording him a special kind of pleasure and a consciousness of being
-      occupied with serious matters. In winter, except for business excursions,
-      he spent most of his time at home making himself one with his family and
-      entering into all the details of his children’s relations with their
-      mother. The harmony between him and his wife grew closer and closer and he
-      daily discovered fresh spiritual treasures in her.
-
-      From the time of his marriage Sónya had lived in his house. Before that,
-      Nicholas had told his wife all that had passed between himself and Sónya,
-      blaming himself and commending her. He had asked Princess Mary to be
-      gentle and kind to his cousin. She thoroughly realized the wrong he had
-      done Sónya, felt herself to blame toward her, and imagined that her wealth
-      had influenced Nicholas’ choice. She could not find fault with Sónya in
-      any way and tried to be fond of her, but often felt ill-will toward her
-      which she could not overcome.
-
-      Once she had a talk with her friend Natásha about Sónya and about her own
-      injustice toward her.
-
-      “You know,” said Natásha, “you have read the Gospels a great deal—there
-      is a passage in them that just fits Sónya.”
-
-      “What?” asked Countess Mary, surprised.
-
-      “‘To him that hath shall be given, and from him that hath not shall be
-      taken away.’ You remember? She is one that hath not; why, I don’t know.
-      Perhaps she lacks egotism, I don’t know, but from her is taken away, and
-      everything has been taken away. Sometimes I am dreadfully sorry for her.
-      Formerly I very much wanted Nicholas to marry her, but I always had a sort
-      of presentiment that it would not come off. She is a *sterile flower*, you
-      know—like some strawberry blossoms. Sometimes I am sorry for her,
-      and sometimes I think she doesn’t feel it as you or I would.”
-
-      Though Countess Mary told Natásha that those words in the Gospel must be
-      understood differently, yet looking at Sónya she agreed with Natásha’s
-      explanation. It really seemed that Sónya did not feel her position trying,
-      and had grown quite reconciled to her lot as a *sterile flower*. She seemed
-      to be fond not so much of individuals as of the family as a whole. Like a
-      cat, she had attached herself not to the people but to the home. She
-      waited on the old countess, petted and spoiled the children, was always
-      ready to render the small services for which she had a gift, and all this
-      was unconsciously accepted from her with insufficient gratitude.
-
-      The country seat at Bald Hills had been rebuilt, though not on the same
-      scale as under the old prince.
-
-      The buildings, begun under straitened circumstances, were more than
-      simple. The immense house on the old stone foundations was of wood,
-      plastered only inside. It had bare deal floors and was furnished with very
-      simple hard sofas, armchairs, tables, and chairs made by their own serf
-      carpenters out of their own birchwood. The house was spacious and had
-      rooms for the house serfs and apartments for visitors. Whole families of
-      the Rostóvs’ and Bolkónskis’ relations sometimes came to Bald Hills with
-      sixteen horses and dozens of servants and stayed for months. Besides that,
-      four times a year, on the name days and birthdays of the hosts, as many as
-      a hundred visitors would gather there for a day or two. The rest of the
-      year life pursued its unbroken routine with its ordinary occupations, and
-      its breakfasts, lunches, dinners, and suppers, provided out of the produce
-      of the estate.
+      And all Nicholas did was fruitful—probably just because he refused
+      to allow himself to think that he was doing good to others for virtue’s
+      sake. His means increased rapidly; serfs from neighboring estates came to
+      beg him to buy them, and long after his death the memory of his
+      administration was devoutly preserved among the serfs. “He was a master...
+      the peasants’ affairs first and then his own. Of course he was not to be
+      trifled with either—in a word, he was a real master!”

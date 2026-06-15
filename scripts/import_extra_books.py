@@ -291,6 +291,72 @@ def main():
             "cover_image_src": "../../html/cover-war-peace.jpg",
             "description": "The epic masterpiece detailing the French invasion of Russia and the impact of the Napoleonic era.",
             "is_wiki_index": False
+        },
+        {
+            "id": "a-honeymoon-in-space",
+            "folder": "A_Honeymoon_in_Space",
+            "index_file": "index.md",
+            "title": "A Honeymoon in Space",
+            "author": "George Griffith",
+            "genre": "Sci-Fi",
+            "cover_color": "linear-gradient(135deg, #0284c7 0%, #0369a1 100%)",
+            "description": "A classic science fiction novel featuring a journey through the solar system in a space ship called the Astronef.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "dr-jekyll-and-mr-hyde",
+            "folder": "Dr_Jekyll_and_Mr_Hyde",
+            "index_file": "index.md",
+            "title": "Dr. Jekyll and Mr. Hyde",
+            "author": "Robert Louis Stevenson",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #475569 0%, #334155 100%)",
+            "description": "The strange case of Dr. Jekyll and his alter ego, Mr. Hyde, investigating the duality of human nature.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "the-misplaced-battleship",
+            "folder": "The_Misplaced_Battleship",
+            "index_file": "index.md",
+            "title": "The Misplaced Battleship",
+            "author": "Harry Harrison",
+            "genre": "Sci-Fi",
+            "cover_color": "linear-gradient(135deg, #b45309 0%, #78350f 100%)",
+            "description": "A classic science fiction adventure following the Stainless Steel Rat as he searches for a stolen battleship.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "the-monk",
+            "folder": "The_Monk",
+            "index_file": "index.md",
+            "title": "The Monk",
+            "author": "M. G. Lewis",
+            "genre": "Horror",
+            "cover_color": "linear-gradient(135deg, #1e1b4b 0%, #0f172a 100%)",
+            "description": "A gothic horror romance novel by Matthew Gregory Lewis, depicting the downfall of the monk Ambrosio.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "the-odyssey",
+            "folder": "The_Odyssey",
+            "index_file": "index.md",
+            "title": "The Odyssey",
+            "author": "Homer",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #0891b2 0%, #0e7490 100%)",
+            "description": "The ancient epic poem detailing Odysseus' ten-year journey home after the fall of Troy.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "thuvia-maid-of-mars",
+            "folder": "Thuvia_Maid_of_Mars",
+            "index_file": "index.md",
+            "title": "Thuvia, Maid of Mars",
+            "author": "Edgar Rice Burroughs",
+            "genre": "Sci-Fi",
+            "cover_color": "linear-gradient(135deg, #ea580c 0%, #9a3412 100%)",
+            "description": "A classic science fantasy novel, the fourth of the Barsoom series by Edgar Rice Burroughs.",
+            "is_wiki_index": False
         }
     ]
     

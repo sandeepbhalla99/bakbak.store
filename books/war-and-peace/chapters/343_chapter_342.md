@@ -1,120 +1,105 @@
-# First Epilogue: 1813 - 20 - ChapterV
+# Book Fifteen: 1812 - 13 - ChapterIV
 
-Natásha’s wedding to Bezúkhov, which took place in 1813, was the last
-      happy event in the family of the old Rostóvs. Count Ilyá Rostóv died that
-      same year and, as always happens, after the father’s death the family
-      group broke up.
+The flood of nations begins to subside into its normal channels. The waves
+      of the great movement abate, and on the calm surface eddies are formed in
+      which float the diplomatists, who imagine that they have caused the floods
+      to abate.
 
-      The events of the previous year: the burning of Moscow and the flight from
-      it, the death of Prince Andrew, Natásha’s despair, Pétya’s death, and the
-      old countess’ grief fell blow after blow on the old count’s head. He
-      seemed to be unable to understand the meaning of all these events, and
-      bowed his old head in a spiritual sense as if expecting and inviting
-      further blows which would finish him. He seemed now frightened and
-      distraught and now unnaturally animated and enterprising.
+      But the smooth sea again suddenly becomes disturbed. The diplomatists
+      think that their disagreements are the cause of this fresh pressure of
+      natural forces; they anticipate war between their sovereigns; the position
+      seems to them insoluble. But the wave they feel to be rising does not come
+      from the quarter they expect. It rises again from the same point as before—Paris.
+      The last backwash of the movement from the west occurs: a backwash which
+      serves to solve the apparently insuperable diplomatic difficulties and
+      ends the military movement of that period of history.
 
-      The arrangements for Natásha’s marriage occupied him for a while. He
-      ordered dinners and suppers and obviously tried to appear cheerful, but
-      his cheerfulness was not infectious as it used to be: on the contrary it
-      evoked the compassion of those who knew and liked him.
+      The man who had devastated France returns to France alone, without any
+      conspiracy and without soldiers. Any guard might arrest him, but by
+      strange chance no one does so and all rapturously greet the man they
+      cursed the day before and will curse again a month later.
 
-      When Pierre and his wife had left, he grew very quiet and began to
-      complain of depression. A few days later he fell ill and took to his bed.
-      He realized from the first that he would not get up again, despite the
-      doctor’s encouragement. The countess passed a fortnight in an armchair by
-      his pillow without undressing. Every time she gave him his medicine he
-      sobbed and silently kissed her hand. On his last day, sobbing, he asked
-      her and his absent son to forgive him for having dissipated their property—that
-      being the chief fault of which he was conscious. After receiving communion
-      and unction he quietly died; and next day a throng of acquaintances who
-      came to pay their last respects to the deceased filled the house rented by
-      the Rostóvs. All these acquaintances, who had so often dined and danced at
-      his house and had so often laughed at him, now said, with a common feeling
-      of self-reproach and emotion, as if justifying themselves: “Well, whatever
-      he may have been he was a most worthy man. You don’t meet such men
-      nowadays.... And which of us has not weaknesses of his own?”
+      This man is still needed to justify the final collective act.
 
-      It was just when the count’s affairs had become so involved that it was
-      impossible to say what would happen if he lived another year that he
-      unexpectedly died.
+      That act is performed.
 
-      Nicholas was with the Russian army in Paris when the news of his father’s
-      death reached him. He at once resigned his commission, and without waiting
-      for it to be accepted took leave of absence and went to Moscow. The state
-      of the count’s affairs became quite obvious a month after his death,
-      surprising everyone by the immense total of small debts the existence of
-      which no one had suspected. The debts amounted to double the value of the
-      property.
+      The last rôle is played. The actor is bidden to disrobe and wash off his
+      powder and paint: he will not be wanted any more.
 
-      Friends and relations advised Nicholas to decline the inheritance. But he
-      regarded such a refusal as a slur on his father’s memory, which he held
-      sacred, and therefore would not hear of refusing and accepted the
-      inheritance together with the obligation to pay the debts.
+      And some years pass during which he plays a pitiful comedy to himself in
+      solitude on his island, justifying his actions by intrigues and lies when
+      the justification is no longer needed, and displaying to the whole world
+      what it was that people had mistaken for strength as long as an unseen
+      hand directed his actions.
 
-      The creditors who had so long been silent, restrained by a vague but
-      powerful influence exerted on them while he lived by the count’s careless
-      good nature, all proceeded to enforce their claims at once. As always
-      happens in such cases rivalry sprang up as to which should get paid first,
-      and those who like Mítenka held promissory notes given them as presents
-      now became the most exacting of the creditors. Nicholas was allowed no
-      respite and no peace, and those who had seemed to pity the old man—the
-      cause of their losses (if they were losses)—now remorselessly
-      pursued the young heir who had voluntarily undertaken the debts and was
-      obviously not guilty of contracting them.
+      The manager having brought the drama to a close and stripped the actor
+      shows him to us.
 
-      Not one of the plans Nicholas tried succeeded; the estate was sold by
-      auction for half its value, and half the debts still remained unpaid.
-      Nicholas accepted thirty thousand rubles offered him by his brother-in-law
-      Bezúkhov to pay off debts he regarded as genuinely due for value received.
-      And to avoid being imprisoned for the remainder, as the creditors
-      threatened, he re-entered the government service.
+      “See what you believed in! This is he! Do you now see that it was not he
+      but I who moved you?”
 
-      He could not rejoin the army where he would have been made colonel at the
-      next vacancy, for his mother now clung to him as her one hold on life; and
-      so despite his reluctance to remain in Moscow among people who had known
-      him before, and despite his abhorrence of the civil service, he accepted a
-      post in Moscow in that service, doffed the uniform of which he was so
-      fond, and moved with his mother and Sónya to a small house on the Sívtsev
-      Vrazhók.
+      But dazed by the force of the movement, it was long before people
+      understood this.
 
-      Natásha and Pierre were living in Petersburg at the time and had no clear
-      idea of Nicholas’ circumstances. Having borrowed money from his
-      brother-in-law, Nicholas tried to hide his wretched condition from him.
-      His position was the more difficult because with his salary of twelve
-      hundred rubles he had not only to keep himself, his mother, and Sónya, but
-      had to shield his mother from knowledge of their poverty. The countess
-      could not conceive of life without the luxurious conditions she had been
-      used to from childhood and, unable to realize how hard it was for her son,
-      kept demanding now a carriage (which they did not keep) to send for a
-      friend, now some expensive article of food for herself, or wine for her
-      son, or money to buy a present as a surprise for Natásha or Sónya, or for
-      Nicholas himself.
+      Still greater coherence and inevitability is seen in the life of Alexander
+      I, the man who stood at the head of the countermovement from east to west.
 
-      Sónya kept house, attended on her aunt, read to her, put up with her whims
-      and secret ill-will, and helped Nicholas to conceal their poverty from the
-      old countess. Nicholas felt himself irredeemably indebted to Sónya for all
-      she was doing for his mother and greatly admired her patience and
-      devotion, but tried to keep aloof from her.
+      What was needed for him who, overshadowing others, stood at the head of
+      that movement from east to west?
 
-      He seemed in his heart to reproach her for being too perfect, and because
-      there was nothing to reproach her with. She had all that people are valued
-      for, but little that could have made him love her. He felt that the more
-      he valued her the less he loved her. He had taken her at her word when she
-      wrote giving him his freedom and now behaved as if all that had passed
-      between them had been long forgotten and could never in any case be
-      renewed.
+      What was needed was a sense of justice and a sympathy with European
+      affairs, but a remote sympathy not dulled by petty interests; a moral
+      superiority over those sovereigns of the day who co-operated with him; a
+      mild and attractive personality; and a personal grievance against
+      Napoleon. And all this was found in Alexander I; all this had been
+      prepared by innumerable so-called *chances* in his life: his education, his
+      early liberalism, the advisers who surrounded him, and by Austerlitz, and
+      Tilsit, and Erfurt.
 
-      Nicholas’ position became worse and worse. The idea of putting something
-      aside out of his salary proved a dream. Not only did he not save anything,
-      but to comply with his mother’s demands he even incurred some small debts.
-      He could see no way out of this situation. The idea of marrying some rich
-      woman, which was suggested to him by his female relations, was repugnant
-      to him. The other way out—his mother’s death—never entered his
-      head. He wished for nothing and hoped for nothing, and deep in his heart
-      experienced a gloomy and stern satisfaction in an uncomplaining endurance
-      of his position. He tried to avoid his old acquaintances with their
-      commiseration and offensive offers of assistance; he avoided all
-      distraction and recreation, and even at home did nothing but play cards
-      with his mother, pace silently up and down the room, and smoke one pipe
-      after another. He seemed carefully to cherish within himself the gloomy
-      mood which alone enabled him to endure his position.
+      During the national war he was inactive because he was not needed. But as
+      soon as the necessity for a general European war presented itself he
+      appeared in his place at the given moment and, uniting the nations of
+      Europe, led them to the goal.
+
+      The goal is reached. After the final war of 1815 Alexander possesses all
+      possible power. How does he use it?
+
+      Alexander I—the pacifier of Europe, the man who from his early years
+      had striven only for his people’s welfare, the originator of the liberal
+      innovations in his fatherland—now that he seemed to possess the
+      utmost power and therefore to have the possibility of bringing about the
+      welfare of his peoples—at the time when Napoleon in exile was
+      drawing up childish and mendacious plans of how he would have made mankind
+      happy had he retained power—Alexander I, having fulfilled his
+      mission and feeling the hand of God upon him, suddenly recognizes the
+      insignificance of that supposed power, turns away from it, and gives it
+      into the hands of contemptible men whom he despises, saying only:
+
+      “Not unto us, not unto us, but unto Thy Name!... I too am a man like the
+      rest of you. Let me live like a man and think of my soul and of God.”
+
+      As the sun and each atom of ether is a sphere complete in itself, and yet
+      at the same time only a part of a whole too immense for man to comprehend,
+      so each individual has within himself his own aims and yet has them to
+      serve a general purpose incomprehensible to man.
+
+      A bee settling on a flower has stung a child. And the child is afraid of
+      bees and declares that bees exist to sting people. A poet admires the bee
+      sucking from the chalice of a flower and says it exists to suck the
+      fragrance of flowers. A beekeeper, seeing the bee collect pollen from
+      flowers and carry it to the hive, says that it exists to gather honey.
+      Another beekeeper who has studied the life of the hive more closely says
+      that the bee gathers pollen dust to feed the young bees and rear a queen,
+      and that it exists to perpetuate its race. A botanist notices that the bee
+      flying with the pollen of a male flower to a pistil fertilizes the latter,
+      and sees in this the purpose of the bee’s existence. Another, observing
+      the migration of plants, notices that the bee helps in this work, and may
+      say that in this lies the purpose of the bee. But the ultimate purpose of
+      the bee is not exhausted by the first, the second, or any of the processes
+      the human mind can discern. The higher the human intellect rises in the
+      discovery of these purposes, the more obvious it becomes, that the
+      ultimate purpose is beyond our comprehension.
+
+      All that is accessible to man is the relation of the life of the bee to
+      other manifestations of life. And so it is with the purpose of historic
+      characters and nations.

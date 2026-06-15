@@ -1,83 +1,182 @@
-# Second Epilogue - ChapterIII
+# Book Fifteen: 1812 - 13 - ChapterI
 
-A locomotive is moving. Someone asks: “What moves it?” A peasant says the
-      devil moves it. Another man says the locomotive moves because its wheels
-      go round. A third asserts that the cause of its movement lies in the smoke
-      which the wind carries away.
+History is the life of nations and of humanity. To seize and put into
+      words, to describe directly the life of humanity or even of a single
+      nation, appears impossible.
 
-      The peasant is irrefutable. He has devised a complete explanation. To
-      refute him someone would have to prove to him that there is no devil, or
-      another peasant would have to explain to him that it is not the devil but
-      a German, who moves the locomotive. Only then, as a result of the
-      contradiction, will they see that they are both wrong. But the man who
-      says that the movement of the wheels is the cause refutes himself, for
-      having once begun to analyze he ought to go on and explain further why the
-      wheels go round; and till he has reached the ultimate cause of the
-      movement of the locomotive in the pressure of steam in the boiler, he has
-      no right to stop in his search for the cause. The man who explains the
-      movement of the locomotive by the smoke that is carried back has noticed
-      that the wheels do not supply an explanation and has taken the first sign
-      that occurs to him and in his turn has offered that as an explanation.
+      The ancient historians all employed one and the same method to describe
+      and seize the apparently elusive—the life of a people. They
+      described the activity of individuals who ruled the people, and regarded
+      the activity of those men as representing the activity of the whole
+      nation.
 
-      The only conception that can explain the movement of the locomotive is
-      that of a force commensurate with the movement observed.
+      The question: how did individuals make nations act as they wished and by
+      what was the will of these individuals themselves guided? the ancients met
+      by recognizing a divinity which subjected the nations to the will of a
+      chosen man, and guided the will of that chosen man so as to accomplish
+      ends that were predestined.
 
-      The only conception that can explain the movement of the peoples is that
-      of some force commensurate with the whole movement of the peoples.
+      For the ancients these questions were solved by a belief in the direct
+      participation of the Deity in human affairs.
 
-      Yet to supply this conception various historians take forces of different
-      kinds, all of which are incommensurate with the movement observed. Some
-      see it as a force directly inherent in heroes, as the peasant sees the
-      devil in the locomotive; others as a force resulting from several other
-      forces, like the movement of the wheels; others again as an intellectual
-      influence, like the smoke that is blown away.
+      Modern history, in theory, rejects both these principles.
 
-      So long as histories are written of separate individuals, whether Caesars,
-      Alexanders, Luthers, or Voltaires, and not the histories of *all*,
-      absolutely *all* those who take part in an event, it is quite impossible to
-      describe the movement of humanity without the conception of a force
-      compelling men to direct their activity toward a certain end. And the only
-      such conception known to historians is that of power.
+      It would seem that having rejected the belief of the ancients in man’s
+      subjection to the Deity and in a predetermined aim toward which nations
+      are led, modern history should study not the manifestations of power but
+      the causes that produce it. But modern history has not done this. Having
+      in theory rejected the view held by the ancients, it still follows them in
+      practice.
 
-      This conception is the one handle by means of which the material of
-      history, as at present expounded, can be dealt with, and anyone who breaks
-      that handle off, as Buckle did, without finding some other method of
-      treating historical material, merely deprives himself of the one possible
-      way of dealing with it. The necessity of the conception of power as an
-      explanation of historical events is best demonstrated by the universal
-      historians and historians of culture themselves, for they professedly
-      reject that conception but inevitably have recourse to it at every step.
+      Instead of men endowed with divine authority and directly guided by the
+      will of God, modern history has given us either heroes endowed with
+      extraordinary, superhuman capacities, or simply men of very various kinds,
+      from monarchs to journalists, who lead the masses. Instead of the former
+      divinely appointed aims of the Jewish, Greek, or Roman nations, which
+      ancient historians regarded as representing the progress of humanity,
+      modern history has postulated its own aims—the welfare of the
+      French, German, or English people, or, in its highest abstraction, the
+      welfare and civilization of humanity in general, by which is usually meant
+      that of the peoples occupying a small northwesterly portion of a large
+      continent.
 
-      In dealing with humanity’s inquiry, the science of history up to now is
-      like money in circulation—paper money and coin. The biographies and
-      special national histories are like paper money. They can be used and can
-      circulate and fulfill their purpose without harm to anyone and even
-      advantageously, as long as no one asks what is the security behind them.
-      You need only forget to ask how the will of heroes produces events, and
-      such histories as Thiers’ will be interesting and instructive and may
-      perhaps even possess a tinge of poetry. But just as doubts of the real
-      value of paper money arise either because, being easy to make, too much of
-      it gets made or because people try to exchange it for gold, so also doubts
-      concerning the real value of such histories arise either because too many
-      of them are written or because in his simplicity of heart someone
-      inquires: by what force did Napoleon do this?—that is, wants to
-      exchange the current paper money for the real gold of actual
-      comprehension.
+      Modern history has rejected the beliefs of the ancients without replacing
+      them by a new conception, and the logic of the situation has obliged the
+      historians, after they had apparently rejected the divine authority of the
+      kings and the “fate” of the ancients, to reach the same conclusion by
+      another road, that is, to recognize (1) nations guided by individual men,
+      and (2) the existence of a known aim to which these nations and humanity
+      at large are tending.
 
-      The writers of universal histories and of the history of culture are like
-      people who, recognizing the defects of paper money, decide to substitute
-      for it money made of metal that has not the specific gravity of gold. It
-      may indeed make jingling coin, but will do no more than that. Paper money
-      may deceive the ignorant, but nobody is deceived by tokens of base metal
-      that have no value but merely jingle. As gold is gold only if it is
-      serviceable not merely for exchange but also for use, so universal
-      historians will be valuable only when they can reply to history’s
-      essential question: what is power? The universal historians give
-      contradictory replies to that question, while the historians of culture
-      evade it and answer something quite different. And as counters of
-      imitation gold can be used only among a group of people who agree to
-      accept them as gold, or among those who do not know the nature of gold, so
-      universal historians and historians of culture, not answering humanity’s
-      essential question, serve as currency for some purposes of their own, only
-      in universities and among the mass of readers who have a taste for what
-      they call “serious reading.”
+      At the basis of the works of all the modern historians from Gibbon to
+      Buckle, despite their seeming disagreements and the apparent novelty of
+      their outlooks, lie those two old, unavoidable assumptions.
+
+      In the first place the historian describes the activity of individuals who
+      in his opinion have directed humanity (one historian considers only
+      monarchs, generals, and ministers as being such men, while another
+      includes also orators, learned men, reformers, philosophers, and poets).
+      Secondly, it is assumed that the goal toward which humanity is being led
+      is known to the historians: to one of them this goal is the greatness of
+      the Roman, Spanish, or French realm; to another it is liberty, equality,
+      and a certain kind of civilization of a small corner of the world called
+      Europe.
+
+      In 1789 a ferment arises in Paris; it grows, spreads, and is expressed by
+      a movement of peoples from west to east. Several times it moves eastward
+      and collides with a countermovement from the east westward. In 1812 it
+      reaches its extreme limit, Moscow, and then, with remarkable symmetry, a
+      countermovement occurs from east to west, attracting to it, as the first
+      movement had done, the nations of middle Europe. The counter movement
+      reaches the starting point of the first movement in the west—Paris—and
+      subsides.
+
+      During that twenty-year period an immense number of fields were left
+      untilled, houses were burned, trade changed its direction, millions of men
+      migrated, were impoverished, or were enriched, and millions of Christian
+      men professing the law of love of their fellows slew one another.
+
+      What does all this mean? Why did it happen? What made those people burn
+      houses and slay their fellow men? What were the causes of these events?
+      What force made men act so? These are the instinctive, plain, and most
+      legitimate questions humanity asks itself when it encounters the monuments
+      and tradition of that period.
+
+      For a reply to these questions the common sense of mankind turns to the
+      science of history, whose aim is to enable nations and humanity to know
+      themselves.
+
+      If history had retained the conception of the ancients it would have said
+      that God, to reward or punish his people, gave Napoleon power and directed
+      his will to the fulfillment of the divine ends, and that reply would have
+      been clear and complete. One might believe or disbelieve in the divine
+      significance of Napoleon, but for anyone believing in it there would have
+      been nothing unintelligible in the history of that period, nor would there
+      have been any contradictions.
+
+      But modern history cannot give that reply. Science does not admit the
+      conception of the ancients as to the direct participation of the Deity in
+      human affairs, and therefore history ought to give other answers.
+
+      Modern history replying to these questions says: you want to know what
+      this movement means, what caused it, and what force produced these events?
+      Then listen:
+
+      “Louis XIV was a very proud and self-confident man; he had such and such
+      mistresses and such and such ministers and he ruled France badly. His
+      descendants were weak men and they too ruled France badly. And they had
+      such and such favorites and such and such mistresses. Moreover, certain
+      men wrote some books at that time. At the end of the eighteenth century
+      there were a couple of dozen men in Paris who began to talk about all men
+      being free and equal. This caused people all over France to begin to slash
+      at and drown one another. They killed the king and many other people. At
+      that time there was in France a man of genius—Napoleon. He conquered
+      everybody everywhere—that is, he killed many people because he was a
+      great genius. And for some reason he went to kill Africans, and killed
+      them so well and was so cunning and wise that when he returned to France
+      he ordered everybody to obey him, and they all obeyed him. Having become
+      an Emperor he again went out to kill people in Italy, Austria, and
+      Prussia. And there too he killed a great many. In Russia there was an
+      Emperor, Alexander, who decided to restore order in Europe and therefore
+      fought against Napoleon. In 1807 he suddenly made friends with him, but in
+      1811 they again quarreled and again began killing many people. Napoleon
+      led six hundred thousand men into Russia and captured Moscow; then he
+      suddenly ran away from Moscow, and the Emperor Alexander, helped by the
+      advice of Stein and others, united Europe to arm against the disturber of
+      its peace. All Napoleon’s allies suddenly became his enemies and their
+      forces advanced against the fresh forces he raised. The Allies defeated
+      Napoleon, entered Paris, forced Napoleon to abdicate, and sent him to the
+      island of Elba, not depriving him of the title of Emperor and showing him
+      every respect, though five years before and one year later they all
+      regarded him as an outlaw and a brigand. Then Louis XVIII, who till then
+      had been the laughingstock both of the French and the Allies, began to
+      reign. And Napoleon, shedding tears before his Old Guards, renounced the
+      throne and went into exile. Then the skillful statesmen and diplomatists
+      (especially Talleyrand, who managed to sit down in a particular chair
+      before anyone else and thereby extended the frontiers of France) talked in
+      Vienna and by these conversations made the nations happy or unhappy.
+      Suddenly the diplomatists and monarchs nearly quarreled and were on the
+      point of again ordering their armies to kill one another, but just then
+      Napoleon arrived in France with a battalion, and the French, who had been
+      hating him, immediately all submitted to him. But the Allied monarchs were
+      angry at this and went to fight the French once more. And they defeated
+      the genius Napoleon and, suddenly recognizing him as a brigand, sent him
+      to the island of St. Helena. And the exile, separated from the beloved
+      France so dear to his heart, died a lingering death on that rock and
+      bequeathed his great deeds to posterity. But in Europe a reaction occurred
+      and the sovereigns once again all began to oppress their subjects.”
+
+      It would be a mistake to think that this is ironic—a caricature of
+      the historical accounts. On the contrary it is a very mild expression of
+      the contradictory replies, not meeting the questions, which *all* the
+      historians give, from the compilers of memoirs and the histories of
+      separate states to the writers of general histories and the new histories
+      of the *culture* of that period.
+
+      The strangeness and absurdity of these replies arise from the fact that
+      modern history, like a deaf man, answers questions no one has asked.
+
+      If the purpose of history be to give a description of the movement of
+      humanity and of the peoples, the first question—in the absence of a
+      reply to which all the rest will be incomprehensible—is: what is the
+      power that moves peoples? To this, modern history laboriously replies
+      either that Napoleon was a great genius, or that Louis XIV was very proud,
+      or that certain writers wrote certain books.
+
+      All that may be so and mankind is ready to agree with it, but it is not
+      what was asked. All *that* would be interesting if we recognized a divine
+      power based on itself and always consistently directing its nations
+      through Napoleons, Louis-es, and writers; but we do not acknowledge such a
+      power, and therefore before speaking about Napoleons, Louis-es, and
+      authors, we ought to be shown the connection existing between these men
+      and the movement of the nations.
+
+      If instead of a divine power some other force has appeared, it should be
+      explained in what this new force consists, for the whole interest of
+      history lies precisely in that force.
+
+      History seems to assume that this force is self-evident and known to
+      everyone. But in spite of every desire to regard it as known, anyone
+      reading many historical works cannot help doubting whether this new force,
+      so variously understood by the historians themselves, is really quite well
+      known to everybody.

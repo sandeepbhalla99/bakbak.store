@@ -1,209 +1,139 @@
-# Second Epilogue - ChapterIX
+# Book Fifteen: 1812 - 13 - ChapterVII
 
-For the solution of the question of free will or inevitability, history
-      has this advantage over other branches of knowledge in which the question
-      is dealt with, that for history this question does not refer to the
-      essence of man’s free will but its manifestation in the past and under
-      certain conditions.
+When an event is taking place people express their opinions and wishes
+      about it, and as the event results from the collective activity of many
+      people, some one of the opinions or wishes expressed is sure to be
+      fulfilled if but approximately. When one of the opinions expressed is
+      fulfilled, that opinion gets connected with the event as a command
+      preceding it.
 
-      In regard to this question, history stands to the other sciences as
-      experimental science stands to abstract science.
+      Men are hauling a log. Each of them expresses his opinion as to how and
+      where to haul it. They haul the log away, and it happens that this is done
+      as one of them said. He *ordered* it. There we have command and power in
+      their primary form. The man who worked most with his hands could not think
+      so much about what he was doing, or reflect on or command what would
+      result from the common activity; while the man who commanded more would
+      evidently work less with his hands on account of his greater verbal
+      activity.
 
-      The subject for history is not man’s will itself but our presentation of
-      it.
+      When some larger concourse of men direct their activity to a common aim
+      there is a yet sharper division of those who, because their activity is
+      given to directing and commanding, take less part in the direct work.
 
-      And so for history, the insoluble mystery presented by the incompatibility
-      of free will and inevitability does not exist as it does for theology,
-      ethics, and philosophy. History surveys a presentation of man’s life in
-      which the union of these two contradictions has already taken place.
+      When a man works alone he always has a certain set of reflections which as
+      it seems to him directed his past activity, justify his present activity,
+      and guide him in planning his future actions. Just the same is done by a
+      concourse of people, allowing those who do not take a direct part in the
+      activity to devise considerations, justifications, and surmises concerning
+      their collective activity.
 
-      In actual life each historic event, each human action, is very clearly and
-      definitely understood without any sense of contradiction, although each
-      event presents itself as partly free and partly compulsory.
+      For reasons known or unknown to us the French began to drown and kill one
+      another. And corresponding to the event its justification appears in
+      people’s belief that this was necessary for the welfare of France, for
+      liberty, and for equality. People ceased to kill one another, and this
+      event was accompanied by its justification in the necessity for a
+      centralization of power, resistance to Europe, and so on. Men went from
+      the west to the east killing their fellow men, and the event was
+      accompanied by phrases about the glory of France, the baseness of England,
+      and so on. History shows us that these justifications of the events have
+      no common sense and are all contradictory, as in the case of killing a man
+      as the result of recognizing his rights, and the killing of millions in
+      Russia for the humiliation of England. But these justifications have a
+      very necessary significance in their own day.
 
-      To solve the question of how freedom and necessity are combined and what
-      constitutes the essence of these two conceptions, the philosophy of
-      history can and should follow a path contrary to that taken by other
-      sciences. Instead of first defining the conceptions of freedom and
-      inevitability in themselves, and then ranging the phenomena of life under
-      those definitions, history should deduce a definition of the conception of
-      freedom and inevitability themselves from the immense quantity of
-      phenomena of which it is cognizant and that always appear dependent on
-      these two elements.
+      These justifications release those who produce the events from moral
+      responsibility. These temporary aims are like the broom fixed in front of
+      a locomotive to clear the snow from the rails in front: they clear men’s
+      moral responsibilities from their path.
 
-      Whatever presentation of the activity of many men or of an individual we
-      may consider, we always regard it as the result partly of man’s free will
-      and partly of the law of inevitability.
+      Without such justification there would be no reply to the simplest
+      question that presents itself when examining each historical event. How is
+      it that millions of men commit collective crimes—make war, commit
+      murder, and so on?
 
-      Whether we speak of the migration of the peoples and the incursions of the
-      barbarians, or of the decrees of Napoleon III, or of someone’s action an
-      hour ago in choosing one direction out of several for his walk, we are
-      unconscious of any contradiction. The degree of freedom and inevitability
-      governing the actions of these people is clearly defined for us.
+      With the present complex forms of political and social life in Europe can
+      any event that is not prescribed, decreed, or ordered by monarchs,
+      ministers, parliaments, or newspapers be imagined? Is there any collective
+      action which cannot find its justification in political unity, in
+      patriotism, in the balance of power, or in civilization? So that every
+      event that occurs inevitably coincides with some expressed wish and,
+      receiving a justification, presents itself as the result of the will of
+      one man or of several men.
 
-      Our conception of the degree of freedom often varies according to
-      differences in the point of view from which we regard the event, but every
-      human action appears to us as a certain combination of freedom and
-      inevitability. In every action we examine we see a certain measure of
-      freedom and a certain measure of inevitability. And always the more
-      freedom we see in any action the less inevitability do we perceive, and
-      the more inevitability the less freedom.
+      In whatever direction a ship moves, the flow of the waves it cuts will
+      always be noticeable ahead of it. To those on board the ship the movement
+      of those waves will be the only perceptible motion.
 
-      The proportion of freedom to inevitability decreases and increases
-      according to the point of view from which the action is regarded, but
-      their relation is always one of inverse proportion.
+      Only by watching closely moment by moment the movement of that flow and
+      comparing it with the movement of the ship do we convince ourselves that
+      every bit of it is occasioned by the forward movement of the ship, and
+      that we were led into error by the fact that we ourselves were
+      imperceptibly moving.
 
-      A sinking man who clutches at another and drowns him; or a hungry mother
-      exhausted by feeding her baby, who steals some food; or a man trained to
-      discipline who on duty at the word of command kills a defenseless man—seem
-      less guilty, that is, less free and more subject to the law of necessity,
-      to one who knows the circumstances in which these people were placed, and
-      more free to one who does not know that the man was himself drowning, that
-      the mother was hungry, that the soldier was in the ranks, and so on.
-      Similarly a man who committed a murder twenty years ago and has since
-      lived peaceably and harmlessly in society seems less guilty and his action
-      more due to the law of inevitability, to someone who considers his action
-      after twenty years have elapsed than to one who examined it the day after
-      it was committed. And in the same way every action of an insane,
-      intoxicated, or highly excited man appears less free and more inevitable
-      to one who knows the mental condition of him who committed the action, and
-      seems more free and less inevitable to one who does not know it. In all
-      these cases the conception of freedom is increased or diminished and the
-      conception of compulsion is correspondingly decreased or increased,
-      according to the point of view from which the action is regarded. So that
-      the greater the conception of necessity the smaller the conception of
-      freedom and vice versa.
+      We see the same if we watch moment by moment the movement of historical
+      characters (that is, re-establish the inevitable condition of all that
+      occurs—the continuity of movement in time) and do not lose sight of
+      the essential connection of historical persons with the masses.
 
-      Religion, the common sense of mankind, the science of jurisprudence, and
-      history itself understand alike this relation between necessity and
-      freedom.
+      When the ship moves in one direction there is one and the same wave ahead
+      of it, when it turns frequently the wave ahead of it also turns
+      frequently. But wherever it may turn there always will be the wave
+      anticipating its movement.
 
-      All cases without exception in which our conception of freedom and
-      necessity is increased and diminished depend on three considerations:
+      Whatever happens it always appears that just that event was foreseen and
+      decreed. Wherever the ship may go, the rush of water which neither directs
+      nor increases its movement foams ahead of it, and at a distance seems to
+      us not merely to move of itself but to govern the ship’s movement also.
 
-      (1) The relation to the external world of the man who commits the deeds.
+      Examining only those expressions of the will of historical persons which,
+      as commands, were related to events, historians have assumed that the
+      events depended on those commands. But examining the events themselves and
+      the connection in which the historical persons stood to the people, we
+      have found that they and their orders were dependent on events. The
+      incontestable proof of this deduction is that, however many commands were
+      issued, the event does not take place unless there are other causes for
+      it, but as soon as an event occurs—be it what it may—then out
+      of all the continually expressed wishes of different people some will
+      always be found which by their meaning and their time of utterance are
+      related as commands to the events.
 
-      (2) His relation to time.
+      Arriving at this conclusion we can reply directly and positively to these
+      two essential questions of history:
 
-      (3) His relation to the causes leading to the action.
+      (1) What is power?
 
-      The first consideration is the clearness of our perception of the man’s
-      relation to the external world and the greater or lesser clearness of our
-      understanding of the definite position occupied by the man in relation to
-      everything coexisting with him. This is what makes it evident that a
-      drowning man is less free and more subject to necessity than one standing
-      on dry ground, and that makes the actions of a man closely connected with
-      others in a thickly populated district, or of one bound by family,
-      official, or business duties, seem certainly less free and more subject to
-      necessity than those of a man living in solitude and seclusion.
+      (2) What force produces the movement of the nations?
 
-      If we consider a man alone, apart from his relation to everything around
-      him, each action of his seems to us free. But if we see his relation to
-      anything around him, if we see his connection with anything whatever—with
-      a man who speaks to him, a book he reads, the work on which he is engaged,
-      even with the air he breathes or the light that falls on the things about
-      him—we see that each of these circumstances has an influence on him
-      and controls at least some side of his activity. And the more we perceive
-      of these influences the more our conception of his freedom diminishes and
-      the more our conception of the necessity that weighs on him increases.
+      (1) Power is the relation of a given person to other individuals, in which
+      the more this person expresses opinions, predictions, and justifications
+      of the collective action that is performed, the less is his participation
+      in that action.
 
-      The second consideration is the more or less evident time relation of the
-      man to the world and the clearness of our perception of the place the
-      man’s action occupies in time. That is the ground which makes the fall of
-      the first man, resulting in the production of the human race, appear
-      evidently less free than a man’s entry into marriage today. It is the
-      reason why the life and activity of people who lived centuries ago and are
-      connected with me in time cannot seem to me as free as the life of a
-      contemporary, the consequences of which are still unknown to me.
+      (2) The movement of nations is caused not by power, nor by intellectual
+      activity, nor even by a combination of the two as historians have
+      supposed, but by the activity of *all* the people who participate in the
+      events, and who always combine in such a way that those taking the largest
+      direct share in the event take on themselves the least responsibility and
+      vice versa.
 
-      The degree of our conception of freedom or inevitability depends in this
-      respect on the greater or lesser lapse of time between the performance of
-      the action and our judgment of it.
+      Morally the wielder of power appears to cause the event; physically it is
+      those who submit to the power. But as the moral activity is inconceivable
+      without the physical, the cause of the event is neither in the one nor in
+      the other but in the union of the two.
 
-      If I examine an actI performed a moment ago in approximately the same
-      circumstances as those I am in now, my action appears to me undoubtedly
-      free. But if I examine an act performed a month ago, then being in
-      different circumstances, I cannot help recognizing that if that act had
-      not been committed much that resulted from it—good, agreeable, and
-      even essential—would not have taken place. If I reflect on an action
-      still more remote, ten years ago or more, then the consequences of my
-      action are still plainer to me and I find it hard to imagine what would
-      have happened had that action not been performed. The farther I go back in
-      memory, or what is the same thing the farther I go forward in my judgment,
-      the more doubtful becomes my belief in the freedom of my action.
+      Or in other words, the conception of a cause is inapplicable to the
+      phenomena we are examining.
 
-      In history we find a very similar progress of conviction concerning the
-      part played by free will in the general affairs of humanity. A
-      contemporary event seems to us to be indubitably the doing of all the
-      known participants, but with a more remote event we already see its
-      inevitable results which prevent our considering anything else possible.
-      And the farther we go back in examining events the less arbitrary do they
-      appear.
+      In the last analysis we reach the circle of infinity—that final
+      limit to which in every domain of thought man’s reason arrives if it is
+      not playing with the subject. Electricity produces heat, heat produces
+      electricity. Atoms attract each other and atoms repel one another.
 
-      The Austro-Prussian war appears to us undoubtedly the result of the crafty
-      conduct of Bismarck, and so on. The Napoleonic wars still seem to us,
-      though already questionably, to be the outcome of their heroes’ will. But
-      in the Crusades we already see an event occupying its definite place in
-      history and without which we cannot imagine the modern history of Europe,
-      though to the chroniclers of the Crusades that event appeared as merely
-      due to the will of certain people. In regard to the migration of the
-      peoples it does not enter anyone’s head today to suppose that the
-      renovation of the European world depended on Attila’s caprice. The farther
-      back in history the object of our observation lies, the more doubtful does
-      the free will of those concerned in the event become and the more manifest
-      the law of inevitability.
-
-      The third consideration is the degree to which we apprehend that endless
-      chain of causation inevitably demanded by reason, in which each phenomenon
-      comprehended, and therefore man’s every action, must have its definite
-      place as a result of what has gone before and as a cause of what will
-      follow.
-
-      The better we are acquainted with the physiological, psychological, and
-      historical laws deduced by observation and by which man is controlled, and
-      the more correctly we perceive the physiological, psychological, and
-      historical causes of the action, and the simpler the action we are
-      observing and the less complex the character and mind of the man in
-      question, the more subject to inevitability and the less free do our
-      actions and those of others appear.
-
-      When we do not at all understand the cause of an action, whether a crime,
-      a good action, or even one that is simply nonmoral, we ascribe a greater
-      amount of freedom to it. In the case of a crime we most urgently demand
-      the punishment for such an act; in the case of a virtuous act we rate its
-      merit most highly. In an indifferent case we recognize in it more
-      individuality, originality, and independence. But if even one of the
-      innumerable causes of the act is known to us we recognize a certain
-      element of necessity and are less insistent on punishment for the crime,
-      or the acknowledgment of the merit of the virtuous act, or the freedom of
-      the apparently original action. That a criminal was reared among
-      malefactors mitigates his fault in our eyes. The self-sacrifice of a father or
-      mother, or self-sacrifice with the possibility of a reward, is more
-      comprehensible than gratuitous self-sacrifice, and therefore seems less
-      deserving of sympathy and less the result of free will. The founder of a
-      sect or party, or an inventor, impresses us less when we know how or by
-      what the way was prepared for his activity. If we have a large range of
-      examples, if our observation is constantly directed to seeking the
-      correlation of cause and effect in people’s actions, their actions appear
-      to us more under compulsion and less free the more correctly we connect
-      the effects with the causes. If we examined simple actions and had a vast
-      number of such actions under observation, our conception of their
-      inevitability would be still greater. The dishonest conduct of the son of
-      a dishonest father, the misconduct of a woman who had fallen into bad
-      company, a drunkard’s relapse into drunkenness, and so on are actions that
-      seem to us less free the better we understand their cause. If the man
-      whose actions we are considering is on a very low stage of mental
-      development, like a child, a madman, or a simpleton—then, knowing
-      the causes of the act and the simplicity of the character and intelligence
-      in question, we see so large an element of necessity and so little free
-      will that as soon as we know the cause prompting the action we can
-      foretell the result.
-
-      On these three considerations alone is based the conception of
-      irresponsibility for crimes and the extenuating circumstances admitted by
-      all legislative codes. The responsibility appears greater or less
-      according to our greater or lesser knowledge of the circumstances in which
-      the man was placed whose action is being judged, and according to the
-      greater or lesser interval of time between the commission of the action
-      and its investigation, and according to the greater or lesser
-      understanding of the causes that led to the action.
+      Speaking of the interaction of heat and electricity and of atoms, we
+      cannot say why this occurs, and we say that it is so because it is
+      inconceivable otherwise, because it must be so and that it is a law. The
+      same applies to historical events. Why war and revolution occur we do not
+      know. We only know that to produce the one or the other action, people
+      combine in a certain formation in which they all take part, and we say
+      that this is so because it is unthinkable otherwise, or in other words
+      that it is a law.

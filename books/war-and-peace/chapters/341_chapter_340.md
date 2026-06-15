@@ -1,165 +1,75 @@
-# First Epilogue: 1813 - 20 - ChapterIII
+# Book Fifteen: 1812 - 13 - ChapterII
 
-The fundamental and essential significance of the European events of the
-      beginning of the nineteenth century lies in the movement of the mass of
-      the European peoples from west to east and afterwards from east to west.
-      The commencement of that movement was the movement from west to east. For
-      the peoples of the west to be able to make their warlike movement to
-      Moscow it was necessary: (1) that they should form themselves into a
-      military group of a size able to endure a collision with the warlike
-      military group of the east, (2) that they should abandon all established
-      traditions and customs, and (3) that during their military movement they
-      should have at their head a man who could justify to himself and to them
-      the deceptions, robberies, and murders which would have to be committed
-      during that movement.
+If we assume as the historians do that great men lead humanity to the
+      attainment of certain ends—the greatness of Russia or of France, the
+      balance of power in Europe, the diffusion of the ideas of the Revolution,
+      general progress, or anything else—then it is impossible to explain
+      the facts of history without introducing the conceptions of *chance* and
+      *genius*.
 
-      And beginning with the French Revolution the old inadequately large group
-      was destroyed, as well as the old habits and traditions, and step by step
-      a group was formed of larger dimensions with new customs and traditions,
-      and a man was produced who would stand at the head of the coming movement
-      and bear the responsibility for all that had to be done.
+      If the aim of the European wars at the beginning of the nineteenth century
+      had been the aggrandizement of Russia, that aim might have been
+      accomplished without all the preceding wars and without the invasion. If
+      the aim was the aggrandizement of France, that might have been attained
+      without the Revolution and without the Empire. If the aim was the
+      dissemination of ideas, the printing press could have accomplished that
+      much better than warfare. If the aim was the progress of civilization, it
+      is easy to see that there are other ways of diffusing civilization more
+      expedient than by the destruction of wealth and of human lives.
 
-      A man without convictions, without habits, without traditions, without a
-      name, and not even a Frenchman, emerges—by what seem the strangest
-      chances—from among all the seething French parties, and without
-      joining any one of them is borne forward to a prominent position.
+      Why did it happen in this and not in some other way?
 
-      The ignorance of his colleagues, the weakness and insignificance of his
-      opponents, the frankness of his falsehoods, and the dazzling and
-      self-confident limitations of this man raise him to the head of the army.
-      The brilliant qualities of the soldiers of the army sent to Italy, his
-      opponents’ reluctance to fight, and his own childish audacity and
-      self-confidence secure him military fame. Innumerable so-called *chances*
-      accompany him everywhere. The disfavor into which he falls with the rulers
-      of France turns to his advantage. His attempts to avoid his predestined
-      path are unsuccessful: he is not received into the Russian service, and
-      the appointment he seeks in Turkey comes to nothing. During the war in
-      Italy he is several times on the verge of destruction and each time is
-      saved in an unexpected manner. Owing to various diplomatic considerations
-      the Russian armies—just those which might have destroyed his
-      prestige—do not appear upon the scene till he is no longer there.
+      Because it happened so! “*Chance* created the situation;
+      *genius* utilized it,” says history.
 
-      On his return from Italy he finds the government in Paris in a process of
-      dissolution in which all those who are in it are inevitably wiped out and
-      destroyed. And by chance an escape from this dangerous position presents
-      itself in the form of an aimless and senseless expedition to Africa. Again
-      so-called *chance* accompanies him. Impregnable Malta surrenders without a
-      shot; his most reckless schemes are crowned with success. The enemy’s
-      fleet, which subsequently did not let a single boat pass, allows his
-      entire army to elude it. In Africa a whole series of outrages are
-      committed against the almost unarmed inhabitants. And the men who commit
-      these crimes, especially their leader, assure themselves that this is
-      admirable, this is glory—it resembles Caesar and Alexander the Great
-      and is therefore good.
+      But what is *chance?* What is *genius?*
 
-      This ideal of *glory* and *grandeur*—which consists not merely in
-      considering nothing wrong that one does but in priding oneself on every
-      crime one commits, ascribing to it an incomprehensible supernatural
-      significance—that ideal, destined to guide this man and his
-      associates, had scope for its development in Africa. Whatever he does
-      succeeds. The plague does not touch him. The cruelty of murdering
-      prisoners is not imputed to him as a fault. His childishly rash,
-      uncalled-for, and ignoble departure from Africa, leaving his comrades in
-      distress, is set down to his credit, and again the enemy’s fleet twice
-      lets him slip past. When, intoxicated by the crimes he has committed so
-      successfully, he reaches Paris, the dissolution of the republican
-      government, which a year earlier might have ruined him, has reached its
-      extreme limit, and his presence there now as a newcomer free from party
-      entanglements can only serve to exalt him—and though he himself has
-      no plan, he is quite ready for his new rôle.
+      The words *chance* and *genius* do not denote any really existing thing and
+      therefore cannot be defined. Those words only denote a certain stage of
+      understanding of phenomena. I do not know why a certain event occurs; I
+      think that I cannot know it; so I do not try to know it and I talk about
+      *chance*. I see a force producing effects beyond the scope of ordinary human
+      agencies; I do not understand why this occurs and I talk of *genius*.
 
-      He had no plan, he was afraid of everything, but the parties snatched at
-      him and demanded his participation.
+      To a herd of rams, the ram the herdsman drives each evening into a special
+      enclosure to feed and that becomes twice as fat as the others must seem to
+      be a genius. And it must appear an astonishing conjunction of genius with
+      a whole series of extraordinary chances that this ram, who instead of
+      getting into the general fold every evening goes into a special enclosure
+      where there are oats—that this very ram, swelling with fat, is
+      killed for meat.
 
-      He alone—with his ideal of glory and grandeur developed in Italy and
-      Egypt, his insane self-adulation, his boldness in crime and frankness in
-      lying—he alone could justify what had to be done.
+      But the rams need only cease to suppose that all that happens to them
+      happens solely for the attainment of their sheepish aims; they need only
+      admit that what happens to them may also have purposes beyond their ken,
+      and they will at once perceive a unity and coherence in what happened to
+      the ram that was fattened. Even if they do not know for what purpose they
+      are fattened, they will at least know that all that happened to the ram
+      did not happen accidentally, and will no longer need the conceptions of
+      *chance* or *genius*.
 
-      He is needed for the place that awaits him, and so almost apart from his
-      will and despite his indecision, his lack of a plan, and all his mistakes,
-      he is drawn into a conspiracy that aims at seizing power and the
-      conspiracy is crowned with success.
+      Only by renouncing our claim to discern a purpose immediately intelligible
+      to us, and admitting the ultimate purpose to be beyond our ken, may we
+      discern the sequence of experiences in the lives of historic characters
+      and perceive the cause of the effect they produce (incommensurable with
+      ordinary human capabilities), and then the words *chance* and *genius*
+      become superfluous.
 
-      He is pushed into a meeting of the legislature. In alarm he wishes to
-      flee, considering himself lost. He pretends to fall into a swoon and says
-      senseless things that should have ruined him. But the once proud and
-      shrewd rulers of France, feeling that their part is played out, are even
-      more bewildered than he, and do not say the words they should have said to
-      destroy him and retain their power.
+      We need only confess that we do not know the purpose of the European
+      convulsions and that we know only the facts—that is, the murders,
+      first in France, then in Italy, in Africa, in Prussia, in Austria, in
+      Spain, and in Russia—and that the movements from the west to the
+      east and from the east to the west form the essence and purpose of these
+      events, and not only shall we have no need to see exceptional ability and
+      genius in Napoleon and Alexander, but we shall be unable to consider them
+      to be anything but like other men, and we shall not be obliged to have
+      recourse to *chance* for an explanation of those small events which made
+      these people what they were, but it will be clear that all those small
+      events were inevitable.
 
-*Chance*, millions of *chances*, give him power, and all men as if by
-      agreement co-operate to confirm that power. *Chance* forms the characters of
-      the rulers of France, who submit to him; *chance* forms the character of
-      Paul I of Russia who recognizes his government; *chance* contrives a plot
-      against him which not only fails to harm him but confirms his power.
-      *Chance* puts the Duc d’Enghien in his hands and unexpectedly causes him to
-      kill him—thereby convincing the mob more forcibly than in any other
-      way that he had the right, since he had the might. *Chance* contrives that
-      though he directs all his efforts to prepare an expedition against England
-      (which would inevitably have ruined him) he never carries out that
-      intention, but unexpectedly falls upon Mack and the Austrians, who
-      surrender without a battle. *Chance* and *genius* give him the victory at
-      Austerlitz; and by *chance* all men, not only the French but all Europe—except
-      England which does not take part in the events about to happen—despite
-      their former horror and detestation of his crimes, now recognize his
-      authority, the title he has given himself, and his ideal of grandeur and
-      glory, which seems excellent and reasonable to them all.
-
-      As if measuring themselves and preparing for the coming movement, the
-      western forces push toward the east several times in 1805, 1806, 1807, and
-      1809, gaining strength and growing. In 1811 the group of people that had
-      formed in France unites into one group with the peoples of Central Europe.
-      The strength of the justification of the man who stands at the head of the
-      movement grows with the increased size of the group. During the ten-year
-      preparatory period this man had formed relations with all the crowned
-      heads of Europe. The discredited rulers of the world can oppose no
-      reasonable ideal to the insensate Napoleonic ideal of *glory* and *grandeur*.
-      One after another they hasten to display their insignificance before him.
-      The King of Prussia sends his wife to seek the great man’s mercy; the
-      Emperor of Austria considers it a favor that this man receives a daughter
-      of the Caesars into his bed; the Pope, the guardian of all that the
-      nations hold sacred, utilizes religion for the aggrandizement of the great
-      man. It is not Napoleon who prepares himself for the accomplishment of his
-      role, so much as all those round him who prepare him to take on himself
-      the whole responsibility for what is happening and has to happen. There is
-      no step, no crime or petty fraud he commits, which in the mouths of those
-      around him is not at once represented as a great deed. The most suitable
-      fête the Germans can devise for him is a celebration of Jena and
-      Auerstädt. Not only is he great, but so are his ancestors, his brothers,
-      his stepsons, and his brothers-in-law. Everything is done to deprive him
-      of the remains of his reason and to prepare him for his terrible part. And
-      when he is ready so too are the forces.
-
-      The invasion pushes eastward and reaches its final goal—Moscow. That
-      city is taken; the Russian army suffers heavier losses than the opposing
-      armies had suffered in the former war from Austerlitz to Wagram. But
-      suddenly instead of those *chances* and that *genius* which hitherto had so
-      consistently led him by an uninterrupted series of successes to the
-      predestined goal, an innumerable sequence of inverse *chances* occur—from
-      the cold in his head at Borodinó to the sparks which set Moscow on fire,
-      and the frosts—and instead of *genius*, stupidity and immeasurable
-      baseness become evident.
-
-      The invaders flee, turn back, flee again, and all the chances are now not
-      for Napoleon but always against him.
-
-      A countermovement is then accomplished from east to west with a remarkable
-      resemblance to the preceding movement from west to east. Attempted drives
-      from east to west—similar to the contrary movements of 1805, 1807,
-      and 1809—precede the great westward movement; there is the same
-      coalescence into a group of enormous dimensions; the same adhesion of the
-      people of Central Europe to the movement; the same hesitation midway, and
-      the same increasing rapidity as the goal is approached.
-
-      Paris, the ultimate goal, is reached. The Napoleonic government and army
-      are destroyed. Napoleon himself is no longer of any account; all his
-      actions are evidently pitiful and mean, but again an inexplicable *chance*
-      occurs. The allies detest Napoleon whom they regard as the cause of their
-      sufferings. Deprived of power and authority, his crimes and his craft
-      exposed, he should have appeared to them what he appeared ten years
-      previously and one year later—an outlawed brigand. But by some
-      strange chance no one perceives this. His part is not yet ended. The man
-      who ten years before and a year later was considered an outlawed brigand
-      is sent to an island two days’ sail from France, which for some reason is
-      presented to him as his dominion, and guards are given to him and millions
-      of money are paid him.
+      By discarding a claim to knowledge of the ultimate purpose, we shall
+      clearly perceive that just as one cannot imagine a blossom or seed for any
+      single plant better suited to it than those it produces, so it is
+      impossible to imagine any two people more completely adapted down to the
+      smallest detail for the purpose they had to fulfill, than Napoleon and
+      Alexander with all their antecedents.

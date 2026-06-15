@@ -1,121 +1,189 @@
-# First Epilogue: 1813 - 20 - ChapterVII
+# Book Fifteen: 1812 - 13 - ChapterVI
 
-In the winter of 1813 Nicholas married Princess Mary and moved to Bald
-      Hills with his wife, his mother, and Sónya.
+At the beginning of winter Princess Mary came to Moscow. From reports
+      current in town she learned how the Rostóvs were situated, and how “the
+      son has sacrificed himself for his mother,” as people were saying.
 
-      Within four years he had paid off all his remaining debts without selling
-      any of his wife’s property, and having received a small inheritance on the
-      death of a cousin he paid his debt to Pierre as well.
+      “I never expected anything else of him,” said Princess Mary to herself,
+      feeling a joyous sense of her love for him. Remembering her friendly
+      relations with all the Rostóvs which had made her almost a member of the
+      family, she thought it her duty to go to see them. But remembering her
+      relations with Nicholas in Vorónezh she was shy about doing so. Making a
+      great effort she did however go to call on them a few weeks after her
+      arrival in Moscow.
 
-      In another three years, by 1820, he had so managed his affairs that he was
-      able to buy a small estate adjoining Bald Hills and was negotiating to buy
-      back Otrádnoe—that being his pet dream.
+      Nicholas was the first to meet her, as the countess’ room could only be
+      reached through his. But instead of being greeted with pleasure as she had
+      expected, at his first glance at her his face assumed a cold, stiff, proud
+      expression she had not seen on it before. He inquired about her health,
+      led the way to his mother, and having sat there for five minutes left the
+      room.
 
-      Having started farming from necessity, he soon grew so devoted to it that
-      it became his favorite and almost his sole occupation. Nicholas was a
-      plain farmer: he did not like innovations, especially the English ones
-      then coming into vogue. He laughed at theoretical treatises on estate
-      management, disliked factories, the raising of expensive products, and the
-      buying of expensive seed corn, and did not make a hobby of any particular
-      part of the work on his estate. He always had before his mind’s eye *the
-      estate* as a whole and not any particular part of it. The chief thing in
-      his eyes was not the nitrogen in the soil, nor the oxygen in the air, nor
-      manures, nor special plows, but that most important agent by which
-      nitrogen, oxygen, manure, and plow were made effective—the peasant
-      laborer. When Nicholas first began farming and began to understand its
-      different branches, it was the serf who especially attracted his
-      attention. The peasant seemed to him not merely a tool, but also a judge
-      of farming and an end in himself. At first he watched the serfs, trying to
-      understand their aims and what they considered good and bad, and only
-      pretended to direct them and give orders while in reality learning from
-      them their methods, their manner of speech, and their judgment of what was
-      good and bad. Only when he had understood the peasants’ tastes and
-      aspirations, had learned to talk their language, to grasp the hidden
-      meaning of their words, and felt akin to them did he begin boldly to
-      manage his serfs, that is, to perform toward them the duties demanded of
-      him. And Nicholas’ management produced very brilliant results.
+      When the princess came out of the countess’ room Nicholas met her again,
+      and with marked solemnity and stiffness accompanied her to the anteroom.
+      To her remarks about his mother’s health he made no reply. “What’s that to
+      you? Leave me in peace,” his looks seemed to say.
 
-      Guided by some gift of insight, on taking up the management of the estates
-      he at once unerringly appointed as bailiff, village elder, and delegate,
-      the very men the serfs would themselves have chosen had they had the right
-      to choose, and these posts never changed hands. Before analyzing the
-      properties of manure, before entering into the *debit* and *credit*
-      (as he ironically called it), he found out how many cattle the peasants had and
-      increased the number by all possible means. He kept the peasant families
-      together in the largest groups possible, not allowing the family groups to
-      divide into separate households. He was hard alike on the lazy, the
-      depraved, and the weak, and tried to get them expelled from the commune.
+      “Why does she come prowling here? What does she want? I can’t bear these
+      ladies and all these civilities!” said he aloud in Sónya’s presence,
+      evidently unable to repress his vexation, after the princess’ carriage had
+      disappeared.
 
-      He was as careful of the sowing and reaping of the peasants’ hay and corn
-      as of his own, and few landowners had their crops sown and harvested so
-      early and so well, or got so good a return, as did Nicholas.
+      “Oh, Nicholas, how can you talk like that?” cried Sónya, hardly able to
+      conceal her delight. “She is so kind and Mamma is so fond of her!”
 
-      He disliked having anything to do with the domestic serfs—the
-      “drones” as he called them—and everyone said he spoiled them by his
-      laxity. When a decision had to be taken regarding a domestic serf,
-      especially if one had to be punished, he always felt undecided and
-      consulted everybody in the house; but when it was possible to have a
-      domestic serf conscripted instead of a land worker he did so without the
-      least hesitation. He never felt any hesitation in dealing with the
-      peasants. He knew that his every decision would be approved by them all
-      with very few exceptions.
+      Nicholas did not reply and tried to avoid speaking of the princess any
+      more. But after her visit the old countess spoke of her several times a
+      day.
 
-      He did not allow himself either to be hard on or punish a man, or to make
-      things easy for or reward anyone, merely because he felt inclined to do
-      so. He could not have said by what standard he judged what he should or
-      should not do, but the standard was quite firm and definite in his own
-      mind.
+      She sang her praises, insisted that her son must call on her, expressed a
+      wish to see her often, but yet always became ill-humored when she began to
+      talk about her.
 
-      Often, speaking with vexation of some failure or irregularity, he would
-      say: “What can one do with our Russian peasants?” and imagined that he
-      could not bear them.
+      Nicholas tried to keep silence when his mother spoke of the princess, but
+      his silence irritated her.
 
-      Yet he loved “our Russian peasants” and their way of life with his whole
-      soul, and for that very reason had understood and assimilated the one way
-      and manner of farming which produced good results.
+      “She is a very admirable and excellent young woman,” said she, “and you
+      must go and call on her. You would at least be seeing somebody, and I
+      think it must be dull for you only seeing us.”
 
-      Countess Mary was jealous of this passion of her husband’s and regretted
-      that she could not share it; but she could not understand the joys and
-      vexations he derived from that world, to her so remote and alien. She
-      could not understand why he was so particularly animated and happy when,
-      after getting up at daybreak and spending the whole morning in the fields
-      or on the threshing floor, he returned from the sowing or mowing or
-      reaping to have tea with her. She did not understand why he spoke with
-      such admiration and delight of the farming of the thrifty and well-to-do
-      peasant Matthew Ermíshin, who with his family had carted corn all night;
-      or of the fact that his (Nicholas’) sheaves were already stacked before
-      anyone else had his harvest in. She did not understand why he stepped out
-      from the window to the veranda and smiled under his mustache and winked so
-      joyfully, when warm steady rain began to fall on the dry and thirsty
-      shoots of the young oats, or why when the wind carried away a threatening
-      cloud during the hay harvest he would return from the barn, flushed,
-      sunburned, and perspiring, with a smell of wormwood and gentian in his
-      hair and, gleefully rubbing his hands, would say: “Well, one more day and
-      my grain and the peasants’ will all be under cover.”
+      “But I don’t in the least want to, Mamma.”
 
-      Still less did she understand why he, kindhearted and always ready to
-      anticipate her wishes, should become almost desperate when she brought him
-      a petition from some peasant men or women who had appealed to her to be
-      excused some work; why he, that kind Nicholas, should obstinately refuse
-      her, angrily asking her not to interfere in what was not her business. She
-      felt he had a world apart, which he loved passionately and which had laws
-      she had not fathomed.
+      “You used to want to, and now you don’t. Really I don’t understand you, my
+      dear. One day you are dull, and the next you refuse to see anyone.”
 
-      Sometimes when, trying to understand him, she spoke of the good work he
-      was doing for his serfs, he would be vexed and reply: “Not in the least;
-      it never entered my head and I wouldn’t do *that* for their good!
-      That’s all poetry and old wives’ talk—all that doing good to
-      one’s neighbor! What I want is that our children should not have to go
-      begging. I must put our affairs in order while I am alive, that’s all.
-      And to do that, order and strictness are essential.... That’s all about
-      it!” said he, clenching his vigorous fist. “And fairness, of
-      course,” he added, “for if the peasant is naked and hungry and has
-      only one miserable horse, he can do no good either for himself or for me.”
+      “But I never said I was dull.”
 
-      And all Nicholas did was fruitful—probably just because he refused
-      to allow himself to think that he was doing good to others for virtue’s
-      sake. His means increased rapidly; serfs from neighboring estates came to
-      beg him to buy them, and long after his death the memory of his
-      administration was devoutly preserved among the serfs. “He was a master...
-      the peasants’ affairs first and then his own. Of course he was not to be
-      trifled with either—in a word, he was a real master!”
+      “Why, you said yourself you don’t want even to see her. She is a very
+      admirable young woman and you always liked her, but now suddenly you have
+      got some notion or other in your head. You hide everything from me.”
+
+      “Not at all, Mamma.”
+
+      “If I were asking you to do something disagreeable now—but I only
+      ask you to return a call. One would think mere politeness required it....
+      Well, I have asked you, and now I won’t interfere any more since you have
+      secrets from your mother.”
+
+      “Well, then, I’ll go if you wish it.”
+
+      “It doesn’t matter to me. I only wish it for your sake.”
+
+      Nicholas sighed, bit his mustache, and laid out the cards for a patience,
+      trying to divert his mother’s attention to another topic.
+
+      The same conversation was repeated next day and the day after, and the day
+      after that.
+
+      After her visit to the Rostóvs and her unexpectedly chilly reception by
+      Nicholas, Princess Mary confessed to herself that she had been right in
+      not wishing to be the first to call.
+
+      “I expected nothing else,” she told herself, calling her pride to her aid.
+      “I have nothing to do with him and I only wanted to see the old lady, who
+      was always kind to me and to whom I am under many obligations.”
+
+      But she could not pacify herself with these reflections; a feeling akin to
+      remorse troubled her when she thought of her visit. Though she had firmly
+      resolved not to call on the Rostóvs again and to forget the whole matter,
+      she felt herself all the time in an awkward position. And when she asked
+      herself what distressed her, she had to admit that it was her relation to
+      Rostóv. His cold, polite manner did not express his feeling for her (she
+      knew that) but it concealed something, and until she could discover what
+      that something was, she felt that she could not be at ease.
+
+      One day in midwinter when sitting in the schoolroom attending to her
+      nephew’s lessons, she was informed that Rostóv had called. With a firm
+      resolution not to betray herself and not show her agitation, she sent for
+      Mademoiselle Bourienne and went with her to the drawing room.
+
+      Her first glance at Nicholas’ face told her that he had only come to
+      fulfill the demands of politeness, and she firmly resolved to maintain the
+      tone in which he addressed her.
+
+      They spoke of the countess’ health, of their mutual friends, of the latest
+      war news, and when the ten minutes required by propriety had elapsed after
+      which a visitor may rise, Nicholas got up to say good-by.
+
+      With Mademoiselle Bourienne’s help the princess had maintained the
+      conversation very well, but at the very last moment, just when he rose,
+      she was so tired of talking of what did not interest her, and her mind was
+      so full of the question why she alone was granted so little happiness in
+      life, that in a fit of absent-mindedness she sat still, her luminous eyes
+      gazing fixedly before her, not noticing that he had risen.
+
+      Nicholas glanced at her and, wishing to appear not to notice her
+      abstraction, made some remark to Mademoiselle Bourienne and then again
+      looked at the princess. She still sat motionless with a look of suffering
+      on her gentle face. He suddenly felt sorry for her and was vaguely
+      conscious that he might be the cause of the sadness her face expressed. He
+      wished to help her and say something pleasant, but could think of nothing
+      to say.
+
+      “Good-by, Princess!” said he.
+
+      She started, flushed, and sighed deeply.
+
+      “Oh, I beg your pardon,” she said as if waking up. “Are you going already,
+      Count? Well then, good-by! Oh, but the cushion for the countess!”
+
+      “Wait a moment, I’ll fetch it,” said Mademoiselle Bourienne, and she left
+      the room.
+
+      They both sat silent, with an occasional glance at one another.
+
+      “Yes, Princess,” said Nicholas at last with a sad smile, “it doesn’t seem
+      long ago since we first met at Boguchárovo, but how much water has flowed
+      since then! In what distress we all seemed to be then, yet I would give
+      much to bring back that time... but there’s no bringing it back.”
+
+      Princess Mary gazed intently into his eyes with her own luminous ones as
+      he said this. She seemed to be trying to fathom the hidden meaning of his
+      words which would explain his feeling for her.
+
+      “Yes, yes,” said she, “but you have no reason to regret the past, Count.
+      As I understand your present life, I think you will always recall it with
+      satisfaction, because the self-sacrifice that fills it now...”
+
+      “I cannot accept your praise,” he interrupted her hurriedly. “On the
+      contrary I continually reproach myself.... But this is not at all an
+      interesting or cheerful subject.”
+
+      His face again resumed its former stiff and cold expression. But the
+      princess had caught a glimpse of the man she had known and loved, and it
+      was to him that she now spoke.
+
+      “I thought you would allow me to tell you this,” she said. “I had come so
+      near to you... and to all your family that I thought you would not
+      consider my sympathy misplaced, but I was mistaken,” and suddenly her
+      voice trembled. “I don’t know why,” she continued, recovering herself,
+      “but you used to be different, and...”
+
+      “There are a thousand reasons *why*,” laying special emphasis on the *why*.
+      “Thank you, Princess,” he added softly. “Sometimes it is hard.”
+
+      “So that’s why! That’s why!” a voice whispered in Princess Mary’s soul.
+      “No, it was not only that gay, kind, and frank look, not only that
+      handsome exterior, that I loved in him. I divined his noble, resolute,
+      self-sacrificing spirit too,” she said to herself. “Yes, he is poor now
+      and I am rich.... Yes, that’s the only reason.... Yes, were it not for
+      that...” And remembering his former tenderness, and looking now at his
+      kind, sorrowful face, she suddenly understood the cause of his coldness.
+
+      “But why, Count, why?” she almost cried, unconsciously moving closer to
+      him. “Why? Tell me. You must tell me!”
+
+      He was silent.
+
+      “I don’t understand your *why*, Count,” she continued,
+      “but it’s hard for me... I confess it. For some reason you wish to
+      deprive me of our former friendship. And that hurts me.” There were tears
+      in her eyes and in her voice. “I have had so little happiness in life that
+      every loss is hard for me to bear.... Excuse me, good-by!” and suddenly she
+      began to cry and was hurrying from the room.
+
+      “Princess, for God’s sake!” he exclaimed, trying to stop her. “Princess!”
+
+      She turned round. For a few seconds they gazed silently into one another’s
+      eyes—and what had seemed impossible and remote suddenly became
+      possible, inevitable, and very near.

@@ -1,0 +1,122 @@
+{
+  "id": "the-odyssey",
+  "title": "The Odyssey",
+  "author": "Homer",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #0891b2 0%, #0e7490 100%)",
+  "description": "The ancient epic poem detailing Odysseus' ten-year journey home after the fall of Troy.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Preface to First Edition",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Preface to Second Edition",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Book I",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Book II",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Book III",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Book IV",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Book V",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Book VI",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Book VII",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Book VIII",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Book IX",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Book X",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Book XI",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Book XII",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Book XIII",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Book XIV",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Book XV",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Book XVI",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Book XVII",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Book XVIII",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Book XIX",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Book XX",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Book XXI",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Book XXII",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Book XXIII",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Book XXIV",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Footnotes",
+      "file": "28_chapter_27.md"
+    }
+  ]
+}

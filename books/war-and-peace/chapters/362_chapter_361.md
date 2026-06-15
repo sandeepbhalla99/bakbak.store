@@ -1,180 +1,138 @@
-# Second Epilogue - ChapterVIII
+# Book Fifteen: 1812 - 13 - ChapterVI
 
-If history dealt only with external phenomena, the establishment of this
-      simple and obvious law would suffice and we should have finished our
-      argument. But the law of history relates to man. A particle of matter
-      cannot tell us that it does not feel the law of attraction or repulsion
-      and that that law is untrue, but man, who is the subject of history, says
-      plainly: I am free and am therefore not subject to the law.
+Only the expression of the will of the Deity, not dependent on time, can
+      relate to a whole series of events occurring over a period of years or
+      centuries, and only the Deity, independent of everything, can by His sole
+      will determine the direction of humanity’s movement; but man acts in time
+      and himself takes part in what occurs.
 
-      The presence of the problem of man’s free will, though unexpressed, is
-      felt at every step of history.
+      Reinstating the first condition omitted, that of time, we see that no
+      command can be executed without some preceding order having been given
+      rendering the execution of the last command possible.
 
-      All seriously thinking historians have involuntarily encountered this
-      question. All the contradictions and obscurities of history and the false
-      path historical science has followed are due solely to the lack of a
-      solution of that question.
+      No command ever appears spontaneously, or itself covers a whole series of
+      occurrences; but each command follows from another, and never refers to a
+      whole series of events but always to one moment only of an event.
 
-      If the will of every man were free, that is, if each man could act as he
-      pleased, all history would be a series of disconnected incidents.
+      When, for instance, we say that Napoleon ordered armies to go to war, we
+      combine in one simultaneous expression a whole series of consecutive
+      commands dependent one on another. Napoleon could not have commanded an
+      invasion of Russia and never did so. Today he ordered such and such papers
+      to be written to Vienna, to Berlin, and to Petersburg; tomorrow such and
+      such decrees and orders to the army, the fleet, the commissariat, and so
+      on and so on—millions of commands, which formed a whole series
+      corresponding to a series of events which brought the French armies into
+      Russia.
 
-      If in a thousand years even one man in a million could act freely, that
-      is, as he chose, it is evident that one single free act of that man’s in
-      violation of the laws governing human action would destroy the possibility
-      of the existence of any laws for the whole of humanity.
+      If throughout his reign Napoleon gave commands concerning an invasion of
+      England and expended on no other undertaking so much time and effort, and
+      yet during his whole reign never once attempted to execute that design but
+      undertook an expedition into Russia, with which country he considered it
+      desirable to be in alliance (a conviction he repeatedly expressed)—this
+      came about because his commands did not correspond to the course of events
+      in the first case, but did so correspond in the latter.
 
-      If there be a single law governing the actions of men, free will cannot
-      exist, for then man’s will is subject to that law.
+      For an order to be certainly executed, it is necessary that a man should
+      order what can be executed. But to know what can and what cannot be
+      executed is impossible, not only in the case of Napoleon’s invasion of
+      Russia in which millions participated, but even in the simplest event, for
+      in either case millions of obstacles may arise to prevent its execution.
+      Every order executed is always one of an immense number unexecuted. All
+      the impossible orders inconsistent with the course of events remain
+      unexecuted. Only the possible ones get linked up with a consecutive series
+      of commands corresponding to a series of events, and are executed.
 
-      In this contradiction lies the problem of free will, which from most
-      ancient times has occupied the best human minds and from most ancient
-      times has been presented in its whole tremendous significance.
+      Our false conception that an event is caused by a command which precedes
+      it is due to the fact that when the event has taken place and out of
+      thousands of others those few commands which were consistent with that
+      event have been executed, we forget about the others that were not
+      executed because they could not be. Apart from that, the chief source of
+      our error in this matter is due to the fact that in the historical
+      accounts a whole series of innumerable, diverse, and petty events, such
+      for instance as all those which led the French armies to Russia, is
+      generalized into one event in accord with the result produced by that
+      series of events, and corresponding with this generalization the whole
+      series of commands is also generalized into a single expression of will.
 
-      The problem is that regarding man as a subject of observation from
-      whatever point of view—theological, historical, ethical, or
-      philosophic—we find a general law of necessity to which he (like all
-      that exists) is subject. But regarding him from within ourselves as what
-      we are conscious of, we feel ourselves to be free.
+      We say that Napoleon wished to invade Russia and invaded it. In reality in
+      all Napoleon’s activity we never find anything resembling an expression of
+      that wish, but find a series of orders, or expressions of his will, very
+      variously and indefinitely directed. Amid a long series of unexecuted
+      orders of Napoleon’s one series, for the campaign of 1812, was carried out—not
+      because those orders differed in any way from the other, unexecuted orders
+      but because they coincided with the course of events that led the French
+      army into Russia; just as in stencil work this or that figure comes out
+      not because the color was laid on from this side or in that way, but
+      because it was laid on from all sides over the figure cut in the stencil.
 
-      This consciousness is a source of self-cognition quite apart from and
-      independent of reason. Through his reason man observes himself, but only
-      through consciousness does he know himself.
+      So that examining the relation in time of the commands to the events, we
+      find that a command can never be the cause of the event, but that a
+      certain definite dependence exists between the two.
 
-      Apart from consciousness of self no observation or application of reason
-      is conceivable.
+      To understand in what this dependence consists it is necessary to
+      reinstate another omitted condition of every command proceeding not from
+      the Deity but from a man, which is, that the man who gives the command
+      himself takes part in the event.
 
-      To understand, observe, and draw conclusions, man must first of all be
-      conscious of himself as living. A man is only conscious of himself as a
-      living being by the fact that he wills, that is, is conscious of his
-      volition. But his will—which forms the essence of his life—man
-      recognizes (and can but recognize) as free.
+      This relation of the commander to those he commands is just what is called
+      power. This relation consists in the following:
 
-      If, observing himself, man sees that his will is always directed by one
-      and the same law (whether he observes the necessity of taking food, using
-      his brain, or anything else) he cannot recognize this never-varying
-      direction of his will otherwise than as a limitation of it. Were it not
-      free it could not be limited. A man’s will seems to him to be limited just
-      because he is not conscious of it except as free.
+      For common action people always unite in certain combinations, in which
+      regardless of the difference of the aims set for the common action, the
+      relation between those taking part in it is always the same.
 
-      You say: I am not free. But I have lifted my hand and let it fall.
-      Everyone understands that this illogical reply is an irrefutable
-      demonstration of freedom.
+      Men uniting in these combinations always assume such relations toward one
+      another that the larger number take a more direct share, and the smaller
+      number a less direct share, in the collective action for which they have
+      combined.
 
-      That reply is the expression of a consciousness that is not subject to
-      reason.
+      Of all the combinations in which men unite for collective action one of
+      the most striking and definite examples is an army.
 
-      If the consciousness of freedom were not a separate and independent source
-      of self-consciousness it would be subject to reasoning and to experience,
-      but in fact such subjection does not exist and is inconceivable.
+      Every army is composed of lower grades of the service—the rank and
+      file—of whom there are always the greatest number; of the next
+      higher military rank—corporals and noncommissioned officers of whom
+      there are fewer, and of still-higher officers of whom there are still
+      fewer, and so on to the highest military command which is concentrated in
+      one person.
 
-      A series of experiments and arguments proves to every man that he, as an
-      object of observation, is subject to certain laws, and man submits to them
-      and never resists the laws of gravity or impermeability once he has become
-      acquainted with them. But the same series of experiments and arguments
-      proves to him that the complete freedom of which he is conscious in
-      himself is impossible, and that his every action depends on his
-      organization, his character, and the motives acting upon him; yet man
-      never submits to the deductions of these experiments and arguments. Having
-      learned from experiment and argument that a stone falls downwards, a man
-      indubitably believes this and always expects the law that he has learned
-      to be fulfilled.
+      A military organization may be quite correctly compared to a cone, of
+      which the base with the largest diameter consists of the rank and file;
+      the next higher and smaller section of the cone consists of the next
+      higher grades of the army, and so on to the apex, the point of which will
+      represent the commander in chief.
 
-      But learning just as certainly that his will is subject to laws, he does
-      not and cannot believe this.
+      The soldiers, of whom there are the most, form the lower section of the
+      cone and its base. The soldier himself does the stabbing, hacking,
+      burning, and pillaging, and always receives orders for these actions from
+      men above him; he himself never gives an order. The noncommissioned
+      officers (of whom there are fewer) perform the action itself less
+      frequently than the soldiers, but they already give commands. An officer
+      still less often acts directly himself, but commands still more
+      frequently. A general does nothing but command the troops, indicates the
+      objective, and hardly ever uses a weapon himself. The commander in chief
+      never takes direct part in the action itself, but only gives general
+      orders concerning the movement of the mass of the troops. A similar
+      relation of people to one another is seen in every combination of men for
+      common activity—in agriculture, trade, and every administration.
 
-      However often experiment and reasoning may show a man that under the same
-      conditions and with the same character he will do the same thing as
-      before, yet when under the same conditions and with the same character he
-      approaches for the thousandth time the action that always ends in the same
-      way, he feels as certainly convinced as before the experiment that he can
-      act as he pleases. Every man, savage or sage, however incontestably reason
-      and experiment may prove to him that it is impossible to imagine two
-      different courses of action in precisely the same conditions, feels that
-      without this irrational conception (which constitutes the essence of
-      freedom) he cannot imagine life. He feels that however impossible it may
-      be, it is so, for without this conception of freedom not only would he be
-      unable to understand life, but he would be unable to live for a single
-      moment.
+      And so without particularly analyzing all the contiguous sections of a
+      cone and of the ranks of an army, or the ranks and positions in any
+      administrative or public business whatever from the lowest to the highest,
+      we see a law by which men, to take associated action, combine in such
+      relations that the more directly they participate in performing the action
+      the less they can command and the more numerous they are, while the less
+      their direct participation in the action itself, the more they command and
+      the fewer of them there are; rising in this way from the lowest ranks to
+      the man at the top, who takes the least direct share in the action and
+      directs his activity chiefly to commanding.
 
-      He could not live, because all man’s efforts, all his impulses to life,
-      are only efforts to increase freedom. Wealth and poverty, fame and
-      obscurity, power and subordination, strength and weakness, health and
-      disease, culture and ignorance, work and leisure, repletion and hunger,
-      virtue and vice, are only greater or lesser degrees of freedom.
+      This relation of the men who command to those they command is what
+      constitutes the essence of the conception called power.
 
-      A man having no freedom cannot be conceived of except as deprived of life.
-
-      If the conception of freedom appears to reason to be a senseless
-      contradiction like the possibility of performing two actions at one and
-      the same instant of time, or of an effect without a cause, that only
-      proves that consciousness is not subject to reason.
-
-      This unshakable, irrefutable consciousness of freedom, uncontrolled by
-      experiment or argument, recognized by all thinkers and felt by everyone
-      without exception, this consciousness without which no conception of man
-      is possible constitutes the other side of the question.
-
-      Man is the creation of an all-powerful, all-good, and all-seeing God. What
-      is sin, the conception of which arises from the consciousness of man’s
-      freedom? That is a question for theology.
-
-      The actions of men are subject to general immutable laws expressed in
-      statistics. What is man’s responsibility to society, the conception of
-      which results from the conception of freedom? That is a question for
-      jurisprudence.
-
-      Man’s actions proceed from his innate character and the motives acting
-      upon him. What is conscience and the perception of right and wrong in
-      actions that follows from the consciousness of freedom? That is a question
-      for ethics.
-
-      Man in connection with the general life of humanity appears subject to
-      laws which determine that life. But the same man apart from that
-      connection appears to be free. How should the past life of nations and of
-      humanity be regarded—as the result of the free, or as the result of
-      the constrained, activity of man? That is a question for history.
-
-      Only in our self-confident day of the popularization of knowledge—thanks
-      to that most powerful engine of ignorance, the diffusion of printed matter—has
-      the question of the freedom of will been put on a level on which the
-      question itself cannot exist. In our time the majority of so-called
-      advanced people—that is, the crowd of ignoramuses—have taken
-      the work of the naturalists who deal with one side of the question for a
-      solution of the whole problem.
-
-      They say and write and print that the soul and freedom do not exist, for
-      the life of man is expressed by muscular movements and muscular movements
-      are conditioned by the activity of the nerves; the soul and free will do
-      not exist because at an unknown period of time we sprang from the apes.
-      They say this, not at all suspecting that thousands of years ago that same
-      law of necessity which with such ardor they are now trying to prove by
-      physiology and comparative zoology was not merely acknowledged by all the
-      religions and all the thinkers, but has never been denied. They do not see
-      that the role of the natural sciences in this matter is merely to serve as
-      an instrument for the illumination of one side of it. For the fact that,
-      from the point of view of observation, reason and the will are merely
-      secretions of the brain, and that man following the general law may have
-      developed from lower animals at some unknown period of time, only explains
-      from a fresh side the truth admitted thousands of years ago by all the
-      religious and philosophic theories—that from the point of view of
-      reason man is subject to the law of necessity; but it does not advance by
-      a hair’s breadth the solution of the question, which has another,
-      opposite, side, based on the consciousness of freedom.
-
-      If men descended from the apes at an unknown period of time, that is as
-      comprehensible as that they were made from a handful of earth at a certain
-      period of time (in the first case the unknown quantity is the time, in the
-      second case it is the origin); and the question of how man’s consciousness
-      of freedom is to be reconciled with the law of necessity to which he is
-      subject cannot be solved by comparative physiology and zoology, for in a
-      frog, a rabbit, or an ape, we can observe only the muscular nervous
-      activity, but in man we observe consciousness as well as the muscular and
-      nervous activity.
-
-      The naturalists and their followers, thinking they can solve this
-      question, are like plasterers set to plaster one side of the walls of a
-      church who, availing themselves of the absence of the chief superintendent
-      of the work, should in an access of zeal plaster over the windows, icons,
-      woodwork, and still unbuttressed walls, and should be delighted that from
-      their point of view as plasterers, everything is now so smooth and
-      regular.
+      Having restored the condition of time under which all events occur, we
+      find that a command is executed only when it is related to a corresponding
+      series of events. Restoring the essential condition of relation between
+      those who command and those who execute, we find that by the very nature
+      of the case those who command take the smallest part in the action itself
+      and that their activity is exclusively directed to commanding.

@@ -1,182 +1,217 @@
-# Second Epilogue - ChapterI
+# Book Fifteen: 1812 - 13 - ChapterXVI
 
-History is the life of nations and of humanity. To seize and put into
-      words, to describe directly the life of humanity or even of a single
-      nation, appears impossible.
+Natásha and Pierre, left alone, also began to talk as only a husband and
+      wife can talk, that is, with extraordinary clearness and rapidity,
+      understanding and expressing each other’s thoughts in ways contrary to all
+      rules of logic, without premises, deductions, or conclusions, and in a
+      quite peculiar way. Natásha was so used to this kind of talk with her
+      husband that for her it was the surest sign of something being wrong
+      between them if Pierre followed a line of logical reasoning. When he began
+      proving anything, or talking argumentatively and calmly and she, led on by
+      his example, began to do the same, she knew that they were on the verge of
+      a quarrel.
 
-      The ancient historians all employed one and the same method to describe
-      and seize the apparently elusive—the life of a people. They
-      described the activity of individuals who ruled the people, and regarded
-      the activity of those men as representing the activity of the whole
-      nation.
+      From the moment they were alone and Natásha came up to him with wide-open
+      happy eyes, and quickly seizing his head pressed it to her bosom, saying:
+      “Now you are all mine, mine! You won’t escape!”—from that moment
+      this conversation began, contrary to all the laws of logic and contrary to
+      them because quite different subjects were talked about at one and the
+      same time. This simultaneous discussion of many topics did not prevent a
+      clear understanding but on the contrary was the surest sign that they
+      fully understood one another.
 
-      The question: how did individuals make nations act as they wished and by
-      what was the will of these individuals themselves guided? the ancients met
-      by recognizing a divinity which subjected the nations to the will of a
-      chosen man, and guided the will of that chosen man so as to accomplish
-      ends that were predestined.
+      Just as in a dream when all is uncertain, unreasoning, and contradictory,
+      except the feeling that guides the dream, so in this intercourse contrary
+      to all laws of reason, the words themselves were not consecutive and clear
+      but only the feeling that prompted them.
 
-      For the ancients these questions were solved by a belief in the direct
-      participation of the Deity in human affairs.
+      Natásha spoke to Pierre about her brother’s life and doings, of how she
+      had suffered and lacked life during his own absence, and of how she was
+      fonder than ever of Mary, and how Mary was in every way better than
+      herself. In saying this Natásha was sincere in acknowledging Mary’s
+      superiority, but at the same time by saying it she made a demand on Pierre
+      that he should, all the same, prefer her to Mary and to all other women,
+      and that now, especially after having seen many women in Petersburg, he
+      should tell her so afresh.
 
-      Modern history, in theory, rejects both these principles.
+      Pierre, answering Natásha’s words, told her how intolerable it had been
+      for him to meet ladies at dinners and balls in Petersburg.
 
-      It would seem that having rejected the belief of the ancients in man’s
-      subjection to the Deity and in a predetermined aim toward which nations
-      are led, modern history should study not the manifestations of power but
-      the causes that produce it. But modern history has not done this. Having
-      in theory rejected the view held by the ancients, it still follows them in
-      practice.
+      “I have quite lost the knack of talking to ladies,” he said. “It was
+      simply dull. Besides, I was very busy.”
 
-      Instead of men endowed with divine authority and directly guided by the
-      will of God, modern history has given us either heroes endowed with
-      extraordinary, superhuman capacities, or simply men of very various kinds,
-      from monarchs to journalists, who lead the masses. Instead of the former
-      divinely appointed aims of the Jewish, Greek, or Roman nations, which
-      ancient historians regarded as representing the progress of humanity,
-      modern history has postulated its own aims—the welfare of the
-      French, German, or English people, or, in its highest abstraction, the
-      welfare and civilization of humanity in general, by which is usually meant
-      that of the peoples occupying a small northwesterly portion of a large
-      continent.
+      Natásha looked intently at him and went on:
 
-      Modern history has rejected the beliefs of the ancients without replacing
-      them by a new conception, and the logic of the situation has obliged the
-      historians, after they had apparently rejected the divine authority of the
-      kings and the “fate” of the ancients, to reach the same conclusion by
-      another road, that is, to recognize (1) nations guided by individual men,
-      and (2) the existence of a known aim to which these nations and humanity
-      at large are tending.
+      “Mary is so splendid,” she said. “How she understands children! It is as
+      if she saw straight into their souls. Yesterday, for instance, Mítya was
+      naughty...”
 
-      At the basis of the works of all the modern historians from Gibbon to
-      Buckle, despite their seeming disagreements and the apparent novelty of
-      their outlooks, lie those two old, unavoidable assumptions.
+      “How like his father he is,” Pierre interjected.
 
-      In the first place the historian describes the activity of individuals who
-      in his opinion have directed humanity (one historian considers only
-      monarchs, generals, and ministers as being such men, while another
-      includes also orators, learned men, reformers, philosophers, and poets).
-      Secondly, it is assumed that the goal toward which humanity is being led
-      is known to the historians: to one of them this goal is the greatness of
-      the Roman, Spanish, or French realm; to another it is liberty, equality,
-      and a certain kind of civilization of a small corner of the world called
-      Europe.
+      Natásha knew why he mentioned Mítya’s likeness to Nicholas: the
+      recollection of his dispute with his brother-in-law was unpleasant and he
+      wanted to know what Natásha thought of it.
 
-      In 1789 a ferment arises in Paris; it grows, spreads, and is expressed by
-      a movement of peoples from west to east. Several times it moves eastward
-      and collides with a countermovement from the east westward. In 1812 it
-      reaches its extreme limit, Moscow, and then, with remarkable symmetry, a
-      countermovement occurs from east to west, attracting to it, as the first
-      movement had done, the nations of middle Europe. The counter movement
-      reaches the starting point of the first movement in the west—Paris—and
-      subsides.
+      “Nicholas has the weakness of never agreeing with anything not generally
+      accepted. But I understand that you value what opens up a fresh line,”
+       said she, repeating words Pierre had once uttered.
 
-      During that twenty-year period an immense number of fields were left
-      untilled, houses were burned, trade changed its direction, millions of men
-      migrated, were impoverished, or were enriched, and millions of Christian
-      men professing the law of love of their fellows slew one another.
+      “No, the chief point is that to Nicholas ideas and discussions are an
+      amusement—almost a pastime,” said Pierre. “For instance, he is
+      collecting a library and has made it a rule not to buy a new book till he
+      has read what he had already bought—Sismondi and Rousseau and
+      Montesquieu,” he added with a smile. “You know how much I...” he began to
+      soften down what he had said; but Natásha interrupted him to show that
+      this was unnecessary.
 
-      What does all this mean? Why did it happen? What made those people burn
-      houses and slay their fellow men? What were the causes of these events?
-      What force made men act so? These are the instinctive, plain, and most
-      legitimate questions humanity asks itself when it encounters the monuments
-      and tradition of that period.
+      “So you say ideas are an amusement to him....”
 
-      For a reply to these questions the common sense of mankind turns to the
-      science of history, whose aim is to enable nations and humanity to know
-      themselves.
+      “Yes, and for me nothing else is serious. All the time in Petersburg I saw
+      everyone as in a dream. When I am taken up by a thought, all else is mere
+      amusement.”
 
-      If history had retained the conception of the ancients it would have said
-      that God, to reward or punish his people, gave Napoleon power and directed
-      his will to the fulfillment of the divine ends, and that reply would have
-      been clear and complete. One might believe or disbelieve in the divine
-      significance of Napoleon, but for anyone believing in it there would have
-      been nothing unintelligible in the history of that period, nor would there
-      have been any contradictions.
+      “Ah, I’m so sorry I wasn’t there when you met the children,” said Natásha.
+      “Which was most delighted? Lisa, I’m sure.”
 
-      But modern history cannot give that reply. Science does not admit the
-      conception of the ancients as to the direct participation of the Deity in
-      human affairs, and therefore history ought to give other answers.
+      “Yes,” Pierre replied, and went on with what was in his mind. “Nicholas
+      says we ought not to think. But I can’t help it. Besides, when I was in
+      Petersburg I felt (I can say this to you) that the whole affair would go
+      to pieces without me—everyone was pulling his own way. But I
+      succeeded in uniting them all; and then my idea is so clear and simple.
+      You see, I don’t say that we ought to oppose this and that. We may be
+      mistaken. What I say is: ‘Join hands, you who love the right, and let
+      there be but one banner—that of active virtue.’ Prince Sergéy is a
+      fine fellow and clever.”
 
-      Modern history replying to these questions says: you want to know what
-      this movement means, what caused it, and what force produced these events?
-      Then listen:
+      Natásha would have had no doubt as to the greatness of Pierre’s idea, but
+      one thing disconcerted her. “Can a man so important and necessary to
+      society be also my husband? How did this happen?” She wished to express
+      this doubt to him. “Now who could decide whether he is really cleverer
+      than all the others?” she asked herself, and passed in review all those
+      whom Pierre most respected. Judging by what he had said there was no one
+      he had respected so highly as Platón Karatáev.
 
-      “Louis XIV was a very proud and self-confident man; he had such and such
-      mistresses and such and such ministers and he ruled France badly. His
-      descendants were weak men and they too ruled France badly. And they had
-      such and such favorites and such and such mistresses. Moreover, certain
-      men wrote some books at that time. At the end of the eighteenth century
-      there were a couple of dozen men in Paris who began to talk about all men
-      being free and equal. This caused people all over France to begin to slash
-      at and drown one another. They killed the king and many other people. At
-      that time there was in France a man of genius—Napoleon. He conquered
-      everybody everywhere—that is, he killed many people because he was a
-      great genius. And for some reason he went to kill Africans, and killed
-      them so well and was so cunning and wise that when he returned to France
-      he ordered everybody to obey him, and they all obeyed him. Having become
-      an Emperor he again went out to kill people in Italy, Austria, and
-      Prussia. And there too he killed a great many. In Russia there was an
-      Emperor, Alexander, who decided to restore order in Europe and therefore
-      fought against Napoleon. In 1807 he suddenly made friends with him, but in
-      1811 they again quarreled and again began killing many people. Napoleon
-      led six hundred thousand men into Russia and captured Moscow; then he
-      suddenly ran away from Moscow, and the Emperor Alexander, helped by the
-      advice of Stein and others, united Europe to arm against the disturber of
-      its peace. All Napoleon’s allies suddenly became his enemies and their
-      forces advanced against the fresh forces he raised. The Allies defeated
-      Napoleon, entered Paris, forced Napoleon to abdicate, and sent him to the
-      island of Elba, not depriving him of the title of Emperor and showing him
-      every respect, though five years before and one year later they all
-      regarded him as an outlaw and a brigand. Then Louis XVIII, who till then
-      had been the laughingstock both of the French and the Allies, began to
-      reign. And Napoleon, shedding tears before his Old Guards, renounced the
-      throne and went into exile. Then the skillful statesmen and diplomatists
-      (especially Talleyrand, who managed to sit down in a particular chair
-      before anyone else and thereby extended the frontiers of France) talked in
-      Vienna and by these conversations made the nations happy or unhappy.
-      Suddenly the diplomatists and monarchs nearly quarreled and were on the
-      point of again ordering their armies to kill one another, but just then
-      Napoleon arrived in France with a battalion, and the French, who had been
-      hating him, immediately all submitted to him. But the Allied monarchs were
-      angry at this and went to fight the French once more. And they defeated
-      the genius Napoleon and, suddenly recognizing him as a brigand, sent him
-      to the island of St. Helena. And the exile, separated from the beloved
-      France so dear to his heart, died a lingering death on that rock and
-      bequeathed his great deeds to posterity. But in Europe a reaction occurred
-      and the sovereigns once again all began to oppress their subjects.”
+      “Do you know what I am thinking about?” she asked. “About Platón Karatáev.
+      Would he have approved of you now, do you think?”
 
-      It would be a mistake to think that this is ironic—a caricature of
-      the historical accounts. On the contrary it is a very mild expression of
-      the contradictory replies, not meeting the questions, which *all* the
-      historians give, from the compilers of memoirs and the histories of
-      separate states to the writers of general histories and the new histories
-      of the *culture* of that period.
+      Pierre was not at all surprised at this question. He understood his wife’s
+      line of thought.
 
-      The strangeness and absurdity of these replies arise from the fact that
-      modern history, like a deaf man, answers questions no one has asked.
+      “Platón Karatáev?” he repeated, and pondered, evidently sincerely trying
+      to imagine Karatáev’s opinion on the subject. “He would not have
+      understood... yet perhaps he would.”
 
-      If the purpose of history be to give a description of the movement of
-      humanity and of the peoples, the first question—in the absence of a
-      reply to which all the rest will be incomprehensible—is: what is the
-      power that moves peoples? To this, modern history laboriously replies
-      either that Napoleon was a great genius, or that Louis XIV was very proud,
-      or that certain writers wrote certain books.
+      “I love you awfully!” Natásha suddenly said. “Awfully, awfully!”
 
-      All that may be so and mankind is ready to agree with it, but it is not
-      what was asked. All *that* would be interesting if we recognized a divine
-      power based on itself and always consistently directing its nations
-      through Napoleons, Louis-es, and writers; but we do not acknowledge such a
-      power, and therefore before speaking about Napoleons, Louis-es, and
-      authors, we ought to be shown the connection existing between these men
-      and the movement of the nations.
+      “No, he would not have approved,” said Pierre, after reflection. “What he
+      would have approved of is our family life. He was always so anxious to
+      find seemliness, happiness, and peace in everything, and I should have
+      been proud to let him see us. There now—you talk of my absence, but
+      you wouldn’t believe what a special feeling I have for you after a
+      separation....”
 
-      If instead of a divine power some other force has appeared, it should be
-      explained in what this new force consists, for the whole interest of
-      history lies precisely in that force.
+      “Yes, I should think...” Natásha began.
 
-      History seems to assume that this force is self-evident and known to
-      everyone. But in spite of every desire to regard it as known, anyone
-      reading many historical works cannot help doubting whether this new force,
-      so variously understood by the historians themselves, is really quite well
-      known to everybody.
+      “No, it’s not that. I never leave off loving you. And one
+      couldn’t love more, but this is something special.... Yes, of
+      course—” he did not finish because their eyes meeting said the rest.
+
+      “What nonsense it is,” Natásha suddenly exclaimed, “about honeymoons, and
+      that the greatest happiness is at first! On the contrary, now is the best
+      of all. If only you did not go away! Do you remember how we quarreled? And
+      it was always my fault. Always mine. And what we quarreled about—I
+      don’t even remember!”
+
+      “Always about the same thing,” said Pierre with a smile. “Jealo...”
+
+      “Don’t say it! I can’t bear it!” Natásha cried, and her eyes glittered
+      coldly and vindictively. “Did you see her?” she added, after a pause.
+
+      “No, and if I had I shouldn’t have recognized her.”
+
+      They were silent for a while.
+
+      “Oh, do you know? While you were talking in the study I was looking at
+      you,” Natásha began, evidently anxious to disperse the cloud that had come
+      over them. “You are as like him as two peas—like the boy.” (She
+      meant her little son.) “Oh, it’s time to go to him.... The milk’s come....
+      But I’m sorry to leave you.”
+
+      They were silent for a few seconds. Then suddenly turning to one another
+      at the same time they both began to speak. Pierre began with
+      self-satisfaction and enthusiasm, Natásha with a quiet, happy smile.
+      Having interrupted one another they both stopped to let the other
+      continue.
+
+      “No. What did you say? Go on, go on.”
+
+      “No, you go on, I was talking nonsense,” said Natásha.
+
+      Pierre finished what he had begun. It was the sequel to his complacent
+      reflections on his success in Petersburg. At that moment it seemed to him
+      that he was chosen to give a new direction to the whole of Russian society
+      and to the whole world.
+
+      “I only wished to say that ideas that have great results are always simple
+      ones. My whole idea is that if vicious people are united and constitute a
+      power, then honest folk must do the same. Now that’s simple enough.”
+
+      “Yes.”
+
+      “And what were you going to say?”
+
+      “I? Only nonsense.”
+
+      “But all the same?”
+
+      “Oh nothing, only a trifle,” said Natásha, smiling still more brightly.
+      “I only wanted to tell you about Pétya: today nurse was coming to take him
+      from me, and he laughed, shut his eyes, and clung to me. I’m sure he
+      thought he was hiding. Awfully sweet! There, now he’s crying. Well,
+      good-by!” and she left the room.
+
+      Meanwhile downstairs in young Nicholas Bolkónski’s bedroom a little lamp
+      was burning as usual. (The boy was afraid of the dark and they could not
+      cure him of it.) Dessalles slept propped up on four pillows and his Roman
+      nose emitted sounds of rhythmic snoring. Little Nicholas, who had just
+      waked up in a cold perspiration, sat up in bed and gazed before him with
+      wide-open eyes. He had awaked from a terrible dream. He had dreamed that
+      he and Uncle Pierre, wearing helmets such as were depicted in his
+      Plutarch, were leading a huge army. The army was made up of white slanting
+      lines that filled the air like the cobwebs that float about in autumn and
+      which Dessalles called *les fils de la Vièrge*. In front was Glory, which
+      was similar to those threads but rather thicker. He and Pierre were borne
+      along lightly and joyously, nearer and nearer to their goal. Suddenly the
+      threads that moved them began to slacken and become entangled and it grew
+      difficult to move. And Uncle Nicholas stood before them in a stern and
+      threatening attitude.
+
+      “Have you done this?” he said, pointing to some broken sealing wax and
+      pens. “I loved you, but I have orders from Arakchéev and will kill the
+      first of you who moves forward.” Little Nicholas turned to look at Pierre
+      but Pierre was no longer there. In his place was his father—Prince
+      Andrew—and his father had neither shape nor form, but he existed,
+      and when little Nicholas perceived him he grew faint with love: he felt
+      himself powerless, limp, and formless. His father caressed and pitied him.
+      But Uncle Nicholas came nearer and nearer to them. Terror seized young
+      Nicholas and he awoke.
+
+      “My father!” he thought. (Though there were two good portraits of Prince
+      Andrew in the house, Nicholas never imagined him in human form.) “My
+      father has been with me and caressed me. He approved of me and of Uncle
+      Pierre. Whatever he may tell me, I will do it. Mucius Scaevola burned his
+      hand. Why should not the same sort of thing happen to me? I know they want
+      me to learn. And I will learn. But someday I shall have finished learning,
+      and then I will do something. I only pray God that something may happen to
+      me such as happened to Plutarch’s men, and I will act as they did. I will
+      do better. Everyone shall know me, love me, and be delighted with me!” And
+      suddenly his bosom heaved with sobs and he began to cry.
+
+      “Are you ill?” he heard Dessalles’ voice asking.
+
+      “No,” answered Nicholas, and lay back on his pillow.
+
+      “He is good and kind and I am fond of him!” he thought of Dessalles. “But
+      Uncle Pierre! Oh, what a wonderful man he is! And my father? Oh, Father,
+      Father! Yes, I will do something with which even *he* would be
+      satisfied....”

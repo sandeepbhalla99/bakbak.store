@@ -1,192 +1,150 @@
-# First Epilogue: 1813 - 20 - ChapterXII
+# Book Fifteen: 1812 - 13 - ChapterXI
 
-As in every large household, there were at Bald Hills several perfectly
-      distinct worlds which merged into one harmonious whole, though each
-      retained its own peculiarities and made concessions to the others. Every
-      event, joyful or sad, that took place in that house was important to all
-      these worlds, but each had its own special reasons to rejoice or grieve
-      over that occurrence independently of the others.
+Two months previously when Pierre was already staying with the Rostóvs he
+      had received a letter from Prince Theodore, asking him to come to
+      Petersburg to confer on some important questions that were being discussed
+      there by a society of which Pierre was one of the principal founders.
 
-      For instance, Pierre’s return was a joyful and important event and they
-      all felt it to be so.
+      On reading that letter (she always read her husband’s letters) Natásha
+      herself suggested that he should go to Petersburg, though she would feel
+      his absence very acutely. She attributed immense importance to all her
+      husband’s intellectual and abstract interests though she did not
+      understand them, and she always dreaded being a hindrance to him in such
+      matters. To Pierre’s timid look of inquiry after reading the letter she
+      replied by asking him to go, but to fix a definite date for his return. He
+      was given four weeks’ leave of absence.
 
-      The servants—the most reliable judges of their masters because they
-      judge not by their conversation or expressions of feeling but by their
-      acts and way of life—were glad of Pierre’s return because they knew
-      that when he was there Count Nicholas would cease going every day to
-      attend to the estate, and would be in better spirits and temper, and also
-      because they would all receive handsome presents for the holidays.
+      Ever since that leave of absence had expired, more than a fortnight
+      before, Natásha had been in a constant state of alarm, depression, and
+      irritability.
 
-      The children and their governesses were glad of Pierre’s return because no
-      one else drew them into the social life of the household as he did. He
-      alone could play on the clavichord that *écossaise* (his only piece) to
-      which, as he said, all possible dances could be danced, and they felt sure
-      he had brought presents for them all.
+      Denísov, now a general on the retired list and much dissatisfied with the
+      present state of affairs, had arrived during that fortnight. He looked at
+      Natásha with sorrow and surprise as at a bad likeness of a person once
+      dear. A dull, dejected look, random replies, and talk about the nursery
+      was all he saw and heard from his former enchantress.
 
-      Young Nicholas, now a slim lad of fifteen, delicate and intelligent, with
-      curly light-brown hair and beautiful eyes, was delighted because Uncle
-      Pierre as he called him was the object of his rapturous and passionate
-      affection. No one had instilled into him this love for Pierre whom he saw
-      only occasionally. Countess Mary who had brought him up had done her
-      utmost to make him love her husband as she loved him, and little Nicholas
-      did love his uncle, but loved him with just a shade of contempt. Pierre,
-      however, he adored. He did not want to be an hussar or a Knight of St.
-      George like his uncle Nicholas; he wanted to be learned, wise, and kind
-      like Pierre. In Pierre’s presence his face always shone with pleasure and
-      he flushed and was breathless when Pierre spoke to him. He did not miss a
-      single word he uttered, and would afterwards, with Dessalles or by
-      himself, recall and reconsider the meaning of everything Pierre had said.
-      Pierre’s past life and his unhappiness prior to 1812 (of which young
-      Nicholas had formed a vague poetic picture from some words he had
-      overheard), his adventures in Moscow, his captivity, Platón Karatáev (of
-      whom he had heard from Pierre), his love for Natásha (of whom the lad was
-      also particularly fond), and especially Pierre’s friendship with the
-      father whom Nicholas could not remember—all this made Pierre in his
-      eyes a hero and a saint.
+      Natásha was sad and irritable all that time, especially when her mother,
+      her brother, Sónya, or Countess Mary in their efforts to console her tried
+      to excuse Pierre and suggested reasons for his delay in returning.
 
-      From broken remarks about Natásha and his father, from the emotion with
-      which Pierre spoke of that dead father, and from the careful, reverent
-      tenderness with which Natásha spoke of him, the boy, who was only just
-      beginning to guess what love is, derived the notion that his father had
-      loved Natásha and when dying had left her to his friend. But the father
-      whom the boy did not remember appeared to him a divinity who could not be
-      pictured, and of whom he never thought without a swelling heart and tears
-      of sadness and rapture. So the boy also was happy that Pierre had arrived.
+      “It’s all nonsense, all rubbish—those discussions which lead to
+      nothing and all those idiotic societies!” Natásha declared of the very
+      affairs in the immense importance of which she firmly believed.
 
-      The guests welcomed Pierre because he always helped to enliven and unite
-      any company he was in.
+      And she would go to the nursery to nurse Pétya, her only boy. No one else
+      could tell her anything so comforting or so reasonable as this little
+      three-month-old creature when he lay at her breast and she was conscious
+      of the movement of his lips and the snuffling of his little nose. That
+      creature said: “You are angry, you are jealous, you would like to pay him
+      out, you are afraid—but here am I! And I am he...” and that was
+      unanswerable. It was more than true.
 
-      The grown-up members of the family, not to mention his wife, were pleased
-      to have back a friend whose presence made life run more smoothly and
-      peacefully.
+      During that fortnight of anxiety Natásha resorted to the baby for comfort
+      so often, and fussed over him so much, that she overfed him and he fell
+      ill. She was terrified by his illness, and yet that was just what she
+      needed. While attending to him she bore the anxiety about her husband more
+      easily.
 
-      The old ladies were pleased with the presents he brought them, and
-      especially that Natásha would now be herself again.
+      She was nursing her boy when the sound of Pierre’s sleigh was heard at the
+      front door, and the old nurse—knowing how to please her mistress—entered
+      the room inaudibly but hurriedly and with a beaming face.
 
-      Pierre felt the different outlooks of these various worlds and made haste
-      to satisfy all their expectations.
+      “Has he come?” Natásha asked quickly in a whisper, afraid to move lest she
+      should rouse the dozing baby.
 
-      Though the most absent-minded and forgetful of men, Pierre, with the aid
-      of a list his wife drew up, had now bought everything, not forgetting his
-      mother—and brother-in-law’s commissions, nor the dress material for
-      a present to Belóva, nor toys for his wife’s nephews. In the early days of
-      his marriage it had seemed strange to him that his wife should expect him
-      not to forget to procure all the things he undertook to buy, and he had
-      been taken aback by her serious annoyance when on his first trip he forgot
-      everything. But in time he grew used to this demand. Knowing that Natásha
-      asked nothing for herself, and gave him commissions for others only when
-      he himself had offered to undertake them, he now found an unexpected and
-      childlike pleasure in this purchase of presents for everyone in the house,
-      and never forgot anything. If he now incurred Natásha’s censure it was
-      only for buying too many and too expensive things. To her other defects
-      (as most people thought them, but which to Pierre were qualities) of
-      untidiness and neglect of herself, she now added stinginess.
+      “He’s come, ma’am,” whispered the nurse.
 
-      From the time that Pierre began life as a family man on a footing
-      entailing heavy expenditure, he had noticed to his surprise that he spent
-      only half as much as before, and that his affairs—which had been in
-      disorder of late, chiefly because of his first wife’s debts—had
-      begun to improve.
+      The blood rushed to Natásha’s face and her feet involuntarily moved, but
+      she could not jump up and run out. The baby again opened his eyes and
+      looked at her. “You’re here?” he seemed to be saying, and again lazily
+      smacked his lips.
 
-      Life was cheaper because it was circumscribed: that most expensive luxury,
-      the kind of life that can be changed at any moment, was no longer his nor
-      did he wish for it. He felt that his way of life had now been settled once
-      for all till death and that to change it was not in his power, and so that
-      way of life proved economical.
+      Cautiously withdrawing her breast, Natásha rocked him a little, handed him
+      to the nurse, and went with rapid steps toward the door. But at the door
+      she stopped as if her conscience reproached her for having in her joy left
+      the child too soon, and she glanced round. The nurse with raised elbows
+      was lifting the infant over the rail of his cot.
 
-      With a merry, smiling face Pierre was sorting his purchases.
+      “Go, ma’am! Don’t worry, go!” she whispered, smiling, with the kind of
+      familiarity that grows up between a nurse and her mistress.
 
-      “What do you think of this?” said he, unrolling a piece of stuff like a
-      shopman.
+      Natásha ran with light footsteps to the anteroom.
 
-      Natásha, who was sitting opposite to him with her eldest daughter on her
-      lap, turned her sparkling eyes swiftly from her husband to the things he
-      showed her.
+      Denísov, who had come out of the study into the dancing room with his
+      pipe, now for the first time recognized the old Natásha. A flood of
+      brilliant, joyful light poured from her transfigured face.
 
-      “That’s for Belóva? Excellent!” She felt the quality of the material. “It
-      was a ruble an arshin, I suppose?”
+      “He’s come!” she exclaimed as she ran past, and Denísov felt that he too
+      was delighted that Pierre, whom he did not much care for, had returned.
 
-      Pierre told her the price.
+      On reaching the vestibule Natásha saw a tall figure in a fur coat
+      unwinding his scarf. “It’s he! It’s really he! He has come!” she said to
+      herself, and rushing at him embraced him, pressed his head to her breast,
+      and then pushed him back and gazed at his ruddy, happy face, covered with
+      hoarfrost. “Yes, it is he, happy and contented....”
 
-      “Too dear!” Natásha remarked. “How pleased the children will be and Mamma
-      too! Only you need not have bought me this,” she added, unable to suppress
-      a smile as she gazed admiringly at a gold comb set with pearls, of a kind
-      then just coming into fashion.
+      Then all at once she remembered the tortures of suspense she had
+      experienced for the last fortnight, and the joy that had lit up her face
+      vanished; she frowned and overwhelmed Pierre with a torrent of reproaches
+      and angry words.
 
-      “Adèle tempted me: she kept on telling me to buy it,” returned Pierre.
+      “Yes, it’s all very well for you. You are pleased, you’ve had a good
+      time.... But what about me? You might at least have shown consideration
+      for the children. I am nursing and my milk was spoiled.... Pétya was at
+      death’s door. But you were enjoying yourself. Yes, enjoying...”
 
-      “When am I to wear it?” and Natásha stuck it in her coil of hair. “When I
-      take little Másha into society? Perhaps they will be fashionable again by
-      then. Well, let’s go now.”
+      Pierre knew he was not to blame, for he could not have come sooner; he
+      knew this outburst was unseemly and would blow over in a minute or two;
+      above all he knew that he himself was bright and happy. He wanted to smile
+      but dared not even think of doing so. He made a piteous, frightened face
+      and bent down.
 
-      And collecting the presents they went first to the nursery and then to the
-      old countess’ rooms.
+      “I could not, on my honor. But how is Pétya?”
 
-      The countess was sitting with her companion Belóva, playing grand-patience
-      as usual, when Pierre and Natásha came into the drawing room with parcels
-      under their arms.
+      “All right now. Come along! I wonder you’re not ashamed! If only you could
+      see what I was like without you, how I suffered!”
 
-      The countess was now over sixty, was quite gray, and wore a cap with a
-      frill that surrounded her face. Her face had shriveled, her upper lip had
-      sunk in, and her eyes were dim.
+      “You are well?”
 
-      After the deaths of her son and husband in such rapid succession, she felt
-      herself a being accidentally forgotten in this world and left without aim
-      or object for her existence. She ate, drank, slept, or kept awake, but did
-      not *live*. Life gave her no new impressions. She wanted nothing from life
-      but tranquillity, and that tranquillity only death could give her. But
-      until death came she had to go on living, that is, to use her vital
-      forces. A peculiarity one sees in very young children and very old people
-      was particularly evident in her. Her life had no external aims—only
-      a need to exercise her various functions and inclinations was apparent.
-      She had to eat, sleep, think, speak, weep, work, give vent to her anger,
-      and so on, merely because she had a stomach, a brain, muscles, nerves, and
-      a liver. She did these things not under any external impulse as people in
-      the full vigor of life do, when behind the purpose for which they strive
-      that of exercising their functions remains unnoticed. She talked only
-      because she physically needed to exercise her tongue and lungs. She cried
-      as a child does, because her nose had to be cleared, and so on. What for
-      people in their full vigor is an aim was for her evidently merely a
-      pretext.
+      “Come, come!” she said, not letting go of his arm. And they went to their
+      rooms.
 
-      Thus in the morning—especially if she had eaten anything rich the
-      day before—she felt a need of being angry and would choose as the
-      handiest pretext Belóva’s deafness.
+      When Nicholas and his wife came to look for Pierre he was in the nursery
+      holding his baby son, who was again awake, on his huge right palm and
+      dandling him. A blissful bright smile was fixed on the baby’s broad face
+      with its toothless open mouth. The storm was long since over and there was
+      bright, joyous sunshine on Natásha’s face as she gazed tenderly at her
+      husband and child.
 
-      She would begin to say something to her in a low tone from the other end
-      of the room.
+      “And have you talked everything well over with Prince Theodore?” she
+      asked.
 
-      “It seems a little warmer today, my dear,” she would murmur.
+      “Yes, capitally.”
 
-      And when Belóva replied: “Oh yes, they’ve come,” she would mutter angrily:
-      “O Lord! How stupid and deaf she is!”
+      “You see, he holds it up.” (She meant the baby’s head.) “But how he did
+      frighten me... You’ve seen the princess? Is it true she’s in love with
+      that...”
 
-      Another pretext would be her snuff, which would seem too dry or too damp
-      or not rubbed fine enough. After these fits of irritability her face would
-      grow yellow, and her maids knew by infallible symptoms when Belóva would
-      again be deaf, the snuff damp, and the countess’ face yellow. Just as she
-      needed to work off her spleen so she had sometimes to exercise her
-      still-existing faculty of thinking—and the pretext for that was a
-      game of patience. When she needed to cry, the deceased count would be the
-      pretext. When she wanted to be agitated, Nicholas and his health would be
-      the pretext, and when she felt a need to speak spitefully, the pretext
-      would be Countess Mary. When her vocal organs needed exercise, which was
-      usually toward seven o’clock when she had had an after-dinner rest in a
-      darkened room, the pretext would be the retelling of the same stories over
-      and over again to the same audience.
+      “Yes, just fancy...”
 
-      The old lady’s condition was understood by the whole household though no
-      one ever spoke of it, and they all made every possible effort to satisfy
-      her needs. Only by a rare glance exchanged with a sad smile between
-      Nicholas, Pierre, Natásha, and Countess Mary was the common understanding
-      of her condition expressed.
+      At that moment Nicholas and Countess Mary came in. Pierre with the baby on
+      his hand stooped, kissed them, and replied to their inquiries. But in
+      spite of much that was interesting and had to be discussed, the baby with
+      the little cap on its unsteady head evidently absorbed all his attention.
 
-      But those glances expressed something more: they said that she had played
-      her part in life, that what they now saw was not her whole self, that we
-      must all become like her, and that they were glad to yield to her, to
-      restrain themselves for this once precious being formerly as full of life
-      as themselves, but now so much to be pitied. *“Memento mori,”*
-      said these glances.
+      “How sweet!” said Countess Mary, looking at and playing with the baby.
+      “Now, Nicholas,” she added, turning to her husband, “I can’t understand
+      how it is you don’t see the charm of these delicious marvels.”
 
-      Only the really heartless, the stupid ones of that household, and the
-      little children failed to understand this and avoided her.
+      “I don’t and can’t,” replied Nicholas, looking coldly at the baby. “A lump
+      of flesh. Come along, Pierre!”
+
+      “And yet he’s such an affectionate father,” said Countess Mary,
+      vindicating her husband, “but only after they are a year old or so...”
+
+      “Now, Pierre nurses them splendidly,” said Natásha. “He says his hand is
+      just made for a baby’s seat. Just look!”
+
+      “Only not for this...” Pierre suddenly exclaimed with a laugh, and
+      shifting the baby he gave him to the nurse.

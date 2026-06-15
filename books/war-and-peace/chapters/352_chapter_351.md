@@ -1,237 +1,136 @@
-# First Epilogue: 1813 - 20 - ChapterXIV
+# Book Fifteen: 1812 - 13 - ChapterXIII
 
-Soon after this the children came in to say good night. They kissed
-      everyone, the tutors and governesses made their bows, and they went out.
-      Only young Nicholas and his tutor remained. Dessalles whispered to the boy
-      to come downstairs.
+When Pierre and his wife entered the drawing room the countess was in one
+      of her customary states in which she needed the mental exertion of playing
+      patience, and so—though by force of habit she greeted him with the
+      words she always used when Pierre or her son returned after an absence:
+      “High time, my dear, high time! We were all weary of waiting for you.
+      Well, thank God!” and received her presents with another customary remark:
+      “It’s not the gift that’s precious, my dear, but that you give it to me,
+      an old woman...”—yet it was evident that she was not pleased by
+      Pierre’s arrival at that moment when it diverted her attention from the
+      unfinished game.
 
-      “No, Monsieur Dessalles, I will ask my aunt to let me stay,” replied
-      Nicholas Bolkónski also in a whisper.
+      She finished her game of patience and only then examined the presents.
+      They consisted of a box for cards, of splendid workmanship, a bright-blue
+      Sèvres tea cup with shepherdesses depicted on it and with a lid, and a
+      gold snuffbox with the count’s portrait on the lid which Pierre had had
+      done by a miniaturist in Petersburg. The countess had long wished for such
+      a box, but as she did not want to cry just then she glanced indifferently
+      at the portrait and gave her attention chiefly to the box for cards.
 
-      “*Ma tante*, please let me stay,” said he, going up to his aunt.
+      “Thank you, my dear, you have cheered me up,” said she as she always did.
+      “But best of all you have brought yourself back—for I never saw
+      anything like it, you ought to give your wife a scolding! What are we to
+      do with her? She is like a mad woman when you are away. Doesn’t see
+      anything, doesn’t remember anything,” she went on, repeating her usual
+      phrases. “Look, Anna Timoféevna,” she added to her companion, “see what a
+      box for cards my son has brought us!”
 
-      His face expressed entreaty, agitation, and ecstasy. Countess Mary glanced
-      at him and turned to Pierre.
+      Belóva admired the presents and was delighted with her dress material.
 
-      “When you are here he can’t tear himself away,” she said.
+      Though Pierre, Natásha, Nicholas, Countess Mary, and Denísov had much to
+      talk about that they could not discuss before the old countess—not
+      that anything was hidden from her, but because she had dropped so far
+      behindhand in many things that had they begun to converse in her presence
+      they would have had to answer inopportune questions and to repeat what
+      they had already told her many times: that so-and-so was dead and
+      so-and-so was married, which she would again be unable to remember—yet
+      they sat at tea round the samovar in the drawing room from habit, and
+      Pierre answered the countess’ questions as to whether Prince Vasíli had
+      aged and whether Countess Mary Alexéevna had sent greetings and still
+      thought of them, and other matters that interested no one and to which she
+      herself was indifferent.
 
-      “I will bring him to you directly, Monsieur Dessalles. Good night!” said
-      Pierre, giving his hand to the Swiss tutor, and he turned to young
-      Nicholas with a smile. “You and I haven’t seen anything of one another
-      yet.... How like he is growing, Mary!” he added, addressing Countess Mary.
+      Conversation of this kind, interesting to no one yet unavoidable,
+      continued all through teatime. All the grown-up members of the family were
+      assembled near the round tea table at which Sónya presided beside the
+      samovar. The children with their tutors and governesses had had tea and
+      their voices were audible from the next room. At tea all sat in their
+      accustomed places: Nicholas beside the stove at a small table where his
+      tea was handed to him; Mílka, the old gray borzoi bitch (daughter of the
+      first Mílka), with a quite gray face and large black eyes that seemed more
+      prominent than ever, lay on the armchair beside him; Denísov, whose curly
+      hair, mustache, and whiskers had turned half gray, sat beside countess
+      Mary with his general’s tunic unbuttoned; Pierre sat between his wife and
+      the old countess. He spoke of what he knew might interest the old lady and
+      that she could understand. He told her of external social events and of
+      the people who had formed the circle of her contemporaries and had once
+      been a real, living, and distinct group, but who were now for the most
+      part scattered about the world and like herself were garnering the last
+      ears of the harvests they had sown in earlier years. But to the old
+      countess those contemporaries of hers seemed to be the only serious and
+      real society. Natásha saw by Pierre’s animation that his visit had been
+      interesting and that he had much to tell them but dare not say it before
+      the old countess. Denísov, not being a member of the family, did not
+      understand Pierre’s caution and being, as a malcontent, much interested in
+      what was occurring in Petersburg, kept urging Pierre to tell them about
+      what had happened in the Semënovsk regiment, then about Arakchéev, and
+      then about the Bible Society. Once or twice Pierre was carried away and
+      began to speak of these things, but Nicholas and Natásha always brought
+      him back to the health of Prince Iván and Countess Mary Alexéevna.
 
-      “Like my father?” asked the boy, flushing crimson and looking up at Pierre
-      with bright, ecstatic eyes.
+      “Well, and all this idiocy—Gossner and Tatáwinova?” Denísov asked.
+      “Is that weally still going on?”
 
-      Pierre nodded, and went on with what he had been saying when the children
-      had interrupted. Countess Mary sat down doing woolwork; Natásha did not
-      take her eyes off her husband. Nicholas and Denísov rose, asked for their
-      pipes, smoked, went to fetch more tea from Sónya—who sat weary but
-      resolute at the samovar—and questioned Pierre. The curly-headed,
-      delicate boy sat with shining eyes unnoticed in a corner, starting every
-      now and then and muttering something to himself, and evidently
-      experiencing a new and powerful emotion as he turned his curly head, with
-      his thin neck exposed by his turn-down collar, toward the place where
-      Pierre sat.
+      “Going on?” Pierre exclaimed. “Why more than ever!
+      The Bible Society is the whole government now!”
 
-      The conversation turned on the contemporary gossip about those in power,
-      in which most people see the chief interest of home politics. Denísov,
-      dissatisfied with the government on account of his own disappointments in
-      the service, heard with pleasure of the things done in Petersburg which
-      seemed to him stupid, and made forcible and sharp comments on what Pierre
-      told them.
+      “What is that, *mon cher ami?*” asked the countess, who had
+      finished her tea and evidently needed a pretext for being angry
+      after her meal. “What are you saying about the government? I don’t
+      understand.”
 
-      “One used to have to be a German—now one must dance with Tatáwinova
-      and Madame Kwüdener, and wead Ecka’tshausen and the bwethwen. Oh, they
-      should let that fine fellow Bonaparte loose—he’d knock all this
-      nonsense out of them! Fancy giving the command of the Semënov wegiment to
-      a fellow like that Schwa’tz!” he cried.
+      “Well, you know, *Maman*,” Nicholas interposed, knowing how to translate
+      things into his mother’s language, “Prince Alexander Golítsyn has founded
+      a society and in consequence has great influence, they say.”
 
-      Nicholas, though free from Denísov’s readiness to find fault with
-      everything, also thought that discussion of the government was a very
-      serious and weighty matter, and the fact that *A* had been appointed
-      Minister of This and *B* Governor General of That, and that the Emperor had
-      said so-and-so and this minister so-and-so, seemed to him very important.
-      And so he thought it necessary to take an interest in these things and to
-      question Pierre. The questions put by these two kept the conversation from
-      changing its ordinary character of gossip about the higher government
-      circles.
+      “Arakchéev and Golítsyn,” incautiously remarked Pierre, “are now the whole
+      government! And what a government! They see treason everywhere and are
+      afraid of everything.”
 
-      But Natásha, knowing all her husband’s ways and ideas, saw that he had
-      long been wishing but had been unable to divert the conversation to
-      another channel and express his own deeply felt idea for the sake of which
-      he had gone to Petersburg to consult with his new friend Prince Theodore,
-      and she helped him by asking how his affairs with Prince Theodore had
-      gone.
+      “Well, and how is Prince Alexander to blame? He is a most estimable man. I
+      used to meet him at Mary Antónovna’s,” said the countess in an offended
+      tone; and still more offended that they all remained silent, she went on:
+      “Nowadays everyone finds fault. A Gospel Society! Well, and what harm is
+      there in that?” and she rose (everybody else got up too) and with a severe
+      expression sailed back to her table in the sitting room.
 
-      “What was it about?” asked Nicholas.
+      The melancholy silence that followed was broken by the sounds of the
+      children’s voices and laughter from the next room. Evidently some jolly
+      excitement was going on there.
 
-      “Always the same thing,” said Pierre, looking round at his listeners.
-      “Everybody sees that things are going so badly that they cannot be allowed
-      to go on so and that it is the duty of all decent men to counteract it as
-      far as they can.”
+      “Finished, finished!” little Natásha’s gleeful yell rose above them all.
 
-      “What can decent men do?” Nicholas inquired, frowning slightly. “What can
-      be done?”
+      Pierre exchanged glances with Countess Mary and Nicholas (Natásha he never
+      lost sight of) and smiled happily.
 
-      “Why, this...”
+      “That’s delightful music!” said he.
 
-      “Come into my study,” said Nicholas.
+      “It means that Anna Makárovna has finished her stocking,” said Countess
+      Mary.
 
-      Natásha, who had long expected to be fetched to nurse her baby, now heard
-      the nurse calling her and went to the nursery. Countess Mary followed her.
-      The men went into the study and little Nicholas Bolkónski followed them
-      unnoticed by his uncle and sat down at the writing table in a shady corner
-      by the window.
+      “Oh, I’ll go and see,” said Pierre, jumping up. “You know,” he added,
+      stopping at the door, “why I’m especially fond of that music? It is always
+      the first thing that tells me all is well. When I was driving here today,
+      the nearer I got to the house the more anxious I grew. As I entered the
+      anteroom I heard Andrúsha’s peals of laughter and that meant that all was
+      well.”
 
-      “Well, what would you do?” asked Denísov.
+      “I know! I know that feeling,” said Nicholas. “But I mustn’t go there—those
+      stockings are to be a surprise for me.”
 
-      “Always some fantastic schemes,” said Nicholas.
+      Pierre went to the children, and the shouting and laughter grew still
+      louder.
 
-      “Why this,” began Pierre, not sitting down but pacing the room, sometimes
-      stopping short, gesticulating, and lisping: “the position in Petersburg is
-      this: the Emperor does not look into anything. He has abandoned himself
-      altogether to this mysticism” (Pierre could not tolerate mysticism in
-      anyone now). “He seeks only for peace, and only these people *sans foi ni
-      loi* * can give it him—people who recklessly hack at and strangle
-      everything—Magnítski, Arakchéev, and *tutti quanti*.... You will agree
-      that if you did not look after your estates yourself but only wanted a
-      quiet life, the harsher your steward was the more readily your object
-      might be attained,” he said to Nicholas.
+      “Come, Anna Makárovna,” Pierre’s voice was heard saying, “come here into
+      the middle of the room and at the word of command, ‘One, two,’ and when I
+      say ‘three’... You stand here, and you in my arms—well now! One,
+      two!...” said Pierre, and a silence followed: “three!” and a rapturously
+      breathless cry of children’s voices filled the room. “Two, two!” they
+      shouted.
 
-    * Without faith or law.
-
-      “Well, what does that lead up to?” said Nicholas.
-
-      “Well, everything is going to ruin! Robbery in the law courts, in the army
-      nothing but flogging, drilling, and Military Settlements; the people are
-      tortured, enlightenment is suppressed. All that is young and honest is
-      crushed! Everyone sees that this cannot go on. Everything is strained to
-      such a degree that it will certainly break,” said Pierre (as those who
-      examine the actions of any government have always said since governments
-      began). “I told them just one thing in Petersburg.”
-
-      “Told whom?”
-
-      “Well, you know whom,” said Pierre, with a meaning glance from under his
-      brows. “Prince Theodore and all those. To encourage culture and
-      philanthropy is all very well of course. The aim is excellent but in the
-      present circumstances something else is needed.”
-
-      At that moment Nicholas noticed the presence of his nephew. His face
-      darkened and he went up to the boy.
-
-      “Why are you here?”
-
-      “Why? Let him be,” said Pierre, taking Nicholas by the arm and continuing.
-      “That is not enough, I told them. Something else is needed. When you stand
-      expecting the overstrained string to snap at any moment, when everyone is
-      expecting the inevitable catastrophe, as many as possible must join hands
-      as closely as they can to withstand the general calamity. Everything that
-      is young and strong is being enticed away and depraved. One is lured by
-      women, another by honors, a third by ambition or money, and they go over
-      to that camp. No independent men, such as you or I, are left. What I say
-      is widen the scope of our society, let the *mot d’ordre* be not
-      virtue alone but independence and action as well!”
-
-      Nicholas, who had left his nephew, irritably pushed up an armchair, sat
-      down in it, and listened to Pierre, coughing discontentedly and frowning
-      more and more.
-
-      “But action with what aim?” he cried. “And what position will you adopt
-      toward the government?”
-
-      “Why, the position of assistants. The society need not be secret if the
-      government allows it. Not merely is it not hostile to government, but it
-      is a society of true conservatives—a society of gentlemen in the
-      full meaning of that word. It is only to prevent some Pugachëv or other
-      from killing my children and yours, and Arakchéev from sending me off to
-      some Military Settlement. We join hands only for the public welfare and
-      the general safety.”
-
-      “Yes, but it’s a secret society and therefore a hostile and harmful one
-      which can only cause harm.”
-
-      “Why? Did the Tugendbund which saved Europe” (they did not then venture to
-      suggest that Russia had saved Europe) “do any harm? The Tugendbund is an
-      alliance of virtue: it is love, mutual help... it is what Christ preached
-      on the Cross.”
-
-      Natásha, who had come in during the conversation, looked joyfully at her
-      husband. It was not what he was saying that pleased her—that did not
-      even interest her, for it seemed to her that was all extremely simple and
-      that she had known it a long time (it seemed so to her because she knew
-      that it sprang from Pierre’s whole soul), but it was his animated and
-      enthusiastic appearance that made her glad.
-
-      The boy with the thin neck stretching out from the turn-down collar—whom
-      everyone had forgotten—gazed at Pierre with even greater and more
-      rapturous joy. Every word of Pierre’s burned into his heart, and with a
-      nervous movement of his fingers he unconsciously broke the sealing wax and
-      quill pens his hands came upon on his uncle’s table.
-
-      “It is not at all what you suppose; but that is what the German Tugendbund
-      was, and what I am proposing.”
-
-      “No, my fwiend! The Tugendbund is all vewy well for the sausage eaters,
-      but I don’t understand it and can’t even pwonounce it,”
-      interposed Denísov in a loud and resolute voice. “I agwee that evewything
-      here is wotten and howwible, but the *Tugendbund* I don’t understand.
-      If we’re not satisfied, let us have a *bunt* of our own.
-      That’s all wight. *Je suis vot’e homme!”* *
-
-    * “I’m your man.”
-
-      Pierre smiled, Natásha began to laugh, but Nicholas knitted his brows
-      still more and began proving to Pierre that there was no prospect of any
-      great change and that all the danger he spoke of existed only in his
-      imagination. Pierre maintained the contrary, and as his mental faculties
-      were greater and more resourceful, Nicholas felt himself cornered. This
-      made him still angrier, for he was fully convinced, not by reasoning but
-      by something within him stronger than reason, of the justice of his
-      opinion.
-
-      “I will tell you this,” he said, rising and trying with nervously
-      twitching fingers to prop up his pipe in a corner, but finally abandoning
-      the attempt. “I can’t prove it to you. You say that everything here is
-      rotten and that an overthrow is coming: I don’t see it. But you also say
-      that our oath of allegiance is a conditional matter, and to that I reply:
-      ‘You are my best friend, as you know, but if you formed a secret society
-      and began working against the government—be it what it may—I
-      know it is my duty to obey the government. And if Arakchéev ordered me to
-      lead a squadron against you and cut you down, I should not hesitate an
-      instant, but should do it.’ And you may argue about that as you like!”
-
-      An awkward silence followed these words. Natásha was the first to speak,
-      defending her husband and attacking her brother. Her defense was weak and
-      inapt but she attained her object. The conversation was resumed, and no
-      longer in the unpleasantly hostile tone of Nicholas’ last remark.
-
-      When they all got up to go in to supper, little Nicholas Bolkónski went up
-      to Pierre, pale and with shining, radiant eyes.
-
-      “Uncle Pierre, you... no... If Papa were alive... would he agree with
-      you?” he asked.
-
-      And Pierre suddenly realized what a special, independent, complex, and
-      powerful process of thought and feeling must have been going on in this
-      boy during that conversation, and remembering all he had said he regretted
-      that the lad should have heard him. He had, however, to give him an
-      answer.
-
-      “Yes, I think so,” he said reluctantly, and left the study.
-
-      The lad looked down and seemed now for the first time to notice what he
-      had done to the things on the table. He flushed and went up to Nicholas.
-
-      “Uncle, forgive me, I did that... unintentionally,” he said, pointing to
-      the broken sealing wax and pens.
-
-      Nicholas started angrily.
-
-      “All right, all right,” he said, throwing the bits under the table.
-
-      And evidently suppressing his vexation with difficulty, he turned away
-      from the boy.
-
-      “You ought not to have been here at all,” he said.
+      This meant two stockings, which by a secret process known only to herself
+      Anna Makárovna used to knit at the same time on the same needles, and
+      which, when they were ready, she always triumphantly drew, one out of the
+      other, in the children’s presence.

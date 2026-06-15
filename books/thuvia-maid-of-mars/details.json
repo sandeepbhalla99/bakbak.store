@@ -1,0 +1,70 @@
+{
+  "id": "thuvia-maid-of-mars",
+  "title": "Thuvia, Maid of Mars",
+  "author": "Edgar Rice Burroughs",
+  "genre": "Sci-Fi",
+  "coverColor": "linear-gradient(135deg, #ea580c 0%, #9a3412 100%)",
+  "description": "A classic science fantasy novel, the fourth of the Barsoom series by Edgar Rice Burroughs.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "ChapterI: Carthoris and Thuvia",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterII: Slavery",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterIII: Treachery",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIV: A Green Man\u2019s Captive",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterV: The Fair Race",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterVI: The Jeddak of Lothar",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVII: The Phantom Bowmen",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVIII: The Hall of Doom",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterIX: The Battle in the Plain",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterX: Kar Komak, the Bowman",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterXI: Green Men and White Apes",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXII: To Save Dusar",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXIII: Turjun, the Panthan",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIV: Kulan Tith\u2019s Sacrifice",
+      "file": "15_chapter_14.md"
+    }
+  ]
+}

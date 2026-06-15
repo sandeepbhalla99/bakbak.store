@@ -1,189 +1,120 @@
-# First Epilogue: 1813 - 20 - ChapterVI
+# Book Fifteen: 1812 - 13 - ChapterV
 
-At the beginning of winter Princess Mary came to Moscow. From reports
-      current in town she learned how the Rostóvs were situated, and how “the
-      son has sacrificed himself for his mother,” as people were saying.
+Natásha’s wedding to Bezúkhov, which took place in 1813, was the last
+      happy event in the family of the old Rostóvs. Count Ilyá Rostóv died that
+      same year and, as always happens, after the father’s death the family
+      group broke up.
 
-      “I never expected anything else of him,” said Princess Mary to herself,
-      feeling a joyous sense of her love for him. Remembering her friendly
-      relations with all the Rostóvs which had made her almost a member of the
-      family, she thought it her duty to go to see them. But remembering her
-      relations with Nicholas in Vorónezh she was shy about doing so. Making a
-      great effort she did however go to call on them a few weeks after her
-      arrival in Moscow.
+      The events of the previous year: the burning of Moscow and the flight from
+      it, the death of Prince Andrew, Natásha’s despair, Pétya’s death, and the
+      old countess’ grief fell blow after blow on the old count’s head. He
+      seemed to be unable to understand the meaning of all these events, and
+      bowed his old head in a spiritual sense as if expecting and inviting
+      further blows which would finish him. He seemed now frightened and
+      distraught and now unnaturally animated and enterprising.
 
-      Nicholas was the first to meet her, as the countess’ room could only be
-      reached through his. But instead of being greeted with pleasure as she had
-      expected, at his first glance at her his face assumed a cold, stiff, proud
-      expression she had not seen on it before. He inquired about her health,
-      led the way to his mother, and having sat there for five minutes left the
-      room.
+      The arrangements for Natásha’s marriage occupied him for a while. He
+      ordered dinners and suppers and obviously tried to appear cheerful, but
+      his cheerfulness was not infectious as it used to be: on the contrary it
+      evoked the compassion of those who knew and liked him.
 
-      When the princess came out of the countess’ room Nicholas met her again,
-      and with marked solemnity and stiffness accompanied her to the anteroom.
-      To her remarks about his mother’s health he made no reply. “What’s that to
-      you? Leave me in peace,” his looks seemed to say.
+      When Pierre and his wife had left, he grew very quiet and began to
+      complain of depression. A few days later he fell ill and took to his bed.
+      He realized from the first that he would not get up again, despite the
+      doctor’s encouragement. The countess passed a fortnight in an armchair by
+      his pillow without undressing. Every time she gave him his medicine he
+      sobbed and silently kissed her hand. On his last day, sobbing, he asked
+      her and his absent son to forgive him for having dissipated their property—that
+      being the chief fault of which he was conscious. After receiving communion
+      and unction he quietly died; and next day a throng of acquaintances who
+      came to pay their last respects to the deceased filled the house rented by
+      the Rostóvs. All these acquaintances, who had so often dined and danced at
+      his house and had so often laughed at him, now said, with a common feeling
+      of self-reproach and emotion, as if justifying themselves: “Well, whatever
+      he may have been he was a most worthy man. You don’t meet such men
+      nowadays.... And which of us has not weaknesses of his own?”
 
-      “Why does she come prowling here? What does she want? I can’t bear these
-      ladies and all these civilities!” said he aloud in Sónya’s presence,
-      evidently unable to repress his vexation, after the princess’ carriage had
-      disappeared.
+      It was just when the count’s affairs had become so involved that it was
+      impossible to say what would happen if he lived another year that he
+      unexpectedly died.
 
-      “Oh, Nicholas, how can you talk like that?” cried Sónya, hardly able to
-      conceal her delight. “She is so kind and Mamma is so fond of her!”
+      Nicholas was with the Russian army in Paris when the news of his father’s
+      death reached him. He at once resigned his commission, and without waiting
+      for it to be accepted took leave of absence and went to Moscow. The state
+      of the count’s affairs became quite obvious a month after his death,
+      surprising everyone by the immense total of small debts the existence of
+      which no one had suspected. The debts amounted to double the value of the
+      property.
 
-      Nicholas did not reply and tried to avoid speaking of the princess any
-      more. But after her visit the old countess spoke of her several times a
-      day.
+      Friends and relations advised Nicholas to decline the inheritance. But he
+      regarded such a refusal as a slur on his father’s memory, which he held
+      sacred, and therefore would not hear of refusing and accepted the
+      inheritance together with the obligation to pay the debts.
 
-      She sang her praises, insisted that her son must call on her, expressed a
-      wish to see her often, but yet always became ill-humored when she began to
-      talk about her.
+      The creditors who had so long been silent, restrained by a vague but
+      powerful influence exerted on them while he lived by the count’s careless
+      good nature, all proceeded to enforce their claims at once. As always
+      happens in such cases rivalry sprang up as to which should get paid first,
+      and those who like Mítenka held promissory notes given them as presents
+      now became the most exacting of the creditors. Nicholas was allowed no
+      respite and no peace, and those who had seemed to pity the old man—the
+      cause of their losses (if they were losses)—now remorselessly
+      pursued the young heir who had voluntarily undertaken the debts and was
+      obviously not guilty of contracting them.
 
-      Nicholas tried to keep silence when his mother spoke of the princess, but
-      his silence irritated her.
+      Not one of the plans Nicholas tried succeeded; the estate was sold by
+      auction for half its value, and half the debts still remained unpaid.
+      Nicholas accepted thirty thousand rubles offered him by his brother-in-law
+      Bezúkhov to pay off debts he regarded as genuinely due for value received.
+      And to avoid being imprisoned for the remainder, as the creditors
+      threatened, he re-entered the government service.
 
-      “She is a very admirable and excellent young woman,” said she, “and you
-      must go and call on her. You would at least be seeing somebody, and I
-      think it must be dull for you only seeing us.”
+      He could not rejoin the army where he would have been made colonel at the
+      next vacancy, for his mother now clung to him as her one hold on life; and
+      so despite his reluctance to remain in Moscow among people who had known
+      him before, and despite his abhorrence of the civil service, he accepted a
+      post in Moscow in that service, doffed the uniform of which he was so
+      fond, and moved with his mother and Sónya to a small house on the Sívtsev
+      Vrazhók.
 
-      “But I don’t in the least want to, Mamma.”
+      Natásha and Pierre were living in Petersburg at the time and had no clear
+      idea of Nicholas’ circumstances. Having borrowed money from his
+      brother-in-law, Nicholas tried to hide his wretched condition from him.
+      His position was the more difficult because with his salary of twelve
+      hundred rubles he had not only to keep himself, his mother, and Sónya, but
+      had to shield his mother from knowledge of their poverty. The countess
+      could not conceive of life without the luxurious conditions she had been
+      used to from childhood and, unable to realize how hard it was for her son,
+      kept demanding now a carriage (which they did not keep) to send for a
+      friend, now some expensive article of food for herself, or wine for her
+      son, or money to buy a present as a surprise for Natásha or Sónya, or for
+      Nicholas himself.
 
-      “You used to want to, and now you don’t. Really I don’t understand you, my
-      dear. One day you are dull, and the next you refuse to see anyone.”
+      Sónya kept house, attended on her aunt, read to her, put up with her whims
+      and secret ill-will, and helped Nicholas to conceal their poverty from the
+      old countess. Nicholas felt himself irredeemably indebted to Sónya for all
+      she was doing for his mother and greatly admired her patience and
+      devotion, but tried to keep aloof from her.
 
-      “But I never said I was dull.”
+      He seemed in his heart to reproach her for being too perfect, and because
+      there was nothing to reproach her with. She had all that people are valued
+      for, but little that could have made him love her. He felt that the more
+      he valued her the less he loved her. He had taken her at her word when she
+      wrote giving him his freedom and now behaved as if all that had passed
+      between them had been long forgotten and could never in any case be
+      renewed.
 
-      “Why, you said yourself you don’t want even to see her. She is a very
-      admirable young woman and you always liked her, but now suddenly you have
-      got some notion or other in your head. You hide everything from me.”
-
-      “Not at all, Mamma.”
-
-      “If I were asking you to do something disagreeable now—but I only
-      ask you to return a call. One would think mere politeness required it....
-      Well, I have asked you, and now I won’t interfere any more since you have
-      secrets from your mother.”
-
-      “Well, then, I’ll go if you wish it.”
-
-      “It doesn’t matter to me. I only wish it for your sake.”
-
-      Nicholas sighed, bit his mustache, and laid out the cards for a patience,
-      trying to divert his mother’s attention to another topic.
-
-      The same conversation was repeated next day and the day after, and the day
-      after that.
-
-      After her visit to the Rostóvs and her unexpectedly chilly reception by
-      Nicholas, Princess Mary confessed to herself that she had been right in
-      not wishing to be the first to call.
-
-      “I expected nothing else,” she told herself, calling her pride to her aid.
-      “I have nothing to do with him and I only wanted to see the old lady, who
-      was always kind to me and to whom I am under many obligations.”
-
-      But she could not pacify herself with these reflections; a feeling akin to
-      remorse troubled her when she thought of her visit. Though she had firmly
-      resolved not to call on the Rostóvs again and to forget the whole matter,
-      she felt herself all the time in an awkward position. And when she asked
-      herself what distressed her, she had to admit that it was her relation to
-      Rostóv. His cold, polite manner did not express his feeling for her (she
-      knew that) but it concealed something, and until she could discover what
-      that something was, she felt that she could not be at ease.
-
-      One day in midwinter when sitting in the schoolroom attending to her
-      nephew’s lessons, she was informed that Rostóv had called. With a firm
-      resolution not to betray herself and not show her agitation, she sent for
-      Mademoiselle Bourienne and went with her to the drawing room.
-
-      Her first glance at Nicholas’ face told her that he had only come to
-      fulfill the demands of politeness, and she firmly resolved to maintain the
-      tone in which he addressed her.
-
-      They spoke of the countess’ health, of their mutual friends, of the latest
-      war news, and when the ten minutes required by propriety had elapsed after
-      which a visitor may rise, Nicholas got up to say good-by.
-
-      With Mademoiselle Bourienne’s help the princess had maintained the
-      conversation very well, but at the very last moment, just when he rose,
-      she was so tired of talking of what did not interest her, and her mind was
-      so full of the question why she alone was granted so little happiness in
-      life, that in a fit of absent-mindedness she sat still, her luminous eyes
-      gazing fixedly before her, not noticing that he had risen.
-
-      Nicholas glanced at her and, wishing to appear not to notice her
-      abstraction, made some remark to Mademoiselle Bourienne and then again
-      looked at the princess. She still sat motionless with a look of suffering
-      on her gentle face. He suddenly felt sorry for her and was vaguely
-      conscious that he might be the cause of the sadness her face expressed. He
-      wished to help her and say something pleasant, but could think of nothing
-      to say.
-
-      “Good-by, Princess!” said he.
-
-      She started, flushed, and sighed deeply.
-
-      “Oh, I beg your pardon,” she said as if waking up. “Are you going already,
-      Count? Well then, good-by! Oh, but the cushion for the countess!”
-
-      “Wait a moment, I’ll fetch it,” said Mademoiselle Bourienne, and she left
-      the room.
-
-      They both sat silent, with an occasional glance at one another.
-
-      “Yes, Princess,” said Nicholas at last with a sad smile, “it doesn’t seem
-      long ago since we first met at Boguchárovo, but how much water has flowed
-      since then! In what distress we all seemed to be then, yet I would give
-      much to bring back that time... but there’s no bringing it back.”
-
-      Princess Mary gazed intently into his eyes with her own luminous ones as
-      he said this. She seemed to be trying to fathom the hidden meaning of his
-      words which would explain his feeling for her.
-
-      “Yes, yes,” said she, “but you have no reason to regret the past, Count.
-      As I understand your present life, I think you will always recall it with
-      satisfaction, because the self-sacrifice that fills it now...”
-
-      “I cannot accept your praise,” he interrupted her hurriedly. “On the
-      contrary I continually reproach myself.... But this is not at all an
-      interesting or cheerful subject.”
-
-      His face again resumed its former stiff and cold expression. But the
-      princess had caught a glimpse of the man she had known and loved, and it
-      was to him that she now spoke.
-
-      “I thought you would allow me to tell you this,” she said. “I had come so
-      near to you... and to all your family that I thought you would not
-      consider my sympathy misplaced, but I was mistaken,” and suddenly her
-      voice trembled. “I don’t know why,” she continued, recovering herself,
-      “but you used to be different, and...”
-
-      “There are a thousand reasons *why*,” laying special emphasis on the *why*.
-      “Thank you, Princess,” he added softly. “Sometimes it is hard.”
-
-      “So that’s why! That’s why!” a voice whispered in Princess Mary’s soul.
-      “No, it was not only that gay, kind, and frank look, not only that
-      handsome exterior, that I loved in him. I divined his noble, resolute,
-      self-sacrificing spirit too,” she said to herself. “Yes, he is poor now
-      and I am rich.... Yes, that’s the only reason.... Yes, were it not for
-      that...” And remembering his former tenderness, and looking now at his
-      kind, sorrowful face, she suddenly understood the cause of his coldness.
-
-      “But why, Count, why?” she almost cried, unconsciously moving closer to
-      him. “Why? Tell me. You must tell me!”
-
-      He was silent.
-
-      “I don’t understand your *why*, Count,” she continued,
-      “but it’s hard for me... I confess it. For some reason you wish to
-      deprive me of our former friendship. And that hurts me.” There were tears
-      in her eyes and in her voice. “I have had so little happiness in life that
-      every loss is hard for me to bear.... Excuse me, good-by!” and suddenly she
-      began to cry and was hurrying from the room.
-
-      “Princess, for God’s sake!” he exclaimed, trying to stop her. “Princess!”
-
-      She turned round. For a few seconds they gazed silently into one another’s
-      eyes—and what had seemed impossible and remote suddenly became
-      possible, inevitable, and very near.
+      Nicholas’ position became worse and worse. The idea of putting something
+      aside out of his salary proved a dream. Not only did he not save anything,
+      but to comply with his mother’s demands he even incurred some small debts.
+      He could see no way out of this situation. The idea of marrying some rich
+      woman, which was suggested to him by his female relations, was repugnant
+      to him. The other way out—his mother’s death—never entered his
+      head. He wished for nothing and hoped for nothing, and deep in his heart
+      experienced a gloomy and stern satisfaction in an uncomplaining endurance
+      of his position. He tried to avoid his old acquaintances with their
+      commiseration and offensive offers of assistance; he avoided all
+      distraction and recreation, and even at home did nothing but play cards
+      with his mother, pace silently up and down the room, and smoke one pipe
+      after another. He seemed carefully to cherish within himself the gloomy
+      mood which alone enabled him to endure his position.

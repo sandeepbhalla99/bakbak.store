@@ -1,150 +1,183 @@
-# First Epilogue: 1813 - 20 - ChapterXI
+# Book Fifteen: 1812 - 13 - ChapterX
 
-Two months previously when Pierre was already staying with the Rostóvs he
-      had received a letter from Prince Theodore, asking him to come to
-      Petersburg to confer on some important questions that were being discussed
-      there by a society of which Pierre was one of the principal founders.
+Natásha had married in the early spring of 1813, and in 1820 already had
+      three daughters besides a son for whom she had longed and whom she was now
+      nursing. She had grown stouter and broader, so that it was difficult to
+      recognize in this robust, motherly woman the slim, lively Natásha of
+      former days. Her features were more defined and had a calm, soft, and
+      serene expression. In her face there was none of the ever-glowing
+      animation that had formerly burned there and constituted its charm. Now
+      her face and body were often all that one saw, and her soul was not
+      visible at all. All that struck the eye was a strong, handsome, and
+      fertile woman. The old fire very rarely kindled in her face now. That
+      happened only when, as was the case that day, her husband returned home,
+      or a sick child was convalescent, or when she and Countess Mary spoke of
+      Prince Andrew (she never mentioned him to her husband, who she imagined
+      was jealous of Prince Andrew’s memory), or on the rare occasions when
+      something happened to induce her to sing, a practice she had quite
+      abandoned since her marriage. At the rare moments when the old fire did
+      kindle in her handsome, fully developed body she was even more attractive
+      than in former days.
 
-      On reading that letter (she always read her husband’s letters) Natásha
-      herself suggested that he should go to Petersburg, though she would feel
-      his absence very acutely. She attributed immense importance to all her
-      husband’s intellectual and abstract interests though she did not
-      understand them, and she always dreaded being a hindrance to him in such
-      matters. To Pierre’s timid look of inquiry after reading the letter she
-      replied by asking him to go, but to fix a definite date for his return. He
-      was given four weeks’ leave of absence.
+      Since their marriage Natásha and her husband had lived in Moscow, in
+      Petersburg, on their estate near Moscow, or with her mother, that is to
+      say, in Nicholas’ house. The young Countess Bezúkhova was not often seen
+      in society, and those who met her there were not pleased with her and
+      found her neither attractive nor amiable. Not that Natásha liked solitude—she
+      did not know whether she liked it or not, she even thought that she did
+      not—but with her pregnancies, her confinements, the nursing of her
+      children, and sharing every moment of her husband’s life, she had demands
+      on her time which could be satisfied only by renouncing society. All who
+      had known Natásha before her marriage wondered at the change in her as at
+      something extraordinary. Only the old countess with her maternal instinct
+      had realized that all Natásha’s outbursts had been due to her need of
+      children and a husband—as she herself had once exclaimed at Otrádnoe
+      not so much in fun as in earnest—and her mother was now surprised at
+      the surprise expressed by those who had never understood Natásha, and she
+      kept saying that she had always known that Natásha would make an exemplary
+      wife and mother.
 
-      Ever since that leave of absence had expired, more than a fortnight
-      before, Natásha had been in a constant state of alarm, depression, and
-      irritability.
+      “Only she lets her love of her husband and children overflow all bounds,”
+       said the countess, “so that it even becomes absurd.”
 
-      Denísov, now a general on the retired list and much dissatisfied with the
-      present state of affairs, had arrived during that fortnight. He looked at
-      Natásha with sorrow and surprise as at a bad likeness of a person once
-      dear. A dull, dejected look, random replies, and talk about the nursery
-      was all he saw and heard from his former enchantress.
+      Natásha did not follow the golden rule advocated by clever folk,
+      especially by the French, which says that a girl should not let herself go
+      when she marries, should not neglect her accomplishments, should be even
+      more careful of her appearance than when she was unmarried, and should
+      fascinate her husband as much as she did before he became her husband.
+      Natásha on the contrary had at once abandoned all her witchery, of which
+      her singing had been an unusually powerful part. She gave it up just
+      because it was so powerfully seductive. She took no pains with her manners
+      or with delicacy of speech, or with her toilet, or to show herself to her
+      husband in her most becoming attitudes, or to avoid inconveniencing him by
+      being too exacting. She acted in contradiction to all those rules. She
+      felt that the allurements instinct had formerly taught her to use would
+      now be merely ridiculous in the eyes of her husband, to whom she had from
+      the first moment given herself up entirely—that is, with her whole
+      soul, leaving no corner of it hidden from him. She felt that her unity
+      with her husband was not maintained by the poetic feelings that had
+      attracted him to her, but by something else—indefinite but firm as
+      the bond between her own body and soul.
 
-      Natásha was sad and irritable all that time, especially when her mother,
-      her brother, Sónya, or Countess Mary in their efforts to console her tried
-      to excuse Pierre and suggested reasons for his delay in returning.
+      To fluff out her curls, put on fashionable dresses, and sing romantic
+      songs to fascinate her husband would have seemed as strange as to adorn
+      herself to attract herself. To adorn herself for others might perhaps have
+      been agreeable—she did not know—but she had no time at all for
+      it. The chief reason for devoting no time either to singing, to dress, or
+      to choosing her words was that she really had no time to spare for these
+      things.
 
-      “It’s all nonsense, all rubbish—those discussions which lead to
-      nothing and all those idiotic societies!” Natásha declared of the very
-      affairs in the immense importance of which she firmly believed.
+      We know that man has the faculty of becoming completely absorbed in a
+      subject however trivial it may be, and that there is no subject so trivial
+      that it will not grow to infinite proportions if one’s entire attention is
+      devoted to it.
 
-      And she would go to the nursery to nurse Pétya, her only boy. No one else
-      could tell her anything so comforting or so reasonable as this little
-      three-month-old creature when he lay at her breast and she was conscious
-      of the movement of his lips and the snuffling of his little nose. That
-      creature said: “You are angry, you are jealous, you would like to pay him
-      out, you are afraid—but here am I! And I am he...” and that was
-      unanswerable. It was more than true.
+      The subject which wholly engrossed Natásha’s attention was her family:
+      that is, her husband whom she had to keep so that he should belong
+      entirely to her and to the home, and the children whom she had to bear,
+      bring into the world, nurse, and bring up.
 
-      During that fortnight of anxiety Natásha resorted to the baby for comfort
-      so often, and fussed over him so much, that she overfed him and he fell
-      ill. She was terrified by his illness, and yet that was just what she
-      needed. While attending to him she bore the anxiety about her husband more
-      easily.
+      And the deeper she penetrated, not with her mind only but with her whole
+      soul, her whole being, into the subject that absorbed her, the larger did
+      that subject grow and the weaker and more inadequate did her powers
+      appear, so that she concentrated them wholly on that one thing and yet was
+      unable to accomplish all that she considered necessary.
 
-      She was nursing her boy when the sound of Pierre’s sleigh was heard at the
-      front door, and the old nurse—knowing how to please her mistress—entered
-      the room inaudibly but hurriedly and with a beaming face.
+      There were then as now conversations and discussions about women’s rights,
+      the relations of husband and wife and their freedom and rights, though
+      these themes were not yet termed *questions* as they are now; but these
+      topics were not merely uninteresting to Natásha, she positively did not
+      understand them.
 
-      “Has he come?” Natásha asked quickly in a whisper, afraid to move lest she
-      should rouse the dozing baby.
+      These questions, then as now, existed only for those who see nothing in
+      marriage but the pleasure married people get from one another, that is,
+      only the beginnings of marriage and not its whole significance, which lies
+      in the family.
 
-      “He’s come, ma’am,” whispered the nurse.
+      Discussions and questions of that kind, which are like the question of how
+      to get the greatest gratification from one’s dinner, did not then and do
+      not now exist for those for whom the purpose of a dinner is the
+      nourishment it affords; and the purpose of marriage is the family.
 
-      The blood rushed to Natásha’s face and her feet involuntarily moved, but
-      she could not jump up and run out. The baby again opened his eyes and
-      looked at her. “You’re here?” he seemed to be saying, and again lazily
-      smacked his lips.
+      If the purpose of dinner is to nourish the body, a man who eats two
+      dinners at once may perhaps get more enjoyment but will not attain his
+      purpose, for his stomach will not digest the two dinners.
 
-      Cautiously withdrawing her breast, Natásha rocked him a little, handed him
-      to the nurse, and went with rapid steps toward the door. But at the door
-      she stopped as if her conscience reproached her for having in her joy left
-      the child too soon, and she glanced round. The nurse with raised elbows
-      was lifting the infant over the rail of his cot.
+      If the purpose of marriage is the family, the person who wishes to have
+      many wives or husbands may perhaps obtain much pleasure, but in that case
+      will not have a family.
 
-      “Go, ma’am! Don’t worry, go!” she whispered, smiling, with the kind of
-      familiarity that grows up between a nurse and her mistress.
+      If the purpose of food is nourishment and the purpose of marriage is the
+      family, the whole question resolves itself into not eating more than one
+      can digest, and not having more wives or husbands than are needed for the
+      family—that is, one wife or one husband. Natásha needed a husband. A
+      husband was given her and he gave her a family. And she not only saw no
+      need of any other or better husband, but as all the powers of her soul
+      were intent on serving that husband and family, she could not imagine and
+      saw no interest in imagining how it would be if things were different.
 
-      Natásha ran with light footsteps to the anteroom.
+      Natásha did not care for society in general, but prized the more the
+      society of her relatives—Countess Mary, and her brother, her mother,
+      and Sónya. She valued the company of those to whom she could come striding
+      disheveled from the nursery in her dressing gown, and with joyful face
+      show a yellow instead of a green stain on baby’s napkin, and from whom she
+      could hear reassuring words to the effect that baby was much better.
 
-      Denísov, who had come out of the study into the dancing room with his
-      pipe, now for the first time recognized the old Natásha. A flood of
-      brilliant, joyful light poured from her transfigured face.
+      To such an extent had Natásha let herself go that the way she dressed and
+      did her hair, her ill-chosen words, and her jealousy—she was jealous
+      of Sónya, of the governess, and of every woman, pretty or plain—were
+      habitual subjects of jest to those about her. The general opinion was that
+      Pierre was under his wife’s thumb, which was really true. From the very
+      first days of their married life Natásha had announced her demands. Pierre
+      was greatly surprised by his wife’s view, to him a perfectly novel one,
+      that every moment of his life belonged to her and to the family. His
+      wife’s demands astonished him, but they also flattered him, and he
+      submitted to them.
 
-      “He’s come!” she exclaimed as she ran past, and Denísov felt that he too
-      was delighted that Pierre, whom he did not much care for, had returned.
+      Pierre’s subjection consisted in the fact that he not only dared not flirt
+      with, but dared not even speak smilingly to, any other woman; did not dare
+      dine at the Club as a pastime, did not dare spend money on a whim, and did
+      not dare absent himself for any length of time, except on business—in
+      which his wife included his intellectual pursuits, which she did not in
+      the least understand but to which she attributed great importance. To make
+      up for this, at home Pierre had the right to regulate his life and that of
+      the whole family exactly as he chose. At home Natásha placed herself in
+      the position of a slave to her husband, and the whole household went on
+      tiptoe when he was occupied—that is, was reading or writing in his
+      study. Pierre had but to show a partiality for anything to get just what
+      he liked done always. He had only to express a wish and Natásha would jump
+      up and run to fulfill it.
 
-      On reaching the vestibule Natásha saw a tall figure in a fur coat
-      unwinding his scarf. “It’s he! It’s really he! He has come!” she said to
-      herself, and rushing at him embraced him, pressed his head to her breast,
-      and then pushed him back and gazed at his ruddy, happy face, covered with
-      hoarfrost. “Yes, it is he, happy and contented....”
+      The entire household was governed according to Pierre’s supposed orders,
+      that is, by his wishes which Natásha tried to guess. Their way of life and
+      place of residence, their acquaintances and ties, Natásha’s occupations,
+      the children’s upbringing, were all selected not merely with regard to
+      Pierre’s expressed wishes, but to what Natásha from the thoughts he
+      expressed in conversation supposed his wishes to be. And she deduced the
+      essentials of his wishes quite correctly, and having once arrived at them
+      clung to them tenaciously. When Pierre himself wanted to change his mind
+      she would fight him with his own weapons.
 
-      Then all at once she remembered the tortures of suspense she had
-      experienced for the last fortnight, and the joy that had lit up her face
-      vanished; she frowned and overwhelmed Pierre with a torrent of reproaches
-      and angry words.
+      Thus in a time of trouble ever memorable to him after the birth of their
+      first child who was delicate, when they had to change the wet nurse three
+      times and Natásha fell ill from despair, Pierre one day told her of
+      Rousseau’s view, with which he quite agreed, that to have a wet nurse is
+      unnatural and harmful. When her next baby was born, despite the opposition
+      of her mother, the doctors, and even of her husband himself—who were
+      all vigorously opposed to her nursing her baby herself, a thing then
+      unheard of and considered injurious—she insisted on having her own
+      way, and after that nursed all her babies herself.
 
-      “Yes, it’s all very well for you. You are pleased, you’ve had a good
-      time.... But what about me? You might at least have shown consideration
-      for the children. I am nursing and my milk was spoiled.... Pétya was at
-      death’s door. But you were enjoying yourself. Yes, enjoying...”
+      It very often happened that in a moment of irritation husband and wife
+      would have a dispute, but long afterwards Pierre to his surprise and
+      delight would find in his wife’s ideas and actions the very thought
+      against which she had argued, but divested of everything superfluous that
+      in the excitement of the dispute he had added when expressing his opinion.
 
-      Pierre knew he was not to blame, for he could not have come sooner; he
-      knew this outburst was unseemly and would blow over in a minute or two;
-      above all he knew that he himself was bright and happy. He wanted to smile
-      but dared not even think of doing so. He made a piteous, frightened face
-      and bent down.
-
-      “I could not, on my honor. But how is Pétya?”
-
-      “All right now. Come along! I wonder you’re not ashamed! If only you could
-      see what I was like without you, how I suffered!”
-
-      “You are well?”
-
-      “Come, come!” she said, not letting go of his arm. And they went to their
-      rooms.
-
-      When Nicholas and his wife came to look for Pierre he was in the nursery
-      holding his baby son, who was again awake, on his huge right palm and
-      dandling him. A blissful bright smile was fixed on the baby’s broad face
-      with its toothless open mouth. The storm was long since over and there was
-      bright, joyous sunshine on Natásha’s face as she gazed tenderly at her
-      husband and child.
-
-      “And have you talked everything well over with Prince Theodore?” she
-      asked.
-
-      “Yes, capitally.”
-
-      “You see, he holds it up.” (She meant the baby’s head.) “But how he did
-      frighten me... You’ve seen the princess? Is it true she’s in love with
-      that...”
-
-      “Yes, just fancy...”
-
-      At that moment Nicholas and Countess Mary came in. Pierre with the baby on
-      his hand stooped, kissed them, and replied to their inquiries. But in
-      spite of much that was interesting and had to be discussed, the baby with
-      the little cap on its unsteady head evidently absorbed all his attention.
-
-      “How sweet!” said Countess Mary, looking at and playing with the baby.
-      “Now, Nicholas,” she added, turning to her husband, “I can’t understand
-      how it is you don’t see the charm of these delicious marvels.”
-
-      “I don’t and can’t,” replied Nicholas, looking coldly at the baby. “A lump
-      of flesh. Come along, Pierre!”
-
-      “And yet he’s such an affectionate father,” said Countess Mary,
-      vindicating her husband, “but only after they are a year old or so...”
-
-      “Now, Pierre nurses them splendidly,” said Natásha. “He says his hand is
-      just made for a baby’s seat. Just look!”
-
-      “Only not for this...” Pierre suddenly exclaimed with a laugh, and
-      shifting the baby he gave him to the nurse.
+      After seven years of marriage Pierre had the joyous and firm consciousness
+      that he was not a bad man, and he felt this because he saw himself
+      reflected in his wife. He felt the good and bad within himself
+      inextricably mingled and overlapping. But only what was really good in him
+      was reflected in his wife, all that was not quite good was rejected. And
+      this was not the result of logical reasoning but was a direct and
+      mysterious reflection.

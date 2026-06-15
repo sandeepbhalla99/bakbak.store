@@ -1,183 +1,244 @@
-# First Epilogue: 1813 - 20 - ChapterX
+# Book Fifteen: 1812 - 13 - ChapterIX
 
-Natásha had married in the early spring of 1813, and in 1820 already had
-      three daughters besides a son for whom she had longed and whom she was now
-      nursing. She had grown stouter and broader, so that it was difficult to
-      recognize in this robust, motherly woman the slim, lively Natásha of
-      former days. Her features were more defined and had a calm, soft, and
-      serene expression. In her face there was none of the ever-glowing
-      animation that had formerly burned there and constituted its charm. Now
-      her face and body were often all that one saw, and her soul was not
-      visible at all. All that struck the eye was a strong, handsome, and
-      fertile woman. The old fire very rarely kindled in her face now. That
-      happened only when, as was the case that day, her husband returned home,
-      or a sick child was convalescent, or when she and Countess Mary spoke of
-      Prince Andrew (she never mentioned him to her husband, who she imagined
-      was jealous of Prince Andrew’s memory), or on the rare occasions when
-      something happened to induce her to sing, a practice she had quite
-      abandoned since her marriage. At the rare moments when the old fire did
-      kindle in her handsome, fully developed body she was even more attractive
-      than in former days.
+It was the eve of St. Nicholas, the fifth of December, 1820. Natásha had
+      been staying at her brother’s with her husband and children since early
+      autumn. Pierre had gone to Petersburg on business of his own for three
+      weeks as he said, but had remained there nearly seven weeks and was
+      expected back every minute.
 
-      Since their marriage Natásha and her husband had lived in Moscow, in
-      Petersburg, on their estate near Moscow, or with her mother, that is to
-      say, in Nicholas’ house. The young Countess Bezúkhova was not often seen
-      in society, and those who met her there were not pleased with her and
-      found her neither attractive nor amiable. Not that Natásha liked solitude—she
-      did not know whether she liked it or not, she even thought that she did
-      not—but with her pregnancies, her confinements, the nursing of her
-      children, and sharing every moment of her husband’s life, she had demands
-      on her time which could be satisfied only by renouncing society. All who
-      had known Natásha before her marriage wondered at the change in her as at
-      something extraordinary. Only the old countess with her maternal instinct
-      had realized that all Natásha’s outbursts had been due to her need of
-      children and a husband—as she herself had once exclaimed at Otrádnoe
-      not so much in fun as in earnest—and her mother was now surprised at
-      the surprise expressed by those who had never understood Natásha, and she
-      kept saying that she had always known that Natásha would make an exemplary
-      wife and mother.
+      Besides the Bezúkhov family, Nicholas’ old friend the retired General
+      Vasíli Dmítrich Denísov was staying with the Rostóvs this fifth of
+      December.
 
-      “Only she lets her love of her husband and children overflow all bounds,”
-       said the countess, “so that it even becomes absurd.”
+      On the sixth, which was his name day when the house would be full of
+      visitors, Nicholas knew he would have to exchange his Tartar tunic for a
+      tail coat, and put on narrow boots with pointed toes, and drive to the new
+      church he had built, and then receive visitors who would come to
+      congratulate him, offer them refreshments, and talk about the elections of
+      the nobility; but he considered himself entitled to spend the eve of that
+      day in his usual way. He examined the bailiff’s accounts of the village in
+      Ryazán which belonged to his wife’s nephew, wrote two business letters,
+      and walked over to the granaries, cattle yards and stables before dinner.
+      Having taken precautions against the general drunkenness to be expected on
+      the morrow because it was a great saint’s day, he returned to dinner, and
+      without having time for a private talk with his wife sat down at the long
+      table laid for twenty persons, at which the whole household had assembled.
+      At that table were his mother, his mother’s old lady companion Belóva, his
+      wife, their three children with their governess and tutor, his wife’s
+      nephew with his tutor, Sónya, Denísov, Natásha, her three children, their
+      governess, and old Michael Ivánovich, the late prince’s architect, who was
+      living on in retirement at Bald Hills.
 
-      Natásha did not follow the golden rule advocated by clever folk,
-      especially by the French, which says that a girl should not let herself go
-      when she marries, should not neglect her accomplishments, should be even
-      more careful of her appearance than when she was unmarried, and should
-      fascinate her husband as much as she did before he became her husband.
-      Natásha on the contrary had at once abandoned all her witchery, of which
-      her singing had been an unusually powerful part. She gave it up just
-      because it was so powerfully seductive. She took no pains with her manners
-      or with delicacy of speech, or with her toilet, or to show herself to her
-      husband in her most becoming attitudes, or to avoid inconveniencing him by
-      being too exacting. She acted in contradiction to all those rules. She
-      felt that the allurements instinct had formerly taught her to use would
-      now be merely ridiculous in the eyes of her husband, to whom she had from
-      the first moment given herself up entirely—that is, with her whole
-      soul, leaving no corner of it hidden from him. She felt that her unity
-      with her husband was not maintained by the poetic feelings that had
-      attracted him to her, but by something else—indefinite but firm as
-      the bond between her own body and soul.
+      Countess Mary sat at the other end of the table. When her husband took his
+      place she concluded, from the rapid manner in which after taking up his
+      table napkin he pushed back the tumbler and wineglass standing before him,
+      that he was out of humor, as was sometimes the case when he came in to
+      dinner straight from the farm—especially before the soup. Countess
+      Mary well knew that mood of his, and when she herself was in a good frame
+      of mind quietly waited till he had had his soup and then began to talk to
+      him and make him admit that there was no cause for his ill-humor. But
+      today she quite forgot that and was hurt that he should be angry with her
+      without any reason, and she felt unhappy. She asked him where he had been.
+      He replied. She again inquired whether everything was going well on the
+      farm. Her unnatural tone made him wince unpleasantly and he replied
+      hastily.
 
-      To fluff out her curls, put on fashionable dresses, and sing romantic
-      songs to fascinate her husband would have seemed as strange as to adorn
-      herself to attract herself. To adorn herself for others might perhaps have
-      been agreeable—she did not know—but she had no time at all for
-      it. The chief reason for devoting no time either to singing, to dress, or
-      to choosing her words was that she really had no time to spare for these
-      things.
+      “Then I’m not mistaken,” thought Countess Mary. “Why is he cross with me?”
+       She concluded from his tone that he was vexed with her and wished to end
+      the conversation. She knew her remarks sounded unnatural, but could not
+      refrain from asking some more questions.
 
-      We know that man has the faculty of becoming completely absorbed in a
-      subject however trivial it may be, and that there is no subject so trivial
-      that it will not grow to infinite proportions if one’s entire attention is
-      devoted to it.
+      Thanks to Denísov the conversation at table soon became general and
+      lively, and she did not talk to her husband. When they left the table and
+      went as usual to thank the old countess, Countess Mary held out her hand
+      and kissed her husband, and asked him why he was angry with her.
 
-      The subject which wholly engrossed Natásha’s attention was her family:
-      that is, her husband whom she had to keep so that he should belong
-      entirely to her and to the home, and the children whom she had to bear,
-      bring into the world, nurse, and bring up.
+      “You always have such strange fancies! I didn’t even think of being
+      angry,” he replied.
 
-      And the deeper she penetrated, not with her mind only but with her whole
-      soul, her whole being, into the subject that absorbed her, the larger did
-      that subject grow and the weaker and more inadequate did her powers
-      appear, so that she concentrated them wholly on that one thing and yet was
-      unable to accomplish all that she considered necessary.
+      But the word *always* seemed to her to imply: “Yes, I am angry
+      but I won’t tell you why.”
 
-      There were then as now conversations and discussions about women’s rights,
-      the relations of husband and wife and their freedom and rights, though
-      these themes were not yet termed *questions* as they are now; but these
-      topics were not merely uninteresting to Natásha, she positively did not
-      understand them.
+      Nicholas and his wife lived together so happily that even Sónya and the
+      old countess, who felt jealous and would have liked them to disagree,
+      could find nothing to reproach them with; but even they had their moments
+      of antagonism. Occasionally, and it was always just after they had been
+      happiest together, they suddenly had a feeling of estrangement and
+      hostility, which occurred most frequently during Countess Mary’s
+      pregnancies, and this was such a time.
 
-      These questions, then as now, existed only for those who see nothing in
-      marriage but the pleasure married people get from one another, that is,
-      only the beginnings of marriage and not its whole significance, which lies
-      in the family.
+      “Well, *messieurs et mesdames*,” said Nicholas loudly and with apparent
+      cheerfulness (it seemed to Countess Mary that he did it on purpose to vex
+      her), “I have been on my feet since six this morning. Tomorrow I shall
+      have to suffer, so today I’ll go and rest.”
 
-      Discussions and questions of that kind, which are like the question of how
-      to get the greatest gratification from one’s dinner, did not then and do
-      not now exist for those for whom the purpose of a dinner is the
-      nourishment it affords; and the purpose of marriage is the family.
+      And without a word to his wife he went to the little sitting room and lay
+      down on the sofa.
 
-      If the purpose of dinner is to nourish the body, a man who eats two
-      dinners at once may perhaps get more enjoyment but will not attain his
-      purpose, for his stomach will not digest the two dinners.
+      “That’s always the way,” thought Countess Mary. “He talks to everyone
+      except me. I see... I see that I am repulsive to him, especially when I am
+      in this condition.” She looked down at her expanded figure and in the
+      glass at her pale, sallow, emaciated face in which her eyes now looked
+      larger than ever.
 
-      If the purpose of marriage is the family, the person who wishes to have
-      many wives or husbands may perhaps obtain much pleasure, but in that case
-      will not have a family.
+      And everything annoyed her—Denísov’s shouting and laughter,
+      Natásha’s talk, and especially a quick glance Sónya gave her.
 
-      If the purpose of food is nourishment and the purpose of marriage is the
-      family, the whole question resolves itself into not eating more than one
-      can digest, and not having more wives or husbands than are needed for the
-      family—that is, one wife or one husband. Natásha needed a husband. A
-      husband was given her and he gave her a family. And she not only saw no
-      need of any other or better husband, but as all the powers of her soul
-      were intent on serving that husband and family, she could not imagine and
-      saw no interest in imagining how it would be if things were different.
+      Sónya was always the first excuse Countess Mary found for feeling
+      irritated.
 
-      Natásha did not care for society in general, but prized the more the
-      society of her relatives—Countess Mary, and her brother, her mother,
-      and Sónya. She valued the company of those to whom she could come striding
-      disheveled from the nursery in her dressing gown, and with joyful face
-      show a yellow instead of a green stain on baby’s napkin, and from whom she
-      could hear reassuring words to the effect that baby was much better.
+      Having sat awhile with her visitors without understanding anything of what
+      they were saying, she softly left the room and went to the nursery.
 
-      To such an extent had Natásha let herself go that the way she dressed and
-      did her hair, her ill-chosen words, and her jealousy—she was jealous
-      of Sónya, of the governess, and of every woman, pretty or plain—were
-      habitual subjects of jest to those about her. The general opinion was that
-      Pierre was under his wife’s thumb, which was really true. From the very
-      first days of their married life Natásha had announced her demands. Pierre
-      was greatly surprised by his wife’s view, to him a perfectly novel one,
-      that every moment of his life belonged to her and to the family. His
-      wife’s demands astonished him, but they also flattered him, and he
-      submitted to them.
+      The children were playing at “going to Moscow” in a carriage made of
+      chairs and invited her to go with them. She sat down and played with them
+      a little, but the thought of her husband and his unreasonable crossness
+      worried her. She got up and, walking on tiptoe with difficulty, went to
+      the small sitting room.
 
-      Pierre’s subjection consisted in the fact that he not only dared not flirt
-      with, but dared not even speak smilingly to, any other woman; did not dare
-      dine at the Club as a pastime, did not dare spend money on a whim, and did
-      not dare absent himself for any length of time, except on business—in
-      which his wife included his intellectual pursuits, which she did not in
-      the least understand but to which she attributed great importance. To make
-      up for this, at home Pierre had the right to regulate his life and that of
-      the whole family exactly as he chose. At home Natásha placed herself in
-      the position of a slave to her husband, and the whole household went on
-      tiptoe when he was occupied—that is, was reading or writing in his
-      study. Pierre had but to show a partiality for anything to get just what
-      he liked done always. He had only to express a wish and Natásha would jump
-      up and run to fulfill it.
+      “Perhaps he is not asleep; I’ll have an explanation with him,” she said to
+      herself. Little Andrew, her eldest boy, imitating his mother, followed her
+      on tiptoe. She did not notice him.
 
-      The entire household was governed according to Pierre’s supposed orders,
-      that is, by his wishes which Natásha tried to guess. Their way of life and
-      place of residence, their acquaintances and ties, Natásha’s occupations,
-      the children’s upbringing, were all selected not merely with regard to
-      Pierre’s expressed wishes, but to what Natásha from the thoughts he
-      expressed in conversation supposed his wishes to be. And she deduced the
-      essentials of his wishes quite correctly, and having once arrived at them
-      clung to them tenaciously. When Pierre himself wanted to change his mind
-      she would fight him with his own weapons.
+      “Mary, dear, I think he is asleep—he was so tired,” said Sónya,
+      meeting her in the large sitting room (it seemed to Countess Mary that she
+      crossed her path everywhere). “Andrew may wake him.”
 
-      Thus in a time of trouble ever memorable to him after the birth of their
-      first child who was delicate, when they had to change the wet nurse three
-      times and Natásha fell ill from despair, Pierre one day told her of
-      Rousseau’s view, with which he quite agreed, that to have a wet nurse is
-      unnatural and harmful. When her next baby was born, despite the opposition
-      of her mother, the doctors, and even of her husband himself—who were
-      all vigorously opposed to her nursing her baby herself, a thing then
-      unheard of and considered injurious—she insisted on having her own
-      way, and after that nursed all her babies herself.
+      Countess Mary looked round, saw little Andrew following her, felt that
+      Sónya was right, and for that very reason flushed and with evident
+      difficulty refrained from saying something harsh. She made no reply, but
+      to avoid obeying Sónya beckoned to Andrew to follow her quietly and went
+      to the door. Sónya went away by another door. From the room in which
+      Nicholas was sleeping came the sound of his even breathing, every
+      slightest tone of which was familiar to his wife. As she listened to it
+      she saw before her his smooth handsome forehead, his mustache, and his
+      whole face, as she had so often seen it in the stillness of the night when
+      he slept. Nicholas suddenly moved and cleared his throat. And at that
+      moment little Andrew shouted from outside the door: “Papa! Mamma’s
+      standing here!” Countess Mary turned pale with fright and made signs to
+      the boy. He grew silent, and quiet ensued for a moment, terrible to
+      Countess Mary. She knew how Nicholas disliked being waked. Then through
+      the door she heard Nicholas clearing his throat again and stirring, and
+      his voice said crossly:
 
-      It very often happened that in a moment of irritation husband and wife
-      would have a dispute, but long afterwards Pierre to his surprise and
-      delight would find in his wife’s ideas and actions the very thought
-      against which she had argued, but divested of everything superfluous that
-      in the excitement of the dispute he had added when expressing his opinion.
+      “I can’t get a moment’s peace.... Mary, is that you? Why did you bring him
+      here?”
 
-      After seven years of marriage Pierre had the joyous and firm consciousness
-      that he was not a bad man, and he felt this because he saw himself
-      reflected in his wife. He felt the good and bad within himself
-      inextricably mingled and overlapping. But only what was really good in him
-      was reflected in his wife, all that was not quite good was rejected. And
-      this was not the result of logical reasoning but was a direct and
-      mysterious reflection.
+      “I only came in to look and did not notice... forgive me....”
+
+      Nicholas coughed and said no more. Countess Mary moved away from the door
+      and took the boy back to the nursery. Five minutes later little black-eyed
+      three-year-old Natásha, her father’s pet, having learned from her brother
+      that Papa was asleep and Mamma was in the sitting room, ran to her father
+      unobserved by her mother. The dark-eyed little girl boldly opened the
+      creaking door, went up to the sofa with energetic steps of her sturdy
+      little legs, and having examined the position of her father, who was
+      asleep with his back to her, rose on tiptoe and kissed the hand which lay
+      under his head. Nicholas turned with a tender smile on his face.
+
+      “Natásha, Natásha!” came Countess Mary’s frightened whisper from the door.
+      “Papa wants to sleep.”
+
+      “No, Mamma, he doesn’t want to sleep,” said little Natásha with
+      conviction. “He’s laughing.”
+
+      Nicholas lowered his legs, rose, and took his daughter in his arms.
+
+      “Come in, Mary,” he said to his wife.
+
+      She went in and sat down by her husband.
+
+      “I did not notice him following me,” she said timidly. “I just looked in.”
+
+      Holding his little girl with one arm, Nicholas glanced at his wife and,
+      seeing her guilty expression, put his other arm around her and kissed her
+      hair.
+
+      “May I kiss Mamma?” he asked Natásha.
+
+      Natásha smiled bashfully.
+
+      “Again!” she commanded, pointing with a peremptory gesture to the spot
+      where Nicholas had placed the kiss.
+
+      “I don’t know why you think I am cross,” said Nicholas, replying to the
+      question he knew was in his wife’s mind.
+
+      “You have no idea how unhappy, how lonely, I feel when you are like that.
+      It always seems to me...”
+
+      “Mary, don’t talk nonsense. You ought to be ashamed of yourself!” he said
+      gaily.
+
+      “It seems to be that you can’t love me, that I am so plain... always...
+      and now... in this cond...”
+
+      “Oh, how absurd you are! It is not beauty that endears, it’s love that
+      makes us see beauty. It is only Malvínas and women of that kind who are
+      loved for their beauty. But do I love my wife? I don’t love her, but... I
+      don’t know how to put it. Without you, or when something comes between us
+      like this, I seem lost and can’t do anything. Now do I love my finger? I
+      don’t love it, but just try to cut it off!”
+
+      “I’m not like that myself, but I understand. So you’re not angry with me?”
+
+      “Awfully angry!” he said, smiling and getting up. And smoothing his hair
+      he began to pace the room.
+
+      “Do you know, Mary, what I’ve been thinking?” he began, immediately
+      thinking aloud in his wife’s presence now that they had made it up.
+
+      He did not ask if she was ready to listen to him. He did not care. A
+      thought had occurred to him and so it belonged to her also. And he told
+      her of his intention to persuade Pierre to stay with them till spring.
+
+      Countess Mary listened till he had finished, made some remark, and in her
+      turn began thinking aloud. Her thoughts were about the children.
+
+      “You can see the woman in her already,” she said in French, pointing to
+      little Natásha. “You reproach us women with being illogical. Here is our
+      logic. I say: ‘Papa wants to sleep!’ but she says, ‘No, he’s laughing.’
+      And she was right,” said Countess Mary with a happy smile.
+
+      “Yes, yes.” And Nicholas, taking his little daughter in his strong hand,
+      lifted her high, placed her on his shoulder, held her by the legs, and
+      paced the room with her. There was an expression of carefree happiness on
+      the faces of both father and daughter.
+
+      “But you know you may be unfair. You are too fond of this one,” his wife
+      whispered in French.
+
+      “Yes, but what am I to do?... I try not to show...”
+
+      At that moment they heard the sound of the door pulley and footsteps in
+      the hall and anteroom, as if someone had arrived.
+
+      “Somebody has come.”
+
+      “I am sure it is Pierre. I will go and see,” said Countess Mary and left
+      the room.
+
+      In her absence Nicholas allowed himself to give his little daughter a
+      gallop round the room. Out of breath, he took the laughing child quickly
+      from his shoulder and pressed her to his heart. His capers reminded him of
+      dancing, and looking at the child’s round happy little face he thought of
+      what she would be like when he was an old man, taking her into society and
+      dancing the mazurka with her as his old father had danced *Daniel Cooper*
+      with his daughter.
+
+      “It is he, it is he, Nicholas!” said Countess Mary, re-entering the room a
+      few minutes later. “Now our Natásha has come to life. You should have seen
+      her ecstasy, and how he caught it for having stayed away so long. Well,
+      come along now, quick, quick! It’s time you two were parted,” she added,
+      looking smilingly at the little girl who clung to her father.
+
+      Nicholas went out holding the child by the hand.
+
+      Countess Mary remained in the sitting room.
+
+      “I should never, never have believed that one could be so happy,” she
+      whispered to herself. A smile lit up her face but at the same time she
+      sighed, and her deep eyes expressed a quiet sadness as though she felt,
+      through her happiness, that there is another sort of happiness
+      unattainable in this life and of which she involuntarily thought at that
+      instant.

@@ -1,0 +1,66 @@
+{
+  "id": "the-monk",
+  "title": "The Monk",
+  "author": "M. G. Lewis",
+  "genre": "Horror",
+  "coverColor": "linear-gradient(135deg, #1e1b4b 0%, #0f172a 100%)",
+  "description": "A gothic horror romance novel by Matthew Gregory Lewis, depicting the downfall of the monk Ambrosio.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Preface",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterI",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterII",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIII",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterIV",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterV",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVI",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVII",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterVIII",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterIX",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterX",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXI",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXII",
+      "file": "14_chapter_13.md"
+    }
+  ]
+}

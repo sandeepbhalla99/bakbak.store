@@ -1,136 +1,192 @@
-# First Epilogue: 1813 - 20 - ChapterXIII
+# Book Fifteen: 1812 - 13 - ChapterXII
 
-When Pierre and his wife entered the drawing room the countess was in one
-      of her customary states in which she needed the mental exertion of playing
-      patience, and so—though by force of habit she greeted him with the
-      words she always used when Pierre or her son returned after an absence:
-      “High time, my dear, high time! We were all weary of waiting for you.
-      Well, thank God!” and received her presents with another customary remark:
-      “It’s not the gift that’s precious, my dear, but that you give it to me,
-      an old woman...”—yet it was evident that she was not pleased by
-      Pierre’s arrival at that moment when it diverted her attention from the
-      unfinished game.
+As in every large household, there were at Bald Hills several perfectly
+      distinct worlds which merged into one harmonious whole, though each
+      retained its own peculiarities and made concessions to the others. Every
+      event, joyful or sad, that took place in that house was important to all
+      these worlds, but each had its own special reasons to rejoice or grieve
+      over that occurrence independently of the others.
 
-      She finished her game of patience and only then examined the presents.
-      They consisted of a box for cards, of splendid workmanship, a bright-blue
-      Sèvres tea cup with shepherdesses depicted on it and with a lid, and a
-      gold snuffbox with the count’s portrait on the lid which Pierre had had
-      done by a miniaturist in Petersburg. The countess had long wished for such
-      a box, but as she did not want to cry just then she glanced indifferently
-      at the portrait and gave her attention chiefly to the box for cards.
+      For instance, Pierre’s return was a joyful and important event and they
+      all felt it to be so.
 
-      “Thank you, my dear, you have cheered me up,” said she as she always did.
-      “But best of all you have brought yourself back—for I never saw
-      anything like it, you ought to give your wife a scolding! What are we to
-      do with her? She is like a mad woman when you are away. Doesn’t see
-      anything, doesn’t remember anything,” she went on, repeating her usual
-      phrases. “Look, Anna Timoféevna,” she added to her companion, “see what a
-      box for cards my son has brought us!”
+      The servants—the most reliable judges of their masters because they
+      judge not by their conversation or expressions of feeling but by their
+      acts and way of life—were glad of Pierre’s return because they knew
+      that when he was there Count Nicholas would cease going every day to
+      attend to the estate, and would be in better spirits and temper, and also
+      because they would all receive handsome presents for the holidays.
 
-      Belóva admired the presents and was delighted with her dress material.
+      The children and their governesses were glad of Pierre’s return because no
+      one else drew them into the social life of the household as he did. He
+      alone could play on the clavichord that *écossaise* (his only piece) to
+      which, as he said, all possible dances could be danced, and they felt sure
+      he had brought presents for them all.
 
-      Though Pierre, Natásha, Nicholas, Countess Mary, and Denísov had much to
-      talk about that they could not discuss before the old countess—not
-      that anything was hidden from her, but because she had dropped so far
-      behindhand in many things that had they begun to converse in her presence
-      they would have had to answer inopportune questions and to repeat what
-      they had already told her many times: that so-and-so was dead and
-      so-and-so was married, which she would again be unable to remember—yet
-      they sat at tea round the samovar in the drawing room from habit, and
-      Pierre answered the countess’ questions as to whether Prince Vasíli had
-      aged and whether Countess Mary Alexéevna had sent greetings and still
-      thought of them, and other matters that interested no one and to which she
-      herself was indifferent.
+      Young Nicholas, now a slim lad of fifteen, delicate and intelligent, with
+      curly light-brown hair and beautiful eyes, was delighted because Uncle
+      Pierre as he called him was the object of his rapturous and passionate
+      affection. No one had instilled into him this love for Pierre whom he saw
+      only occasionally. Countess Mary who had brought him up had done her
+      utmost to make him love her husband as she loved him, and little Nicholas
+      did love his uncle, but loved him with just a shade of contempt. Pierre,
+      however, he adored. He did not want to be an hussar or a Knight of St.
+      George like his uncle Nicholas; he wanted to be learned, wise, and kind
+      like Pierre. In Pierre’s presence his face always shone with pleasure and
+      he flushed and was breathless when Pierre spoke to him. He did not miss a
+      single word he uttered, and would afterwards, with Dessalles or by
+      himself, recall and reconsider the meaning of everything Pierre had said.
+      Pierre’s past life and his unhappiness prior to 1812 (of which young
+      Nicholas had formed a vague poetic picture from some words he had
+      overheard), his adventures in Moscow, his captivity, Platón Karatáev (of
+      whom he had heard from Pierre), his love for Natásha (of whom the lad was
+      also particularly fond), and especially Pierre’s friendship with the
+      father whom Nicholas could not remember—all this made Pierre in his
+      eyes a hero and a saint.
 
-      Conversation of this kind, interesting to no one yet unavoidable,
-      continued all through teatime. All the grown-up members of the family were
-      assembled near the round tea table at which Sónya presided beside the
-      samovar. The children with their tutors and governesses had had tea and
-      their voices were audible from the next room. At tea all sat in their
-      accustomed places: Nicholas beside the stove at a small table where his
-      tea was handed to him; Mílka, the old gray borzoi bitch (daughter of the
-      first Mílka), with a quite gray face and large black eyes that seemed more
-      prominent than ever, lay on the armchair beside him; Denísov, whose curly
-      hair, mustache, and whiskers had turned half gray, sat beside countess
-      Mary with his general’s tunic unbuttoned; Pierre sat between his wife and
-      the old countess. He spoke of what he knew might interest the old lady and
-      that she could understand. He told her of external social events and of
-      the people who had formed the circle of her contemporaries and had once
-      been a real, living, and distinct group, but who were now for the most
-      part scattered about the world and like herself were garnering the last
-      ears of the harvests they had sown in earlier years. But to the old
-      countess those contemporaries of hers seemed to be the only serious and
-      real society. Natásha saw by Pierre’s animation that his visit had been
-      interesting and that he had much to tell them but dare not say it before
-      the old countess. Denísov, not being a member of the family, did not
-      understand Pierre’s caution and being, as a malcontent, much interested in
-      what was occurring in Petersburg, kept urging Pierre to tell them about
-      what had happened in the Semënovsk regiment, then about Arakchéev, and
-      then about the Bible Society. Once or twice Pierre was carried away and
-      began to speak of these things, but Nicholas and Natásha always brought
-      him back to the health of Prince Iván and Countess Mary Alexéevna.
+      From broken remarks about Natásha and his father, from the emotion with
+      which Pierre spoke of that dead father, and from the careful, reverent
+      tenderness with which Natásha spoke of him, the boy, who was only just
+      beginning to guess what love is, derived the notion that his father had
+      loved Natásha and when dying had left her to his friend. But the father
+      whom the boy did not remember appeared to him a divinity who could not be
+      pictured, and of whom he never thought without a swelling heart and tears
+      of sadness and rapture. So the boy also was happy that Pierre had arrived.
 
-      “Well, and all this idiocy—Gossner and Tatáwinova?” Denísov asked.
-      “Is that weally still going on?”
+      The guests welcomed Pierre because he always helped to enliven and unite
+      any company he was in.
 
-      “Going on?” Pierre exclaimed. “Why more than ever!
-      The Bible Society is the whole government now!”
+      The grown-up members of the family, not to mention his wife, were pleased
+      to have back a friend whose presence made life run more smoothly and
+      peacefully.
 
-      “What is that, *mon cher ami?*” asked the countess, who had
-      finished her tea and evidently needed a pretext for being angry
-      after her meal. “What are you saying about the government? I don’t
-      understand.”
+      The old ladies were pleased with the presents he brought them, and
+      especially that Natásha would now be herself again.
 
-      “Well, you know, *Maman*,” Nicholas interposed, knowing how to translate
-      things into his mother’s language, “Prince Alexander Golítsyn has founded
-      a society and in consequence has great influence, they say.”
+      Pierre felt the different outlooks of these various worlds and made haste
+      to satisfy all their expectations.
 
-      “Arakchéev and Golítsyn,” incautiously remarked Pierre, “are now the whole
-      government! And what a government! They see treason everywhere and are
-      afraid of everything.”
+      Though the most absent-minded and forgetful of men, Pierre, with the aid
+      of a list his wife drew up, had now bought everything, not forgetting his
+      mother—and brother-in-law’s commissions, nor the dress material for
+      a present to Belóva, nor toys for his wife’s nephews. In the early days of
+      his marriage it had seemed strange to him that his wife should expect him
+      not to forget to procure all the things he undertook to buy, and he had
+      been taken aback by her serious annoyance when on his first trip he forgot
+      everything. But in time he grew used to this demand. Knowing that Natásha
+      asked nothing for herself, and gave him commissions for others only when
+      he himself had offered to undertake them, he now found an unexpected and
+      childlike pleasure in this purchase of presents for everyone in the house,
+      and never forgot anything. If he now incurred Natásha’s censure it was
+      only for buying too many and too expensive things. To her other defects
+      (as most people thought them, but which to Pierre were qualities) of
+      untidiness and neglect of herself, she now added stinginess.
 
-      “Well, and how is Prince Alexander to blame? He is a most estimable man. I
-      used to meet him at Mary Antónovna’s,” said the countess in an offended
-      tone; and still more offended that they all remained silent, she went on:
-      “Nowadays everyone finds fault. A Gospel Society! Well, and what harm is
-      there in that?” and she rose (everybody else got up too) and with a severe
-      expression sailed back to her table in the sitting room.
+      From the time that Pierre began life as a family man on a footing
+      entailing heavy expenditure, he had noticed to his surprise that he spent
+      only half as much as before, and that his affairs—which had been in
+      disorder of late, chiefly because of his first wife’s debts—had
+      begun to improve.
 
-      The melancholy silence that followed was broken by the sounds of the
-      children’s voices and laughter from the next room. Evidently some jolly
-      excitement was going on there.
+      Life was cheaper because it was circumscribed: that most expensive luxury,
+      the kind of life that can be changed at any moment, was no longer his nor
+      did he wish for it. He felt that his way of life had now been settled once
+      for all till death and that to change it was not in his power, and so that
+      way of life proved economical.
 
-      “Finished, finished!” little Natásha’s gleeful yell rose above them all.
+      With a merry, smiling face Pierre was sorting his purchases.
 
-      Pierre exchanged glances with Countess Mary and Nicholas (Natásha he never
-      lost sight of) and smiled happily.
+      “What do you think of this?” said he, unrolling a piece of stuff like a
+      shopman.
 
-      “That’s delightful music!” said he.
+      Natásha, who was sitting opposite to him with her eldest daughter on her
+      lap, turned her sparkling eyes swiftly from her husband to the things he
+      showed her.
 
-      “It means that Anna Makárovna has finished her stocking,” said Countess
-      Mary.
+      “That’s for Belóva? Excellent!” She felt the quality of the material. “It
+      was a ruble an arshin, I suppose?”
 
-      “Oh, I’ll go and see,” said Pierre, jumping up. “You know,” he added,
-      stopping at the door, “why I’m especially fond of that music? It is always
-      the first thing that tells me all is well. When I was driving here today,
-      the nearer I got to the house the more anxious I grew. As I entered the
-      anteroom I heard Andrúsha’s peals of laughter and that meant that all was
-      well.”
+      Pierre told her the price.
 
-      “I know! I know that feeling,” said Nicholas. “But I mustn’t go there—those
-      stockings are to be a surprise for me.”
+      “Too dear!” Natásha remarked. “How pleased the children will be and Mamma
+      too! Only you need not have bought me this,” she added, unable to suppress
+      a smile as she gazed admiringly at a gold comb set with pearls, of a kind
+      then just coming into fashion.
 
-      Pierre went to the children, and the shouting and laughter grew still
-      louder.
+      “Adèle tempted me: she kept on telling me to buy it,” returned Pierre.
 
-      “Come, Anna Makárovna,” Pierre’s voice was heard saying, “come here into
-      the middle of the room and at the word of command, ‘One, two,’ and when I
-      say ‘three’... You stand here, and you in my arms—well now! One,
-      two!...” said Pierre, and a silence followed: “three!” and a rapturously
-      breathless cry of children’s voices filled the room. “Two, two!” they
-      shouted.
+      “When am I to wear it?” and Natásha stuck it in her coil of hair. “When I
+      take little Másha into society? Perhaps they will be fashionable again by
+      then. Well, let’s go now.”
 
-      This meant two stockings, which by a secret process known only to herself
-      Anna Makárovna used to knit at the same time on the same needles, and
-      which, when they were ready, she always triumphantly drew, one out of the
-      other, in the children’s presence.
+      And collecting the presents they went first to the nursery and then to the
+      old countess’ rooms.
+
+      The countess was sitting with her companion Belóva, playing grand-patience
+      as usual, when Pierre and Natásha came into the drawing room with parcels
+      under their arms.
+
+      The countess was now over sixty, was quite gray, and wore a cap with a
+      frill that surrounded her face. Her face had shriveled, her upper lip had
+      sunk in, and her eyes were dim.
+
+      After the deaths of her son and husband in such rapid succession, she felt
+      herself a being accidentally forgotten in this world and left without aim
+      or object for her existence. She ate, drank, slept, or kept awake, but did
+      not *live*. Life gave her no new impressions. She wanted nothing from life
+      but tranquillity, and that tranquillity only death could give her. But
+      until death came she had to go on living, that is, to use her vital
+      forces. A peculiarity one sees in very young children and very old people
+      was particularly evident in her. Her life had no external aims—only
+      a need to exercise her various functions and inclinations was apparent.
+      She had to eat, sleep, think, speak, weep, work, give vent to her anger,
+      and so on, merely because she had a stomach, a brain, muscles, nerves, and
+      a liver. She did these things not under any external impulse as people in
+      the full vigor of life do, when behind the purpose for which they strive
+      that of exercising their functions remains unnoticed. She talked only
+      because she physically needed to exercise her tongue and lungs. She cried
+      as a child does, because her nose had to be cleared, and so on. What for
+      people in their full vigor is an aim was for her evidently merely a
+      pretext.
+
+      Thus in the morning—especially if she had eaten anything rich the
+      day before—she felt a need of being angry and would choose as the
+      handiest pretext Belóva’s deafness.
+
+      She would begin to say something to her in a low tone from the other end
+      of the room.
+
+      “It seems a little warmer today, my dear,” she would murmur.
+
+      And when Belóva replied: “Oh yes, they’ve come,” she would mutter angrily:
+      “O Lord! How stupid and deaf she is!”
+
+      Another pretext would be her snuff, which would seem too dry or too damp
+      or not rubbed fine enough. After these fits of irritability her face would
+      grow yellow, and her maids knew by infallible symptoms when Belóva would
+      again be deaf, the snuff damp, and the countess’ face yellow. Just as she
+      needed to work off her spleen so she had sometimes to exercise her
+      still-existing faculty of thinking—and the pretext for that was a
+      game of patience. When she needed to cry, the deceased count would be the
+      pretext. When she wanted to be agitated, Nicholas and his health would be
+      the pretext, and when she felt a need to speak spitefully, the pretext
+      would be Countess Mary. When her vocal organs needed exercise, which was
+      usually toward seven o’clock when she had had an after-dinner rest in a
+      darkened room, the pretext would be the retelling of the same stories over
+      and over again to the same audience.
+
+      The old lady’s condition was understood by the whole household though no
+      one ever spoke of it, and they all made every possible effort to satisfy
+      her needs. Only by a rare glance exchanged with a sad smile between
+      Nicholas, Pierre, Natásha, and Countess Mary was the common understanding
+      of her condition expressed.
+
+      But those glances expressed something more: they said that she had played
+      her part in life, that what they now saw was not her whole self, that we
+      must all become like her, and that they were glad to yield to her, to
+      restrain themselves for this once precious being formerly as full of life
+      as themselves, but now so much to be pitied. *“Memento mori,”*
+      said these glances.
+
+      Only the really heartless, the stupid ones of that household, and the
+      little children failed to understand this and avoided her.

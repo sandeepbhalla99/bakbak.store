@@ -1,139 +1,117 @@
-# Second Epilogue - ChapterVII
+# Book Fifteen: 1812 - 13 - ChapterV
 
-When an event is taking place people express their opinions and wishes
-      about it, and as the event results from the collective activity of many
-      people, some one of the opinions or wishes expressed is sure to be
-      fulfilled if but approximately. When one of the opinions expressed is
-      fulfilled, that opinion gets connected with the event as a command
-      preceding it.
+The life of the nations is not contained in the lives of a few men, for
+      the connection between those men and the nations has not been found. The
+      theory that this connection is based on the transference of the collective
+      will of a people to certain historical personages is an hypothesis
+      unconfirmed by the experience of history.
 
-      Men are hauling a log. Each of them expresses his opinion as to how and
-      where to haul it. They haul the log away, and it happens that this is done
-      as one of them said. He *ordered* it. There we have command and power in
-      their primary form. The man who worked most with his hands could not think
-      so much about what he was doing, or reflect on or command what would
-      result from the common activity; while the man who commanded more would
-      evidently work less with his hands on account of his greater verbal
-      activity.
+      The theory of the transference of the collective will of the people to
+      historic persons may perhaps explain much in the domain of jurisprudence
+      and be essential for its purposes, but in its application to history, as
+      soon as revolutions, conquests, or civil wars occur—that is, as soon
+      as history begins—that theory explains nothing.
 
-      When some larger concourse of men direct their activity to a common aim
-      there is a yet sharper division of those who, because their activity is
-      given to directing and commanding, take less part in the direct work.
+      The theory seems irrefutable just because the act of transference of the
+      people’s will cannot be verified, for it never occurred.
 
-      When a man works alone he always has a certain set of reflections which as
-      it seems to him directed his past activity, justify his present activity,
-      and guide him in planning his future actions. Just the same is done by a
-      concourse of people, allowing those who do not take a direct part in the
-      activity to devise considerations, justifications, and surmises concerning
-      their collective activity.
+      Whatever happens and whoever may stand at the head of affairs, the theory
+      can always say that such and such a person took the lead because the
+      collective will was transferred to him.
 
-      For reasons known or unknown to us the French began to drown and kill one
-      another. And corresponding to the event its justification appears in
-      people’s belief that this was necessary for the welfare of France, for
-      liberty, and for equality. People ceased to kill one another, and this
-      event was accompanied by its justification in the necessity for a
-      centralization of power, resistance to Europe, and so on. Men went from
-      the west to the east killing their fellow men, and the event was
-      accompanied by phrases about the glory of France, the baseness of England,
-      and so on. History shows us that these justifications of the events have
-      no common sense and are all contradictory, as in the case of killing a man
-      as the result of recognizing his rights, and the killing of millions in
-      Russia for the humiliation of England. But these justifications have a
-      very necessary significance in their own day.
+      The replies this theory gives to historical questions are like the replies
+      of a man who, watching the movements of a herd of cattle and paying no
+      attention to the varying quality of the pasturage in different parts of
+      the field, or to the driving of the herdsman, should attribute the
+      direction the herd takes to what animal happens to be at its head.
 
-      These justifications release those who produce the events from moral
-      responsibility. These temporary aims are like the broom fixed in front of
-      a locomotive to clear the snow from the rails in front: they clear men’s
-      moral responsibilities from their path.
+      “The herd goes in that direction because the animal in front leads it and
+      the collective will of all the other animals is vested in that leader.”
+       This is what historians of the first class say—those who assume the
+      unconditional transference of the people’s will.
 
-      Without such justification there would be no reply to the simplest
-      question that presents itself when examining each historical event. How is
-      it that millions of men commit collective crimes—make war, commit
-      murder, and so on?
+      “If the animals leading the herd change, this happens because the
+      collective will of all the animals is transferred from one leader to
+      another, according to whether the animal is or is not leading them in the
+      direction selected by the whole herd.” Such is the reply historians who
+      assume that the collective will of the people is delegated to rulers under
+      conditions which they regard as known. (With this method of observation it
+      often happens that the observer, influenced by the direction he himself
+      prefers, regards those as leaders who, owing to the people’s change of
+      direction, are no longer in front, but on one side, or even in the rear.)
 
-      With the present complex forms of political and social life in Europe can
-      any event that is not prescribed, decreed, or ordered by monarchs,
-      ministers, parliaments, or newspapers be imagined? Is there any collective
-      action which cannot find its justification in political unity, in
-      patriotism, in the balance of power, or in civilization? So that every
-      event that occurs inevitably coincides with some expressed wish and,
-      receiving a justification, presents itself as the result of the will of
-      one man or of several men.
+      “If the animals in front are continually changing and the direction of the
+      whole herd is constantly altered, this is because in order to follow a
+      given direction the animals transfer their will to the animals that have
+      attracted our attention, and to study the movements of the herd we must
+      watch the movements of all the prominent animals moving on all sides of
+      the herd.” So say the third class of historians who regard all historical
+      persons, from monarchs to journalists, as the expression of their age.
 
-      In whatever direction a ship moves, the flow of the waves it cuts will
-      always be noticeable ahead of it. To those on board the ship the movement
-      of those waves will be the only perceptible motion.
+      The theory of the transference of the will of the people to historic
+      persons is merely a paraphrase—a restatement of the question in
+      other words.
 
-      Only by watching closely moment by moment the movement of that flow and
-      comparing it with the movement of the ship do we convince ourselves that
-      every bit of it is occasioned by the forward movement of the ship, and
-      that we were led into error by the fact that we ourselves were
-      imperceptibly moving.
+      What causes historical events? Power. What is power? Power is the
+      collective will of the people transferred to one person. Under what
+      condition is the will of the people delegated to one person? On condition
+      that that person expresses the will of the whole people. That is, power is
+      power: in other words, power is a word the meaning of which we do not
+      understand.
 
-      We see the same if we watch moment by moment the movement of historical
-      characters (that is, re-establish the inevitable condition of all that
-      occurs—the continuity of movement in time) and do not lose sight of
-      the essential connection of historical persons with the masses.
+      If the realm of human knowledge were confined to abstract reasoning, then
+      having subjected to criticism the explanation of “power” that juridical
+      science gives us, humanity would conclude that power is merely a word and
+      has no real existence. But to understand phenomena man has, besides
+      abstract reasoning, experience by which he verifies his reflections. And
+      experience tells us that power is not merely a word but an actually
+      existing phenomenon.
 
-      When the ship moves in one direction there is one and the same wave ahead
-      of it, when it turns frequently the wave ahead of it also turns
-      frequently. But wherever it may turn there always will be the wave
-      anticipating its movement.
+      Not to speak of the fact that no description of the collective activity of
+      men can do without the conception of power, the existence of power is
+      proved both by history and by observing contemporary events.
 
-      Whatever happens it always appears that just that event was foreseen and
-      decreed. Wherever the ship may go, the rush of water which neither directs
-      nor increases its movement foams ahead of it, and at a distance seems to
-      us not merely to move of itself but to govern the ship’s movement also.
+      Whenever an event occurs a man appears or men appear, by whose will the
+      event seems to have taken place. Napoleon III issues a decree and the
+      French go to Mexico. The King of Prussia and Bismarck issue decrees and an
+      army enters Bohemia. Napoleon I issues a decree and an army enters Russia.
+      Alexander I gives a command and the French submit to the Bourbons.
+      Experience shows us that whatever event occurs it is always related to the
+      will of one or of several men who have decreed it.
 
-      Examining only those expressions of the will of historical persons which,
-      as commands, were related to events, historians have assumed that the
-      events depended on those commands. But examining the events themselves and
-      the connection in which the historical persons stood to the people, we
-      have found that they and their orders were dependent on events. The
-      incontestable proof of this deduction is that, however many commands were
-      issued, the event does not take place unless there are other causes for
-      it, but as soon as an event occurs—be it what it may—then out
-      of all the continually expressed wishes of different people some will
-      always be found which by their meaning and their time of utterance are
-      related as commands to the events.
+      The historians, in accord with the old habit of acknowledging divine
+      intervention in human affairs, want to see the cause of events in the
+      expression of the will of someone endowed with power, but that supposition
+      is not confirmed either by reason or by experience.
 
-      Arriving at this conclusion we can reply directly and positively to these
-      two essential questions of history:
+      On the one side reflection shows that the expression of a man’s will—his
+      words—are only part of the general activity expressed in an event,
+      as for instance in a war or a revolution, and so without assuming an
+      incomprehensible, supernatural force—a miracle—one cannot
+      admit that words can be the immediate cause of the movements of millions
+      of men. On the other hand, even if we admitted that words could be the
+      cause of events, history shows that the expression of the will of
+      historical personages does not in most cases produce any effect, that is
+      to say, their commands are often not executed, and sometimes the very
+      opposite of what they order occurs.
 
-      (1) What is power?
+      Without admitting divine intervention in the affairs of humanity we cannot
+      regard “power” as the cause of events.
 
-      (2) What force produces the movement of the nations?
+      Power, from the standpoint of experience, is merely the relation that
+      exists between the expression of someone’s will and the execution of that
+      will by others.
 
-      (1) Power is the relation of a given person to other individuals, in which
-      the more this person expresses opinions, predictions, and justifications
-      of the collective action that is performed, the less is his participation
-      in that action.
+      To explain the conditions of that relationship we must first establish a
+      conception of the expression of will, referring it to man and not to the
+      Deity.
 
-      (2) The movement of nations is caused not by power, nor by intellectual
-      activity, nor even by a combination of the two as historians have
-      supposed, but by the activity of *all* the people who participate in the
-      events, and who always combine in such a way that those taking the largest
-      direct share in the event take on themselves the least responsibility and
-      vice versa.
-
-      Morally the wielder of power appears to cause the event; physically it is
-      those who submit to the power. But as the moral activity is inconceivable
-      without the physical, the cause of the event is neither in the one nor in
-      the other but in the union of the two.
-
-      Or in other words, the conception of a cause is inapplicable to the
-      phenomena we are examining.
-
-      In the last analysis we reach the circle of infinity—that final
-      limit to which in every domain of thought man’s reason arrives if it is
-      not playing with the subject. Electricity produces heat, heat produces
-      electricity. Atoms attract each other and atoms repel one another.
-
-      Speaking of the interaction of heat and electricity and of atoms, we
-      cannot say why this occurs, and we say that it is so because it is
-      inconceivable otherwise, because it must be so and that it is a law. The
-      same applies to historical events. Why war and revolution occur we do not
-      know. We only know that to produce the one or the other action, people
-      combine in a certain formation in which they all take part, and we say
-      that this is so because it is unthinkable otherwise, or in other words
-      that it is a law.
+      If the Deity issues a command, expresses His will, as ancient history
+      tells us, the expression of that will is independent of time and is not
+      caused by anything, for the Divinity is not controlled by an event. But
+      speaking of commands that are the expression of the will of men acting in
+      time and in relation to one another, to explain the connection of commands
+      with events we must restore: (1) the condition of all that takes place:
+      the continuity of movement in time both of the events and of the person
+      who commands, and (2) the inevitability of the connection between the
+      person commanding and those who execute his command.

@@ -1,117 +1,83 @@
-# Second Epilogue - ChapterV
+# Book Fifteen: 1812 - 13 - ChapterIII
 
-The life of the nations is not contained in the lives of a few men, for
-      the connection between those men and the nations has not been found. The
-      theory that this connection is based on the transference of the collective
-      will of a people to certain historical personages is an hypothesis
-      unconfirmed by the experience of history.
+A locomotive is moving. Someone asks: “What moves it?” A peasant says the
+      devil moves it. Another man says the locomotive moves because its wheels
+      go round. A third asserts that the cause of its movement lies in the smoke
+      which the wind carries away.
 
-      The theory of the transference of the collective will of the people to
-      historic persons may perhaps explain much in the domain of jurisprudence
-      and be essential for its purposes, but in its application to history, as
-      soon as revolutions, conquests, or civil wars occur—that is, as soon
-      as history begins—that theory explains nothing.
+      The peasant is irrefutable. He has devised a complete explanation. To
+      refute him someone would have to prove to him that there is no devil, or
+      another peasant would have to explain to him that it is not the devil but
+      a German, who moves the locomotive. Only then, as a result of the
+      contradiction, will they see that they are both wrong. But the man who
+      says that the movement of the wheels is the cause refutes himself, for
+      having once begun to analyze he ought to go on and explain further why the
+      wheels go round; and till he has reached the ultimate cause of the
+      movement of the locomotive in the pressure of steam in the boiler, he has
+      no right to stop in his search for the cause. The man who explains the
+      movement of the locomotive by the smoke that is carried back has noticed
+      that the wheels do not supply an explanation and has taken the first sign
+      that occurs to him and in his turn has offered that as an explanation.
 
-      The theory seems irrefutable just because the act of transference of the
-      people’s will cannot be verified, for it never occurred.
+      The only conception that can explain the movement of the locomotive is
+      that of a force commensurate with the movement observed.
 
-      Whatever happens and whoever may stand at the head of affairs, the theory
-      can always say that such and such a person took the lead because the
-      collective will was transferred to him.
+      The only conception that can explain the movement of the peoples is that
+      of some force commensurate with the whole movement of the peoples.
 
-      The replies this theory gives to historical questions are like the replies
-      of a man who, watching the movements of a herd of cattle and paying no
-      attention to the varying quality of the pasturage in different parts of
-      the field, or to the driving of the herdsman, should attribute the
-      direction the herd takes to what animal happens to be at its head.
+      Yet to supply this conception various historians take forces of different
+      kinds, all of which are incommensurate with the movement observed. Some
+      see it as a force directly inherent in heroes, as the peasant sees the
+      devil in the locomotive; others as a force resulting from several other
+      forces, like the movement of the wheels; others again as an intellectual
+      influence, like the smoke that is blown away.
 
-      “The herd goes in that direction because the animal in front leads it and
-      the collective will of all the other animals is vested in that leader.”
-       This is what historians of the first class say—those who assume the
-      unconditional transference of the people’s will.
+      So long as histories are written of separate individuals, whether Caesars,
+      Alexanders, Luthers, or Voltaires, and not the histories of *all*,
+      absolutely *all* those who take part in an event, it is quite impossible to
+      describe the movement of humanity without the conception of a force
+      compelling men to direct their activity toward a certain end. And the only
+      such conception known to historians is that of power.
 
-      “If the animals leading the herd change, this happens because the
-      collective will of all the animals is transferred from one leader to
-      another, according to whether the animal is or is not leading them in the
-      direction selected by the whole herd.” Such is the reply historians who
-      assume that the collective will of the people is delegated to rulers under
-      conditions which they regard as known. (With this method of observation it
-      often happens that the observer, influenced by the direction he himself
-      prefers, regards those as leaders who, owing to the people’s change of
-      direction, are no longer in front, but on one side, or even in the rear.)
+      This conception is the one handle by means of which the material of
+      history, as at present expounded, can be dealt with, and anyone who breaks
+      that handle off, as Buckle did, without finding some other method of
+      treating historical material, merely deprives himself of the one possible
+      way of dealing with it. The necessity of the conception of power as an
+      explanation of historical events is best demonstrated by the universal
+      historians and historians of culture themselves, for they professedly
+      reject that conception but inevitably have recourse to it at every step.
 
-      “If the animals in front are continually changing and the direction of the
-      whole herd is constantly altered, this is because in order to follow a
-      given direction the animals transfer their will to the animals that have
-      attracted our attention, and to study the movements of the herd we must
-      watch the movements of all the prominent animals moving on all sides of
-      the herd.” So say the third class of historians who regard all historical
-      persons, from monarchs to journalists, as the expression of their age.
+      In dealing with humanity’s inquiry, the science of history up to now is
+      like money in circulation—paper money and coin. The biographies and
+      special national histories are like paper money. They can be used and can
+      circulate and fulfill their purpose without harm to anyone and even
+      advantageously, as long as no one asks what is the security behind them.
+      You need only forget to ask how the will of heroes produces events, and
+      such histories as Thiers’ will be interesting and instructive and may
+      perhaps even possess a tinge of poetry. But just as doubts of the real
+      value of paper money arise either because, being easy to make, too much of
+      it gets made or because people try to exchange it for gold, so also doubts
+      concerning the real value of such histories arise either because too many
+      of them are written or because in his simplicity of heart someone
+      inquires: by what force did Napoleon do this?—that is, wants to
+      exchange the current paper money for the real gold of actual
+      comprehension.
 
-      The theory of the transference of the will of the people to historic
-      persons is merely a paraphrase—a restatement of the question in
-      other words.
-
-      What causes historical events? Power. What is power? Power is the
-      collective will of the people transferred to one person. Under what
-      condition is the will of the people delegated to one person? On condition
-      that that person expresses the will of the whole people. That is, power is
-      power: in other words, power is a word the meaning of which we do not
-      understand.
-
-      If the realm of human knowledge were confined to abstract reasoning, then
-      having subjected to criticism the explanation of “power” that juridical
-      science gives us, humanity would conclude that power is merely a word and
-      has no real existence. But to understand phenomena man has, besides
-      abstract reasoning, experience by which he verifies his reflections. And
-      experience tells us that power is not merely a word but an actually
-      existing phenomenon.
-
-      Not to speak of the fact that no description of the collective activity of
-      men can do without the conception of power, the existence of power is
-      proved both by history and by observing contemporary events.
-
-      Whenever an event occurs a man appears or men appear, by whose will the
-      event seems to have taken place. Napoleon III issues a decree and the
-      French go to Mexico. The King of Prussia and Bismarck issue decrees and an
-      army enters Bohemia. Napoleon I issues a decree and an army enters Russia.
-      Alexander I gives a command and the French submit to the Bourbons.
-      Experience shows us that whatever event occurs it is always related to the
-      will of one or of several men who have decreed it.
-
-      The historians, in accord with the old habit of acknowledging divine
-      intervention in human affairs, want to see the cause of events in the
-      expression of the will of someone endowed with power, but that supposition
-      is not confirmed either by reason or by experience.
-
-      On the one side reflection shows that the expression of a man’s will—his
-      words—are only part of the general activity expressed in an event,
-      as for instance in a war or a revolution, and so without assuming an
-      incomprehensible, supernatural force—a miracle—one cannot
-      admit that words can be the immediate cause of the movements of millions
-      of men. On the other hand, even if we admitted that words could be the
-      cause of events, history shows that the expression of the will of
-      historical personages does not in most cases produce any effect, that is
-      to say, their commands are often not executed, and sometimes the very
-      opposite of what they order occurs.
-
-      Without admitting divine intervention in the affairs of humanity we cannot
-      regard “power” as the cause of events.
-
-      Power, from the standpoint of experience, is merely the relation that
-      exists between the expression of someone’s will and the execution of that
-      will by others.
-
-      To explain the conditions of that relationship we must first establish a
-      conception of the expression of will, referring it to man and not to the
-      Deity.
-
-      If the Deity issues a command, expresses His will, as ancient history
-      tells us, the expression of that will is independent of time and is not
-      caused by anything, for the Divinity is not controlled by an event. But
-      speaking of commands that are the expression of the will of men acting in
-      time and in relation to one another, to explain the connection of commands
-      with events we must restore: (1) the condition of all that takes place:
-      the continuity of movement in time both of the events and of the person
-      who commands, and (2) the inevitability of the connection between the
-      person commanding and those who execute his command.
+      The writers of universal histories and of the history of culture are like
+      people who, recognizing the defects of paper money, decide to substitute
+      for it money made of metal that has not the specific gravity of gold. It
+      may indeed make jingling coin, but will do no more than that. Paper money
+      may deceive the ignorant, but nobody is deceived by tokens of base metal
+      that have no value but merely jingle. As gold is gold only if it is
+      serviceable not merely for exchange but also for use, so universal
+      historians will be valuable only when they can reply to history’s
+      essential question: what is power? The universal historians give
+      contradictory replies to that question, while the historians of culture
+      evade it and answer something quite different. And as counters of
+      imitation gold can be used only among a group of people who agree to
+      accept them as gold, or among those who do not know the nature of gold, so
+      universal historians and historians of culture, not answering humanity’s
+      essential question, serve as currency for some purposes of their own, only
+      in universities and among the mass of readers who have a taste for what
+      they call “serious reading.”
