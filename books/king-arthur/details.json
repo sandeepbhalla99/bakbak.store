@@ -1,0 +1,79 @@
+{
+  "id": "king-arthur",
+  "title": "King Arthur",
+  "author": "Rupert S. Holland",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
+  "description": "A compilation of the traditional legends of King Arthur and the Knights of the Round Table.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Introduction",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "I: Merlin Foretells the Birth of Arthur",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "II: The Crowning of Arthur and the Sword Excalibur",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "III: Arthur Drives the Saxons from His Realm",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "IV: The King's Many and Great Adventures",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "V: Sir Balin Fights with His Brother, Sir Balan",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "VI: The Marriage of Arthur and Guinevere and the Founding of the Round Table",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "VII: The Adventure of Arthur and Sir Accolon of Gaul",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "VIII: Arthur Is Crowned Emperor at Rome",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "IX: Sir Gawain and the Maid with the Narrow Sleeves",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "X: The Adventures of Sir Lancelot",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "XI: The Adventures of Sir Beaumains or Sir Gareth",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "XII: The Adventures of Sir Tristram",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "XIII: The Knights Go to Seek the Grail",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "XIV: Sir Lancelot and the Fair Elaine",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "XV: The War Between Arthur and Lancelot and the Passing of Arthur",
+      "file": "17_chapter_16.md"
+    }
+  ],
+  "coverImage": "books/king-arthur/cover.jpg"
+}

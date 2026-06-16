@@ -1,0 +1,158 @@
+{
+  "id": "the-adventures-of-tom-sawyer",
+  "title": "The Adventures of Tom Sawyer",
+  "author": "Mark Twain",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f97316 0%, #c2410c 100%)",
+  "description": "The beloved classic of a young boy's adventures growing up along the banks of the Mississippi River.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Preface",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterI",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterII",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIII",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterIV",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterV",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVI",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVII",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterVIII",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterIX",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterX",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXI",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXII",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIII",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXIV",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXV",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXVI",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVII",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "ChapterXVIII",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXIX",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "ChapterXX",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXXI",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXII",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXIII",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "ChapterXXIV",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXV",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXVI",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "ChapterXXVII",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "ChapterXXVIII",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "ChapterXXIX",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "ChapterXXX",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "ChapterXXXI",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "ChapterXXXII",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "ChapterXXXIII",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "ChapterXXXIV",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "ChapterXXXV",
+      "file": "37_chapter_36.md"
+    }
+  ]
+}

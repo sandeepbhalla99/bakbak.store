@@ -1,0 +1,94 @@
+{
+  "id": "a-room-with-a-view",
+  "title": "A Room with a View",
+  "author": "E. M. Forster",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+  "description": "A romantic novel set in Italy and England about a young woman choosing between conventions and passion.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Part One - ChapterI The Bertolini",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Part One - ChapterII In Santa Croce with No Baedeker",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Part One - ChapterIII Music, Violets, and the Letter \u201cS\u201d",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Part One - ChapterIV Fourth Chapter",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Part One - ChapterV Possibilities of a Pleasant Outing",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Part One - ChapterVI The Reverend Arthur Beebe, the Reverend Cuthbert Eager, Mr. Emerson, Mr. George Emerson, Miss Eleanor Lavish, Miss Charlotte Bartlett, and Miss Lucy Honeychurch Drive Out in Carriages to See a View; Italians Drive Them",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Part One - ChapterVII They Return",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Part Two - ChapterVIII Medieval",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Part Two - ChapterIX Lucy As a Work of Art",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Part Two - ChapterX Cecil As a Humourist",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Part Two - ChapterXI In Mrs. Vyse\u2019s Well-Appointed Flat",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Part Two - ChapterXII Twelfth Chapter",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Part Two - ChapterXIII How Miss Bartlett\u2019s Boiler Was so Tiresome",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Part Two - ChapterXIV How Lucy Faced the External Situation Bravely",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Part Two - ChapterXV The Disaster Within",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Part Two - ChapterXVI Lying to George",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Part Two - ChapterXVII Lying to Cecil",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Part Two - ChapterXVIII Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and the Servants",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Part Two - ChapterXIX Lying to Mr. Emerson",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Part Two - ChapterXX The End of the Middle Ages",
+      "file": "21_chapter_20.md"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "that-girl-Montana",
+  "title": "That Girl Montana",
+  "author": "Marah Ellis Ryan",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+  "description": "A Western romance story of love, honor, and survival in the wilderness of Montana.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Prologue",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterI: A Strange Girl",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterII: In the Lodge of Akkomi",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIII: The Image-Maker",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterIV: Dan\u2019s Ward",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterV: At Sinna Ferry",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVI: Mrs Huzzard\u2019s Suspicions",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVII: A Game of Poker",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterVIII: The Dance",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterIX: The Stranger\u2019s Warning",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterX: The Stranger\u2019s Love Story",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXI: \u2019tana and Joe",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXII: Partners",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIII: The Track in the Forest",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXIV: New-Comers",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXV: Something Worse Than a Gold Crisis",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXVI: Through the Night",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVII: Miss Slocum\u2019s Ideas Regarding Deportment",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "ChapterXVIII: Awakening",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXIX: The Man in Akkomi\u2019s Cloak",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "ChapterXX: \u2019tana\u2019s Engagement",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXXI: Lavina and the Captain",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXII: The Murder",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXIII: Good-By",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "ChapterXXIV: Leaving Camp",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXV: On Manhattan Island",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXVI: Overton\u2019s Wife",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "ChapterXXVII: Life at Twin Springs",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "ChapterXXVIII: Again on the Kootenai",
+      "file": "30_chapter_29.md"
+    }
+  ]
+}

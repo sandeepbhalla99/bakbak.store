@@ -151,6 +151,17 @@ def import_book(config):
     return True
 
 def main():
+    log_path = "/home/sb/AI-Works/bakbak.store/uploaded_books.json"
+    
+    # Load uploaded log
+    uploaded = []
+    if os.path.exists(log_path):
+        try:
+            with open(log_path, "r", encoding="utf-8") as f:
+                uploaded = json.load(f)
+        except Exception as e:
+            print(f"Error loading log: {e}")
+            
     books_to_import = [
         {
             "id": "the-adventures-of-sherlock-holmes",
@@ -357,11 +368,162 @@ def main():
             "cover_color": "linear-gradient(135deg, #ea580c 0%, #9a3412 100%)",
             "description": "A classic science fantasy novel, the fourth of the Barsoom series by Edgar Rice Burroughs.",
             "is_wiki_index": False
+        },
+        # 12 New Books
+        {
+            "id": "a-farewell-to-arms",
+            "folder": "A_Farewell_to_Arms",
+            "index_file": "index.md",
+            "title": "A Farewell to Arms",
+            "author": "Ernest Hemingway",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+            "description": "Ernest Hemingway's semi-autobiographical novel set during the Italian Campaign of World War I.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "a-room-with-a-view",
+            "folder": "A_Room_With_a_View",
+            "index_file": "index.md",
+            "title": "A Room with a View",
+            "author": "E. M. Forster",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #f59e0b 0%, #d97706 100%)",
+            "description": "A romantic novel set in Italy and England about a young woman choosing between conventions and passion.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "autobiography-of-benjamin-franklin",
+            "folder": "Autobiography_of_Benjamin_Franklin",
+            "index_file": "index.md",
+            "title": "Autobiography of Benjamin Franklin",
+            "author": "Benjamin Franklin",
+            "genre": "Biography",
+            "cover_color": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+            "description": "The classic unfinished memoirs written by one of the key Founding Fathers of the United States.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "frankenstein",
+            "folder": "Frankenstein",
+            "index_file": "index.md",
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "genre": "Horror",
+            "cover_color": "linear-gradient(135deg, #1e1b4b 0%, #030712 100%)",
+            "description": "The gothic horror masterpiece detailing the creation of a sentient monster by Victor Frankenstein.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "king-arthur",
+            "folder": "King_Arthur",
+            "index_file": "index.md",
+            "title": "King Arthur",
+            "author": "Rupert S. Holland",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
+            "cover_image_src": "../../html/cover-king.jpg",
+            "description": "A compilation of the traditional legends of King Arthur and the Knights of the Round Table.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "moby-dick",
+            "folder": "Moby_Dick",
+            "index_file": "index.md",
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%)",
+            "description": "Herman Melville's classic novel of Captain Ahab's obsessive quest for revenge against the giant white whale.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "that-girl-Montana",
+            "folder": "That_Girl_Montana",
+            "index_file": "index.md",
+            "title": "That Girl Montana",
+            "author": "Marah Ellis Ryan",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+            "description": "A Western romance story of love, honor, and survival in the wilderness of Montana.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "the-adventures-of-roderick-random",
+            "folder": "The_Adventures_of_Roderick_Random",
+            "index_file": "index.md",
+            "title": "The Adventures of Roderick Random",
+            "author": "Tobias Smollett",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #10b981 0%, #047857 100%)",
+            "description": "A picaresque novel following the fortunes and misfortunes of Roderick Random.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "the-adventures-of-tom-sawyer",
+            "folder": "The_Adventures_of_Tom_Sawyer",
+            "index_file": "index.md",
+            "title": "The Adventures of Tom Sawyer",
+            "author": "Mark Twain",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #f97316 0%, #c2410c 100%)",
+            "description": "The beloved classic of a young boy's adventures growing up along the banks of the Mississippi River.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "the-brothers-karamazov",
+            "folder": "The_Brothers_Karamazov",
+            "index_file": "index.md",
+            "title": "The Brothers Karamazov",
+            "author": "Fyodor Dostoyevsky",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #1f2937 0%, #111827 100%)",
+            "description": "Fyodor Dostoyevsky's final masterpiece about a patricide and the philosophical debates that unfold within a Russian family.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "the-count-of-monte-cristo",
+            "folder": "The_Count_of_Monte_Cristo",
+            "index_file": "index.md",
+            "title": "The Count of Monte Cristo",
+            "author": "Alexandre Dumas",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+            "description": "An epic tale of wrongfully accused Edmond Dantes, his escape from the Chateau d'If, and his return as the wealthy and vengeful Count.",
+            "is_wiki_index": False
+        },
+        {
+            "id": "treasure-island",
+            "folder": "Treasure_Island",
+            "index_file": "index.md",
+            "title": "Treasure Island",
+            "author": "Robert Louis Stevenson",
+            "genre": "Classics",
+            "cover_color": "linear-gradient(135deg, #0d9488 0%, #0f766e 100%)",
+            "description": "The ultimate pirate adventure featuring Jim Hawkins, a mysterious map, and the infamous Long John Silver.",
+            "is_wiki_index": False
         }
     ]
     
+    imported_any = False
     for book in books_to_import:
-        import_book(book)
+        if book["folder"] in uploaded:
+            print(f"Skipping {book['title']} (already uploaded).")
+            continue
+            
+        print(f"Importing new book: {book['title']}...")
+        success = import_book(book)
+        if success:
+            uploaded.append(book["folder"])
+            imported_any = True
+            
+    if imported_any:
+        # Save updated log
+        with open(log_path, "w", encoding="utf-8") as f:
+            json.dump(uploaded, f, indent=2)
+        print("Updated uploaded_books.json log.")
+    else:
+        print("No new books to import.")
 
 if __name__ == "__main__":
     main()

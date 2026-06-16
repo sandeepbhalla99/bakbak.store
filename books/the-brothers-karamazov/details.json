@@ -1,0 +1,402 @@
+{
+  "id": "the-brothers-karamazov",
+  "title": "The Brothers Karamazov",
+  "author": "Fyodor Dostoyevsky",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #1f2937 0%, #111827 100%)",
+  "description": "Fyodor Dostoyevsky's final masterpiece about a patricide and the philosophical debates that unfold within a Russian family.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Book I. The History of a Family - ChapterI. Fyodor Pavlovitch Karamazov",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Book I. The History of a Family - ChapterII. He Gets Rid of His Eldest Son",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Book I. The History of a Family - ChapterIII. The Second Marriage and the Second Family",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Book I. The History of a Family - ChapterIV. The Third Son, Alyosha",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Book I. The History of a Family - ChapterV. Elders",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Book II. An Unfortunate Gathering - ChapterI. They Arrive at the Monastery",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Book II. An Unfortunate Gathering - ChapterII. The Old Buffoon",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Book II. An Unfortunate Gathering - ChapterIII. Peasant Women Who Have Faith",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Book II. An Unfortunate Gathering - ChapterIV. A Lady of Little Faith",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Book II. An Unfortunate Gathering - ChapterV. So Be It! So Be It!",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Book II. An Unfortunate Gathering - ChapterVI. Why Is Such a Man Alive?",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Book II. An Unfortunate Gathering - ChapterVII. A Young Man Bent on a Career",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Book II. An Unfortunate Gathering - ChapterVIII. The Scandalous Scene",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterI. In the Servants\u2019 Quarters",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterII. Lizaveta",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterIII. The Confession of a Passionate Heart\u2014In Verse",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterIV. The Confession of a Passionate Heart\u2014In Anecdote",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterV. The Confession of a Passionate Heart\u2014\u201cHeels Up\u201d",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterVI. Smerdyakov",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterVII. The Controversy",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterVIII. Over the Brandy",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterIX. The Sensualists",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterX. Both Together",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Book III. The Sensualists - ChapterXI. Another Reputation Ruined",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Book IV. Lacerations - ChapterI. Father Ferapont",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Book IV. Lacerations - ChapterII. At His Father\u2019s",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Book IV. Lacerations - ChapterIII. A Meeting with the Schoolboys",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Book IV. Lacerations - ChapterIV. At the Hohlakovs\u2019",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "Book IV. Lacerations - ChapterV. A Laceration in the Drawing-Room",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "Book IV. Lacerations - ChapterVI. A Laceration in the Cottage",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "Book IV. Lacerations - ChapterVII. And in the Open Air",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "Book V. Pro and Contra - ChapterI. The Engagement",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "Book V. Pro and Contra - ChapterII. Smerdyakov with a Guitar",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "Book V. Pro and Contra - ChapterIII. The Brothers Make Friends",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "Book V. Pro and Contra - ChapterIV. Rebellion",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "Book V. Pro and Contra - ChapterV. The Grand Inquisitor",
+      "file": "37_chapter_36.md"
+    },
+    {
+      "title": "Book V. Pro and Contra - ChapterVI. For Awhile a Very Obscure One",
+      "file": "38_chapter_37.md"
+    },
+    {
+      "title": "Book V. Pro and Contra - ChapterVII. \u201cIt\u2019s Always Worth While Speaking to a Clever Man\u201d",
+      "file": "39_chapter_38.md"
+    },
+    {
+      "title": "Book VI. The Russian Monk - ChapterI. Father Zossima and His Visitors",
+      "file": "40_chapter_39.md"
+    },
+    {
+      "title": "Book VI. The Russian Monk - ChapterII. The Duel",
+      "file": "41_chapter_40.md"
+    },
+    {
+      "title": "Book VI. The Russian Monk - ChapterIII. Conversations and Exhortations of Father Zossima",
+      "file": "42_chapter_41.md"
+    },
+    {
+      "title": "Book VII. Alyosha - ChapterI. The Breath of Corruption",
+      "file": "43_chapter_42.md"
+    },
+    {
+      "title": "Book VII. Alyosha - ChapterII. A Critical Moment",
+      "file": "44_chapter_43.md"
+    },
+    {
+      "title": "Book VII. Alyosha - ChapterIII. An Onion",
+      "file": "45_chapter_44.md"
+    },
+    {
+      "title": "Book VII. Alyosha - ChapterIV. Cana of Galilee",
+      "file": "46_chapter_45.md"
+    },
+    {
+      "title": "Book VIII. Mitya - ChapterI. Kuzma Samsonov",
+      "file": "47_chapter_46.md"
+    },
+    {
+      "title": "Book VIII. Mitya - ChapterII. Lyagavy",
+      "file": "48_chapter_47.md"
+    },
+    {
+      "title": "Book VIII. Mitya - ChapterIII. Gold-Mines",
+      "file": "49_chapter_48.md"
+    },
+    {
+      "title": "Book VIII. Mitya - ChapterIV. In the Dark",
+      "file": "50_chapter_49.md"
+    },
+    {
+      "title": "Book VIII. Mitya - ChapterV. A Sudden Resolution",
+      "file": "51_chapter_50.md"
+    },
+    {
+      "title": "Book VIII. Mitya - ChapterVI. \u201cI Am Coming, Too!\u201d",
+      "file": "52_chapter_51.md"
+    },
+    {
+      "title": "Book VIII. Mitya - ChapterVII. The First and Rightful Lover",
+      "file": "53_chapter_52.md"
+    },
+    {
+      "title": "Book VIII. Mitya - ChapterVIII. Delirium",
+      "file": "54_chapter_53.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation - ChapterI. The Beginning of Perhotin\u2019s Official Career",
+      "file": "55_chapter_54.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation - ChapterII. The Alarm",
+      "file": "56_chapter_55.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation - ChapterIII. The Sufferings of a Soul, the First Ordeal",
+      "file": "57_chapter_56.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation - ChapterIV. The Second Ordeal",
+      "file": "58_chapter_57.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation - ChapterV. The Third Ordeal",
+      "file": "59_chapter_58.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation - ChapterVI. The Prosecutor Catches Mitya",
+      "file": "60_chapter_59.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation - ChapterVII. Mitya\u2019s Great Secret. Received with Hisses",
+      "file": "61_chapter_60.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation - ChapterVIII. The Evidence of the Witnesses. the Babe",
+      "file": "62_chapter_61.md"
+    },
+    {
+      "title": "Book IX. The Preliminary Investigation - ChapterIX. They Carry Mitya Away",
+      "file": "63_chapter_62.md"
+    },
+    {
+      "title": "Book X. The Boys - ChapterI. Kolya Krassotkin",
+      "file": "64_chapter_63.md"
+    },
+    {
+      "title": "Book X. The Boys - ChapterII. Children",
+      "file": "65_chapter_64.md"
+    },
+    {
+      "title": "Book X. The Boys - ChapterIII. The Schoolboy",
+      "file": "66_chapter_65.md"
+    },
+    {
+      "title": "Book X. The Boys - ChapterIV. The Lost Dog",
+      "file": "67_chapter_66.md"
+    },
+    {
+      "title": "Book X. The Boys - ChapterV. By Ilusha\u2019s Bedside",
+      "file": "68_chapter_67.md"
+    },
+    {
+      "title": "Book X. The Boys - ChapterVI. Precocity",
+      "file": "69_chapter_68.md"
+    },
+    {
+      "title": "Book X. The Boys - ChapterVII. Ilusha",
+      "file": "70_chapter_69.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterI. At Grushenka\u2019s",
+      "file": "71_chapter_70.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterII. The Injured Foot",
+      "file": "72_chapter_71.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterIII. A Little Demon",
+      "file": "73_chapter_72.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterIV. A Hymn and a Secret",
+      "file": "74_chapter_73.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterV. Not You, Not You!",
+      "file": "75_chapter_74.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterVI. The First Interview with Smerdyakov",
+      "file": "76_chapter_75.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterVII. The Second Visit to Smerdyakov",
+      "file": "77_chapter_76.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterVIII. The Third and Last Interview with Smerdyakov",
+      "file": "78_chapter_77.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterIX. The Devil. Ivan\u2019s Nightmare",
+      "file": "79_chapter_78.md"
+    },
+    {
+      "title": "Book XI. Ivan - ChapterX. \u201cIt Was He Who Said That\u201d",
+      "file": "80_chapter_79.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterI. The Fatal Day",
+      "file": "81_chapter_80.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterII. Dangerous Witnesses",
+      "file": "82_chapter_81.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterIII. The Medical Experts and a Pound of Nuts",
+      "file": "83_chapter_82.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterIV. Fortune Smiles on Mitya",
+      "file": "84_chapter_83.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterV. A Sudden Catastrophe",
+      "file": "85_chapter_84.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterVI. The Prosecutor\u2019s Speech. Sketches of Character",
+      "file": "86_chapter_85.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterVII. An Historical Survey",
+      "file": "87_chapter_86.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterVIII. A Treatise on Smerdyakov",
+      "file": "88_chapter_87.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterIX. The Galloping Troika. the End of the Prosecutor\u2019s Speech",
+      "file": "89_chapter_88.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterX. The Speech for the Defense. an Argument That Cuts Both Ways",
+      "file": "90_chapter_89.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterXI. There Was No Money. There Was No Robbery",
+      "file": "91_chapter_90.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterXII. And There Was No Murder Either",
+      "file": "92_chapter_91.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterXIII. A Corrupter of Thought",
+      "file": "93_chapter_92.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterXIV. The Peasants Stand Firm",
+      "file": "94_chapter_93.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - Epilogue",
+      "file": "95_chapter_94.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterI. Plans for Mitya\u2019s Escape",
+      "file": "96_chapter_95.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterII. For a Moment the Lie Becomes Truth",
+      "file": "97_chapter_96.md"
+    },
+    {
+      "title": "Book XII. A Judicial Error - ChapterIII. Ilusha\u2019s Funeral. the Speech at the Stone",
+      "file": "98_chapter_97.md"
+    }
+  ]
+}

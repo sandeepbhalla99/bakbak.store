@@ -1,0 +1,30 @@
+{
+  "id": "autobiography-of-benjamin-franklin",
+  "title": "Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "genre": "Biography",
+  "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+  "description": "The classic unfinished memoirs written by one of the key Founding Fathers of the United States.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Introduction",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Autobiography: Of - Benjamin Franklin",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Appendix",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Bibliography",
+      "file": "05_chapter_04.md"
+    }
+  ]
+}

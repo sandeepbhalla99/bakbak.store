@@ -1,0 +1,482 @@
+{
+  "id": "the-count-of-monte-cristo",
+  "title": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "An epic tale of wrongfully accused Edmond Dantes, his escape from the Chateau d'If, and his return as the wealthy and vengeful Count.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Volume One - Chapter 1. Marseilles\u2014The Arrival",
+      "file": "02_chapter_001.md"
+    },
+    {
+      "title": "Volume One - Chapter 2. Father and Son",
+      "file": "03_chapter_002.md"
+    },
+    {
+      "title": "Volume One - Chapter 3. The Catalans",
+      "file": "04_chapter_003.md"
+    },
+    {
+      "title": "Volume One - Chapter 4. Conspiracy",
+      "file": "05_chapter_004.md"
+    },
+    {
+      "title": "Volume One - Chapter 5. The Marriage Feast",
+      "file": "06_chapter_005.md"
+    },
+    {
+      "title": "Volume One - Chapter 6. The Deputy Procureur Du Roi",
+      "file": "07_chapter_006.md"
+    },
+    {
+      "title": "Volume One - Chapter 7. The Examination",
+      "file": "08_chapter_007.md"
+    },
+    {
+      "title": "Volume One - Chapter 8. The Ch\u00e2teau D\u2019if",
+      "file": "09_chapter_008.md"
+    },
+    {
+      "title": "Volume One - Chapter 9. The Evening of the Betrothal",
+      "file": "10_chapter_009.md"
+    },
+    {
+      "title": "Volume One - Chapter 10. The King\u2019s Closet at the Tuileries",
+      "file": "11_chapter_010.md"
+    },
+    {
+      "title": "Volume One - Chapter 11. The Corsican Ogre",
+      "file": "12_chapter_011.md"
+    },
+    {
+      "title": "Volume One - Chapter 12. Father and Son",
+      "file": "13_chapter_012.md"
+    },
+    {
+      "title": "Volume One - Chapter 13. The Hundred Days",
+      "file": "14_chapter_013.md"
+    },
+    {
+      "title": "Volume One - Chapter 14. The Two Prisoners",
+      "file": "15_chapter_014.md"
+    },
+    {
+      "title": "Volume One - Chapter 15. Number 34 And Number 27",
+      "file": "16_chapter_015.md"
+    },
+    {
+      "title": "Volume One - Chapter 16. A Learned Italian",
+      "file": "17_chapter_016.md"
+    },
+    {
+      "title": "Volume One - Chapter 17. The Abb\u00e9\u2019s Chamber",
+      "file": "18_chapter_017.md"
+    },
+    {
+      "title": "Volume One - Chapter 18. The Treasure",
+      "file": "19_chapter_018.md"
+    },
+    {
+      "title": "Volume One - Chapter 19. The Third Attack",
+      "file": "20_chapter_019.md"
+    },
+    {
+      "title": "Volume One - Chapter 20. The Cemetery of the Ch\u00e2teau D\u2019if",
+      "file": "21_chapter_020.md"
+    },
+    {
+      "title": "Volume One - Chapter 21. The Island of Tiboulen",
+      "file": "22_chapter_021.md"
+    },
+    {
+      "title": "Volume One - Chapter 22. The Smugglers",
+      "file": "23_chapter_022.md"
+    },
+    {
+      "title": "Volume One - Chapter 23. The Island of Monte Cristo",
+      "file": "24_chapter_023.md"
+    },
+    {
+      "title": "Volume One - Chapter 24. The Secret Cave",
+      "file": "25_chapter_024.md"
+    },
+    {
+      "title": "Volume One - Chapter 25. The Unknown",
+      "file": "26_chapter_025.md"
+    },
+    {
+      "title": "Volume One - Chapter 26. The Pont Du Gard Inn",
+      "file": "27_chapter_026.md"
+    },
+    {
+      "title": "Volume One - Chapter 27. The Story",
+      "file": "28_chapter_027.md"
+    },
+    {
+      "title": "Volume Two - Chapter 28. The Prison Register",
+      "file": "29_chapter_028.md"
+    },
+    {
+      "title": "Volume Two - Chapter 29. The House of Morrel & Son",
+      "file": "30_chapter_029.md"
+    },
+    {
+      "title": "Volume Two - Chapter 30. The Fifth of September",
+      "file": "31_chapter_030.md"
+    },
+    {
+      "title": "Volume Two - Chapter 31. Italy: Sinbad the Sailor",
+      "file": "32_chapter_031.md"
+    },
+    {
+      "title": "Volume Two - Chapter 32. The Waking",
+      "file": "33_chapter_032.md"
+    },
+    {
+      "title": "Volume Two - Chapter 33. Roman Bandits",
+      "file": "34_chapter_033.md"
+    },
+    {
+      "title": "Volume Two - Chapter 34. The Colosseum",
+      "file": "35_chapter_034.md"
+    },
+    {
+      "title": "Volume Two - Chapter 35. La Mazzolata",
+      "file": "36_chapter_035.md"
+    },
+    {
+      "title": "Volume Two - Chapter 36. The Carnival at Rome",
+      "file": "37_chapter_036.md"
+    },
+    {
+      "title": "Volume Two - Chapter 37. The Catacombs of Saint Sebastian",
+      "file": "38_chapter_037.md"
+    },
+    {
+      "title": "Volume Two - Chapter 38. The Rendezvous",
+      "file": "39_chapter_038.md"
+    },
+    {
+      "title": "Volume Two - Chapter 39. The Guests",
+      "file": "40_chapter_039.md"
+    },
+    {
+      "title": "Volume Two - Chapter 40. The Breakfast",
+      "file": "41_chapter_040.md"
+    },
+    {
+      "title": "Volume Two - Chapter 41. The Presentation",
+      "file": "42_chapter_041.md"
+    },
+    {
+      "title": "Volume Two - Chapter 42. Monsieur Bertuccio",
+      "file": "43_chapter_042.md"
+    },
+    {
+      "title": "Volume Two - Chapter 43. The House at Auteuil",
+      "file": "44_chapter_043.md"
+    },
+    {
+      "title": "Volume Two - Chapter 44. The Vendetta",
+      "file": "45_chapter_044.md"
+    },
+    {
+      "title": "Volume Two - Chapter 45. The Rain of Blood",
+      "file": "46_chapter_045.md"
+    },
+    {
+      "title": "Volume Two - Chapter 46. Unlimited Credit",
+      "file": "47_chapter_046.md"
+    },
+    {
+      "title": "Volume Two - Chapter 47. The Dappled Grays",
+      "file": "48_chapter_047.md"
+    },
+    {
+      "title": "Volume Three - Chapter 48. Ideology",
+      "file": "49_chapter_048.md"
+    },
+    {
+      "title": "Volume Three - Chapter 49. Hayd\u00e9e",
+      "file": "50_chapter_049.md"
+    },
+    {
+      "title": "Volume Three - Chapter 50. The Morrel Family",
+      "file": "51_chapter_050.md"
+    },
+    {
+      "title": "Volume Three - Chapter 51. Pyramus and Thisbe",
+      "file": "52_chapter_051.md"
+    },
+    {
+      "title": "Volume Three - Chapter 52. Toxicology",
+      "file": "53_chapter_052.md"
+    },
+    {
+      "title": "Volume Three - Chapter 53. Robert Le Diable",
+      "file": "54_chapter_053.md"
+    },
+    {
+      "title": "Volume Three - Chapter 54. A Flurry in Stocks",
+      "file": "55_chapter_054.md"
+    },
+    {
+      "title": "Volume Three - Chapter 55. Major Cavalcanti",
+      "file": "56_chapter_055.md"
+    },
+    {
+      "title": "Volume Three - Chapter 56. Andrea Cavalcanti",
+      "file": "57_chapter_056.md"
+    },
+    {
+      "title": "Volume Three - Chapter 57. In the Lucern Patch",
+      "file": "58_chapter_057.md"
+    },
+    {
+      "title": "Volume Three - Chapter 58. M. Noirtier De Villefort",
+      "file": "59_chapter_058.md"
+    },
+    {
+      "title": "Volume Three - Chapter 59. The Will",
+      "file": "60_chapter_059.md"
+    },
+    {
+      "title": "Volume Three - Chapter 60. The Telegraph",
+      "file": "61_chapter_060.md"
+    },
+    {
+      "title": "Volume Three - Chapter 61. How a Gardener May Get Rid of the Dormice That Eat His Peaches",
+      "file": "62_chapter_061.md"
+    },
+    {
+      "title": "Volume Three - Chapter 62. Ghosts",
+      "file": "63_chapter_062.md"
+    },
+    {
+      "title": "Volume Three - Chapter 63. The Dinner",
+      "file": "64_chapter_063.md"
+    },
+    {
+      "title": "Volume Three - Chapter 64. The Beggar",
+      "file": "65_chapter_064.md"
+    },
+    {
+      "title": "Volume Three - Chapter 65. A Conjugal Scene",
+      "file": "66_chapter_065.md"
+    },
+    {
+      "title": "Volume Three - Chapter 66. Matrimonial Projects",
+      "file": "67_chapter_066.md"
+    },
+    {
+      "title": "Volume Three - Chapter 67. The Office of the King\u2019s Attorney",
+      "file": "68_chapter_067.md"
+    },
+    {
+      "title": "Volume Three - Chapter 68. A Summer Ball",
+      "file": "69_chapter_068.md"
+    },
+    {
+      "title": "Volume Three - Chapter 69. The Inquiry",
+      "file": "70_chapter_069.md"
+    },
+    {
+      "title": "Volume Three - Chapter 70. The Ball",
+      "file": "71_chapter_070.md"
+    },
+    {
+      "title": "Volume Three - Chapter 71. Bread and Salt",
+      "file": "72_chapter_071.md"
+    },
+    {
+      "title": "Volume Three - Chapter 72. Madame De Saint-M\u00e9ran",
+      "file": "73_chapter_072.md"
+    },
+    {
+      "title": "Volume Three - Chapter 73. The Promise",
+      "file": "74_chapter_073.md"
+    },
+    {
+      "title": "Volume Four - Chapter 74. The Villefort Family Vault",
+      "file": "75_chapter_074.md"
+    },
+    {
+      "title": "Volume Four - Chapter 75. A Signed Statement",
+      "file": "76_chapter_075.md"
+    },
+    {
+      "title": "Volume Four - Chapter 76. Progress of Cavalcanti the Younger",
+      "file": "77_chapter_076.md"
+    },
+    {
+      "title": "Volume Four - Chapter 77. Hayd\u00e9e",
+      "file": "78_chapter_077.md"
+    },
+    {
+      "title": "Volume Four - Chapter 78. We Hear from Yanina",
+      "file": "79_chapter_078.md"
+    },
+    {
+      "title": "Volume Four - Chapter 79. The Lemonade",
+      "file": "80_chapter_079.md"
+    },
+    {
+      "title": "Volume Four - Chapter 80. The Accusation",
+      "file": "81_chapter_080.md"
+    },
+    {
+      "title": "Volume Four - Chapter 81. The Room of the Retired Baker",
+      "file": "82_chapter_081.md"
+    },
+    {
+      "title": "Volume Four - Chapter 82. The Burglary",
+      "file": "83_chapter_082.md"
+    },
+    {
+      "title": "Volume Four - Chapter 83. The Hand of God",
+      "file": "84_chapter_083.md"
+    },
+    {
+      "title": "Volume Four - Chapter 84. Beauchamp",
+      "file": "85_chapter_084.md"
+    },
+    {
+      "title": "Volume Four - Chapter 85. The Journey",
+      "file": "86_chapter_085.md"
+    },
+    {
+      "title": "Volume Four - Chapter 86. The Trial",
+      "file": "87_chapter_086.md"
+    },
+    {
+      "title": "Volume Four - Chapter 87. The Challenge",
+      "file": "88_chapter_087.md"
+    },
+    {
+      "title": "Volume Four - Chapter 88. The Insult",
+      "file": "89_chapter_088.md"
+    },
+    {
+      "title": "Volume Four - Chapter 89. The Night",
+      "file": "90_chapter_089.md"
+    },
+    {
+      "title": "Volume Four - Chapter 90. The Meeting",
+      "file": "91_chapter_090.md"
+    },
+    {
+      "title": "Volume Four - Chapter 91. Mother and Son",
+      "file": "92_chapter_091.md"
+    },
+    {
+      "title": "Volume Four - Chapter 92. The Suicide",
+      "file": "93_chapter_092.md"
+    },
+    {
+      "title": "Volume Four - Chapter 93. Valentine",
+      "file": "94_chapter_093.md"
+    },
+    {
+      "title": "Volume Four - Chapter 94. Maximilian\u2019s Avowal",
+      "file": "95_chapter_094.md"
+    },
+    {
+      "title": "Volume Four - Chapter 95. Father and Daughter",
+      "file": "96_chapter_095.md"
+    },
+    {
+      "title": "Volume Five - Chapter 96. The Contract",
+      "file": "97_chapter_096.md"
+    },
+    {
+      "title": "Volume Five - Chapter 97. The Departure for Belgium",
+      "file": "98_chapter_097.md"
+    },
+    {
+      "title": "Volume Five - Chapter 98. The Bell and Bottle Tavern",
+      "file": "99_chapter_098.md"
+    },
+    {
+      "title": "Volume Five - Chapter 99. The Law",
+      "file": "100_chapter_099.md"
+    },
+    {
+      "title": "Volume Five - Chapter 100. The Apparition",
+      "file": "101_chapter_100.md"
+    },
+    {
+      "title": "Volume Five - Chapter 101. Locusta",
+      "file": "102_chapter_101.md"
+    },
+    {
+      "title": "Volume Five - Chapter 102. Valentine",
+      "file": "103_chapter_102.md"
+    },
+    {
+      "title": "Volume Five - Chapter 103. Maximilian",
+      "file": "104_chapter_103.md"
+    },
+    {
+      "title": "Volume Five - Chapter 104. Danglars\u2019 Signature",
+      "file": "105_chapter_104.md"
+    },
+    {
+      "title": "Volume Five - Chapter 105. The Cemetery of P\u00e8re-Lachaise",
+      "file": "106_chapter_105.md"
+    },
+    {
+      "title": "Volume Five - Chapter 106. Dividing the Proceeds",
+      "file": "107_chapter_106.md"
+    },
+    {
+      "title": "Volume Five - Chapter 107. The Lions\u2019 Den",
+      "file": "108_chapter_107.md"
+    },
+    {
+      "title": "Volume Five - Chapter 108. The Judge",
+      "file": "109_chapter_108.md"
+    },
+    {
+      "title": "Volume Five - Chapter 109. The Assizes",
+      "file": "110_chapter_109.md"
+    },
+    {
+      "title": "Volume Five - Chapter 110. The Indictment",
+      "file": "111_chapter_110.md"
+    },
+    {
+      "title": "Volume Five - Chapter 111. Expiation",
+      "file": "112_chapter_111.md"
+    },
+    {
+      "title": "Volume Five - Chapter 112. The Departure",
+      "file": "113_chapter_112.md"
+    },
+    {
+      "title": "Volume Five - Chapter 113. The Past",
+      "file": "114_chapter_113.md"
+    },
+    {
+      "title": "Volume Five - Chapter 114. Peppino",
+      "file": "115_chapter_114.md"
+    },
+    {
+      "title": "Volume Five - Chapter 115. Luigi Vampa\u2019s Bill of Fare",
+      "file": "116_chapter_115.md"
+    },
+    {
+      "title": "Volume Five - Chapter 116. The Pardon",
+      "file": "117_chapter_116.md"
+    },
+    {
+      "title": "Volume Five - Chapter 117. The Fifth of October",
+      "file": "118_chapter_117.md"
+    }
+  ]
+}

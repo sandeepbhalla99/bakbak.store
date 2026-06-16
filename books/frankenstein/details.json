@@ -1,0 +1,126 @@
+{
+  "id": "frankenstein",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "genre": "Horror",
+  "coverColor": "linear-gradient(135deg, #1e1b4b 0%, #030712 100%)",
+  "description": "The gothic horror masterpiece detailing the creation of a sentient monster by Victor Frankenstein.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Letter 1",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Letter 2",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Letter 3",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Letter 4",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Chapter 1",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Chapter 2",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Chapter 3",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Chapter 4",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Chapter 5",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Chapter 6",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Chapter 7",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Chapter 8",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Chapter 9",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Chapter 10",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Chapter 11",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Chapter 12",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Chapter 13",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Chapter 14",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Chapter 15",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Chapter 16",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Chapter 17",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Chapter 18",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Chapter 19",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Chapter 20",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Chapter 21",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Chapter 22",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Chapter 23",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Chapter 24",
+      "file": "29_chapter_28.md"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "treasure-island",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #0d9488 0%, #0f766e 100%)",
+  "description": "The ultimate pirate adventure featuring Jim Hawkins, a mysterious map, and the infamous Long John Silver.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Part One\u2014The Old Buccaneer - I The Old Sea-Dog at the \u201cAdmiral Benbow\u201d",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Part One\u2014The Old Buccaneer - II Black Dog Appears and Disappears",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Part One\u2014The Old Buccaneer - III The Black Spot",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Part One\u2014The Old Buccaneer - IV The Sea-Chest",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Part One\u2014The Old Buccaneer - V The Last of the Blind Man",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Part One\u2014The Old Buccaneer - VI The Captain\u2019s Papers",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Part Two\u2014The Sea-Cook - VII I Go to Bristol",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Part Two\u2014The Sea-Cook - VIII At the Sign of the Spy-Glass",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Part Two\u2014The Sea-Cook - IX Powder and Arms",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Part Two\u2014The Sea-Cook - X The Voyage",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Part Two\u2014The Sea-Cook - XI What I Heard in the Apple-Barrel",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Part Two\u2014The Sea-Cook - XII Council of War",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Part Three\u2014My Shore Adventure - XIII How I Began My Shore Adventure",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Part Three\u2014My Shore Adventure - XIV The First Blow",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Part Three\u2014My Shore Adventure - XV The Man of the Island",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Part Four\u2014The Stockade - XVI Narrative Continued by the Doctor: How the Ship Was Abandoned",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Part Four\u2014The Stockade - XVII Narrative Continued by the Doctor: The Jolly-Boat\u2019s Last Trip",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Part Four\u2014The Stockade - XVIII Narrative Continued by the Doctor: End of the First Day\u2019s Fighting",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Part Four\u2014The Stockade - XIX Narrative Resumed by Jim Hawkins: The Garrison in the Stockade",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Part Four\u2014The Stockade - XX Silver\u2019s Embassy",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Part Four\u2014The Stockade - XXI The Attack",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Part Five\u2014My Sea Adventure - XXII How I Began My Sea Adventure",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Part Five\u2014My Sea Adventure - XXIII The Ebb-Tide Runs",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Part Five\u2014My Sea Adventure - XXIV The Cruise of the Coracle",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Part Five\u2014My Sea Adventure - XXV I Strike the Jolly Roger",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Part Five\u2014My Sea Adventure - XXVI Israel Hands",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Part Five\u2014My Sea Adventure - XXVII \u201cPieces of Eight\u201d",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Part Six\u2014Captain Silver - XXVIII In the Enemy\u2019s Camp",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "Part Six\u2014Captain Silver - XXIX The Black Spot Again",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "Part Six\u2014Captain Silver - XXX On Parole",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "Part Six\u2014Captain Silver - XXXI The Treasure-Hunt\u2014Flint\u2019s Pointer",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "Part Six\u2014Captain Silver - XXXII The Treasure-Hunt\u2014The Voice Among the Trees",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "Part Six\u2014Captain Silver - XXXIII The Fall of a Chieftain",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "Part Six\u2014Captain Silver - XXXIV And Last",
+      "file": "35_chapter_34.md"
+    }
+  ]
+}
