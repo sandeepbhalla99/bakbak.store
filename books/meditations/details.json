@@ -1,0 +1,75 @@
+{
+  "id": "meditations",
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "genre": "Philosophy",
+  "coverColor": "linear-gradient(135deg, #78350f 0%, #451a03 100%)",
+  "description": "The private writings of the Roman Emperor Marcus Aurelius, offering Stoic philosophy and spiritual reflections.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Introduction",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "His First Book: Concerning Himself",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "The First Book",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "The Second Book",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "The Third Book",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "The Fourth Book",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "The Fifth Book",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "The Sixth Book",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "The Seventh Book",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "The Eighth Book",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "The Ninth Book",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "The Tenth Book",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "The Eleventh Book",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "The Twelfth Book",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Notes",
+      "file": "16_chapter_15.md"
+    }
+  ],
+  "coverImage": "books/meditations/cover.png"
+}

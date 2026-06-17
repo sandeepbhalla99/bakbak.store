@@ -1,0 +1,243 @@
+{
+  "id": "the-mysteries-of-udolpho",
+  "title": "The Mysteries of Udolpho",
+  "author": "Ann Radcliffe",
+  "genre": "Horror",
+  "coverColor": "linear-gradient(135deg, #111827 0%, #030712 100%)",
+  "description": "The quintessential Gothic romance novel by Ann Radcliffe, filled with suspense, castles, and unexplained phenomena.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Volume 1 - ChapterI",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Volume 1 - ChapterII",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Volume 1 - ChapterIII",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Volume 1 - ChapterIV",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Volume 1 - ChapterV",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Volume 1 - ChapterVI",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Volume 1 - ChapterVII",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Volume 1 - ChapterVIII",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Volume 1 - ChapterIX",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Volume 1 - ChapterX",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Volume 1 - ChapterXI",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Volume 1 - ChapterXII",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Volume 1 - ChapterXIII",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Volume 2 - ChapterI",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Volume 2 - ChapterII",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Volume 2 - ChapterIII",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Volume 2 - ChapterIV",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Volume 2 - ChapterV",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Volume 2 - ChapterVI",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Volume 2 - ChapterVII",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Volume 2 - ChapterVIII",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Volume 2 - ChapterIX",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Volume 2 - ChapterX",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Volume 2 - ChapterXI",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Volume 2 - ChapterXII",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Volume 3 - ChapterI",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Volume 3 - ChapterII",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Volume 3 - ChapterIII",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "Volume 3 - ChapterIV",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "Volume 3 - ChapterV",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "Volume 3 - ChapterVI",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "Volume 3 - ChapterVII",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "Volume 3 - ChapterVIII",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "Volume 3 - ChapterIX",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "Volume 3 - ChapterX",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "Volume 3 - ChapterXI",
+      "file": "37_chapter_36.md"
+    },
+    {
+      "title": "Volume 3 - ChapterXII",
+      "file": "38_chapter_37.md"
+    },
+    {
+      "title": "Volume 3 - ChapterXIII",
+      "file": "39_chapter_38.md"
+    },
+    {
+      "title": "Volume 4 - ChapterI",
+      "file": "40_chapter_39.md"
+    },
+    {
+      "title": "Volume 4 - ChapterII",
+      "file": "41_chapter_40.md"
+    },
+    {
+      "title": "Volume 4 - ChapterIII",
+      "file": "42_chapter_41.md"
+    },
+    {
+      "title": "Volume 4 - ChapterIV",
+      "file": "43_chapter_42.md"
+    },
+    {
+      "title": "Volume 4 - ChapterV",
+      "file": "44_chapter_43.md"
+    },
+    {
+      "title": "Volume 4 - ChapterVI",
+      "file": "45_chapter_44.md"
+    },
+    {
+      "title": "Volume 4 - ChapterVII",
+      "file": "46_chapter_45.md"
+    },
+    {
+      "title": "Volume 4 - ChapterVIII",
+      "file": "47_chapter_46.md"
+    },
+    {
+      "title": "Volume 4 - ChapterIX",
+      "file": "48_chapter_47.md"
+    },
+    {
+      "title": "Volume 4 - ChapterX",
+      "file": "49_chapter_48.md"
+    },
+    {
+      "title": "Volume 4 - ChapterXI",
+      "file": "50_chapter_49.md"
+    },
+    {
+      "title": "Volume 4 - ChapterXII",
+      "file": "51_chapter_50.md"
+    },
+    {
+      "title": "Volume 4 - ChapterXIII",
+      "file": "52_chapter_51.md"
+    },
+    {
+      "title": "Volume 4 - ChapterXIV",
+      "file": "53_chapter_52.md"
+    },
+    {
+      "title": "Volume 4 - ChapterXV",
+      "file": "54_chapter_53.md"
+    },
+    {
+      "title": "Volume 4 - ChapterXVI",
+      "file": "55_chapter_54.md"
+    },
+    {
+      "title": "Volume 4 - ChapterXVII",
+      "file": "56_chapter_55.md"
+    },
+    {
+      "title": "Volume 4 - ChapterXVIII",
+      "file": "57_chapter_56.md"
+    },
+    {
+      "title": "Volume 4 - ChapterXIX",
+      "file": "58_chapter_57.md"
+    }
+  ],
+  "coverImage": "books/the-mysteries-of-udolpho/cover.png"
+}

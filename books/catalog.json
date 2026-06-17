@@ -77,6 +77,28 @@
     "reviewsCount": 12
   },
   {
+    "id": "the-lady-of-the-lake",
+    "title": "The Lady of the Lake",
+    "author": "Sir Walter Scott",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
+    "coverImage": "books/the-lady-of-the-lake/cover.png",
+    "description": "A narrative poem by Sir Walter Scott set in the Trossachs region of Scotland, featuring a clash between clans.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-mysteries-of-udolpho",
+    "title": "The Mysteries of Udolpho",
+    "author": "Ann Radcliffe",
+    "genre": "Horror",
+    "coverColor": "linear-gradient(135deg, #111827 0%, #030712 100%)",
+    "coverImage": "books/the-mysteries-of-udolpho/cover.png",
+    "description": "The quintessential Gothic romance novel by Ann Radcliffe, filled with suspense, castles, and unexplained phenomena.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "a-room-with-a-view",
     "title": "A Room with a View",
     "author": "E. M. Forster",
@@ -132,6 +154,17 @@
     "reviewsCount": 12
   },
   {
+    "id": "meditations",
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "genre": "Philosophy",
+    "coverColor": "linear-gradient(135deg, #78350f 0%, #451a03 100%)",
+    "coverImage": "books/meditations/cover.png",
+    "description": "The private writings of the Roman Emperor Marcus Aurelius, offering Stoic philosophy and spiritual reflections.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "treasure-island",
     "title": "Treasure Island",
     "author": "Robert Louis Stevenson",
@@ -183,6 +216,17 @@
     "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
     "coverImage": "books/that-girl-Montana/cover.png",
     "description": "A Western romance story of love, honor, and survival in the wilderness of Montana.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-secret-of-chimneys",
+    "title": "The Secret of Chimneys",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "coverColor": "linear-gradient(135deg, #374151 0%, #111827 100%)",
+    "coverImage": "books/the-secret-of-chimneys/cover.png",
+    "description": "A classic murder mystery novel by Agatha Christie featuring the character Inspector Battle.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -264,6 +308,17 @@
     "reviewsCount": 12
   },
   {
+    "id": "the-green-mummy",
+    "title": "The Green Mummy",
+    "author": "Fergus Hume",
+    "genre": "Mystery",
+    "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+    "coverImage": "books/the-green-mummy/cover.png",
+    "description": "A classic mystery novel by Fergus Hume involving a Peruvian mummy, murder, and hidden secrets.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "the-count-of-monte-cristo",
     "title": "The Count of Monte Cristo",
     "author": "Alexandre Dumas",
@@ -293,6 +348,17 @@
     "coverColor": "linear-gradient(135deg, #ea580c 0%, #9a3412 100%)",
     "coverImage": "books/thuvia-maid-of-mars/cover.png",
     "description": "A classic science fantasy novel, the fourth of the Barsoom series by Edgar Rice Burroughs.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "middlemarch",
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #1e1b4b 0%, #030712 100%)",
+    "coverImage": "books/middlemarch/cover.png",
+    "description": "George Eliot's masterpiece examining the lives and relationships of the inhabitants of a provincial English town.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -337,6 +403,17 @@
     "coverColor": "linear-gradient(135deg, #e11d48 0%, #9f1239 100%)",
     "coverImage": "books/napoleon/cover.png",
     "description": "De biografie van Napoleon Bonaparte door T.P. Tresling (Dutch edition).",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-blue-castle",
+    "title": "The Blue Castle",
+    "author": "L. M. Montgomery",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #0284c7 0%, #0369a1 100%)",
+    "coverImage": "books/the-blue-castle/cover.png",
+    "description": "L.M. Montgomery's charming novel about Valancy Stirling, who decides to rebel against her family and find true love.",
     "rating": 4.5,
     "reviewsCount": 12
   },

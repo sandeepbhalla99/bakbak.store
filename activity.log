@@ -1,0 +1,49 @@
+[2026-06-14 13:25:00] FEATURE IMPLEMENTATION: Guest Reading Limit & Registration Updates
+- Added required phone number field to user registration form in index.html.
+- Updated registerUser in js/auth.js to accept and store user phone numbers in local profiles.
+- Integrated 10% guest reading limit checking in js/reader.js: blocks reading at >10% progress and automatically triggers signup popup modal.
+- Adjusted auth submit handlers in js/app.js to refresh reader views in-place without redirecting to shelf.
+- Bumped Service Worker cache version to v60.
+- Committed and pushed changes to origin/main.
+
+[2026-06-15 09:33:00] BOOK IMPORT: Batch of 6 New Books
+- Imported A Honeymoon in Space, Dr. Jekyll and Mr. Hyde, The Misplaced Battleship, The Monk, The Odyssey, and Thuvia, Maid of Mars from docx2convert/output.
+- Ran scripts/generate_catalog.py to re-compile catalog.json to 20 books.
+- Bumped Service Worker cache version to v61.
+- Committed and pushed changes to origin/main.
+
+[2026-06-15 16:30:00] COVER INTEGRATION: Cover Images for 11 Books
+- Generated custom thematic cover images using AI image generation for: The Odyssey, Dr. Jekyll and Mr. Hyde, A Honeymoon in Space, The Misplaced Battleship, The Monk, Thuvia (Maid of Mars), Napoleon, The Evolution of the Constitution, Ancient States and Empires, History of the Negro Race in America, and Romeo and Juliet.
+- Transferred cover images to books/[book-id]/cover.png and updated details.json.
+- Compiled catalog.json.
+- Bumped Service Worker cache version to v62.
+- Committed and pushed changes to origin/main.
+
+[2026-06-15 18:48:00] FEATURE IMPLEMENTATION: Dynamic Sidebar Categories
+- Added id="genre-filter-container" to index.html.
+- Updated js/app.js to dynamically parse unique book genres in catalog.json and render them in the filter sidebar.
+- Bumped Service Worker cache version to v63.
+- Committed and pushed changes to origin/main.
+
+[2026-06-16 08:33:00] BOOK IMPORT: Batch of 12 New Books & uploaded_books.json Log
+- Created uploaded_books.json registry in the bakbak.store root to keep track of imported books.
+- Updated scripts/import_extra_books.py to verify new books against uploaded_books.json.
+- Imported 12 new books: A Farewell to Arms, A Room with a View, Autobiography of Benjamin Franklin, Frankenstein, King Arthur, Moby Dick, That Girl Montana, The Adventures of Roderick Random, The Adventures of Tom Sawyer, The Brothers Karamazov, The Count of Monte Cristo, and Treasure Island.
+- Copied cover-king.jpg for King Arthur.
+- Saved log updates to uploaded_books.json (total 32 books).
+
+[2026-06-17 12:09:00] COVER INTEGRATION: Cover Images for 11 Newest Books
+- Copied generated cover images to the new book directories: A Farewell to Arms, A Room with a View, Autobiography of Benjamin Franklin, Frankenstein, Moby Dick, That Girl Montana, The Adventures of Roderick Random, The Adventures of Tom Sawyer, The Brothers Karamazov, The Count of Monte Cristo, and Treasure Island as cover.png.
+- Updated details.json for each new book.
+- Re-compiled catalog.json to catalog all 32 books.
+- Bumped Service Worker cache version to v64.
+- Committed and pushed changes to origin/main.
+[2026-06-17 19:12:37] AUTOMATED BOOK SYNC: New books imported
+- Meditations (Meditations): Imported and configured.
+- Middlemarch (Middlemarch): Imported and configured.
+- The Blue Castle (The_Blue_Castle): Imported and configured.
+- The Green Mummy (The_Green_Mummy): Imported and configured.
+- The Lady of the Lake (The_Lady_of_the_Lake): Imported and configured.
+- The Mysteries of Udolpho (The_Mysteries_of_Udolpho): Imported and configured.
+- The Secret of Chimneys (The_Secret_of_Chimneys): Imported and configured.
+

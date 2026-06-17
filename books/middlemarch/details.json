@@ -1,0 +1,359 @@
+{
+  "id": "middlemarch",
+  "title": "Middlemarch",
+  "author": "George Eliot",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #1e1b4b 0%, #030712 100%)",
+  "description": "George Eliot's masterpiece examining the lives and relationships of the inhabitants of a provincial English town.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterI",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterII",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterIII",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterIV",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterV",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterVI",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterVII",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterVIII",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterIX",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterX",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterXI",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Book I. Miss Brooke - ChapterXII",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXIII",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXIV",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXV",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXVI",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXVII",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXVIII",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXIX",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXX",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXXI",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Book II. Old and Young - ChapterXXII",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXIII",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXIV",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXV",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXVI",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXVII",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXVIII",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXIX",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXX",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXXI",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXXII",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "Book III. Waiting for Death - ChapterXXXIII",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "Book IV. Three Love Problems - ChapterXXXIV",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "Book IV. Three Love Problems - ChapterXXXV",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "Book IV. Three Love Problems - ChapterXXXVI",
+      "file": "37_chapter_36.md"
+    },
+    {
+      "title": "Book IV. Three Love Problems - ChapterXXXVII",
+      "file": "38_chapter_37.md"
+    },
+    {
+      "title": "Book IV. Three Love Problems - ChapterXXXVIII",
+      "file": "39_chapter_38.md"
+    },
+    {
+      "title": "Book IV. Three Love Problems - ChapterXXXIX",
+      "file": "40_chapter_39.md"
+    },
+    {
+      "title": "Book IV. Three Love Problems - ChapterXL",
+      "file": "41_chapter_40.md"
+    },
+    {
+      "title": "Book IV. Three Love Problems - ChapterXLI",
+      "file": "42_chapter_41.md"
+    },
+    {
+      "title": "Book IV. Three Love Problems - ChapterXLII",
+      "file": "43_chapter_42.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterXLIII",
+      "file": "44_chapter_43.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterXLIV",
+      "file": "45_chapter_44.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterXLV",
+      "file": "46_chapter_45.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterXLVI",
+      "file": "47_chapter_46.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterXLVII",
+      "file": "48_chapter_47.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterXLVIII",
+      "file": "49_chapter_48.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterXLIX",
+      "file": "50_chapter_49.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterL",
+      "file": "51_chapter_50.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterLI",
+      "file": "52_chapter_51.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterLII",
+      "file": "53_chapter_52.md"
+    },
+    {
+      "title": "Book V. The Dead Hand - ChapterLIII",
+      "file": "54_chapter_53.md"
+    },
+    {
+      "title": "Book VI. The Widow and the Wife - ChapterLIV",
+      "file": "55_chapter_54.md"
+    },
+    {
+      "title": "Book VI. The Widow and the Wife - ChapterLV",
+      "file": "56_chapter_55.md"
+    },
+    {
+      "title": "Book VI. The Widow and the Wife - ChapterLVI",
+      "file": "57_chapter_56.md"
+    },
+    {
+      "title": "Book VI. The Widow and the Wife - ChapterLVII",
+      "file": "58_chapter_57.md"
+    },
+    {
+      "title": "Book VI. The Widow and the Wife - ChapterLVIII",
+      "file": "59_chapter_58.md"
+    },
+    {
+      "title": "Book VI. The Widow and the Wife - ChapterLIX",
+      "file": "60_chapter_59.md"
+    },
+    {
+      "title": "Book VI. The Widow and the Wife - ChapterLX",
+      "file": "61_chapter_60.md"
+    },
+    {
+      "title": "Book VI. The Widow and the Wife - ChapterLXI",
+      "file": "62_chapter_61.md"
+    },
+    {
+      "title": "Book VI. The Widow and the Wife - ChapterLXII",
+      "file": "63_chapter_62.md"
+    },
+    {
+      "title": "Book VII. Two Temptations - ChapterLXIII",
+      "file": "64_chapter_63.md"
+    },
+    {
+      "title": "Book VII. Two Temptations - ChapterLXIV",
+      "file": "65_chapter_64.md"
+    },
+    {
+      "title": "Book VII. Two Temptations - ChapterLXV",
+      "file": "66_chapter_65.md"
+    },
+    {
+      "title": "Book VII. Two Temptations - ChapterLXVI",
+      "file": "67_chapter_66.md"
+    },
+    {
+      "title": "Book VII. Two Temptations - ChapterLXVII",
+      "file": "68_chapter_67.md"
+    },
+    {
+      "title": "Book VII. Two Temptations - ChapterLXVIII",
+      "file": "69_chapter_68.md"
+    },
+    {
+      "title": "Book VII. Two Temptations - ChapterLXIX",
+      "file": "70_chapter_69.md"
+    },
+    {
+      "title": "Book VII. Two Temptations - ChapterLXX",
+      "file": "71_chapter_70.md"
+    },
+    {
+      "title": "Book VII. Two Temptations - ChapterLXXI",
+      "file": "72_chapter_71.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXII",
+      "file": "73_chapter_72.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXIII",
+      "file": "74_chapter_73.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXIV",
+      "file": "75_chapter_74.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXV",
+      "file": "76_chapter_75.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXVI",
+      "file": "77_chapter_76.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXVII",
+      "file": "78_chapter_77.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXVIII",
+      "file": "79_chapter_78.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXIX",
+      "file": "80_chapter_79.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXX",
+      "file": "81_chapter_80.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXXI",
+      "file": "82_chapter_81.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXXII",
+      "file": "83_chapter_82.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXXIII",
+      "file": "84_chapter_83.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXXIV",
+      "file": "85_chapter_84.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXXV",
+      "file": "86_chapter_85.md"
+    },
+    {
+      "title": "Book VIII. Sunset and Sunrise - ChapterLXXXVI",
+      "file": "87_chapter_86.md"
+    }
+  ],
+  "coverImage": "books/middlemarch/cover.png"
+}

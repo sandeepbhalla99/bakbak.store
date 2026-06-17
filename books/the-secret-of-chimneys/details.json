@@ -1,0 +1,143 @@
+{
+  "id": "the-secret-of-chimneys",
+  "title": "The Secret of Chimneys",
+  "author": "Agatha Christie",
+  "genre": "Mystery",
+  "coverColor": "linear-gradient(135deg, #374151 0%, #111827 100%)",
+  "description": "A classic murder mystery novel by Agatha Christie featuring the character Inspector Battle.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "1 Anthony Cade Signs On",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "2 A Lady in Distress",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "3 Anxiety in High Places",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "4 Introducing a Very Charming Lady",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "5 First Night in London",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "6 The Gentle Art of Blackmail",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "7 Mr. Mcgrath Refuses an Invitation",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "8 A Dead Man",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "9 Anthony Disposes of a Body",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "10 Chimneys",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "11 Superintendent Battle Arrives",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "12 Anthony Tells His Story",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "13 The American Visitor",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "14 Mainly Political and Financial",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "15 The French Stranger",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "16 Tea in the Schoolroom",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "17 A Midnight Adventure",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "18 Second Midnight Adventure",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "19 Secret History",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "20 Battle and Anthony Confer",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "21 Mr. Isaacstein\u2019s Suit-Case",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "22 The Red Signal",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "23 Encounter in the Rose Garden",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "24 The House at Dover",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "25 Tuesday Night at Chimneys",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "26 The 13th of October",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "27 The 13th of October (Contd.)",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "28 King Victor",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "29 Further Explanations",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "30 Anthony Signs on for a New Job",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "31 Sundry Details",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "Transcriber's Notes",
+      "file": "33_chapter_32.md"
+    }
+  ],
+  "coverImage": "books/the-secret-of-chimneys/cover.png"
+}

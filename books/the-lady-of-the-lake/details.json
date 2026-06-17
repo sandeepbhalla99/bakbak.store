@@ -1,0 +1,83 @@
+{
+  "id": "the-lady-of-the-lake",
+  "title": "The Lady of the Lake",
+  "author": "Sir Walter Scott",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
+  "description": "A narrative poem by Sir Walter Scott set in the Trossachs region of Scotland, featuring a clash between clans.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Preface",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Argument",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Canto First: The Chase",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Canto Second: The Island",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Canto Third: The Gathering",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Canto Fourth: The Prophecy",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Canto Fifth: The Combat",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Canto Sixth: The Guard-Room",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Abbreviations Used in the Notes",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Notes",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Introduction",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Canto First",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Canto Second",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Canto Third",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Canto Fourth",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Canto Fifth",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Canto Sixth",
+      "file": "18_chapter_17.md"
+    }
+  ],
+  "coverImage": "books/the-lady-of-the-lake/cover.png"
+}

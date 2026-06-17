@@ -1,0 +1,123 @@
+{
+  "id": "the-green-mummy",
+  "title": "The Green Mummy",
+  "author": "Fergus Hume",
+  "genre": "Mystery",
+  "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+  "description": "A classic mystery novel by Fergus Hume involving a Peruvian mummy, murder, and hidden secrets.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "ChapterI: The Lovers",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterII: Professor Braddock",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterIII: A Mysterious Tomb",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIV: The Unexpected",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterV: Mystery",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterVI: The Inquest",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVII: The Captain of the Diver",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVIII: The Baronet",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterIX: Mrs. Jasher's Luck'",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterX: The Don and His Daughter",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterXI: The Manuscript",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXII: A Discovery",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXIII: More Mystery",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIV: The Unexpected Happens",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXV: An Accusation",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXVI: The Manuscript Again",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXVII: Circumstantial Evidence",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVIII: Recognition",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "ChapterXIX: Nearer the Truth",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXX: The Letter",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "ChapterXXI: A Story of the Past",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXXII: A Wedding Present",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXIII: Just in Time",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXIV: A Confession",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "ChapterXXV: The Mills of God",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXVI: The Appointment",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXVII: By the River",
+      "file": "28_chapter_27.md"
+    }
+  ],
+  "coverImage": "books/the-green-mummy/cover.png"
+}
