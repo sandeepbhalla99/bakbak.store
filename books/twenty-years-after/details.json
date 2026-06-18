@@ -1,0 +1,375 @@
+{
+  "id": "twenty-years-after",
+  "title": "Twenty Years After",
+  "author": "Alexandre Dumas",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #b91c1c 0%, #7f1d1d 100%)",
+  "description": "Alexandre Dumas' sequel to The Three Musketeers, following D'Artagnan and his companions two decades later.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "ChapterI: The Shade of Cardinal Richelieu",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterII: A Nightly Patrol",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterIII: Dead Animosities",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIV: Anne of Austria at the Age of Forty-Six",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterV: The Gascon and the Italian",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterVI: D\u2019artagnan in His Fortieth Year",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVII: Touches Upon the Strange Effects a Half-Pistole May Have",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVIII: D\u2019artagnan, Going to a Distance to Discover Aramis",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterIX: The Abb\u00e9 D\u2019herblay",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterX: Monsieur Porthos Du Vallon De Bracieux De Pierrefonds",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterXI: Wealth Does Not Necessarily Produce Happiness",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXII: Porthos Was Discontented with His Condition",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXIII: Two Angelic Faces",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIV: The Castle of Bragelonne",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXV: Athos As a Diplomatist",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXVI: The Duc De Beaufort",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXVII: Duc De Beaufort Amused His Leisure Hours in the Donjon of Vincennes",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVIII: Grimaud Begins His Functions",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "ChapterXIX: P\u00e2t\u00e9s Made by the Successor of Father Marteau Are Described",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXX: One of Marie Michon\u2019s Adventures",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "ChapterXXI: The Abb\u00e9 Scarron",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXXII: Saint Denis",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXIII: One of the Forty Methods of Escape of the Duc De Beaufort",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXIV: The Timely Arrival of D\u2019artagnan in Paris",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "ChapterXXV: An Adventure on the High Road",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXVI: The Rencontre",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXVII: The Four Old Friends Prepare to Meet Again",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "ChapterXXVIII: The Place Royale",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "ChapterXXIX: The Ferry Across the Oise",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "ChapterXXX: Skirmishing",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "ChapterXXXI: The Monk",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "ChapterXXXII: The Absolution",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "ChapterXXXIII: Grimaud Speaks",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "ChapterXXXIV: On the Eve of Battle",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "ChapterXXXV: A Dinner in the Old Style",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "ChapterXXXVI: A Letter from Charles the First",
+      "file": "37_chapter_36.md"
+    },
+    {
+      "title": "ChapterXXXVII: Cromwell\u2019s Letter",
+      "file": "38_chapter_37.md"
+    },
+    {
+      "title": "ChapterXXXVIII: Henrietta Maria and Mazarin",
+      "file": "39_chapter_38.md"
+    },
+    {
+      "title": "ChapterXXXIX: How, Sometimes, the Unhappy Mistake Chance for Providence",
+      "file": "40_chapter_39.md"
+    },
+    {
+      "title": "ChapterXL: Uncle and Nephew",
+      "file": "41_chapter_40.md"
+    },
+    {
+      "title": "ChapterXLI: Paternal Affection",
+      "file": "42_chapter_41.md"
+    },
+    {
+      "title": "ChapterXLII: Another Queen in Want of Help",
+      "file": "43_chapter_42.md"
+    },
+    {
+      "title": "ChapterXLIII: In Which It Is Proved That First Impulses Are Oftentimes the Best",
+      "file": "44_chapter_43.md"
+    },
+    {
+      "title": "ChapterXLIV: Te Deum for the Victory of Lens",
+      "file": "45_chapter_44.md"
+    },
+    {
+      "title": "ChapterXLV: The Beggar of St. Eustache",
+      "file": "46_chapter_45.md"
+    },
+    {
+      "title": "ChapterXLVI: The Tower of St. Jacques De La Boucherie",
+      "file": "47_chapter_46.md"
+    },
+    {
+      "title": "ChapterXLVII: The Riot",
+      "file": "48_chapter_47.md"
+    },
+    {
+      "title": "ChapterXLVIII: The Riot Becomes a Revolution",
+      "file": "49_chapter_48.md"
+    },
+    {
+      "title": "ChapterXLIX: Misfortune Refreshes the Memory",
+      "file": "50_chapter_49.md"
+    },
+    {
+      "title": "ChapterL: The Interview",
+      "file": "51_chapter_50.md"
+    },
+    {
+      "title": "ChapterLI: The Flight",
+      "file": "52_chapter_51.md"
+    },
+    {
+      "title": "ChapterLII: The Carriage of Monsieur Le Coadjuteur",
+      "file": "53_chapter_52.md"
+    },
+    {
+      "title": "ChapterLIII: How D\u2019artagnan and Porthos Earned by Selling Straw",
+      "file": "54_chapter_53.md"
+    },
+    {
+      "title": "ChapterLIV: In Which We Hear Tidings of Aramis",
+      "file": "55_chapter_54.md"
+    },
+    {
+      "title": "ChapterLV: The Scotchman",
+      "file": "56_chapter_55.md"
+    },
+    {
+      "title": "ChapterLVI: The Avenger",
+      "file": "57_chapter_56.md"
+    },
+    {
+      "title": "ChapterLVII: Oliver Cromwell",
+      "file": "58_chapter_57.md"
+    },
+    {
+      "title": "ChapterLVIII: Jesus Seigneur",
+      "file": "59_chapter_58.md"
+    },
+    {
+      "title": "ChapterLIX: Noble Natures Never Lose Courage, nor Good Stomachs Their Appetites",
+      "file": "60_chapter_59.md"
+    },
+    {
+      "title": "ChapterLX: Respect to Fallen Majesty",
+      "file": "61_chapter_60.md"
+    },
+    {
+      "title": "ChapterLXI: D\u2019artagnan Hits on a Plan",
+      "file": "62_chapter_61.md"
+    },
+    {
+      "title": "ChapterLXII: London",
+      "file": "63_chapter_62.md"
+    },
+    {
+      "title": "ChapterLXIII: The Trial",
+      "file": "64_chapter_63.md"
+    },
+    {
+      "title": "ChapterLXIV: Whitehall",
+      "file": "65_chapter_64.md"
+    },
+    {
+      "title": "ChapterLXV: The Workmen",
+      "file": "66_chapter_65.md"
+    },
+    {
+      "title": "ChapterLXVI: Remember!",
+      "file": "67_chapter_66.md"
+    },
+    {
+      "title": "ChapterLXVII: The Man in the Mask",
+      "file": "68_chapter_67.md"
+    },
+    {
+      "title": "ChapterLXVIII: Cromwell\u2019s House",
+      "file": "69_chapter_68.md"
+    },
+    {
+      "title": "ChapterLXIX: Conversational",
+      "file": "70_chapter_69.md"
+    },
+    {
+      "title": "ChapterLXX: The Skiff \u201cLightning.\u201d",
+      "file": "71_chapter_70.md"
+    },
+    {
+      "title": "ChapterLXXI: Port Wine",
+      "file": "72_chapter_71.md"
+    },
+    {
+      "title": "ChapterLXXII: End of the Port Wine Mystery",
+      "file": "73_chapter_72.md"
+    },
+    {
+      "title": "ChapterLXIII: Fatality",
+      "file": "74_chapter_73.md"
+    },
+    {
+      "title": "ChapterLXIV: How Mousqueton Had a Narrow Escape of Being Eaten",
+      "file": "75_chapter_74.md"
+    },
+    {
+      "title": "ChapterLXXV: The Return",
+      "file": "76_chapter_75.md"
+    },
+    {
+      "title": "ChapterLXXVI: The Ambassadors",
+      "file": "77_chapter_76.md"
+    },
+    {
+      "title": "ChapterLXXVII: The Three Lieutenants of the Generalissimo",
+      "file": "78_chapter_77.md"
+    },
+    {
+      "title": "ChapterLXXVIII: The Battle of Charenton",
+      "file": "79_chapter_78.md"
+    },
+    {
+      "title": "ChapterLXXIX: The Road to Picardy",
+      "file": "80_chapter_79.md"
+    },
+    {
+      "title": "ChapterLXXX: The Gratitude of Anne of Austria",
+      "file": "81_chapter_80.md"
+    },
+    {
+      "title": "ChapterLXXXI: Cardinal Mazarin As King",
+      "file": "82_chapter_81.md"
+    },
+    {
+      "title": "ChapterLXXXII: Precautions",
+      "file": "83_chapter_82.md"
+    },
+    {
+      "title": "ChapterLXXXIII: Strength and Sagacity",
+      "file": "84_chapter_83.md"
+    },
+    {
+      "title": "ChapterLXXXIV: Strength and Sagacity\u2014Continued",
+      "file": "85_chapter_84.md"
+    },
+    {
+      "title": "ChapterLXXXV: The Oubliettes of Cardinal Mazarin",
+      "file": "86_chapter_85.md"
+    },
+    {
+      "title": "ChapterLXXXVI: Conferences",
+      "file": "87_chapter_86.md"
+    },
+    {
+      "title": "ChapterLXXXVII: Thinking That Porthos Will Be at Last a Baron, and D\u2019artagnan a Captain",
+      "file": "88_chapter_87.md"
+    },
+    {
+      "title": "ChapterLXXXVIII: Shows How with Threat and Pen More Is Effected Than by the Sword",
+      "file": "89_chapter_88.md"
+    },
+    {
+      "title": "ChapterLXXXIX: Difficult for Kings to Return to the Capitals of Their Kingdoms",
+      "file": "90_chapter_89.md"
+    },
+    {
+      "title": "ChapterXC: Conclusion",
+      "file": "91_chapter_90.md"
+    }
+  ],
+  "coverImage": "books/twenty-years-after/cover.png"
+}

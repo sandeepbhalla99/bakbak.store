@@ -1,0 +1,15 @@
+{
+  "id": "the-blue-lagoon-a-romance",
+  "title": "The Blue Lagoon: A Romance",
+  "author": "H. De Vere Stacpoole",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%)",
+  "description": "The timeless romance of two children marooned on a lush South Pacific island, growing up together in nature.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    }
+  ],
+  "coverImage": "books/the-blue-lagoon-a-romance/cover.png"
+}

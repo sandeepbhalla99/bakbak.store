@@ -1,0 +1,142 @@
+{
+  "id": "the-complete-works-of-william-shakespeare",
+  "title": "The Complete Works of William Shakespeare",
+  "author": "Unknown Author",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "No description available for The Complete Works of William Shakespeare.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "[Epilogue]",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "SceneIV. Another Part of the Forest - Epilogue",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "SceneIII. Another Part of the Forest - Epilogue",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "SceneIII. Another Part of the Forest - Prologue",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "SceneVII. Another Part of the Field - Epilogue",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "SceneV. Another Part of the Field - Epilogue",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Scene. During the Greater Part of the Play in Verona; Once, in the Fifth Act, at Mantua - the Prologue",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "SceneIII. Another Part of the Island - Epilogue",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "SceneIV. Another Part of the Forest - Prologue",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Scene: Athens and the Neighbourhood, Except in Part of the First Act, Where It Is Thebes and the Neighbourhood - Prologue",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - Epilogue",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - I",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - II",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - III",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - IV",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - V",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - VI",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - VII",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - VIII",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - IX",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - X",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XI",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XII",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XIII",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XIV",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XV",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XVI",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XVII",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XVIII",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XIX",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - XX",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "SceneIII. A Part of the Forest Near Athens, and Near the Place Appointed for the Combat - the Argument",
+      "file": "33_chapter_32.md"
+    }
+  ]
+}

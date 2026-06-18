@@ -1,0 +1,83 @@
+{
+  "id": "i-am-a-woman",
+  "title": "I Am a Woman",
+  "author": "Unknown Author",
+  "genre": "Drama",
+  "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+  "description": "A compelling story exploring personal identity, societal expectations, and emotional courage.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Chapter One",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Chapter Two",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Chapter Three",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Chapter Four",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Chapter Five",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Chapter Six",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Chapter Seven",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Chapter Eight",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Chapter Nine",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Chapter Ten",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Chapter Eleven",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Chapter Twelve",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Chapter Thirteen",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Chapter Fourteen",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Chapter Fifteen",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Chapter Sixteen",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Chapter Seventeen",
+      "file": "18_chapter_17.md"
+    }
+  ],
+  "coverImage": "books/i-am-a-woman/cover.png"
+}

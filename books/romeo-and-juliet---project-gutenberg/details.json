@@ -1,0 +1,18 @@
+{
+  "id": "romeo-and-juliet---project-gutenberg",
+  "title": "Romeo and Juliet   Project Gutenberg",
+  "author": "Unknown Author",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "No description available for Romeo and Juliet   Project Gutenberg.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Scene. During the Greater Part of the Play in Verona; Once, in the Fifth Act, at Mantua - the Prologue",
+      "file": "02_chapter_01.md"
+    }
+  ]
+}

@@ -33,6 +33,28 @@
     "reviewsCount": 12
   },
   {
+    "id": "around-the-world-in-eighty-days",
+    "title": "Around the World in Eighty Days",
+    "author": "Jules Verne",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #b45309 0%, #78350f 100%)",
+    "coverImage": "books/around-the-world-in-eighty-days/cover.png",
+    "description": "Jules Verne's classic adventure novel detailing Phileas Fogg's quest to circumnavigate the globe in 80 days.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "twenty-years-after",
+    "title": "Twenty Years After",
+    "author": "Alexandre Dumas",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #b91c1c 0%, #7f1d1d 100%)",
+    "coverImage": "books/twenty-years-after/cover.png",
+    "description": "Alexandre Dumas' sequel to The Three Musketeers, following D'Artagnan and his companions two decades later.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "dr-jekyll-and-mr-hyde",
     "title": "Dr. Jekyll and Mr. Hyde",
     "author": "Robert Louis Stevenson",
@@ -62,6 +84,17 @@
     "coverColor": "linear-gradient(135deg, #0284c7 0%, #0369a1 100%)",
     "coverImage": "books/a-honeymoon-in-space/cover.png",
     "description": "A classic science fiction novel featuring a journey through the solar system in a space ship called the Astronef.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "sex-life-of-the-gods",
+    "title": "Sex Life of the Gods",
+    "author": "Michael Knerr",
+    "genre": "Fantasy",
+    "coverColor": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
+    "coverImage": "books/sex-life-of-the-gods/cover.png",
+    "description": "A fascinating dive into mythological stories, cosmic conflicts, and the humanlike passions of ancient deities.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -165,6 +198,17 @@
     "reviewsCount": 12
   },
   {
+    "id": "pride-and-prejudice---project-gutenberg",
+    "title": "Pride and prejudice   Project Gutenberg",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": null,
+    "description": "No description available for Pride and prejudice   Project Gutenberg.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "treasure-island",
     "title": "Treasure Island",
     "author": "Robert Louis Stevenson",
@@ -205,6 +249,17 @@
     "coverColor": "linear-gradient(135deg, #84cc16 0%, #4f7f02 100%)",
     "coverImage": "books/ancient-states-and-empires/cover.png",
     "description": "An educational overview of the history of ancient states and empires.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "i-am-a-woman",
+    "title": "I Am a Woman",
+    "author": "Unknown Author",
+    "genre": "Drama",
+    "coverColor": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+    "coverImage": "books/i-am-a-woman/cover.png",
+    "description": "A compelling story exploring personal identity, societal expectations, and emotional courage.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -253,6 +308,17 @@
     "reviewsCount": 12
   },
   {
+    "id": "romeo-and-juliet---project-gutenberg",
+    "title": "Romeo and Juliet   Project Gutenberg",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": null,
+    "description": "No description available for Romeo and Juliet   Project Gutenberg.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "history-of-the-negro-race-in-america",
     "title": "History of the Negro Race in America",
     "author": "George W. Williams",
@@ -260,6 +326,17 @@
     "coverColor": "linear-gradient(135deg, #78350f 0%, #451a03 100%)",
     "coverImage": "books/history-of-the-negro-race-in-america/cover.png",
     "description": "The landmark historical study of Negro history in America, detailing their struggles and accomplishments.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-complete-works-of-william-shakespeare",
+    "title": "The Complete Works of William Shakespeare",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": null,
+    "description": "No description available for The Complete Works of William Shakespeare.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -297,6 +374,17 @@
     "reviewsCount": 12
   },
   {
+    "id": "the-blue-lagoon-a-romance",
+    "title": "The Blue Lagoon: A Romance",
+    "author": "H. De Vere Stacpoole",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%)",
+    "coverImage": "books/the-blue-lagoon-a-romance/cover.png",
+    "description": "The timeless romance of two children marooned on a lush South Pacific island, growing up together in nature.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "evolution-of-the-constitution",
     "title": "The Evolution of the Constitution",
     "author": "K.P. Tewari",
@@ -315,6 +403,28 @@
     "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
     "coverImage": "books/the-green-mummy/cover.png",
     "description": "A classic mystery novel by Fergus Hume involving a Peruvian mummy, murder, and hidden secrets.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "ulysses",
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": "books/ulysses/cover.png",
+    "description": "James Joyce's modernist masterpiece, following Leopold Bloom's ordinary day in Dublin.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "the-king-in-yellow",
+    "title": "The King in Yellow",
+    "author": "Robert W. Chambers",
+    "genre": "Horror",
+    "coverColor": "linear-gradient(135deg, #eab308 0%, #ca8a04 100%)",
+    "coverImage": "books/the-king-in-yellow/cover.png",
+    "description": "A collection of weird fiction stories linked by a play that induces madness in anyone who reads it.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -359,6 +469,17 @@
     "coverColor": "linear-gradient(135deg, #1e1b4b 0%, #030712 100%)",
     "coverImage": "books/middlemarch/cover.png",
     "description": "George Eliot's masterpiece examining the lives and relationships of the inhabitants of a provincial English town.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "under-the-red-dragon",
+    "title": "Under the Red Dragon",
+    "author": "James Grant",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #dc2626 0%, #991b1b 100%)",
+    "coverImage": "books/under-the-red-dragon/cover.png",
+    "description": "An engaging historical military novel filled with action, drama, and romance.",
     "rating": 4.5,
     "reviewsCount": 12
   },

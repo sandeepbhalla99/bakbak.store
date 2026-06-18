@@ -1,0 +1,1060 @@
+# Chapter Thirteen
+
+Carl Jensen was a clean cut young man, very fair with
+freckled skin. He engaged Sarah in conversation right
+away; it was a part of what he considered good technique
+to get a girl talking, and he wasted no time.
+
+Jack and Laura had dinner with them, but Jack was
+obviously chafing to get away. They hadn’t even finished
+their after-dinner coffee before he was whispering
+in Laura’s ear, “Let’s get the hell out of here.”
+Laura, who was almost wordless through dinner, agreed.
+
+Jack did the dirty work. He told them a joke, he
+made them laugh, and then he said he had a meeting
+the next day up in Albany. Very unexpected. Would
+they mind, etc.
+
+They were a little startled, Jensen especially, for he
+had expected Jack and Laura to stick with him and
+lend moral support through the evening—but they replied,
+almost together, “No, go ahead. We don’t mind.”
+
+As soon as they were in the street Jack sighed, “God.
+I couldn’t have stood another minute of it. Straight
+people are so depressing.”
+
+Laura smiled at him and noticed for the first time
+that evening how tired and worried he looked. She was
+so wound up in Laura Landon that nobody’s troubles
+counted for her but her own. But now she saw Jack’s anxiety
+and she was afraid she had caused it. She started
+to apologize. “Jack, I want you to know ...” she began.
+
+“Skip it.”
+
+“Please.”
+
+“I said skip it.” And his voice was harsh enough
+to hurt her.
+
+They walked along in silence for a minute and finally
+Laura said, “Jack, I have to talk. I feel awful about
+it. I saw my father last night. He saw me, too. I don’t
+know what came over me. I’ve never been so terrified
+in my life, as if he were the devil and I had to get
+
+away from him. I ran all the way to the subway. I think
+I was hysterical.”
+
+He looked at her and then he sighed. “Everybody’s hysterical.
+Even me.”
+
+“There was an old colored lady there. In the rest room.
+She said something I didn’t understand then, but I’ve
+been thinking about it. She said everybody is a stranger
+in this world until he finds a little love. That’s
+the most important thing.”
+
+“Wise lady,” Jack said.
+
+They walked without talking for half a block. “How’s
+Terry?” Laura asked.
+
+“He needs a spanking. I act like a lovesick cow with
+him. I can’t help it. I know I’m doing it, and I can’t
+help it. He laughs at me.” Jack looked at the pavement
+as he walked, his hands shoved into his pockets.
+“Mother,” he said slowly. “Do you want to get back in
+my good graces?”
+
+“I do,” she said gently. “Yes. I do.”
+
+“Well,” he said, and stopped walking. She stopped
+beside him and saw that he was embarrassed. “This is
+a rotten thing to do. But I’d do it for you, bear that
+firmly in mind.” He poked her chest between her
+breasts, as if he were making a point with a fellow
+business man. It was intended to lighten the atmosphere
+a little, but the atmosphere was too heavy already.
+
+“I’ll help you, Jack, you know I will. Any way I can.
+You’ve been so wonderful to me. I don’t know what I
+would have done.”
+
+“Okay, okay.” He stopped her abruptly and then
+seemed unable to speak himself for a minute. Finally
+he said, quickly, “I’m losing him, Laura.”
+
+“Oh, Jack!” She was suddenly full of sympathy, but he
+cut her off again.
+
+“What the hell,” he said cynically. “I expected it. I
+*predicted* it. And I know why.”
+
+“Why?”
+
+“Mother, you have a short memory.” He smiled wryly.
+“My little friend likes nice things. Nice things cost
+money. And besides,” he looked at his shoes, scraping
+one toe along a crack in the pavement, “I can’t handle
+him. I should shove his teeth down his throat. I should
+
+make him behave. And I can’t. I feel more like falling
+on my knees and worshipping him. He has no respect
+for me.” He spoke so softly that Laura had to strain to
+hear him.
+
+She put her hands on his arms. “Jack, he’s not worth
+your time,” she said. “Anybody who would take advantage—”
+
+“No, no, no, it’s normal. In this abnormal world we
+live in, you and I. If I were young and beautiful, he’d
+settle for that. But I’m not. I’m middle-aged and ugly.
+And a sap. So it takes something else ... money. I wish
+I had the knack of being a millionaire.”
+
+“Damn it, Jack, you need somebody who can appreciate
+you.” He laughed bitterly, but she went on. “You
+make me hate Terry already without ever having seen
+him.”
+
+“No, Laura,” he said seriously. “Don’t hate him.
+He’s very young. He’ll learn. It’s my fault. I can’t give
+him what he needs.”
+
+“Dollar bills?”
+
+Jack sighed. “That’s my last chance. I know it takes
+something else, but I haven’t got it. And now I haven’t
+got the dollar bills, either.”
+
+“If I were a boy I’d fall madly in love with you,”
+Laura said.
+
+This was such a startling remark that Jack had to
+drop his cynicism and take it in the spirit in
+which it was given. “Thanks, Mother,” he said softly.
+He looked at her, his ugly intelligent face prey to a
+number of strong emotions that he made no attempt to
+hide. It was a measure of his regard for Laura that he
+could let her see him stripped of wit and laughter like
+this. “How much do you have in the bank, Laura?”
+
+Laura stared a little at him. But then she said
+quickly, “All I have is yours, Jack. It’s not much, but
+if it’ll help....”
+
+He smiled a little and then he leaned over and kissed
+her cheek. “You’re a doll,” he said. “We both know this
+is a losing investment. But it’ll give me a few more
+days with him. After that....” He shrugged. “Well, I
+always seem to live through these things. I don’t know
+why.”
+
+They stood uncertainly on the corner for a minute
+and suddenly he asked, “Where are you going now?”
+
+“Home.”
+
+“To Marcie?”
+
+“Yes. I hope Burr hasn’t tried to bother her.”
+
+“He’s pretty sick about the whole thing. I think he’ll
+drink it off for a day or two. You should, too. The
+whole thing looks screwy to me.” He looked at her.
+“Come have a nightcap with me.”
+
+“Where?”
+
+“The Cellar. Where else?”
+
+“I’m afraid I’ll run into Beebo.”
+
+He shrugged. “I’ve gotten to know her better.” He
+gazed away from her thoughtfully.
+
+“You have?”
+
+“She calls me all the time. ‘Where does Laura work,
+what does Laura like, tell me all about her.’”
+
+“She asked you that?” Laura was slightly incredulous,
+but once again, she liked it. She was sorry she liked
+it, but she did.
+
+“Yeah. I’m beginning to think I like her.”
+
+“You liked her before.”
+
+“I know.” He laughed. “I’m not making sense. I guess
+I mean I feel sympathetic toward her. We’re both unlucky
+in love. At the moment.” He looked hard at her
+then and said, “Please come with me, Laura. I don’t
+want to go home.”
+
+“Why not?”
+
+Again he laughed, not so pleasantly this time. “I’m
+afraid of what I’ll find.”
+
+“Like what?”
+
+“Like somebody else in my bed with Terry.”
+
+After a moment of shocked silence, Laura put her arm
+in his. “Okay,” she said. “Let’s go somewhere and flatter
+the hell out of each other.”
+
+He chuckled at her. “Mother, damn it, sometimes I
+suspect you of having a sense of humor.”
+
+They went down to The Cellar, in spite of Laura’s misgivings.
+Jack seemed so unhappy that she wanted to indulge
+him. It was crowded as always on Friday nights,
+but Beebo wasn’t in sight.
+
+“She’ll be in,” Jack observed. “She’s late on Fridays.”
+
+They stood at the bar until a couple of stools were vacated
+and then sat down.
+
+“What does she do?” Laura asked rather shyly.
+
+“Who? Beebo?”
+
+“She must get money somewhere. She has to pay the
+rent like everybody else.”
+
+“She runs an elevator. In the Grubb Building. They
+think she’s a boy.”
+
+“My God—an *elevator*.” It seemed wrong, even ludicrous.
+Beebo had too much between her ears to fritter
+her youth away running an elevator. “What does she do
+*that* for?”
+
+“She doesn’t have to wear a skirt.”
+
+Laura was stunned. It was pathetic, even shameful.
+For the first time she saw Beebo not as an overwhelming,
+handsome, self-assured individual, but as a very human
+being with a little more pride and fear and weakness
+than she ever permitted to show.
+
+Laura didn’t know how long they had been there when
+Beebo walked in. She only knew she had had plenty to
+drink and it was time to go home. Beebo walked up to
+her, and Laura saw her face first in the mirror. She
+turned around with a start and stared at her. Beebo
+was wearing a dress.
+
+A dress. And high heeled shoes. She was over six feet
+in the high heels. Strangely enough she wasn’t awkward
+in them, either. She wasn’t comfortable, but she could
+walk a straight line and keep her balance.
+
+“Hello, Bo-peep,” she said quietly in Laura’s ear.
+
+Laura felt a grateful response flow down to her toes
+from the ear. “Hello,” she said to the mirror image
+and then turned to face her. “Hello, Betty Jean.” She
+looked at her skirt.
+
+Beebo gave her a wry smile. “You remembered?” she
+said. “Do you remember the good things, too?”
+
+“Yes,” said Laura, smiling back. And surprised herself.
+For a moment she felt curiously receptive. She had
+no idea why.
+
+Beebo gazed at her and then she put a hand on Jack’s
+shoulder. “Hello, fellow sufferer,” she said.
+
+“Hi, doll.” He turned around. “We’re drowning our
+sorrows.” He gestured at Laura with his glass.
+
+“So I see. Mind if I drown a few with you?”
+
+“We’d be delighted.”
+
+Beebo nodded at the bartender, who nodded back and
+fixed her a whisky and water. Beebo was on good terms
+with the bartenders in all the gay bars. They knew what
+she drank and they served her without being told. Beebo
+leaned on the counter between Jack and Laura.
+
+“Where’ve you been, doll?” Jack asked, waving a hand
+at her dress. “Masquerade ball?”
+
+“Party,” she said laconically, hoisting her newly arrived
+glass.
+
+“Gay?”
+
+“Straight.”
+
+“How dull. What’s the matter with you, Beebo? You’re
+no fun anymore. You wear skirts and go to straight parties.
+Jesus.”
+
+Beebo grinned at him. “I have one dress, lover. I get
+it out once a year and wear it. In honor of my father.
+He likes dames.”
+
+“Yeah, but he’s not around to appreciate it.”
+
+“Well, you are, Jackson. Give me a kiss.” And she took
+his chin in her hand and extracted one from his reluctant
+mouth.
+
+“God!” he said, and made a face. Beebo laughed.
+And Laura sat and watched them and wondered what
+they were all doing there and why they laughed at themselves
+when they were all aching inside from unspeakable
+hurts. She felt vaguely jealous to think of Beebo at
+a party with people she didn’t know and had never seen.
+Beebo surrounded by women. Laura looked at her until
+Beebo returned the stare without talking, only looking
+at Laura until Laura had to lower her eyes. “What’s eating
+you, Bo-peep?” Beebo said, running a finger
+around the edge of her glass.
+
+“Are pants really that important?” Laura said. She
+said it sarcastically because she was afraid of her tears.
+
+Beebo laughed a little. “I don’t know. How important
+is *that* important?”
+
+“Why don’t you get a decent job?”
+
+“Oh,” said Beebo as she understood. She finished a
+second drink. “I’ve got one, baby. I’m a lift jockey.
+Very elevating work.”
+
+“Not funny,” Laura said. “You work all day at a lousy
+job like that, and then you drink all night.”
+
+“Does that bother you?”
+
+“Yes. Not very much, of course. You’re not worth it.
+But it seems awful. All for a pair of pants.”
+
+Beebo laughed. “Reform me, baby.”
+
+“I don’t have time.”
+
+“What do you have time for?”
+
+“Work.”
+
+“And Marcie?”
+
+“And Marcie.” Laura didn’t know why she said it.
+She knew how badly it would hurt. But she was high,
+the go-to-hell feeling was still with her from the morning.
+It was either hurt or be hurt; sarcasm or tears. She
+looked up slowly at Beebo. At her blue eyes and her lips
+turned down, with an unaccustomed trace of lipstick
+on them. Laura wanted to hurt her. She couldn’t stop herself.
+She turned on her stool to face her. “You’re ridiculous,”
+she said. “You’re a little girl trying to be a
+little boy. And you run an elevator for the privilege.
+Grow up, Beebo. You’ll never be a little boy. Or a big
+boy. You just haven’t got what it takes. Not all the elevators
+in the world can make a boy of you. You can wear
+pants till you’re blue in the face and it won’t change
+what’s underneath.”
+
+Beebo just stared at her, her face suddenly pale and
+frowning, in silence. Then she turned, leaving her cigarette
+still lighted in a tray on the bar, and left them without
+saying a word to either.
+
+Laura and Jack sat in silence for a while after she had
+gone, watching her cigarette burn itself out. Finally Jack
+said, “If Terry had done that to me, Laura, I’d have
+strangled him.”
+
+Laura put her head down on the bar and cried.
+
+* * *
+
+The weekend was a stalemate for Laura and Marcie.
+Laura was so deeply involved in her conflicts that it was
+impossible to talk about them. In two weeks Jean would
+be back. In a day her father would be gone. Burr would
+start hounding Marcie, and Laura still didn’t know why
+Marcie had let him think they were lovers. And Beebo
+... Beebo ... that hurt the worst, somehow. It was so
+
+needless, so brutal. The kind of thing Merrill Landon had
+done to her when he was in a temper. Just to blow off
+steam, to dissipate the mood. Only he went even farther. He
+would shout and call her names, slap her, call down the
+wrath of his dead wife and son on her head.
+
+Marcie couldn’t get through to Laura, hard as she tried.
+She, too, began to get moody. She launched into long
+self-reproaching speeches which tortured Laura until she
+begged her to stop.
+
+On Monday Laura went to the bank before she went to
+the office and withdrew one hundred and ninety-two dollars.
+She was going to leave herself twenty, just in case,
+but she left herself five instead. She had a little at home.
+She could get along until the end of the week. The rent
+wasn’t due and there was food in the house.
+
+Jack came by at five and picked it up. “Come out for
+dinner with me,” he said. “I seem to have come into a
+little money.”
+
+“No, thanks.”
+
+“My treat,” he said, directing his sarcasm at himself
+and waggling her dollars at her.
+
+Laura smiled faintly. “Take it,” she said. “I can’t talk
+to anybody tonight.”
+
+“How’s Marcie?”
+
+“Brooding. I get on her nerves, I guess.”
+
+“That’s only fair. She’s made a mess of yours. How’s
+Burr?”
+
+“He called her. They talked for a few minutes. He
+asked her to see him.”
+
+“Will she?”
+
+“No.”
+
+“Not yet, hm?”
+
+“Never,” Laura said sharply. “She’s fed up with him.”
+
+“Well, if not Burr, somebody else.” Laura covered her
+face with her hands suddenly and Jack looked at her sympathetically.
+“Just won’t believe me, will you, Mother!
+You love Marcie so sooner or later Marcie will have to
+give in and love you.”
+
+“No!” she said, looking up. “I know it’s not that simple.
+It’s just that I’m convinced I have a chance. I live with
+her, I know her, and she was willing to have Burr believe
+we were lovers.”
+
+“She was willing to get him the hell out of her hair
+after a bad quarrel,” he said. “That’s all. She just let
+him believe it to get rid of him.”
+
+“Please Jack,” she said with forced patience. “How’s
+Terry?” *If he’s going to torment me, I’ll give him the
+same treatment*, she thought.
+
+Jack lifted his eyebrows slightly and shrugged.
+“Healthy,” he said. “And hungry. Jesus, how that kid eats.
+And he likes smoked oysters.”
+
+Laura had to smile, though she didn’t feel like it. “Get
+him a bale of smoked oysters,” she said, “and leave me
+alone for a while. Please.”
+
+Jack gave her shoulder a squeeze. “Okay.” He started
+out and then turned to ask, “How did Sarah like Jensen?”
+
+“She said she liked him. She has a crush on Dr. Hagstrom,
+but she liked Carl anyway.”
+
+“He’s smitten. Says he’s going to call her again.”
+
+“Good.” They smiled a little at each other. “Somebody’s
+doing it right,” Laura said wistfully.
+
+Jack laughed. “Never mind,” he said. “Someday we’ll
+die and go to heaven. All the angels are queer, you know.”
+And he left.
+
+* * *
+
+Laura followed soon after. She knew just where she was
+going—the McAlton Hotel. She would walk right in and
+ask for Merrill Landon and the clerk would say he had
+left, the convention was over, and Laura could quit suffering
+over him. He would be hundreds of miles away and
+she could start to forget him.
+
+She walked over to the hotel in a matter of minutes
+and went into the lobby with a confidence she had not
+felt during the week her father had been there. She was
+about to kill her ghost. She looked forward to great relief.
+
+At the desk she waited for a moment or two until a
+clerk could take care of her. She recognized him from one
+of her previous visits but fortunately he didn’t seem to remember
+her. “Yes?” he said.
+
+“Is the Chi Delta Sigma convention over?” she asked.
+
+“Yes, ma’am it is.”
+
+“Oh. Then I guess Merrill Landon isn’t staying here
+any more.”
+
+“Oh, yes he is.”
+
+Laura was startled. “He said a young lady might be
+asking for him,” the clerk said. “He left a message.” He
+looked at her dubiously, unnerved by the strange expression
+on her face. “Would you be his daughter, by any
+chance?”
+
+Laura shook her head numbly. The clerk brought her an
+envelope and Laura opened it and read, in her father’s
+hand: “Laura, I will be here till the end of the month.
+Come up to my room any evening after eight.” It was not
+even signed. *Nice and sentimental*, she thought. *Just like
+him.*
+
+“Thank you,” she told the clerk.
+
+“Will there be any answer?” he asked.
+
+“Yes,” Laura said. She took the pad of paper he pushed
+toward her and wrote on it, “Go to hell.” Then she folded
+it, put it in the envelope, sealed it, and wrote “Merrill
+Landon” on the front.
+
+She shook all the way home. He was still there, still
+haunting her, waiting to pounce on her and punish her.
+When Marcie asked her what was the matter, Laura
+couldn’t tell her. It was Laura’s problem, it was intimate
+and awful, and she had no wish to share it. She hardly
+noticed how little she had looked at Marcie the past few
+days, how little she had responded to her. And yet in the
+back of her mind the question rankled: Why did Marcie
+let Burr believe that lie? Even for a short while? Why
+hadn’t she fought it harder?
+
+But the fact of her father’s physical presence in New
+York obliterated other considerations. He was waiting for
+her around every corner, in every doorway. She was even
+afraid to answer the phone, and afraid to return to his
+hotel for fear he would have the police there waiting for
+her. She didn’t know on what grounds he could arrest her,
+but she believed her father could do anything violent and
+forceful. Her work suffered still more at the office. And
+she hadn’t the interest to stay late and make it up.
+
+Sarah talked to her one afternoon at the end of the
+week. “Guess what?” she said, to start out in a friendly
+vein.
+
+“What?”
+
+“Carl Jensen called me again. We’re going out tomorrow
+night.”
+
+“How nice, Sarah. I’m glad for you.” But she spoke
+without enthusiasm.
+
+“Are you?” Sarah’s voice was pointed enough to catch
+Laura’s attention and warn her that something was wrong.
+She looked up. “Yes, of course I am, Sarah. I’m sorry, I’m
+not myself lately. I—”
+
+“You’ve been in a fog all week. Another one of those
+headaches?”
+
+“No. I mean yes. I don’t know. I just don’t feel alive.”
+She laughed listlessly.
+
+Sarah sat down beside her. “Laura,” she said firmly,
+“you could do real well in this job. If you wanted to.
+Everybody here likes you. Everybody’s pulling for you.
+You’re a good typist and you’re a smart girl. Jeanie liked
+you a lot, and she’ll be back here in another week. There’ll
+be three of us, and things could go a lot better ... but
+Laura....”
+
+“But I haven’t worked out too well,” Laura said for her.
+“Is that it?”
+
+“You haven’t worked at all sometimes. Other times
+you work your tail off. That’s the trouble, Laura, you’re
+so erratic,” Sarah said. “You stay late and knock yourself
+out one night, and then a week goes by and you can’t do a
+damn thing. You drag along all day, you just don’t seem
+to care.
+
+“I hate to pull a philosophical on you, but gee, Laura,
+we’re dealing with sick people. Sometimes these X-ray reports
+spell life and death for somebody. We can’t dawdle
+over them. Doctors are waiting all over the city for these
+things. Dr. Hollingsworth is swamped. We can’t let him
+down.”
+
+“I know.” Laura felt the way she had in third grade
+when she feigned sick to get out of playing a role in the
+annual spring pageant. The teacher had talked to her in
+much the same tone of voice, and used much the same
+arguments. “Everybody’s pulling for you, we all like you,
+don’t let us down, Laura, don’t let us down.” But the
+thought of going out on that stage had appalled her. The
+whole audience melted down to one man—Merrill Landon.
+She had done it, finally, to prove she could. But his
+amused criticisms afterward had nearly killed her.
+
+“I haven’t been feeling well,” she murmured to Sarah.
+
+“Well, you’d better start feeling better, honey. Because
+Dr. Hollingsworth and I had a little talk today. He asked
+me what was wrong with you. He thought maybe if you
+and I talked it over you might tell me what was the matter.”
+She spoke carefully, in a discreet voice.
+
+But Laura stood up, offended and frightened. “Nothing’s
+the matter,” she snapped. “If he doesn’t like my
+work let him come to me and tell me about it himself.”
+
+Sarah stood up, herself slightly offended at this display
+of ingratitude. “He came to me because he wanted to
+spare you any embarrassment, Laura. I should think that
+would be obvious.”
+
+Laura relented a little. “I’m sorry, Sarah. I can’t explain
+it. I just can’t, it’s impossible. If he wants to let me go, I
+have no choice. I’ll leave.” But she was not as resigned to
+it, as stoical, as she sounded.
+
+“Can’t you *try* to do a little better, Laura?” Sarah said
+kindly. “If I could tell him we had a little talk and you
+promised to try to do better. Or you’d been sick, or had a
+problem at home, or something. *Anything.*”
+
+Laura gave an unpleasant little laugh. Then her face
+dropped and she said, “I have no excuses, Sarah. I’m not a
+good enough liar to cook one up. I just—” And here she
+burst unexpectedly into tears and Sarah had to try to comfort
+her.
+
+“Look, honey,” she said, after Laura had recovered a
+little. “Do you want the job? Do you?”
+
+“Yes,” Laura said. “I want it.”
+
+“Will you try to be more consistent, then? And I’ll tell
+Dr. Hollingsworth you’ve been having trouble at home
+you don’t want to talk about.”
+
+“That’s such an obvious fib, Sarah.”
+
+“No, it’s no fib. I heard you talk to Jack on the phone
+last week,” Sarah said. “I know there’s something going
+on.”
+
+Laura went shaky and pale, and the blue shadows that
+had been growing in the past weeks under her eyes deepened.
+“What do you know?” she demanded.
+
+Sarah became alarmed at her appearance. “Well, nothing
+really, only you sounded so upset, I thought maybe—”
+
+“What did I say?”
+
+“Oh, I don’t remember.” She tried to push it off casually,
+
+but she had thoroughly scared Laura, who recalled
+with biting clarity now Jack’s voice saying, *For God’s
+sake, Mother, keep your voice down*. “What did I say,
+Sarah?”
+
+“Nothing so very bad, Laura.” Sarah stared at her. “I
+just got the impression you had a quarrel.”
+
+“You had no right to listen!” Laura exclaimed harshly.
+
+“You had no right to make personal calls during working
+hours, for that matter,” Sarah said defensively.
+
+Laura picked up her purse and ran out of the office
+without another word. She went into a phone booth and
+called Jack. “Can I come over?” she said.
+
+“No. I’m in a mess.”
+
+“Please, Jack.”
+
+“Mother, for Christ’s sake! Be empathic for once, will
+you?”
+
+“All right, I’ll call Beebo.”
+
+“No don’t. She’s p.o.’d at you. She may never speak to
+you again after what you said to her.”
+
+Laura felt frantic. “Well, what am I supposed to do?”
+she said, half crying into the receiver. “I’ve practically lost
+my job.”
+
+“Go home to Marcie, Mother. Do *something*. I can’t
+help you out tonight. I’m sorry, honey.” And he was.
+
+“Oh, Jack, say something to me. Say something kind.
+Anything.”
+
+After a pause he said, “I love you, Mother. Only I’m
+not *in* love with you. I wish to hell I was, it couldn’t be
+worse than Terry. Now be a doll and let me go. I’ll call
+you tomorrow.”
+
+She felt the urgency to get away in his voice and let him
+go. For a moment she sat in the booth and dried her tears.
+She felt sick about Beebo but she was afraid to call her.
+
+* * *
+
+It was another torturous weekend for Marcie, who was
+beginning to feel as if she had ruined Laura’s life. It was
+Sunday night before they actually made any sort of communication
+with each other.
+
+Burr had been calling Marcie every night, trying to talk
+her into leaving the apartment. Their talks were short but
+the animosity had faded from them. Laura listened to
+them listlessly; she could not avoid hearing them in the
+
+small apartment. Marcie said things like, “Yes, she’s here.”
+“No, you *know* I don’t want to see you.” “No, we aren’t,
+and don’t bring that up again.” “I know I did. I know
+what I did, Burr, don’t throw it in my face.” She refused
+to see him.
+
+Laura winced at all this, and finally she took to going
+out on the roof when he called. The windows were wide
+open, the weather being soft and pleasant now, and
+Marcie’s voice carried even out there. But it wasn’t so
+pervading, so persistent. On Sunday night, Laura went out
+and looked at the city while Marcie talked. The time
+passed almost without Laura’s being aware of it. She gazed
+across New York in the direction of the McAlton, wondering
+if her father was sitting in his room waiting for
+her. And then she looked down toward the Village and
+her heart gave a sick squeeze at the thought of Beebo.
+Beebo, who told her how terribly a love affair could hurt.
+Beebo, who told her to beware and then got caught in her
+own trap. Laura wondered if Beebo really loved her. If
+she could ever forgive her. Laura had attacked the very
+basis of her being: her body, her pride, her deepest needs.
+In that one quick wicked speech, Laura had ridiculed
+her. She felt the tears come. And she could hear Jack saying,
+“If Terry said that to me, I’d strangle him.” It was
+shameful.
+
+She grew very depressed, thinking of the necessity of
+going back to work in the office the next morning, with
+Sarah trying to put on cheerfulness and Dr. Hollingsworth—so
+kindly, so tolerant—watching for signs of steadiness
+and application in her. And herself, so heavily aware
+of their good will toward her, their frustration, and her
+own overwhelming complexities that sapped her strength
+and effort.
+
+She was startled when Marcie said at her elbow, “Burr
+wants to see me.” When Laura didn’t answer, Marcie said,
+“He feels God-awful about the whole thing. He wants to
+apologize to me.” Another silence. “I want to apologize
+to *you*, Laura. But you won’t let me.”
+
+Laura shut her eyes in pain for a moment, as if to avoid
+the sight of Marcie’s face. And then she opened them and
+without looking at her, said, “We’ve been all through this
+before, Marcie. I don’t want your apologies. You have
+nothing to apologize for.”
+
+“I do.”
+
+“You don’t!”
+
+Marcie gave a long sigh of exasperation. “All right,
+then why won’t you speak to me?”
+
+“I *will*, Marcie. When I can.”
+
+“When will that be?”
+
+“I don’t know.”
+
+“Why not now?”
+
+“I guess I’m sick. Maybe Jack was right, I need to see
+his analyst.” She tried to smile a little.
+
+“Because of your father? What he did to you?”
+
+Laura looked down at her arms, folded on the cement
+railing. “I guess so,” she almost whispered.
+
+“Laura, say something to me. This is unbearable.” Marcie
+was pleading with her, as Laura had pleaded herself
+with Jack on the phone. She turned and looked at Marcie,
+standing close beside her, two delicate lines between her
+eyes betraying the tension inside her. For a moment Laura
+just looked at her. It had been over a week since she
+looked at Marcie that way. In the soft spring night, in the
+golden light fading up from the streets below, with the
+myriad muffled noises that are the music of a great city
+around them, they gazed at each other. And Marcie was
+very beautiful with her hair lifted gently in the breeze
+and her eyes big with anxiety. She was wrapped in a blue
+silk negligee and the lines of her slim young body showed
+through it.
+
+Finally, prompted by the necessity to speak, Laura said,
+“It’s so hard to talk, Marcie. Words are so inadequate
+sometimes.”
+
+“Any words will do, Laura. Except ‘Excuse me.’ That’s
+all you’ve said to me for days on end.”
+
+They smiled a little at each other, and Laura took her
+hands. She pulled just a little on them, and Marcie responded
+softly, coming toward her. “Laura, tell me I’m
+forgiven. Don’t say there’s nothing to forgive me for. I
+just want to hear you say it.”
+
+“No.”
+
+“Please.” Her voice broke.
+
+“No, no, no,” Laura said, gazing curiously at Marcie.
+Did she really feel so guilty? She hadn’t done anything that
+bad. Laura had a strange feeling of finality, of the end of
+things, of everything ending at once so that nothing really
+
+mattered any more. As if Marcie would turn and walk
+out of her life, and her job would end, and Beebo would
+never see her, and Jack and Terry would break up. It made
+her pensive and sad. She wondered at all the new feelings
+in her: the inability to care about her job, her meanness
+with Beebo, her unreasoning fear of Merrill Landon in the
+hotel lobby. Nothing seemed very real, up there on the
+roof. It didn’t seem to make much difference what she
+did. She gave another little pull and Marcie came still
+closer, touching her up and down the length of her body.
+
+Laura touched her hair. “You look so much like a
+friend of mine,” she said. Marcie reminded her of
+Beth again at this moment; the Beth she had lost so long
+ago, a million years ago, it seemed.
+
+“I do? You never told me that.”
+
+“I forgot.”
+
+“What’s she like?”
+
+“Oh, she was tall, short dark hair, purple eyes. Rather
+boyish.”
+
+“You talk about her as if she were dead.”
+
+“She is. As far as I’m concerned.”
+
+Marcie frowned at her. “She doesn’t sound at all like
+me.”
+
+“No, I guess she doesn’t,” Laura said. “There’s something
+about your face; I don’t know how to define it.
+I thought I saw a resemblance.” She had seen it in
+Beebo, too. And even in the curly-headed little blonde
+who had approached her in The Cellar the night she
+was looking for Beebo. They couldn’t all look like Beth.
+It was very strange.
+
+“Were you good friends?” Marcie asked.
+
+Laura smiled a little and put her arms around Marcie.
+In the still night she answered simply, “We were
+lovers.” It was very quiet, dreamlike, as if she spoke
+in a trance.
+
+Marcie stared at her, motionless, as if to determine
+whether she were joking. She stood in Laura’s arms, unable
+to move one way or the other; uncertain and a little
+scared.
+
+Laura saw her consternation, but it didn’t worry her.
+She spoke again, still feeling as if it weren’t real, any more
+than the glittering city below was real, or her father’s
+
+wrath, or Jack, or Beebo, or the doctors and Sarah ...
+“That was the ‘great love’ I told you about, in college,”
+she said. “It was Beth.”
+
+After a long pause, Marcie said in a whisper,
+“What happened?”
+
+“She got married,” Laura said.
+
+Marcie was dumbfounded. “I’m sorry,” she said awkwardly
+and then retreated into herself, embarrassed. She
+had no idea what to say, what to do.
+
+Laura could see that, but at first she didn’t try to interpret
+it. It didn’t frighten her yet. “That’s why I
+was so shocked when Burr said you told him we were
+lovers,” Laura said. “I wish we were, Marcie. But I
+never touched you.” Marcie was studying her now, her
+eyes brimming. “When he accused me of it and believed
+it and said you told him so, I was so hurt I
+didn’t know what to do or say. I thought of a million
+crazy explanations. The only one that seemed to make
+sense was that you felt the way I do.” She looked hard at
+Marcie. Their faces were very close together, and Laura
+was holding her tightly, her arms locked around Marcie’s
+small waist. “Do you, Marcie?” Laura whispered.
+“Do you?”
+
+They stayed that way for awhile, not moving, looking
+at each other. Laura felt her breath speed up and she
+felt a powerful longing to kiss Marcie. It grew stronger
+by the second. She began to press Marcie against her
+rhythmically and suddenly all the months of repression
+exploded inside her and came out kisses on her lips.
+She began to kiss Marcie intensely—her face, her neck
+and arms, her ears, her throat. “Marcie,” she said
+hoarsely, suddenly holding her tight with the strength
+of desire. “I’ve wanted you for so long. I thought I’d die
+of it. Living with you, so close to you, seeing you all
+the time ... undressing, bathing ... It drove me crazy.
+Marcie, you’re so beautiful, so sweet. Oh, God, it feels
+so good to say it. You’re impossible. I want you so terribly,
+so terribly. You want me too, don’t you? I know it,
+I always knew it. Oh, Marcie, let me, let me. Don’t
+stop me! Please!” A note of anguish crept into her voice
+when Marcie began to resist her. “Please, Marcie!” she
+implored her.
+
+But Marcie put her arms up and pushed hard against
+Laura. “Let me go!” she said. “Let me go!” And she
+began to cry. Laura, shocked, released her so suddenly
+that Marcie staggered backwards a little. She gave a cry,
+recovered her balance, and stared at Laura with her
+eyes wide for a moment. Then she turned and ran inside.
+
+Laura stood where she was for a long time, afraid to
+think or feel. She had no idea how much time had passed
+before she dared to go inside. Had she frightened Marcie?
+Revolted her? Would Marcie greet her with love
+or hatred? As a witch or a lover? She was in a state of
+nervous agony when she finally gathered the strength to
+walk around to the penthouse door.
+
+She opened it and walked slowly through the living
+room and kitchen. She pushed the bedroom door open
+slowly. Marcie was sitting on her bed, her back toward
+Laura. She had apparently sat like that without moving
+for some time. She turned very slowly when she heard
+Laura come in, and looked up at her. Laura felt her
+heart turn over. Marcie was so lovely, so miserable. It
+showed plainly in her face. Laura went to her and
+dropped to her knees in front of her and put her head in
+Marcie’s lap. And when she felt Marcie’s hand stroking
+her head, she wept.
+
+“Forgive me,” she begged. “It’s your turn now, Marcie.
+I frightened you. I didn’t mean to, I didn’t!”
+And she caught Marcie’s hand and kissed it.
+
+“Laura,” Marcie said quietly. “I’ve been trying to
+talk to you for weeks and you wouldn’t let me. Now it’s
+eating me up. I’m going to tell you something. And
+you’re going to listen.” Her voice trembled so that Laura
+looked up at her.
+
+“Laura, I’m so ashamed, so ashamed.”
+
+“Tell me, Marcie. Tell me. I’m listening now.” She
+searched her face anxiously.
+
+Marcie swallowed her tears and with a tremendous
+effort, said, “I did an awful thing, Laur. I’ve known
+for a while about you.” She looked away, struggling
+with herself; her shame, her pity, her shaking voice.
+
+“You—you knew?” Laura whispered, going white.
+
+“Yes. I couldn’t help knowing. You couldn’t hide it,
+Laura. You couldn’t come near me without it showing—in
+
+your eyes, your face. The way you touched me, the
+things you said, all the crazy moods you had. You
+seemed afraid of me. You let things slip. You even
+kissed me once. I’ve been around enough to know. I
+knew about you.” She wiped the tears from her cheeks
+embarrassedly and went on, unable to look at Laura, “I
+should have told you. Or else I should have let it drop.
+But I guess it interested me. It seemed like a game. I
+got sort of intrigued, you might say. I even told Burr
+what I suspected ... months ago ...” She stifled a sob.
+
+Laura’s face was colorless, tortured. Her hands were
+over her mouth.
+
+“It kills me to say these things,” Marcie whispered.
+“But I did everything to earn your contempt. I can’t lie
+to you any more, Laura. I even *bet* Burr I could make
+you make a pass at me.”
+
+“No,” Laura gasped. “Oh, no—”
+
+“He thought it was all a joke. He wouldn’t even listen
+to me. Until I got fed up with him and started
+hanging around here so much. Then he got it into his
+head that we were having a hot and heavy affair. I
+couldn’t talk him out of it. I’d gone too far for that.”
+
+Laura turned away from her and rested her head
+against her own bed, too stunned, too wounded, to answer
+or understand half of it.
+
+“Laura.” Marcie bent toward her. “I don’t know what
+crazy imp gets hold of me sometimes. I swear I don’t. I
+never even wondered what I’d do if it ever came to
+this, if you ever tried to make love to me. I guess I
+thought it would be a game, like everything else. I guess
+I thought it would be a lot of kicks. Or just a stupid
+silly thing that wouldn’t really matter. To either of us.
+I guess I didn’t think at all.
+
+“And just now—on the roof—when you told me how
+you felt, and how you wanted me—Laura, I had no idea
+you could love like that. I didn’t know it could be
+beautiful, or touching, or tragic. I thought it was
+mostly play-acting. I thought the only real love was between
+men and women. But you made it beautiful,
+Laura. I don’t know what else to call it. I’m ashamed.
+Clear through my soul. I played you for a fool, and all
+the while you were an angel.”
+
+Laura began to sob.
+
+“I’d do anything for you, Laur,” Marcie whispered.
+“Anything to make it up. If I could love you the way
+you want me to, I’d do that. I’ll even try, if you want it.”
+
+Laura slumped to the floor, her arms over her head, and
+sobbed helplessly.
+
+Marcie knelt beside her, profoundly afraid and
+ashamed. “Laura,” she said, “Do whatever you want
+with me. I’ve hurt you so terribly. Hurt me back if it’ll
+help. Do something. Do anything. I can’t stand to see
+you like this. Oh, Laura, Laura. Please don’t cry like
+that. Please.”

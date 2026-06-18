@@ -1,0 +1,19 @@
+{
+  "id": "under-the-red-dragon",
+  "title": "Under the Red Dragon",
+  "author": "James Grant",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #dc2626 0%, #991b1b 100%)",
+  "description": "An engaging historical military novel filled with action, drama, and romance.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Under the Red Dragon",
+      "file": "02_chapter_01.md"
+    }
+  ],
+  "coverImage": "books/under-the-red-dragon/cover.png"
+}

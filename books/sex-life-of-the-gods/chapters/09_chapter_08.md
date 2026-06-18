@@ -1,0 +1,211 @@
+# [p69]CHAPTER Seven
+
+In the glow of the headlights, the car swallowed
+the road voraciously and they moved toward the
+north country - not, he noticed, on route 87. They
+had not been seen leaving the city, nor had they
+been seen packing the car. The garage had a door
+that led into the kitchen, and Nick had laid on the
+back seat floorboards until they were in the
+country. Now, sitting in the front seat, he wondered
+vaguely if Beth, in her joy at having him
+home, had given herself away to her friends. He
+hoped not. He glanced sidewise at her and noticed
+that she drove with a smile on her face.
+
+“Is it far to the cabin?” He asked.
+
+“Not now. We’re almost to the turn off.”
+
+He lapsed again into silence, the old questions
+still whirling about in his mind. Who were the men
+who were after him? What did they want? How
+much had the FAA learned of the plane? Had they
+found something to pin it on him? What were these
+tiny, fleeting thoughts that cropped up in his mind?
+Was his mind trying to tell him something via the
+nightmares? And what of his best friend, Nolan
+Brice. Where has he been? What is he up to?
+It struck Nick as odd that he had not encountered
+the detective yet: surely he and Beth had been
+close the past year. How close? Suppose Brice
+stumbled upon Andy Hocum. Would the old man
+talk?
+
+Feeling more helpless than he had ever felt in
+his life, at least the life he remembered, Nick
+stared at the road until Beth turned off on another
+road that was little more than a wagon track beside
+a small creek. A few minutes of bouncing over
+70]
+ ruts and stones, and she turned off again, parking
+beside a grey, frame cabin.
+
+“Here we are, darling.”
+
+They got out, each taking a box from the back
+seat, and Nick followed her up the stairs to the
+porch. Beth set her box down and found the key.
+A moment later the lock clicked and she shoved
+the door open.
+
+“Wait’ll I find the light, Nick,” she whispered.
+
+A moment later, the light snapped on and a soft
+glow filled the front room of the cabin. They took
+the boxes to the kitchen and set them on the table,
+then went back into the front room. Nick studied
+the place.
+
+He liked the room a lot; there was a rugged
+manliness in the stone fireplace and the knotty
+pine walls, mingled with just a touch of Beth’s
+femininity to make it neat. All in all, it was a
+well laid out place. He was attracted to the oil
+paintings that hung about the walls.
+
+“Like it?” Beth asked.
+
+He nodded.
+
+“But it doesn’t bring back any memories?”
+
+“No. Hell, honey, I can’t even remember what
+I did for a living.”
+
+She smiled sadly. “Want to see?”
+
+When he nodded, she motioned him to the other
+side of the front room and opened the door. She
+flicked on the light and he stepped into a small
+study filled with the trappings of an artist. Tubes
+of paint lay on small tables, beside cans of turpentine,
+lacquer and old paint rags. A half finished
+nude adorned one of the heavy easels. There were
+a few water color sketches laying around as well
+as several oils.
+
+“Want to see some of your favorite models?”
+
+71]
+He nodded numbly, and she drew open a drawer
+in the table and pulled out four fairly large oil
+paintings done on commercial painting boards.
+
+The first two were of Beth, one a nude and the
+other a semi-nude, with only her lovely breasts
+exposed. The second two paintings were of a girl
+who was not familiar at all. In the first picture,
+a portrait, she was seated before a table, contemplating
+a vase of flowers. A rather good looking
+girl with jet black hair and a soft, warm looking
+face. The next painting was of the same girl, but
+this time she had been painted as a Hawaiian
+dancer and her skin was a trifle darker. She was
+a pretty girl, but her face and nicely formed body
+didn’t ring a bell.
+
+“Who is she?” He asked.
+
+“Her name is Janet Holman. She lives about
+four or five miles from here, on her father’s
+farm.” Beth nodded toward the green filing cabinet
+in the corner. “You have her file over there
+with your records. Doesn’t any of this ring a bell,
+darling?”
+
+“No.”
+
+She looked at him sadly, her face mirroring the
+way she felt. “I hope it’ll come back, darling.”
+
+He reached out and pulled her to him, holding
+her tight. “It’ll come back,” he whispered.
+“C’mon. I want to build a fire in that fireplace.
+It’s cool in here, even if it is summer.”
+
+They went back out into the front room and,
+while Beth found some kindling, Nick wadded up
+some newspapers and stuffed them in the fireplace.
+When she brought it in, he lighted the stuff and
+after it was going good, he added a couple of logs.
+He snapped off the light and grinned at her.
+
+“I like firelight,” he told her. “It’s restful.”
+
+72]
+She smiled back at him. “Restful? I think it’s
+sexy.” She had kicked off her pumps and was lying
+before the glow of the hearth on the thick rug. He
+arranged the mesh screen before the fire and laid
+down beside her.
+
+“Sexy, huh?”
+
+“Uh huh. I don’t know, darling ... the warmth
+of the fire warms me up, I guess.”
+
+He grinned and dropped his head to the cushions
+of her breasts. Her fingers played in his hair.
+
+“I’m glad,” he told her.
+
+“You used to be. That used to be our favorite
+way of spending an evening.”
+
+“Laying in front of a fire?” Nick asked.
+
+“Not just *any* fire, darling. This particular
+fire, sans clothes.”
+
+“Sounds like fun,” he mused and rolled over to
+kiss the ripe redness of her lips. Her tongue
+stabbed a blade of passion at him and her arms
+pulled him close; then, after a moment, she
+shoved him away and stood up.
+
+He propped himself on one elbow and looked
+at her. Her smile was impish as she unfastened
+the buttons of the white blouse and pulled it
+from the waistband of the navy blue skirt. Her
+fingers unhooked the snaps of the bra and dropped
+it to the floor beside the blouse. The firelight
+was golden against the swelling lift of her breasts
+and the flat expanse of her stomach. Nick felt
+the thundering beginning again to slam through
+his veins with the holocaust of a napalm bomb
+exploding against the ground as she unzipped the
+skirt and dropped it into a puddle on the thick
+rug. He watched in pounding fascination as she
+stepped daintily from the whorl of the skirt,
+clad only in the pinkish transparency of her
+73]
+ panties. Then they too were a thing of the past,
+and Beth was smiling down at him, passion
+spearing from her eyes.
+
+“Will I still do?” She asked.
+
+“Do what?” He croaked.
+
+“You know?” She laughed at him, kneeling
+on the rug. “Will I still do as a model?”
+
+He laid down flat and chuckled. “A model,
+sweetheart, is a small imitation of the real
+thing. You don’t look imitation to me.” He
+reached up and grabbed her arm to pull her
+down with him onto the rug, but she jerked away.
+
+“Oh, no, you don’t. You have to undress too.”
+
+He grinned at her and peeled off his clothes
+quickly. She came into his arms then and they made
+love, letting the glowing warmth of the fire
+caress them hotly. His hands smoothed her
+breasts while his mouth worked at the fire that
+was coming to life throughout her body.
+
+“Just like old times?” He asked, softly.
+
+“Better, darling ... much better.”

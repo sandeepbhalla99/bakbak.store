@@ -1,0 +1,95 @@
+{
+  "id": "sex-life-of-the-gods",
+  "title": "Sex Life of the Gods",
+  "author": "Michael Knerr",
+  "genre": "Fantasy",
+  "coverColor": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
+  "description": "A fascinating dive into mythological stories, cosmic conflicts, and the humanlike passions of ancient deities.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "[p9]FOREWORD",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "[p13]CHAPTER One",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "[p21]CHAPTER Two",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "[p27]CHAPTER Three",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "[p39]CHAPTER Four",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "[p51]CHAPTER Five",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "[p59]CHAPTER Six",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "[p69]CHAPTER Seven",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "[p75]CHAPTER Eight",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "[p80]CHAPTER Nine",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "[p89]CHAPTER Ten",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "[p97]CHAPTER Eleven",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "[p105]CHAPTER Twelve",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "[p115]CHAPTER Thirteen",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "[p123]CHAPTER Fourteen",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "[p129]CHAPTER Fifteen",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "[p135]CHAPTER Sixteen",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "[p143]CHAPTER Seventeen",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "[p151]CHAPTER Eighteen",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "[p157]CHAPTER Nineteen",
+      "file": "21_chapter_20.md"
+    }
+  ],
+  "coverImage": "books/sex-life-of-the-gods/cover.png"
+}

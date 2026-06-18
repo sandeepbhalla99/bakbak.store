@@ -1,0 +1,19 @@
+{
+  "id": "the-king-in-yellow",
+  "title": "The King in Yellow",
+  "author": "Robert W. Chambers",
+  "genre": "Horror",
+  "coverColor": "linear-gradient(135deg, #eab308 0%, #ca8a04 100%)",
+  "description": "A collection of weird fiction stories linked by a play that induces madness in anyone who reads it.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "The King in Yellow",
+      "file": "02_chapter_01.md"
+    }
+  ],
+  "coverImage": "books/the-king-in-yellow/cover.png"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "around-the-world-in-eighty-days",
+  "title": "Around the World in Eighty Days",
+  "author": "Jules Verne",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #b45309 0%, #78350f 100%)",
+  "description": "Jules Verne's classic adventure novel detailing Phileas Fogg's quest to circumnavigate the globe in 80 days.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "ChapterI: In Which Phileas Fogg and Passepartout Accept Each Other, the One As Master, the Other As Man",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterII: In Which Passepartout Is Convinced That He Has at Last Found His Ideal",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterIII: In Which a Conversation Takes Place Which Seems Likely to Cost Phileas Fogg Dear",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIV: In Which Phileas Fogg Astounds Passepartout, His Servant",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterV: In Which a New Species of Funds, Unknown to the Moneyed Men, Appears on \u2019change",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterVI: In Which Fix, the Detective, Betrays a Very Natural Impatience",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVII: Which Once More Demonstrates the Uselessness of Passports As Aids to Detectives",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVIII: In Which Passepartout Talks Rather More, Perhaps, Than Is Prudent",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterIX: In Which the Red Sea and the Indian Ocean Prove Propitious to the Designs of Phileas Fogg",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterX: In Which Passepartout Is Only Too Glad to Get Off with the Loss of His Shoes",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterXI: In Which Phileas Fogg Secures a Curious Means of Conveyance at a Fabulous Price",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXII: In Which Phileas Fogg and His Companions Venture Across the Indian Forests, and What Ensued",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXIII: In Which Passepartout Receives a New Proof That Fortune Favors the Brave",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIV: In Which Phileas Fogg Descends the Whole Length of the Beautiful Valley of the Ganges Without Ever Thinking of Seeing It",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXV: In Which the Bag of Banknotes Disgorges Some Thousands of Pounds More",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXVI: In Which Fix Does Not Seem to Understand in the Least What Is Said to Him",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXVII: Showing What Happened on the Voyage from Singapore to Hong Kong",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVIII: In Which Phileas Fogg, Passepartout, and Fix Go Each About His Business",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "ChapterXIX: In Which Passepartout Takes a Too Great Interest in His Master, and What Comes of It",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXX: In Which Fix Comes Face to Face with Phileas Fogg",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "ChapterXXI: In Which the Master of the \u201cTankadere\u201d Runs Great Risk of Losing a Reward of Two Hundred Pounds",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXXII: In Which Passepartout Finds Out That, Even at the Antipodes, It Is Convenient to Have Some Money in One\u2019s Pocket",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXIII: In Which Passepartout\u2019s Nose Becomes Outrageously Long",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXIV: During Which Mr. Fogg and Party Cross the Pacific Ocean",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "ChapterXXV: In Which a Slight Glimpse Is Had of San Francisco",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXVI: In Which Phileas Fogg and Party Travel by the Pacific Railroad",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXVII: In Which Passepartout Undergoes, at a Speed of Twenty Miles an Hour, a Course of Mormon History",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "ChapterXXVIII: In Which Passepartout Does Not Succeed in Making Anybody Listen to Reason",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "ChapterXXIX: In Which Certain Incidents Are Narrated Which Are Only to Be Met with on American Railroads",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "ChapterXXX: In Which Phileas Fogg Simply Does His Duty",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "ChapterXXXI: In Which Fix, the Detective, Considerably Furthers the Interests of Phileas Fogg",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "ChapterXXXII: In Which Phileas Fogg Engages in a Direct Struggle with Bad Fortune",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "ChapterXXXIII: In Which Phileas Fogg Shows Himself Equal to the Occasion",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "ChapterXXXIV: In Which Phileas Fogg at Last Reaches London",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "ChapterXXXV: In Which Phileas Fogg Does Not Have to Repeat His Orders to Passepartout Twice",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "ChapterXXXVI: In Which Phileas Fogg\u2019s Name Is Once More at a Premium on \u2019change",
+      "file": "37_chapter_36.md"
+    },
+    {
+      "title": "ChapterXXXVII: In Which It Is Shown That Phileas Fogg Gained Nothing by His Tour Around the World, Unless It Were Happiness",
+      "file": "38_chapter_37.md"
+    }
+  ],
+  "coverImage": "books/around-the-world-in-eighty-days/cover.png"
+}

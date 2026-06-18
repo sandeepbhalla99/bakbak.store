@@ -1,0 +1,222 @@
+{
+  "id": "pride-and-prejudice---project-gutenberg",
+  "title": "Pride and prejudice   Project Gutenberg",
+  "author": "Unknown Author",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "No description available for Pride and prejudice   Project Gutenberg.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "{IX}",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "{XXV}",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterI",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "I Hope Mr. Bingley Will Like It. ChapterII",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "He Rode a Black Horse. ChapterIII",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterIV",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterV",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVI",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "A Note for Miss Bennet. ChapterVII",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Covering a Screen. ChapterVIII",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Mrs Bennet and Her Two Youngest Girls. ChapterIX",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterX",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Piling Up the Fire. ChapterXI",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXII",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXIII",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXIV",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXV",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVI",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Delighted to See Their Dear Friend Again. ChapterXVII",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXVIII",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "\u201cTo Assure You in the Most Animated Language.\u201d ChapterXIX",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXX",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXI",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXII",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "\u201cProtested He Must Be Entirely Mistaken.\u201d ChapterXXIII",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXIV",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXV",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "\u201cWill You Come and See Me.\u201d ChapterXXVI",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "\u201cLady Catherine, Said She, You Have Given Me a Treasure.\u201d ChapterXXIX",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "ChapterXXX",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "ChapterXXXI",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "ChapterXXXII",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "\u201cOn Looking Up.\u201d ChapterXXXIII",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "ChapterXXXIV",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "\u201cHearing Herself Called.\u201d ChapterXXXV",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "ChapterXXXVI",
+      "file": "37_chapter_36.md"
+    },
+    {
+      "title": "\u201cHis Parting Obeisance.\u201d ChapterXXXVII",
+      "file": "38_chapter_37.md"
+    },
+    {
+      "title": "\u201cThe Elevation of His Feelings.\u201d ChapterXXXVIII",
+      "file": "39_chapter_38.md"
+    },
+    {
+      "title": "\u201cHow Nicely We Are Crammed in.\u201d ChapterXXXIX",
+      "file": "40_chapter_39.md"
+    },
+    {
+      "title": "ChapterXL",
+      "file": "41_chapter_40.md"
+    },
+    {
+      "title": "\u201cWhen Colonel Miller\u2019s Regiment Went.\u201d ChapterXLI",
+      "file": "42_chapter_41.md"
+    },
+    {
+      "title": "\u201cThe Arrival of the Gardiners.\u201d ChapterXLII",
+      "file": "43_chapter_42.md"
+    },
+    {
+      "title": "\u201cConjecturing As to the Date.\u201d ChapterXLIII",
+      "file": "44_chapter_43.md"
+    },
+    {
+      "title": "ChapterXLIV",
+      "file": "45_chapter_44.md"
+    },
+    {
+      "title": "\u201cEngaged by the River.\u201d ChapterXLV",
+      "file": "46_chapter_45.md"
+    },
+    {
+      "title": "ChapterXLVI",
+      "file": "47_chapter_46.md"
+    },
+    {
+      "title": "\u201cThe First Pleasing Earnest of Their Welcome.\u201d ChapterXLVII",
+      "file": "48_chapter_47.md"
+    },
+    {
+      "title": "\u201cThe Post.\u201d ChapterXLVIII",
+      "file": "49_chapter_48.md"
+    },
+    {
+      "title": "ChapterXLIX",
+      "file": "50_chapter_49.md"
+    },
+    {
+      "title": "\u201cThe Spiteful Old Ladies.\u201d ChapterL",
+      "file": "51_chapter_50.md"
+    },
+    {
+      "title": "\u201cWith an Affectionate Smile.\u201d ChapterLI",
+      "file": "52_chapter_51.md"
+    },
+    {
+      "title": "\u201cI Am Sure She Did Not Listen.\u201d ChapterLII",
+      "file": "53_chapter_52.md"
+    }
+  ]
+}
