@@ -4,6 +4,7 @@ import json
 import shutil
 import datetime
 import subprocess
+from PIL import Image, ImageDraw, ImageFont
 
 OUTPUT_DIR = "/home/sb/AI-Works/docx2convert/output"
 BAKBAK_BOOKS_DIR = "/home/sb/AI-Works/bakbak.store/books"
@@ -13,6 +14,154 @@ def normalize_title(title):
     def uppercase_roman(match):
         return match.group(1) + match.group(2).upper()
     return re.sub(r'(?i)\b(Chapter|Act|Scene|Part)\s+([ivxlcdm]+)\b', uppercase_roman, title)
+
+def generate_default_cover(title, author, dest_path):
+    width, height = 400, 600
+    
+    # Generate background gradient based on title hash for determinism
+    title_hash = sum(ord(c) for c in title)
+    
+    gradients = [
+        ((30, 27, 75), (15, 23, 42)),      # Deep Indigo/Slate
+        ((120, 53, 4), (69, 26, 3)),       # Warm Amber/Brown
+        ((13, 148, 136), (15, 118, 110)),  # Teal
+        ((236, 72, 153), (190, 24, 93)),   # Pink/Rose
+        ((139, 92, 246), (109, 40, 217)),  # Violet/Purple
+        ((14, 165, 233), (3, 105, 161)),   # Sky Blue
+        ((16, 185, 129), (5, 150, 105)),   # Emerald/Green
+        ((225, 29, 72), (159, 18, 57)),    # Rose/Red
+    ]
+    
+    color_start, color_end = gradients[title_hash % len(gradients)]
+    
+    img = Image.new("RGB", (width, height), color_start)
+    draw = ImageDraw.Draw(img)
+    
+    # Draw vertical gradient
+    for y in range(height):
+        r = int(color_start[0] + (color_end[0] - color_start[0]) * (y / height))
+        g = int(color_start[1] + (color_end[1] - color_start[1]) * (y / height))
+        b = int(color_start[2] + (color_end[2] - color_start[2]) * (y / height))
+        draw.line([(0, y), (width, y)], fill=(r, g, b))
+        
+    # Draw subtle margin border
+    draw.rectangle([10, 10, width - 10, height - 10], outline=(255, 255, 255, 30), width=2)
+    
+    # Font resolution
+    font_title_path = "/usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf"
+    font_author_path = "/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf"
+    
+    if not os.path.exists(font_title_path):
+        font_title_path = None
+    if not os.path.exists(font_author_path):
+        font_author_path = None
+        
+    try:
+        title_font = ImageFont.truetype(font_title_path, 36) if font_title_path else ImageFont.load_default()
+        author_font = ImageFont.truetype(font_author_path, 22) if font_author_path else ImageFont.load_default()
+    except Exception:
+        title_font = ImageFont.load_default()
+        author_font = ImageFont.load_default()
+        
+    # Text wrapping helper
+    def wrap_text(text, font, max_width):
+        words = text.split()
+        lines = []
+        current_line = []
+        for word in words:
+            test_line = " ".join(current_line + [word])
+            try:
+                bbox = font.getbbox(test_line)
+                line_width = bbox[2] - bbox[0]
+            except AttributeError:
+                line_width, _ = font.getsize(test_line)
+                
+            if line_width <= max_width:
+                current_line.append(word)
+            else:
+                if current_line:
+                    lines.append(" ".join(current_line))
+                current_line = [word]
+        if current_line:
+            lines.append(" ".join(current_line))
+        return lines
+
+    title_lines = wrap_text(title, title_font, width - 60)
+    
+    # Draw title
+    y_text = 150
+    for line in title_lines:
+        try:
+            bbox = title_font.getbbox(line)
+            line_width = bbox[2] - bbox[0]
+            line_height = bbox[3] - bbox[1]
+        except AttributeError:
+            line_width, line_height = title_font.getsize(line)
+            
+        x_text = (width - line_width) // 2
+        draw.text((x_text, y_text), line, font=title_font, fill=(255, 255, 255))
+        y_text += line_height + 15
+        
+    # Draw author
+    try:
+        bbox = author_font.getbbox(author)
+        author_width = bbox[2] - bbox[0]
+    except AttributeError:
+        author_width, _ = author_font.getsize(author)
+        
+    x_author = (width - author_width) // 2
+    draw.text((x_author, height - 100), author, font=author_font, fill=(200, 200, 200))
+    
+    # Draw decorative line
+    draw.line([(width // 2 - 30, height - 140), (width // 2 + 30, height - 140)], fill=(255, 255, 255, 80), width=1)
+    
+    img.save(dest_path)
+    print(f"Generated default cover for '{title}' at {dest_path}")
+
+def generate_missing_covers():
+    if not os.path.exists(BAKBAK_BOOKS_DIR):
+        return
+        
+    updated_any = False
+    for folder in os.listdir(BAKBAK_BOOKS_DIR):
+        folder_path = os.path.join(BAKBAK_BOOKS_DIR, folder)
+        if not os.path.isdir(folder_path):
+            continue
+            
+        details_path = os.path.join(folder_path, "details.json")
+        if not os.path.exists(details_path):
+            continue
+            
+        try:
+            with open(details_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except Exception as e:
+            print(f"Error reading {details_path}: {e}")
+            continue
+            
+        # Check if cover image is missing on disk or in details.json
+        cover_filename = None
+        for ext in [".png", ".jpg", ".jpeg"]:
+            if os.path.exists(os.path.join(folder_path, f"cover{ext}")):
+                cover_filename = f"cover{ext}"
+                break
+                
+        if not cover_filename or not data.get("coverImage"):
+            title = data.get("title", folder.replace("-", " ").title())
+            author = data.get("author", "Unknown Author")
+            dest_cover = os.path.join(folder_path, "cover.png")
+            try:
+                generate_default_cover(title, author, dest_cover)
+                data["coverImage"] = f"books/{folder}/cover.png"
+                with open(details_path, "w", encoding="utf-8") as f:
+                    json.dump(data, f, indent=2)
+                print(f"Retroactively generated cover and updated details.json for {title}")
+                updated_any = True
+            except Exception as e:
+                print(f"Failed to generate cover for {title}: {e}")
+                
+    if updated_any:
+        regenerate_catalog()
 
 def import_book(config):
     src_dir = os.path.join(OUTPUT_DIR, config["folder"])
@@ -138,6 +287,14 @@ def import_book(config):
             shutil.copy(src_cover, os.path.join(dest_dir, f"cover{ext}"))
             cover_image_path = f"books/{config['id']}/cover{ext}"
             print(f"Copied cover image for {config['title']}")
+
+    if not cover_image_path:
+        try:
+            dest_cover = os.path.join(dest_dir, "cover.png")
+            generate_default_cover(config["title"], config["author"], dest_cover)
+            cover_image_path = f"books/{config['id']}/cover.png"
+        except Exception as e:
+            print(f"Warning: Failed to generate default cover for {config['title']}: {e}")
             
     # Write details.json
     details = {
@@ -622,6 +779,13 @@ def main():
                 uploaded = json.load(f)
         except Exception as e:
             print(f"Error loading log: {e}")
+
+    # Retroactively generate missing covers for already imported books
+    try:
+        print("Checking for imported books with missing cover images...")
+        generate_missing_covers()
+    except Exception as e:
+        print(f"Warning: Retroactive cover generation failed: {e}")
 
     # Scan output directory for any subdirectories
     if not os.path.exists(OUTPUT_DIR):

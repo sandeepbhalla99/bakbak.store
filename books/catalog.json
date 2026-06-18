@@ -203,7 +203,7 @@
     "author": "Unknown Author",
     "genre": "Classics",
     "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-    "coverImage": null,
+    "coverImage": "books/pride-and-prejudice---project-gutenberg/cover.png",
     "description": "No description available for Pride and prejudice   Project Gutenberg.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -291,7 +291,7 @@
     "author": "Unknown Author",
     "genre": "Classics",
     "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-    "coverImage": null,
+    "coverImage": "books/the-red-lily/cover.png",
     "description": "No description available for The Red Lily.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -324,7 +324,7 @@
     "author": "Unknown Author",
     "genre": "Classics",
     "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-    "coverImage": null,
+    "coverImage": "books/romeo-and-juliet---project-gutenberg/cover.png",
     "description": "No description available for Romeo and Juliet   Project Gutenberg.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -346,7 +346,7 @@
     "author": "Unknown Author",
     "genre": "Classics",
     "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-    "coverImage": null,
+    "coverImage": "books/the-complete-works-of-william-shakespeare/cover.png",
     "description": "No description available for The Complete Works of William Shakespeare.",
     "rating": 4.5,
     "reviewsCount": 12
@@ -379,7 +379,7 @@
     "author": "Unknown Author",
     "genre": "Classics",
     "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-    "coverImage": null,
+    "coverImage": "books/the-countess-of-pembrokes-arcadia/cover.png",
     "description": "No description available for The Countess of Pembroke\u2019s Arcadia.",
     "rating": 4.5,
     "reviewsCount": 12
