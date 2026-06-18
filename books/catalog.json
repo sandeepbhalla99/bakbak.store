@@ -363,6 +363,17 @@
     "reviewsCount": 12
   },
   {
+    "id": "the-countess-of-pembrokes-arcadia",
+    "title": "The Countess of Pembroke\u2019s Arcadia",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": null,
+    "description": "No description available for The Countess of Pembroke\u2019s Arcadia.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "the-murder-of-roger-ackroyd",
     "title": "The Murder of Roger Ackroyd",
     "author": "Agatha Christie",

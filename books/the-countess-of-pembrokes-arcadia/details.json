@@ -1,0 +1,46 @@
+{
+  "id": "the-countess-of-pembrokes-arcadia",
+  "title": "The Countess of Pembroke\u2019s Arcadia",
+  "author": "Unknown Author",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "No description available for The Countess of Pembroke\u2019s Arcadia.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Introduction",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Arcadia Book I",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Arcadia Book II",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Arcadia Book III",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Arcadia Book IV",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Arcadia Book V",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "A Sixth Book to the Countess of Pembroke\u2019s Arcadia",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Transcriber\u2019s Notes",
+      "file": "09_chapter_08.md"
+    }
+  ]
+}
