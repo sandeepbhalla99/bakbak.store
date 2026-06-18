@@ -286,6 +286,17 @@
     "reviewsCount": 12
   },
   {
+    "id": "the-red-lily",
+    "title": "The Red Lily",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": null,
+    "description": "No description available for The Red Lily.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "frankenstein",
     "title": "Frankenstein",
     "author": "Mary Shelley",

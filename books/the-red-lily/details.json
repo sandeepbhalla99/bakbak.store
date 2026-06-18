@@ -1,0 +1,150 @@
+{
+  "id": "the-red-lily",
+  "title": "The Red Lily",
+  "author": "Unknown Author",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "No description available for The Red Lily.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Book 1 - ChapterI. \u201cI Need Love\u201d",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Book 1 - ChapterII. \u201cOne Can See That You Are Young!\u201d",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Book 1 - ChapterIII. A Discussion on the Little Corporal",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Book 1 - ChapterIV. The End of a Dream",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Book 1 - ChapterV. A Dinner \u2018En Famille\u2019",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "Book 1 - ChapterVI. A Distinguished Relict",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "Book 1 - ChapterVII. Madame Has Her Way",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Book 1 - ChapterVIII. The Lady of the Bells",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Book 1 - ChapterIX. Choulette Finds a New Friend",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Book 2 - ChapterX. Dechartre Arrives in Florence",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Book 2 - ChapterXI. \u201cThe Dawn of Faith and Love\u201d",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Book 2 - ChapterXII. Hearts Awakened",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Book 2 - ChapterXIII. \u201cYou Must Take Me with My Own Soul!\u201d",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Book 2 - ChapterXIV. The Avowal",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Book 2 - ChapterXV. The Mysterious Letter",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Book 2 - ChapterXVI. \u201cTo-Morrow?\u201d",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Book 2 - ChapterXVII. Miss Bell Asks a Question",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Book 2 - ChapterXVIII. \u201cI Kiss Your Feet Because They Have Come!\u201d",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Book 2 - ChapterXIX. Choulette Takes a Journey: It Was the Next Day",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Book 2 - ChapterXX. What Is Frankness?",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Book 2 - ChapterXXI. \u201cI Never Have Loved Any One but You!\u201d",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Book 2 - ChapterXXII. A Meeting at the Station",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXIII. \u201cOne Is Never Kind When One Is in Love\u201d",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXIV. Choulette\u2019s Ambition",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXV. \u201cWe Are Robbing Life\u201d",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXVI. In Dechartre\u2019s Studio",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXVII. The Primrose Path",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXVIII. News of Le Menil",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXIX. Jealousy",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXX. A Letter from Robert",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXXI. An Unwelcome Apparition",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXXII. The Red Lily",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXXIII. A White Night",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "Book 3 - ChapterXXXIV. \u201cI See the Other with You Always!\u201d",
+      "file": "35_chapter_34.md"
+    }
+  ]
+}
