@@ -213,6 +213,78 @@ def git_push_changes(imported_titles):
         print(f"Git operations failed: {e}")
 
 KNOWN_METADATA = {
+    "Around_the_World_in_Eighty_Days": {
+        "id": "around-the-world-in-eighty-days",
+        "title": "Around the World in Eighty Days",
+        "author": "Jules Verne",
+        "genre": "Classics",
+        "cover_color": "linear-gradient(135deg, #b45309 0%, #78350f 100%)",
+        "description": "Jules Verne's classic adventure novel detailing Phileas Fogg's quest to circumnavigate the globe in 80 days.",
+        "cover_image_src": "/home/sb/.gemini/antigravity/brain/70d6c7b5-d081-492a-9b4a-c7f5abfe0d84/around_world_cover_1781747265572.png"
+    },
+    "I_Am_a_Woman": {
+        "id": "i-am-a-woman",
+        "title": "I Am a Woman",
+        "author": "Unknown Author",
+        "genre": "Drama",
+        "cover_color": "linear-gradient(135deg, #ec4899 0%, #be185d 100%)",
+        "description": "A compelling story exploring personal identity, societal expectations, and emotional courage.",
+        "cover_image_src": "/home/sb/.gemini/antigravity/brain/70d6c7b5-d081-492a-9b4a-c7f5abfe0d84/i_am_woman_cover_1781747290399.png"
+    },
+    "Sex_life_of_the_gods": {
+        "id": "sex-life-of-the-gods",
+        "title": "Sex Life of the Gods",
+        "author": "Michael Knerr",
+        "genre": "Fantasy",
+        "cover_color": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
+        "description": "A fascinating dive into mythological stories, cosmic conflicts, and the humanlike passions of ancient deities.",
+        "cover_image_src": "/home/sb/.gemini/antigravity/brain/70d6c7b5-d081-492a-9b4a-c7f5abfe0d84/sex_life_gods_cover_1781747312989.png"
+    },
+    "The_Blue_Lagoon_A_Romance": {
+        "id": "the-blue-lagoon-a-romance",
+        "title": "The Blue Lagoon: A Romance",
+        "author": "H. De Vere Stacpoole",
+        "genre": "Classics",
+        "cover_color": "linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%)",
+        "description": "The timeless romance of two children marooned on a lush South Pacific island, growing up together in nature.",
+        "cover_image_src": "/home/sb/.gemini/antigravity/brain/70d6c7b5-d081-492a-9b4a-c7f5abfe0d84/blue_lagoon_cover_1781747340544.png"
+    },
+    "The_King_in_Yellow": {
+        "id": "the-king-in-yellow",
+        "title": "The King in Yellow",
+        "author": "Robert W. Chambers",
+        "genre": "Horror",
+        "cover_color": "linear-gradient(135deg, #eab308 0%, #ca8a04 100%)",
+        "description": "A collection of weird fiction stories linked by a play that induces madness in anyone who reads it.",
+        "cover_image_src": "/home/sb/.gemini/antigravity/brain/70d6c7b5-d081-492a-9b4a-c7f5abfe0d84/king_yellow_cover_1781747362504.png"
+    },
+    "Twenty_Years_After": {
+        "id": "twenty-years-after",
+        "title": "Twenty Years After",
+        "author": "Alexandre Dumas",
+        "genre": "Classics",
+        "cover_color": "linear-gradient(135deg, #b91c1c 0%, #7f1d1d 100%)",
+        "description": "Alexandre Dumas' sequel to The Three Musketeers, following D'Artagnan and his companions two decades later.",
+        "cover_image_src": "/home/sb/.gemini/antigravity/brain/70d6c7b5-d081-492a-9b4a-c7f5abfe0d84/twenty_years_after_cover_1781747386108.png"
+    },
+    "Ulysses": {
+        "id": "ulysses",
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "genre": "Classics",
+        "cover_color": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+        "description": "James Joyce's modernist masterpiece, following Leopold Bloom's ordinary day in Dublin.",
+        "cover_image_src": "/home/sb/.gemini/antigravity/brain/70d6c7b5-d081-492a-9b4a-c7f5abfe0d84/ulysses_cover_1781747412280.png"
+    },
+    "Under_the_Red_Dragon": {
+        "id": "under-the-red-dragon",
+        "title": "Under the Red Dragon",
+        "author": "James Grant",
+        "genre": "Classics",
+        "cover_color": "linear-gradient(135deg, #dc2626 0%, #991b1b 100%)",
+        "description": "An engaging historical military novel filled with action, drama, and romance.",
+        "cover_image_src": "/home/sb/.gemini/antigravity/brain/70d6c7b5-d081-492a-9b4a-c7f5abfe0d84/red_dragon_cover_1781747438335.png"
+    },
     # 7 New Books
     "Meditations": {
         "id": "meditations",
@@ -534,6 +606,14 @@ KNOWN_METADATA = {
 def main():
     log_path = "/home/sb/AI-Works/bakbak.store/uploaded_books.json"
     
+    # Run the HTML book converter first
+    print("Running convert_new_books.py to convert any new HTML books...")
+    try:
+        subprocess.run(["python3", "/home/sb/AI-Works/docx2convert/convert_new_books.py"], check=True)
+        print("HTML book conversion completed.")
+    except Exception as e:
+        print(f"Warning: HTML book conversion failed: {e}")
+        
     # Load uploaded log
     uploaded = []
     if os.path.exists(log_path):
@@ -589,6 +669,8 @@ def main():
                         title = first_line.lstrip('#').strip()
                         title = re.sub(r'\s*-\s*Index$', '', title, flags=re.IGNORECASE)
                         title = re.sub(r'\s*Index$', '', title, flags=re.IGNORECASE)
+                        title = re.sub(r'\s*-\s*Table of Contents$', '', title, flags=re.IGNORECASE)
+                        title = re.sub(r'\s*Table of Contents$', '', title, flags=re.IGNORECASE)
                         title = title.strip()
                         
             config = {
