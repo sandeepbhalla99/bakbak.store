@@ -396,5 +396,27 @@
 
   <!-- Javascript entry script as modules -->
   <script type="module" src="js/app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(reg => {
+            console.log('Service Worker registered successfully:', reg.scope);
+            reg.onupdatefound = () => {
+              const installingWorker = reg.installing;
+              installingWorker.onstatechange = () => {
+                if (installingWorker.state === 'installed') {
+                  if (navigator.serviceWorker.controller) {
+                    console.log('New version of app available; reloading to refresh cache.');
+                    window.location.reload();
+                  }
+                }
+              };
+            };
+          })
+          .catch(err => console.warn('Service Worker registration failed:', err));
+      });
+    }
+  </script>
 </body>
 </html>
