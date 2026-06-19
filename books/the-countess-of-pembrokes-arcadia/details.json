@@ -1,10 +1,10 @@
 {
   "id": "the-countess-of-pembrokes-arcadia",
-  "title": "The Countess of Pembroke\u2019s Arcadia",
-  "author": "Unknown Author",
+  "title": "The Countess of Pembroke's Arcadia",
+  "author": "Sir Philip Sidney",
   "genre": "Classics",
-  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-  "description": "No description available for The Countess of Pembroke\u2019s Arcadia.",
+  "coverColor": "linear-gradient(135deg, #059669 0%, #047857 100%)",
+  "description": "Sir Philip Sidney's renowned pastoral romance, a cornerstone of Elizabethan literature blending adventure, philosophy, and love poetry.",
   "chapters": [
     {
       "title": "Index",
@@ -35,11 +35,11 @@
       "file": "07_chapter_06.md"
     },
     {
-      "title": "A Sixth Book to the Countess of Pembroke\u2019s Arcadia",
+      "title": "A Sixth Book to the Countess of Pembroke’s Arcadia",
       "file": "08_chapter_07.md"
     },
     {
-      "title": "Transcriber\u2019s Notes",
+      "title": "Transcriber’s Notes",
       "file": "09_chapter_08.md"
     }
   ],

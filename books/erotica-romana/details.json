@@ -1,10 +1,10 @@
 {
   "id": "erotica-romana",
   "title": "Erotica Romana",
-  "author": "Unknown Author",
-  "genre": "Classics",
-  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-  "description": "No description available for Erotica Romana.",
+  "author": "Johann Wolfgang von Goethe",
+  "genre": "Poetry",
+  "coverColor": "linear-gradient(135deg, #7c3aed 0%, #5b21b6 100%)",
+  "description": "Goethe's elegant cycle of Roman elegies celebrating love and beauty, inspired by his sojourn in Rome and the classical Latin poets.",
   "chapters": [
     {
       "title": "Index",

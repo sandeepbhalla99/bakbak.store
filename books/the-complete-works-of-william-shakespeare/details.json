@@ -1,10 +1,10 @@
 {
   "id": "the-complete-works-of-william-shakespeare",
   "title": "The Complete Works of William Shakespeare",
-  "author": "Unknown Author",
+  "author": "William Shakespeare",
   "genre": "Classics",
-  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-  "description": "No description available for The Complete Works of William Shakespeare.",
+  "coverColor": "linear-gradient(135deg, #4f46e5 0%, #3730a3 100%)",
+  "description": "The definitive collection of all of Shakespeare's plays, sonnets, and poems — comedies, histories, tragedies, and verse — from the greatest writer in the English language.",
   "chapters": [
     {
       "title": "Index",

@@ -1,10 +1,10 @@
 {
   "id": "pride-and-prejudice---project-gutenberg",
-  "title": "Pride and prejudice   Project Gutenberg",
-  "author": "Unknown Author",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
   "genre": "Classics",
-  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-  "description": "No description available for Pride and prejudice   Project Gutenberg.",
+  "coverColor": "linear-gradient(135deg, #10b981 0%, #059669 100%)",
+  "description": "Jane Austen's beloved masterpiece about love, marriage, and social class in Regency-era England, featuring Elizabeth Bennet and Mr. Darcy.",
   "chapters": [
     {
       "title": "Index",
@@ -91,7 +91,7 @@
       "file": "21_chapter_20.md"
     },
     {
-      "title": "\u201cTo Assure You in the Most Animated Language.\u201d ChapterXIX",
+      "title": "“To Assure You in the Most Animated Language.” ChapterXIX",
       "file": "22_chapter_21.md"
     },
     {
@@ -107,7 +107,7 @@
       "file": "25_chapter_24.md"
     },
     {
-      "title": "\u201cProtested He Must Be Entirely Mistaken.\u201d ChapterXXIII",
+      "title": "“Protested He Must Be Entirely Mistaken.” ChapterXXIII",
       "file": "26_chapter_25.md"
     },
     {
@@ -119,11 +119,11 @@
       "file": "28_chapter_27.md"
     },
     {
-      "title": "\u201cWill You Come and See Me.\u201d ChapterXXVI",
+      "title": "“Will You Come and See Me.” ChapterXXVI",
       "file": "29_chapter_28.md"
     },
     {
-      "title": "\u201cLady Catherine, Said She, You Have Given Me a Treasure.\u201d ChapterXXIX",
+      "title": "“Lady Catherine, Said She, You Have Given Me a Treasure.” ChapterXXIX",
       "file": "30_chapter_29.md"
     },
     {
@@ -139,7 +139,7 @@
       "file": "33_chapter_32.md"
     },
     {
-      "title": "\u201cOn Looking Up.\u201d ChapterXXXIII",
+      "title": "“On Looking Up.” ChapterXXXIII",
       "file": "34_chapter_33.md"
     },
     {
@@ -147,7 +147,7 @@
       "file": "35_chapter_34.md"
     },
     {
-      "title": "\u201cHearing Herself Called.\u201d ChapterXXXV",
+      "title": "“Hearing Herself Called.” ChapterXXXV",
       "file": "36_chapter_35.md"
     },
     {
@@ -155,15 +155,15 @@
       "file": "37_chapter_36.md"
     },
     {
-      "title": "\u201cHis Parting Obeisance.\u201d ChapterXXXVII",
+      "title": "“His Parting Obeisance.” ChapterXXXVII",
       "file": "38_chapter_37.md"
     },
     {
-      "title": "\u201cThe Elevation of His Feelings.\u201d ChapterXXXVIII",
+      "title": "“The Elevation of His Feelings.” ChapterXXXVIII",
       "file": "39_chapter_38.md"
     },
     {
-      "title": "\u201cHow Nicely We Are Crammed in.\u201d ChapterXXXIX",
+      "title": "“How Nicely We Are Crammed in.” ChapterXXXIX",
       "file": "40_chapter_39.md"
     },
     {
@@ -171,15 +171,15 @@
       "file": "41_chapter_40.md"
     },
     {
-      "title": "\u201cWhen Colonel Miller\u2019s Regiment Went.\u201d ChapterXLI",
+      "title": "“When Colonel Miller’s Regiment Went.” ChapterXLI",
       "file": "42_chapter_41.md"
     },
     {
-      "title": "\u201cThe Arrival of the Gardiners.\u201d ChapterXLII",
+      "title": "“The Arrival of the Gardiners.” ChapterXLII",
       "file": "43_chapter_42.md"
     },
     {
-      "title": "\u201cConjecturing As to the Date.\u201d ChapterXLIII",
+      "title": "“Conjecturing As to the Date.” ChapterXLIII",
       "file": "44_chapter_43.md"
     },
     {
@@ -187,7 +187,7 @@
       "file": "45_chapter_44.md"
     },
     {
-      "title": "\u201cEngaged by the River.\u201d ChapterXLV",
+      "title": "“Engaged by the River.” ChapterXLV",
       "file": "46_chapter_45.md"
     },
     {
@@ -195,11 +195,11 @@
       "file": "47_chapter_46.md"
     },
     {
-      "title": "\u201cThe First Pleasing Earnest of Their Welcome.\u201d ChapterXLVII",
+      "title": "“The First Pleasing Earnest of Their Welcome.” ChapterXLVII",
       "file": "48_chapter_47.md"
     },
     {
-      "title": "\u201cThe Post.\u201d ChapterXLVIII",
+      "title": "“The Post.” ChapterXLVIII",
       "file": "49_chapter_48.md"
     },
     {
@@ -207,15 +207,15 @@
       "file": "50_chapter_49.md"
     },
     {
-      "title": "\u201cThe Spiteful Old Ladies.\u201d ChapterL",
+      "title": "“The Spiteful Old Ladies.” ChapterL",
       "file": "51_chapter_50.md"
     },
     {
-      "title": "\u201cWith an Affectionate Smile.\u201d ChapterLI",
+      "title": "“With an Affectionate Smile.” ChapterLI",
       "file": "52_chapter_51.md"
     },
     {
-      "title": "\u201cI Am Sure She Did Not Listen.\u201d ChapterLII",
+      "title": "“I Am Sure She Did Not Listen.” ChapterLII",
       "file": "53_chapter_52.md"
     }
   ],

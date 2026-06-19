@@ -1,21 +1,21 @@
 {
   "id": "the-red-lily",
   "title": "The Red Lily",
-  "author": "Unknown Author",
+  "author": "Anatole France",
   "genre": "Classics",
-  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-  "description": "No description available for The Red Lily.",
+  "coverColor": "linear-gradient(135deg, #dc2626 0%, #991b1b 100%)",
+  "description": "Anatole France's elegant and impassioned novel set in Florence and Paris, exploring love, jealousy, and artistic passion in fin-de-siècle society.",
   "chapters": [
     {
       "title": "Index",
       "file": "01_Index.md"
     },
     {
-      "title": "Book 1 - ChapterI. \u201cI Need Love\u201d",
+      "title": "Book 1 - ChapterI. “I Need Love”",
       "file": "02_chapter_01.md"
     },
     {
-      "title": "Book 1 - ChapterII. \u201cOne Can See That You Are Young!\u201d",
+      "title": "Book 1 - ChapterII. “One Can See That You Are Young!”",
       "file": "03_chapter_02.md"
     },
     {
@@ -27,7 +27,7 @@
       "file": "05_chapter_04.md"
     },
     {
-      "title": "Book 1 - ChapterV. A Dinner \u2018En Famille\u2019",
+      "title": "Book 1 - ChapterV. A Dinner ‘En Famille’",
       "file": "06_chapter_05.md"
     },
     {
@@ -51,7 +51,7 @@
       "file": "11_chapter_10.md"
     },
     {
-      "title": "Book 2 - ChapterXI. \u201cThe Dawn of Faith and Love\u201d",
+      "title": "Book 2 - ChapterXI. “The Dawn of Faith and Love”",
       "file": "12_chapter_11.md"
     },
     {
@@ -59,7 +59,7 @@
       "file": "13_chapter_12.md"
     },
     {
-      "title": "Book 2 - ChapterXIII. \u201cYou Must Take Me with My Own Soul!\u201d",
+      "title": "Book 2 - ChapterXIII. “You Must Take Me with My Own Soul!”",
       "file": "14_chapter_13.md"
     },
     {
@@ -71,7 +71,7 @@
       "file": "16_chapter_15.md"
     },
     {
-      "title": "Book 2 - ChapterXVI. \u201cTo-Morrow?\u201d",
+      "title": "Book 2 - ChapterXVI. “To-Morrow?”",
       "file": "17_chapter_16.md"
     },
     {
@@ -79,7 +79,7 @@
       "file": "18_chapter_17.md"
     },
     {
-      "title": "Book 2 - ChapterXVIII. \u201cI Kiss Your Feet Because They Have Come!\u201d",
+      "title": "Book 2 - ChapterXVIII. “I Kiss Your Feet Because They Have Come!”",
       "file": "19_chapter_18.md"
     },
     {
@@ -91,7 +91,7 @@
       "file": "21_chapter_20.md"
     },
     {
-      "title": "Book 2 - ChapterXXI. \u201cI Never Have Loved Any One but You!\u201d",
+      "title": "Book 2 - ChapterXXI. “I Never Have Loved Any One but You!”",
       "file": "22_chapter_21.md"
     },
     {
@@ -99,19 +99,19 @@
       "file": "23_chapter_22.md"
     },
     {
-      "title": "Book 3 - ChapterXXIII. \u201cOne Is Never Kind When One Is in Love\u201d",
+      "title": "Book 3 - ChapterXXIII. “One Is Never Kind When One Is in Love”",
       "file": "24_chapter_23.md"
     },
     {
-      "title": "Book 3 - ChapterXXIV. Choulette\u2019s Ambition",
+      "title": "Book 3 - ChapterXXIV. Choulette’s Ambition",
       "file": "25_chapter_24.md"
     },
     {
-      "title": "Book 3 - ChapterXXV. \u201cWe Are Robbing Life\u201d",
+      "title": "Book 3 - ChapterXXV. “We Are Robbing Life”",
       "file": "26_chapter_25.md"
     },
     {
-      "title": "Book 3 - ChapterXXVI. In Dechartre\u2019s Studio",
+      "title": "Book 3 - ChapterXXVI. In Dechartre’s Studio",
       "file": "27_chapter_26.md"
     },
     {
@@ -143,7 +143,7 @@
       "file": "34_chapter_33.md"
     },
     {
-      "title": "Book 3 - ChapterXXXIV. \u201cI See the Other with You Always!\u201d",
+      "title": "Book 3 - ChapterXXXIV. “I See the Other with You Always!”",
       "file": "35_chapter_34.md"
     }
   ],

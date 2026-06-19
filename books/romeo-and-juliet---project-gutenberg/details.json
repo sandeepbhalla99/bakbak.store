@@ -1,10 +1,10 @@
 {
   "id": "romeo-and-juliet---project-gutenberg",
-  "title": "Romeo and Juliet   Project Gutenberg",
-  "author": "Unknown Author",
-  "genre": "Classics",
-  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-  "description": "No description available for Romeo and Juliet   Project Gutenberg.",
+  "title": "Romeo and Juliet",
+  "author": "William Shakespeare",
+  "genre": "Drama",
+  "coverColor": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)",
+  "description": "Shakespeare's timeless tragedy of star-crossed lovers from rival families in Verona, whose doomed romance ends in tragedy.",
   "chapters": [
     {
       "title": "Index",

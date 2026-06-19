@@ -1,10 +1,10 @@
 {
   "id": "the-passionate-elopement",
   "title": "The Passionate Elopement",
-  "author": "Unknown Author",
+  "author": "Compton Mackenzie",
   "genre": "Classics",
-  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
-  "description": "No description available for The Passionate Elopement.",
+  "coverColor": "linear-gradient(135deg, #be185d 0%, #9d174d 100%)",
+  "description": "Compton Mackenzie's witty debut novel set in 18th-century England, following the romantic misadventures of a young eloping couple.",
   "chapters": [
     {
       "title": "Index",
@@ -75,7 +75,7 @@
       "file": "17_chapter_16.md"
     },
     {
-      "title": "Chapter the Fifteenth Ph\u0153bus Adest",
+      "title": "Chapter the Fifteenth Phœbus Adest",
       "file": "18_chapter_17.md"
     },
     {
