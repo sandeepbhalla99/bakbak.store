@@ -1,0 +1,175 @@
+{
+  "id": "the-passionate-elopement",
+  "title": "The Passionate Elopement",
+  "author": "Unknown Author",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "No description available for The Passionate Elopement.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "Chapter the First the Toilet",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "Chapter the Second the Pump Room",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "Chapter the Third the Blue Boar",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "Chapter the Fourth Curtain Maze",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "Chapter the Fifth the Publick Breakfast",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterV: A the Order of the Exquisite Mob",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterV: (Resumed)",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "Chapter the Sixth Baverstock Barn",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "Chapter the Seventh Sunday Morning",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "Chapter the Eighth the Great Rebellion",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "Chapter the Ninth the Assembly",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "Chapter the Tenth After the Assembly",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "Chapter the Eleventh Nox Alba",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "Chapter the Twelfth Wet Days",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "Chapter the Thirteenth Monarchy in Action",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "Chapter the Fourteenth Monarchy in Repose",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "Chapter the Fifteenth Ph\u0153bus Adest",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "Chapter the Sixteenth the Chinese Masquerade",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "Chapter the Seventeenth the Grand Minuet of Cathay",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "Chapter the Eighteenth the Confidante",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "Chapter the Nineteenth Blackhart Farm with a Cock-Fight",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "Chapter the Twentieth in Which Everything Grows but the Plot",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "Chapter the Twenty-First Curtain Polls",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "Chapter the Twenty-Second the Curtain Rod",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "Chapter the Twenty-Third Space Between an Heroick Couplet",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "Chapter the Twenty-Fourth Daish's ROOMS[2]",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "Chapter the Twenty-Fifth Quarts of Burgundy",
+      "file": "28_chapter_27.md"
+    },
+    {
+      "title": "Chapter the Twenty-Sixth and the Dregs of the Same",
+      "file": "29_chapter_28.md"
+    },
+    {
+      "title": "Chapter the Twenty-Seventh Time for Reflection",
+      "file": "30_chapter_29.md"
+    },
+    {
+      "title": "Chapter the Twenty-Eighth the Love Chase",
+      "file": "31_chapter_30.md"
+    },
+    {
+      "title": "Chapter the Twenty-Ninth the Basket of Roses",
+      "file": "32_chapter_31.md"
+    },
+    {
+      "title": "Chapter the Thirtieth Sir George Repington",
+      "file": "33_chapter_32.md"
+    },
+    {
+      "title": "Chapter the Thirty-First a Tale with an Interrupted Moral",
+      "file": "34_chapter_33.md"
+    },
+    {
+      "title": "Chapter the Thirty-Second the Horrid Adventures of Beau Ripple and Mrs. Courteen",
+      "file": "35_chapter_34.md"
+    },
+    {
+      "title": "Chapter the Thirty-Third the Highwaymen",
+      "file": "36_chapter_35.md"
+    },
+    {
+      "title": "Chapter the Thirty-Fourth Old Acquaintance",
+      "file": "37_chapter_36.md"
+    },
+    {
+      "title": "Chapter the Thirty-Fifth the Cutting of a Diamond",
+      "file": "38_chapter_37.md"
+    },
+    {
+      "title": "Chapter the Thirty-Sixth the Scarlet Dawn",
+      "file": "39_chapter_38.md"
+    },
+    {
+      "title": "Chapter the Thirty-Seventh April Fools",
+      "file": "40_chapter_39.md"
+    },
+    {
+      "title": "Chapter the Thirty-Eighth Beau Lovely",
+      "file": "41_chapter_40.md"
+    }
+  ],
+  "coverImage": "books/the-passionate-elopement/cover.png"
+}

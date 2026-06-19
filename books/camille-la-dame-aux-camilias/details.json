@@ -1,0 +1,123 @@
+{
+  "id": "camille-la-dame-aux-camilias",
+  "title": "Camille (la Dame Aux Camilias)",
+  "author": "Unknown Author",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "No description available for Camille (la Dame Aux Camilias).",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "ChapterI",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "ChapterII",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "ChapterIII",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "ChapterIV",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "ChapterV",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "ChapterVI",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "ChapterVII",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "ChapterVIII",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "ChapterIX",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "ChapterX",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "ChapterXI",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "ChapterXII",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "ChapterXIII",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "ChapterXIV",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "ChapterXV",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "ChapterXVI",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "ChapterXVII",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "ChapterXVIII",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "ChapterXIX",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "ChapterXX",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "ChapterXXI",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "ChapterXXII",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "ChapterXXIII",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "ChapterXXIV",
+      "file": "25_chapter_24.md"
+    },
+    {
+      "title": "ChapterXXV",
+      "file": "26_chapter_25.md"
+    },
+    {
+      "title": "ChapterXXVI",
+      "file": "27_chapter_26.md"
+    },
+    {
+      "title": "ChapterXXVII",
+      "file": "28_chapter_27.md"
+    }
+  ],
+  "coverImage": "books/camille-la-dame-aux-camilias/cover.png"
+}

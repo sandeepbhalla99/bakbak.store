@@ -1,0 +1,111 @@
+{
+  "id": "erotica-romana",
+  "title": "Erotica Romana",
+  "author": "Unknown Author",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "No description available for Erotica Romana.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "I",
+      "file": "02_chapter_01.md"
+    },
+    {
+      "title": "II",
+      "file": "03_chapter_02.md"
+    },
+    {
+      "title": "III",
+      "file": "04_chapter_03.md"
+    },
+    {
+      "title": "IV",
+      "file": "05_chapter_04.md"
+    },
+    {
+      "title": "V",
+      "file": "06_chapter_05.md"
+    },
+    {
+      "title": "VI",
+      "file": "07_chapter_06.md"
+    },
+    {
+      "title": "VII",
+      "file": "08_chapter_07.md"
+    },
+    {
+      "title": "VIII",
+      "file": "09_chapter_08.md"
+    },
+    {
+      "title": "IX",
+      "file": "10_chapter_09.md"
+    },
+    {
+      "title": "X",
+      "file": "11_chapter_10.md"
+    },
+    {
+      "title": "XI",
+      "file": "12_chapter_11.md"
+    },
+    {
+      "title": "XII",
+      "file": "13_chapter_12.md"
+    },
+    {
+      "title": "XIII",
+      "file": "14_chapter_13.md"
+    },
+    {
+      "title": "XIV",
+      "file": "15_chapter_14.md"
+    },
+    {
+      "title": "XV",
+      "file": "16_chapter_15.md"
+    },
+    {
+      "title": "XVI",
+      "file": "17_chapter_16.md"
+    },
+    {
+      "title": "XVII",
+      "file": "18_chapter_17.md"
+    },
+    {
+      "title": "XVIII",
+      "file": "19_chapter_18.md"
+    },
+    {
+      "title": "XIX",
+      "file": "20_chapter_19.md"
+    },
+    {
+      "title": "XX",
+      "file": "21_chapter_20.md"
+    },
+    {
+      "title": "XXI",
+      "file": "22_chapter_21.md"
+    },
+    {
+      "title": "XXII",
+      "file": "23_chapter_22.md"
+    },
+    {
+      "title": "XXIII",
+      "file": "24_chapter_23.md"
+    },
+    {
+      "title": "XXIV",
+      "file": "25_chapter_24.md"
+    }
+  ],
+  "coverImage": "books/erotica-romana/cover.png"
+}

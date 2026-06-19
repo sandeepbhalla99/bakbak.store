@@ -132,6 +132,17 @@
     "reviewsCount": 12
   },
   {
+    "id": "the-passionate-elopement",
+    "title": "The Passionate Elopement",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": "books/the-passionate-elopement/cover.png",
+    "description": "No description available for The Passionate Elopement.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "a-room-with-a-view",
     "title": "A Room with a View",
     "author": "E. M. Forster",
@@ -150,6 +161,17 @@
     "coverColor": "linear-gradient(135deg, #b45309 0%, #78350f 100%)",
     "coverImage": "books/war-and-peace/cover.jpg",
     "description": "The epic masterpiece detailing the French invasion of Russia and the impact of the Napoleonic era.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "indias-love-lyrics",
+    "title": "India's Love Lyrics",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": "books/indias-love-lyrics/cover.png",
+    "description": "No description available for India's Love Lyrics.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -231,6 +253,17 @@
     "reviewsCount": 12
   },
   {
+    "id": "the-prairie-wife",
+    "title": "The Prairie Wife",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": "books/the-prairie-wife/cover.png",
+    "description": "No description available for The Prairie Wife.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
     "id": "king-arthur",
     "title": "King Arthur",
     "author": "Rupert S. Holland",
@@ -238,6 +271,28 @@
     "coverColor": "linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)",
     "coverImage": "books/king-arthur/cover.jpg",
     "description": "A compilation of the traditional legends of King Arthur and the Knights of the Round Table.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "erotica-romana",
+    "title": "Erotica Romana",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": "books/erotica-romana/cover.png",
+    "description": "No description available for Erotica Romana.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "what-will-people-say",
+    "title": "What Will People Say",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": "books/what-will-people-say/cover.png",
+    "description": "No description available for What Will People Say.",
     "rating": 4.5,
     "reviewsCount": 12
   },
@@ -524,6 +579,17 @@
     "coverColor": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
     "coverImage": "books/autobiography-of-benjamin-franklin/cover.png",
     "description": "The classic unfinished memoirs written by one of the key Founding Fathers of the United States.",
+    "rating": 4.5,
+    "reviewsCount": 12
+  },
+  {
+    "id": "camille-la-dame-aux-camilias",
+    "title": "Camille (la Dame Aux Camilias)",
+    "author": "Unknown Author",
+    "genre": "Classics",
+    "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+    "coverImage": "books/camille-la-dame-aux-camilias/cover.png",
+    "description": "No description available for Camille (la Dame Aux Camilias).",
     "rating": 4.5,
     "reviewsCount": 12
   },

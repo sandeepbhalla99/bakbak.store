@@ -1,0 +1,19 @@
+{
+  "id": "the-prairie-wife",
+  "title": "The Prairie Wife",
+  "author": "Unknown Author",
+  "genre": "Classics",
+  "coverColor": "linear-gradient(135deg, #6b7280 0%, #374151 100%)",
+  "description": "No description available for The Prairie Wife.",
+  "chapters": [
+    {
+      "title": "Index",
+      "file": "01_Index.md"
+    },
+    {
+      "title": "The Prairie Wife",
+      "file": "02_chapter_01.md"
+    }
+  ],
+  "coverImage": "books/the-prairie-wife/cover.png"
+}

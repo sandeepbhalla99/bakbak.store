@@ -1,0 +1,176 @@
+# Chapter the Tenth After the Assembly
+
+MR. CHARLES Lovely walked back with Mr. Antony Clare to the *Blue Boar*,
+and joined Mr. Francis Vernon in the Coffee Room.
+
+The latter noticed that Clare frowned slightly when he saw him, and
+explained, almost apologetically, that he had moved thither from his
+lodgings in the Crescent. Charles was delighted and immediately proposed
+a game of hazard.
+
+"You'll play, Tony?" he said eagerly.
+
+"Not I," his friend answered. "I'm too sleepy, for 'tis confoundedly
+fatiguing to be on such polite behaviour for so long."
+
+"That's true indeed," cried Charles, "and therefore we need recreation
+the more." With this he gave a tug at the bell-pull of flowery chintz,
+and presently Mr. Daish who had sent the waiters to bed, came yawning to
+answer the summons.
+
+"Daish, bring two bottles of Burgundy like the fine fellow and good
+landlord that you are."
+
+"Yes, Mr. Lovely, certainly, your honour, but I hope your honour will be
+careful with the bottles; it would be a terrible thing for the house if
+the watch was murdered as they nearly was twice over last week," said
+Mr. Daish, crumpling into obsequiousness at the impudence of his
+request, and retreating sidelong from the room.
+
+Mr. Clare, seeing that it was useless to argue Charles out of his
+determination, took a seat by the fire.
+
+"Egad," said Lovely, "what a jealous dog it is, he won't play, but can't
+bear to go to bed." Clare gave the fire a meditative poke.
+
+"What shall it be, Mr. Vernon? Ecarté?"
+
+"With pleasure."
+
+"Or picket?"
+
+"As you will."
+
+"Why, then, picket, and if we find we grow too sleepy to count our
+sequences, we shall, at any rate, not be too sleepy to trickle dice out
+of a box, eh?"
+
+Charles turned with these words to take some unbroken paquets of playing
+cards from a small mahogany cabinet hanging against the wall. The
+picture presented was a friendly one as the two men seated themselves at
+the card table. The fire was burning brightly and rosy shadows flickered
+over the ceiling. The curtains were close drawn and the ample flowers of
+their pattern seemed to retain somehow the warmth and the light. By the
+side of the grate sat Tony in a high grandfather's chair. He had taken
+off his wig and was staring meditatively at the crisp curls, as it
+reposed on his knee. The buckles of his shoes spat tiny glints of
+flame—red, blue and green. Presently he leaned across to a small
+bookshelf and took down some dry inn volume, but the print danced in the
+fire-light and very soon he was dozing peacefully, while his wig slipped
+to the ground and became a pleasant couch for a large tabby cat to purr
+away comfortable hours.
+
+At the table sat Vernon and Lovely face to face, and the green baize
+made a prim battlefield for the debonair antagonists. It was a
+meadow-fight viewed from towering Olympus. Here was pasture profitable
+enough to some: to others barren as the unharvested sea. No crescent
+moon lighted it, no sun parched the fresh greenery whose four tall
+candles flickered only to chamber tempests, storms of tapestry, keyhole
+zephyrs. At either end were ranged round guineas in wicked little heaps,
+and along the borders stood serried packs of cards, shorn of their
+meaner numbers as becomes the apparelled duel of picket. These had been
+flung contemptuously on to the floor and the survivors lay face
+downwards on the table with a new and alluring slimness. Their backs
+were so innocent—mere festoons of flowers and bouquets of rosebuds;
+yet their very innocence only served to enhance the red and black
+determination of their faces. How the royal cards reflected in their
+appearance the temper of their courts. How sombre-suited went the Queen
+of Spades, how pensive seemed her consort, while the savage Ace was hung
+with garlands of mourning and sable flowers of Proserpine. The Queen of
+Diamonds looked harassed; the Knave had a lean eye and the King himself
+seemed peaked and careworn. The Club Court was a swarthy and more brutal
+counterpart of the gay Hearts, and the gay Hearts, with ripe dewy
+mouths, had yet a certain sly sensuality that bred distrust.
+
+Then the tournament began. The stacked guineas sprawled in golden
+disarray and dwindled and swelled and tinkled to the tune of the game.
+
+Charles was winning. Five times he had made the grand Repique, five
+times the gallant Pique, thrice Capote had taken captive twelve hostile
+cards to be redeemed with rippling guineas. Ace, King, Queen, Knave, Ten
+came in sequences as month succeeds to month. His hands were palaces for
+the abode of many courtiers. They were picture galleries of the oldest
+kings and queens in Europe. If he threw away Spades, he took up the red
+Hearts for which he longed. If he discarded Diamonds, he gained a lusty
+host of Clubs to serve his purpose.
+
+At last Vernon, who had lost steadily for a pair of hours—six games at
+an average price of thirty guineas a game—declared he would fight no
+longer against his adversary's good fortune. "Moreover," he added, "so
+much counting has set my brain in a whirl."
+
+"As you will," said Charles, who would have liked to continue with
+picket, but could not refuse to give his opponent an opportunity to
+avenge himself at another game.
+
+So they turned to Ecarté.
+
+And now his fortune deserted him. Each time Vernon dealt he turned up a
+King, and Charles began to dread their florid appearance, as some
+ambitious minister dreads the veering of his master's favour. Those
+kings who had hitherto been numbered in his hands in fours and threes,
+those puppet kings, had won a new dignity from the only game which
+accords them their rightful place at the head of the pack; each one had
+acquired, it seemed, a personality that threatened him. Time after time
+were his Jeux de Règle defeated by the most astonishing combinations of
+ill luck.
+
+So many times did those confounded monarchs affront him face upwards on
+the serene baize that he began to suspect Vernon of being a sort of
+gamester Warwick, a maker and unmaker of kings. Indeed, he went so far
+as to watch his deals rather narrowly and, being unable to detect
+anything amiss, became heartily ashamed of his suspicions.
+
+It was now five o'clock of a chill morning; the fire had sunk into
+ashes, and dawn would soon shoot her icy arrows into the slow-flying
+bulk of night.
+
+Clare was still asleep in the armchair, but presently the stealthy cold
+waked him and he jumped up; the candles were guttering away; the
+burgundy was drunk; the room smelt stale.
+
+"Come to bed, Charles," he cried out.
+
+Lovely, who had lost at Ecarté considerably more than he had won at
+Picket, drew back the curtains for answer. The dawn was in the East.
+
+He blew out the candles one after another, and in the unreal morning
+twilight, the aftermath of smoke curled like an outworn pleasure into
+extinction save of a foul odour.
+
+"We have still a grey hour for the dice," said Charles.
+
+"As you will," replied Vernon.
+
+The dice boxes were brought out, and the ivory cubes began to dance;
+strange fancies assailed Clare as he watched the gamesters; morbid
+imaginations, caught from the chilly atmosphere, froze his reason, and
+the rattle of the dice acquired a macabre significance. They clicked
+like the hoofs of horses on an iron-bound road. Then they were the
+castanets of a sinister dance. Soon they were the shaken ribs of Death,
+the king of dancers, and at the end no more than a baby's rattle,
+insistent, importunate, maddening.
+
+Charles was winning again.
+
+The various faces of the cubes took fantastick likenesses. *Two* was a
+patched beauty, leaden-eyed, pallid, pleasure-doomed. *Five* was a
+skewbald cat and *four* a plum cake. Six was a ladder to some evil
+house. *Three* was a necklace of jet, *one* a Pierrot's velvet eye.
+
+Charles was still winning.
+
+The irresponsibleness of the dice annoyed Clare. They tumbled and rolled
+so gaily and it was mortifying to see a man enslaved by acrobats of
+ivory. The bodies, too, with their absurd waists were like women whom
+extravagant stays had driven to vomit sweetmeats.
+
+Charles had won. The casement swung open in the sudden winds of dawn;
+the room was tinted with the cold colours of sunrise. The three men
+stumbled upstairs disdainful of the morning's gold. A guinea slipped
+from Lovely's pocket and tinkled down to the foot of the stairs to
+reward the little scullery-maid who was even now yawning on her pallet
+upstairs.
+
+A thrush tuned his melodies against the swift coming of spring, and the
+purple leaf-buds welcomed the sun.
