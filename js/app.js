@@ -340,9 +340,15 @@ function renderCatalog(booksList) {
 
   container.innerHTML = booksList.map(book => {
     const ratingHTML = Array(Math.round(book.rating)).fill('★').join('') + Array(5 - Math.round(book.rating)).fill('☆').join('');
-    const coverHTML = book.coverImage
-      ? `<div class="book-card-cover" style="background-image: url('${book.coverImage}'); background-size: cover; background-position: center; height: 100%; width: 100%;"></div>`
-      : `<div class="book-card-cover" style="background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-sizing: border-box;">
+    const coverSrc = book.coverImage ? '/' + book.coverImage : null;
+    const fallbackStyle = `background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-sizing: border-box;`;
+    const coverHTML = coverSrc
+      ? `<div class="book-card-cover" style="height: 100%; width: 100%; overflow: hidden; position: relative;">
+          <img src="${coverSrc}" alt="${book.title} cover"
+            style="width: 100%; height: 100%; object-fit: cover; display: block;"
+            onerror="this.parentElement.style.cssText='${fallbackStyle} height:100%; width:100%;'; this.parentElement.innerHTML='<div style=\'font-weight:700;font-size:1rem;text-shadow:0 4px 8px rgba(0,0,0,0.5);color:white;padding:20px;\'>${book.title.replace(/'/g, "&apos;")}</div><div style=\'font-size:0.8rem;margin-top:10px;opacity:0.8;color:white;\'>${book.author.replace(/'/g, "&apos;")}</div>';">
+        </div>`
+      : `<div class="book-card-cover" style="${fallbackStyle} height: 100%; width: 100%;">
             <div style="font-weight: 700; font-size: 1.1rem; text-shadow: 0 4px 8px rgba(0,0,0,0.5);">${book.title}</div>
             <div style="font-size: 0.8rem; margin-top: 10px; opacity: 0.8;">${book.author}</div>
           </div>`;
@@ -384,9 +390,15 @@ function renderFeaturedBooks() {
   const featured = BOOKS.slice(0, 4);
   container.innerHTML = featured.map(book => {
     const ratingHTML = Array(Math.round(book.rating)).fill('★').join('') + Array(5 - Math.round(book.rating)).fill('☆').join('');
-    const coverHTML = book.coverImage
-      ? `<div class="book-card-cover" style="background-image: url('${book.coverImage}'); background-size: cover; background-position: center; height: 100%; width: 100%;"></div>`
-      : `<div class="book-card-cover" style="background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-sizing: border-box;">
+    const coverSrc = book.coverImage ? '/' + book.coverImage : null;
+    const fallbackStyle = `background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-sizing: border-box;`;
+    const coverHTML = coverSrc
+      ? `<div class="book-card-cover" style="height: 100%; width: 100%; overflow: hidden;">
+          <img src="${coverSrc}" alt="${book.title} cover"
+            style="width: 100%; height: 100%; object-fit: cover; display: block;"
+            onerror="this.parentElement.style.cssText='${fallbackStyle} height:100%; width:100%;'; this.parentElement.innerHTML='<div style=\'font-weight:700;font-size:1rem;text-shadow:0 4px 8px rgba(0,0,0,0.5);color:white;padding:20px;\'>${book.title.replace(/'/g, "&apos;")}</div><div style=\'font-size:0.8rem;margin-top:10px;opacity:0.8;color:white;\'>${book.author.replace(/'/g, "&apos;")}</div>';">
+        </div>`
+      : `<div class="book-card-cover" style="${fallbackStyle} height: 100%; width: 100%;">
             <div style="font-weight: 700; font-size: 1.1rem; text-shadow: 0 4px 8px rgba(0,0,0,0.5);">${book.title}</div>
             <div style="font-size: 0.8rem; margin-top: 10px; opacity: 0.8;">${book.author}</div>
           </div>`;
@@ -450,9 +462,14 @@ async function openBookDetailPreview(bookId) {
 
   const ratingHTML = Array(Math.round(book.rating || 4.5)).fill('★').join('') + Array(5 - Math.round(book.rating || 4.5)).fill('☆').join('');
 
+  const previewFallback = `background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; border-radius: 12px; height: 280px; text-align: center; border: 1px solid var(--border-color); box-shadow: 0 10px 20px rgba(0,0,0,0.4);`;
   const previewCoverHTML = book.coverImage
-    ? `<div style="background-image: url('${book.coverImage}'); background-size: cover; background-position: center; border-radius: 12px; height: 280px; border: 1px solid var(--border-color); box-shadow: 0 10px 20px rgba(0,0,0,0.4);"></div>`
-    : `<div style="background: ${book.coverColor}; display: flex; flex-direction: column; justify-content: center; align-items: center; border-radius: 12px; height: 280px; text-align: center; border: 1px solid var(--border-color); box-shadow: 0 10px 20px rgba(0,0,0,0.4);">
+    ? `<div style="border-radius: 12px; height: 280px; overflow: hidden; border: 1px solid var(--border-color); box-shadow: 0 10px 20px rgba(0,0,0,0.4);">
+        <img src="/${book.coverImage}" alt="${book.title} cover"
+          style="width: 100%; height: 100%; object-fit: cover; display: block;"
+          onerror="this.parentElement.style.cssText='${previewFallback.replace(/'/g, '&apos;')}'; this.parentElement.innerHTML='<div style=\'font-weight:800;font-size:1.4rem;padding:20px;line-height:1.3;text-shadow:0 4px 10px rgba(0,0,0,0.6);color:white;\'>${book.title.replace(/'/g, "&apos;")}</div><div style=\'font-size:0.95rem;opacity:0.8;color:white;\'>${book.author.replace(/'/g, "&apos;")}</div>'">
+      </div>`
+    : `<div style="${previewFallback}">
         <div style="font-weight: 800; font-size: 1.4rem; padding: 20px; line-height: 1.3; text-shadow: 0 4px 10px rgba(0,0,0,0.6);">${book.title}</div>
         <div style="font-size: 0.95rem; opacity: 0.8;">${book.author}</div>
       </div>`;
@@ -578,9 +595,14 @@ function renderBookshelf() {
     if (shelfItem.status === 'reading') statusText = 'Reading';
     else if (shelfItem.status === 'completed') statusText = 'Completed';
 
+    const shelfFallback = `background: ${book.coverColor}; border-radius: 6px; height: 110px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 10px; text-align: center; font-size: 0.75rem; border: 1px solid var(--border-color);`;
     const shelfCoverHTML = book.coverImage
-      ? `<div style="background-image: url('${book.coverImage}'); background-size: cover; background-position: center; border-radius: 6px; height: 110px; border: 1px solid var(--border-color);"></div>`
-      : `<div style="background: ${book.coverColor}; border-radius: 6px; height: 110px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 10px; text-align: center; font-size: 0.75rem; border: 1px solid var(--border-color);">
+      ? `<div style="border-radius: 6px; height: 110px; overflow: hidden; border: 1px solid var(--border-color);">
+          <img src="/${book.coverImage}" alt="${book.title} cover"
+            style="width: 100%; height: 100%; object-fit: cover; display: block;"
+            onerror="this.parentElement.style.cssText='${shelfFallback.replace(/'/g, '&apos;')}'; this.parentElement.innerHTML='<div style=\'font-weight:700;text-shadow:0 2px 4px rgba(0,0,0,0.5);color:white;\'>${book.title.replace(/'/g, "&apos;")}</div>'">
+        </div>`
+      : `<div style="${shelfFallback}">
           <div style="font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">${book.title}</div>
         </div>`;
 
